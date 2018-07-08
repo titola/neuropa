@@ -9,7 +9,7 @@ neural oscillations that disturb the sleep with tremors, convulsions, etc.
 
 The following video shows a part of the signal directed to my head:
 
-![](media/head_945mhz.mp4)
+[[head_945mhz.mp4]](https://github.com/titola/neuropa/blob/master/media/head_945mhz.mp4)
 
 In Italy "The personal freedom is inviolable." [1]
 
@@ -39,7 +39,7 @@ document). I am a simple musician and programmer.
 The decoding is improvable (I have used a simple slope detector), but
 if you hear a voice in the audio file
 
-![](media/cuba_attack_decoded.ogg)
+[[cuba_attack_decoded.ogg]](https://github.com/titola/neuropa/blob/master/media/cuba_attack_decoded.ogg)
 
 also the [US embassy in Cuba](https://en.wikipedia.org/wiki/Embassy_attack_accusations_in_Cuba)
 unconsciously suffered a similar offensive action, because what you
@@ -155,7 +155,7 @@ There are two types of pulse:
 
 -   BP filter to select the content between 100Hz and 3.5KHz.
 
-![](media/cuba_attack_decoded.ogg)
+[[cuba_attack_decoded.ogg]](https://github.com/titola/neuropa/blob/master/media/cuba_attack_decoded.ogg)
 
 Other signals to analyse
 ------------------------
