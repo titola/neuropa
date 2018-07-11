@@ -76,7 +76,17 @@ freq_media = 5 / ((A * 4) + B) = 21.23 Hz
 ```
 
 Questo segnale è molto importante. Ho un'idea ma devo ancora
-svilupparla, quindi evito commenti superficiali.
+svilupparla, quindi evito commenti superficiali. Comunque è possibile
+calcolare l'ampiezza della pressione indotta utilizzando la formula
+ed i fattori di ampiezza della figura 4 in [4]:
+
+```
+P(pulse_width) = A*abs(sin(pi*freq*pulse_width)) =
+
+= 572*abs(sin(pi*7800/(216.625*7))) = 2.49e-4 Pa (circa 22 dB SPL)
+```
+
+dove 7800 Hz è la frequenza acustica principale.
 
 La parte etichettata "misc" comprende impulsi generati dalla somma di
 sinusoidi separate da 1469 Hz e da altre sinusoidi separate ancora da
@@ -97,7 +107,7 @@ Gli impulsi sono generati da somme di sinusoidi separate da frequenze
 che provocano un incessante tinnitus risonante nella mia testa.
 
 Ogni volta che un impulso di un segnale RF è assorbito dal tessuto
-cerebrale, la temperatura sale di 5e-6 °C [4]. La rapida espansione
+cerebrale, la temperatura sale di 5e-6 °C [5]. La rapida espansione
 termica produce un'onda termo-elastica che raggiunge l'orecchio
 interno. Quindi i criminali utilizzano questo demodulatore
 termo-acustico per inviarmi messaggi vocali tramite ultrasuoni.
@@ -205,4 +215,6 @@ Riferimenti
 
 [3] Hang Chen, Xiaolong Fan, Hengan Zhou, Wenxi Wang, Y. S. Gui, C.-M. Hu, and Desheng Xue. Spin rectification enabled by anomalous Hall effect.
 
-[4] J.A. Elder and C.K. Chou. Auditory Response to Pulsed Radiofrequency Energy.
+[4] N. M. Yitzhak, R. Ruppin, R. Hareuveny. Numerical Analysis of the Microwave Auditory Effect.
+
+[5] J.A. Elder and C.K. Chou. Auditory Response to Pulsed Radiofrequency Energy.
