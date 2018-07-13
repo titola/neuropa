@@ -61,10 +61,10 @@ molto basso anche quando non registro, comunque l'intensità del
 invariato.
 
 Un impulso in "pulses A" è generato dalla somma di 100 sinusoidi
-separate da circa 1733 Hz, quindi la larghezza di banda è 173.3 KHz.
+separate da circa 1733 Hz, quindi la larghezza di banda è 173.3 kHz.
 
-Un impulso in "pulses B" è la somma di 7 sinusoidi separate da 216.6
-Hz (= 1733/8). I periodi di ripetizione della pulsazione formano il
+Un impulso in "pulses B" è la somma di 7 sinusoidi separate da 216.6 Hz
+(= 1733/8). I periodi di ripetizione della pulsazione formano il
 pattern seguente:
 
 ```
@@ -99,7 +99,7 @@ Hanno usato più tecniche.
 
 Una semplice ricetta per ottenere "pulses A" è la seguente:
 
-- Segnale sinusoidale con frequenza 14.5 KHz modulato in frequenza dal suono di una voce.
+- Segnale sinusoidale con frequenza 14.5 kHz modulato in frequenza dal suono di una voce.
 
 - Impulso generato ogni volta che l'ampiezza del segnale modulato passa da positiva a negativa
 
@@ -149,7 +149,7 @@ Ci sono due tipi di impulso:
 
 ### Metodo per ottenere le voci dalla registrazione audio
 
--   Filtro FIR per selezionare il contenuto tra 6 e 9 KHz.
+-   Filtro FIR per selezionare il contenuto tra 6 e 9 kHz.
 
 -   Alza di un'ottava (facoltativo)
 
@@ -164,7 +164,7 @@ Ci sono due tipi di impulso:
     pseudo-codice: env_follower(diff(input))
     ```
 
--   Filtro BP per selezionare il contenuto tra 100Hz e 3.5KHz.
+-   Filtro BP per selezionare il contenuto tra 100Hz e 3.5kHz.
 
 [[cuba_attack_decoded.ogg]](https://github.com/titola/neuropa/blob/master/media/cuba_attack_decoded.ogg)
 
@@ -176,11 +176,11 @@ Questo tipo di segnale è sincronizzato con le voci:
 ![](media/461mhz.jpg)
 
 Ricevuto alle frequenze 173.456 MHz, 173.880 MHz, 173.956 MHz e
-460.557 MHz con larghezza di banda pari a 4 KHz.
+460.557 MHz con larghezza di banda pari a 4 kHz.
 
 Un segnale sinusoidale scende dalla frequenza massima a quella
 centrale e continua per una durata da 0.072 a 0.076 secondi, poi
-prosegue modulato in ampiezza da una sinusoide di 2 KHz (mix di due
+prosegue modulato in ampiezza da una sinusoide di 2 kHz (mix di due
 sinusoidi laterali) per 0.034 secondi. Inizia una specie di rumore con
 LTAS (Long-Term Average Spectrum) quasi uniforme nella banda passante:
 
@@ -203,8 +203,8 @@ e senza segnali sinusoidali isolati:
 
 ![](media/422_733mhz.jpg)
 
-Ricevuto alle frequenze 421.684 MHz (bw 5KHz invece di 4KHz) e 422.733
-MHz (bw 3KHz invece di 4KHz).
+Ricevuto alle frequenze 421.684 MHz (bw 5kHz invece di 4kHz) e 422.733 MHz
+(bw 3kHz invece di 4kHz).
 
 Riferimenti
 -----------

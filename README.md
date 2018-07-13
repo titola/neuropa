@@ -60,10 +60,10 @@ induced [tinnitus](https://en.wikipedia.org/wiki/Tinnitus) is
 unchanged.
 
 A pulse "A" is the sum of 100 sinusoids separated by 1733 Hz, so the
-bandwidth is 173.3 KHz.
+bandwidth is 173.3 kHz.
 
-A pulse "B" is the sum of 7 sinusoids separated by 216.6 Hz (=
-1733/8). The pattern of the the pulse repetition periods is
+A pulse "B" is the sum of 7 sinusoids separated by 216.6 Hz (= 1733/8).
+The pattern of the the pulse repetition periods is
 
 ```
 A A A A B A A A A B A A A A B ...
@@ -97,7 +97,7 @@ The criminals use more techniques.
 
 A simple recipe to get the pulses A is the following:
 
--   Sinusoidal signal with frequency 14.5 KHz, frequency modulated by a vocal sound.
+-   Sinusoidal signal with frequency 14.5 kHz, frequency modulated by a vocal sound.
 
 -   Pulse generated each time the amplitude of the modulated signal goes from positive to negative.
 
@@ -134,9 +134,8 @@ part filtered by the recorder or by the editor:
 
 ![](media/cuba_clock.jpg)
 
-Instead, the next sonogram shows the clock in my head (linear
-amplitude) under 1733 Hz, demodulated, under-sampled and recorded to a
-sound file:
+Instead, the next sonogram shows the clock in my head (linear amplitude)
+under 1733 Hz, demodulated, under-sampled and recorded to a sound file:
 
 ![](media/945mhz_clock.jpg)
 
@@ -148,7 +147,7 @@ There are two types of pulse:
 
 ### Method to get the voices from the audio recording
 
--   FIR filter to select the content between 6 and 9 KHz.
+-   FIR filter to select the content between 6 and 9 kHz.
 
 -   Pitch 1 octave up (optional).
 
@@ -163,7 +162,7 @@ There are two types of pulse:
     pseudo-code: env_follower(diff(input))
     ```
 
--   BP filter to select the content between 100Hz and 3.5KHz.
+-   BP filter to select the content between 100Hz and 3.5kHz.
 
 [[cuba_attack_decoded.ogg]](https://github.com/titola/neuropa/blob/master/media/cuba_attack_decoded.ogg)
 
@@ -175,11 +174,11 @@ This type of signal is synchronized with the voices:
 ![](media/461mhz.jpg)
 
 Received at the frequencies 173.456 MHz, 173.880 MHz, 173.956 MHz and
-460.557 MHz with bandwidth of 4 KHz.
+460.557 MHz with bandwidth of 4 kHz.
 
 A sinusoidal signal goes down from the maximum to the central
 frequency and continues with duration between 0.072 and 0.076 seconds,
-then it is amplitude modulated by a sinusoid of 2 KHz (mix of two side
+then it is amplitude modulated by a sinusoid of 2 kHz (mix of two side
 sinusoids) for 0.034 seconds. The middle part is a kind of noise with
 LTAS (Long-Term Average Spectrum) almost uniform in bandwidth:
 
@@ -202,8 +201,8 @@ and without isolated sinusoidal signals:
 
 ![](media/422_733mhz.jpg)
 
-Received at the frequencies 421.684 MHz (bw 5KHz instead of 4KHz) and
-422.733 MHz (bw 3KHz instead of 4KHz).
+Received at the frequencies 421.684 MHz (bw 5kHz instead of 4kHz) and
+422.733 MHz (bw 3kHz instead of 4kHz).
 
 References
 ----------
