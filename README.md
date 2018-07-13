@@ -166,6 +166,24 @@ There are two types of pulse:
 
 [[cuba_attack_decoded.ogg]](https://github.com/titola/neuropa/blob/master/media/cuba_attack_decoded.ogg)
 
+Alternative method:
+
+-   FIR filter to select the content between 6 and 9 kHz.
+
+-   Convolution of a set of impulses with a FIR BP, fmin=100Hz and fmax=3kHz.
+
+    ```
+    # pseudo-code to generate the set of impulses
+
+    d[n] = in[n] - in[n-1]
+    if d[n] < 0 and d[n-1] >= 0
+        then out[n] = in[n-1]
+        else out[n] = 0
+    endif
+    ```
+
+[[cuba_attack_decoded_alt.ogg]](https://github.com/titola/neuropa/blob/master/media/cuba_attack_decoded_alt.ogg)
+
 Other signals to analyse
 ------------------------
 

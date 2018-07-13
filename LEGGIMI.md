@@ -168,6 +168,24 @@ Ci sono due tipi di impulso:
 
 [[cuba_attack_decoded.ogg]](https://github.com/titola/neuropa/blob/master/media/cuba_attack_decoded.ogg)
 
+Metodo alternativo:
+
+-   Filtro FIR per selezionare il contenuto tra 6 e 9 kHz.
+
+-   Convoluzione tra una serie d'impulsi ed un FIR BP, fmin=100Hz e fmax=3kHz.
+
+    ```
+    # pseudo-codice per generare la serie d'impulsi
+
+    d[n] = in[n] - in[n-1]
+    if d[n] < 0 and d[n-1] >= 0
+        then out[n] = in[n-1]
+        else out[n] = 0
+    endif
+    ```
+
+[[cuba_attack_decoded_alt.ogg]](https://github.com/titola/neuropa/blob/master/media/cuba_attack_decoded_alt.ogg)
+
 Altri segnali da analizzare
 ---------------------------
 
