@@ -9,7 +9,11 @@ neurali che disturbano il sonno con tremori, convulsioni, etc.
 
 Il video seguente mostra una parte del segnale diretto alla mia testa:
 
-[[head_945mhz.mp4]](https://github.com/titola/neuropa/blob/master/media/head_945mhz.mp4)
+![](media/head_945mhz.gif)
+
+[head_945mhz.mp4 (View Raw)](https://raw.githubusercontent.com/titola/neuropa/master/media/head_945mhz.mp4)
+
+[head_945mhz.mp4](https://github.com/titola/neuropa/blob/master/media/head_945mhz.mp4)
 
 In Italia "La libertà personale è inviolabile". [1]
 
@@ -39,7 +43,9 @@ la struttura del documento). Sono un semplice musicista e programmatore.
 La decodifica è migliorabile (ho usato un semplice slope detector), ma
 se senti una voce nel file audio
 
-[[cuba_attack_decoded.ogg]](https://github.com/titola/neuropa/blob/master/media/cuba_attack_decoded.ogg)
+[cuba_attack_decoded.ogg (View Raw)](https://raw.githubusercontent.com/titola/neuropa/master/media/cuba_attack_decoded.ogg)
+
+[cuba_attack_decoded.ogg](https://github.com/titola/neuropa/blob/master/media/cuba_attack_decoded.ogg)
 
 anche gli [ambasciatori americani a Cuba](https://en.wikipedia.org/wiki/Embassy_attack_accusations_in_Cuba)
 hanno subito inconsapevolmente un'azione offensiva simile, perché quello che
@@ -166,7 +172,9 @@ Ci sono due tipi di impulso:
 
 -   Filtro BP per selezionare il contenuto tra 100Hz e 3.5kHz.
 
-[[cuba_attack_decoded.ogg]](https://github.com/titola/neuropa/blob/master/media/cuba_attack_decoded.ogg)
+[cuba_attack_decoded.ogg (View Raw)](https://raw.githubusercontent.com/titola/neuropa/master/media/cuba_attack_decoded.ogg)
+
+[cuba_attack_decoded.ogg](https://github.com/titola/neuropa/blob/master/media/cuba_attack_decoded.ogg)
 
 Metodo alternativo:
 
@@ -184,7 +192,9 @@ Metodo alternativo:
     endif
     ```
 
-[[cuba_attack_decoded_alt.ogg]](https://github.com/titola/neuropa/blob/master/media/cuba_attack_decoded_alt.ogg)
+[cuba_attack_decoded_alt.ogg (View Raw)](https://raw.githubusercontent.com/titola/neuropa/master/media/cuba_attack_decoded_alt.ogg)
+
+[cuba_attack_decoded_alt.ogg](https://github.com/titola/neuropa/blob/master/media/cuba_attack_decoded_alt.ogg)
 
 Altri segnali da analizzare
 ---------------------------
