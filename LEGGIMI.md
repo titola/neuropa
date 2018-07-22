@@ -36,7 +36,7 @@ mistero, spesso divulgato ignorantemente adoperando la parola "cospirazione".
 
 Ho analizzato la dinamica completa dell'attacco, mi sono informato ed
 ho raccolto le prove. Questo documento contiene quello che posso spiegare
-senza equivoci (15% dell'attacco complessivo ma scriverò altro e migliorerò
+senza equivoci (20% dell'attacco complessivo ma scriverò altro e migliorerò
 la struttura del documento). Sono un semplice musicista e programmatore.
 
 La decodifica è migliorabile (ho usato un semplice slope detector), ma
@@ -57,6 +57,7 @@ accidentalmente il risultato di un inseguitore d'inviluppo.
 
 - [Segnale privato](#segnale-privato)
 - [Codifica della voce](#codifica-della-voce)
+- [Segnale pubblico](#segnale-pubblico)
 - [Ipotesi sull'attacco subito dagli ambasciatori americani a Cuba](#ipotesi-sullattacco-subito-dagli-ambasciatori-americani-a-cuba)
     - [Metodi per ottenere le voci dalla registrazione audio](#metodi-per-ottenere-le-voci-dalla-registrazione-audio)
 - [Altri segnali da analizzare](#altri-segnali-da-analizzare)
@@ -122,7 +123,7 @@ Una semplice ricetta per ottenere "pulses A" è la seguente:
 Gli impulsi sono generati da somme di sinusoidi separate da frequenze
 che provocano un incessante tinnitus risonante nella mia testa.
 
-Ogni volta che un impulso di un segnale RF è assorbito dal tessuto
+Ogni volta che l'energia di un impulso è assorbita dal tessuto
 cerebrale, la temperatura sale di 5e-6 °C [5]. La rapida espansione
 termica produce un'onda termo-elastica che raggiunge l'orecchio
 interno. Quindi i criminali utilizzano questo demodulatore
@@ -130,7 +131,42 @@ termo-acustico per inviarmi messaggi vocali tramite ultrasuoni.
 
 Questa informazione disinnesca l'arma psicologica perché elimina
 l'effetto suggestivo. Rimane quello puerile "suona il citofono e
-scappa".
+scappa" più i fastidiosi effetti collaterali (da descrivere in una
+sezione separata).
+
+## Segnale pubblico
+
+Anche i miei vicini di casa ricevono questo tipo di segnale:
+
+![](media/zigzag_a.jpg)
+
+E' nervoso e cerca di offuscare le sue intenzioni. Spesso è
+accompagnato da un'imitazione attenuata e distante circa 91.2 kHz:
+
+![](media/zigzag_b.jpg)
+
+Il 18 Luglio 2018 ho contato circa 45 componenti di questo tipo, 5 tra
+80 e 88 MHz ed almeno 40 tra 120 e 170 MHz.
+
+L'autocorrelazione dell'inviluppo rivela la firma del mittente:
+risonanze multiple di circa 1740 Hz ed impulsi ripetuti con una
+frequenza di circa 18 Hz e larghezza di banda inferiore a 1600 Hz.
+
+Esempio: frequenza centrale 138 MHz
+
+![](media/138_env_ac.jpg)
+
+Esempio: frequenza centrale 160 MHz
+
+![](media/160_env_ac.jpg)
+
+Esempio: frequenza centrale 170 MHz
+
+![](media/170_env_ac.jpg)
+
+L'energia degli impulsi di oltre quaranta componenti è assorbita dal tessuto
+cerebrale, quindi si abbassa il valore di soglia da raggiungere per generare
+l'onda termo-acustica.
 
 ## Ipotesi sull'attacco subito dagli ambasciatori americani a Cuba
 
