@@ -1,5 +1,4 @@
-Analisi di un attacco elettromagnetico
-======================================
+# Analisi di un attacco elettromagnetico
 
 L'attacco è iniziato l'anno scorso, il 15 Luglio 2017.
 
@@ -54,6 +53,18 @@ segnale utilizzato è stato rettificato da un effetto Hall anomalo in qualche
 materiale ferromagnetico [3]. Quindi gli ambasciatori hanno ascoltato
 accidentalmente il risultato di un inseguitore d'inviluppo.
 
+## Indice
+
+- [Segnale privato](#segnale-privato)
+- [Codifica della voce](#codifica-della-voce)
+- [Ipotesi sull'attacco subito dagli ambasciatori americani a Cuba](#ipotesi-sullattacco-subito-dagli-ambasciatori-americani-a-cuba)
+    - [Metodi per ottenere le voci dalla registrazione audio](#metodi-per-ottenere-le-voci-dalla-registrazione-audio)
+- [Altri segnali da analizzare](#altri-segnali-da-analizzare)
+    - [Eventi sincronizzati con le voci](#eventi-sincronizzati-con-le-voci)
+- [Riferimenti](#riferimenti)
+
+## Segnale privato
+
 Il sonogramma di una registrazione di una parte del segnale che ho in
 testa, con frequenza centrale di circa 945 MHz e frequenza di campionamento
 pari a 2 MHz, mette in evidenza le pulsazioni principali:
@@ -98,8 +109,7 @@ La parte etichettata "misc" comprende impulsi generati dalla somma di
 sinusoidi separate da 1469 Hz e da altre sinusoidi separate ancora da
 1469 Hz.
 
-Codifica della voce
--------------------
+## Codifica della voce
 
 Hanno usato più tecniche.
 
@@ -122,8 +132,7 @@ Questa informazione disinnesca l'arma psicologica perché elimina
 l'effetto suggestivo. Rimane quello puerile "suona il citofono e
 scappa".
 
-Ipotesi sull'attacco subito dagli ambasciatori americani a Cuba
----------------------------------------------------------------
+## Ipotesi sull'attacco subito dagli ambasciatori americani a Cuba
 
 Il suono registrato a Cuba ha caratteristiche simili al segnale di
 945MHz che ricevo in testa. La differenza fondamentale è la distanza
@@ -153,7 +162,7 @@ Ci sono due tipi di impulso:
 
 - Impulsi con sinusoidi separate da 180 Hz e periodo di ripetizione variabile.
 
-### Metodo per ottenere le voci dalla registrazione audio
+### Metodi per ottenere le voci dalla registrazione audio
 
 -   Filtro FIR per selezionare il contenuto tra 6 e 9 kHz.
 
@@ -196,8 +205,9 @@ Metodo alternativo:
 
 [cuba_attack_decoded_alt.ogg](https://github.com/titola/neuropa/blob/master/media/cuba_attack_decoded_alt.ogg)
 
-Altri segnali da analizzare
----------------------------
+## Altri segnali da analizzare
+
+### Eventi sincronizzati con le voci
 
 Questo tipo di segnale è sincronizzato con le voci:
 
@@ -234,8 +244,7 @@ e senza segnali sinusoidali isolati:
 Ricevuto alle frequenze 421.684 MHz (bw 5kHz invece di 4kHz) e 422.733 MHz
 (bw 3kHz invece di 4kHz).
 
-Riferimenti
------------
+## Riferimenti
 
 [1] Costituzione della Repubblica Italiana, articolo 13.
 

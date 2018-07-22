@@ -1,5 +1,4 @@
-Analysis of an electromagnetic attack
-=====================================
+# Analysis of an electromagnetic attack
 
 I noticed the attack voice-to-skull the last year, July 15th 2017.
 
@@ -54,6 +53,18 @@ used signal was rectified by an anomalous Hall effect in some
 ferromagnetic material [3]. Therefore the embassy workers have
 accidentally listened to the result of an envelope follower.
 
+## Table of Contents
+
+- [Private signal](#private-signal)
+- [Voice encoding](#voice-encoding)
+- [Hypothesis about the US embassy attack in Cuba](#hypothesis-about-the-us-embassy-attack-in-cuba)
+    - [Methods to get the voices from the audio recording](#methods-to-get-the-voices-from-the-audio-recording)
+- [Other signals to analyse](#other-signals-to-analyse)
+    - [Events synchronized with the voices](#events-synchronized-with-the-voices)
+- [References](#references)
+
+## Private signal
+
 The sonogram of a recording of the signal, with central frequency of
 945 MHz and sampling rate of 2 MHz, highlights the main pulses:
 
@@ -96,8 +107,7 @@ The part labeled "misc" contains pulses produced by the sum of
 sinusoids separated by 1469 Hz and other sinusoids also separated by
 1469 Hz.
 
-Voice encoding
---------------
+## Voice encoding
 
 The criminals use more techniques.
 
@@ -120,8 +130,7 @@ This information defuses the psychologic weapon because it cancels the
 suggestive effect. The childish effect "play the entryphone and run
 away" persists.
 
-Hypothesis about the US embassy attack in Cuba
-----------------------------------------------
+## Hypothesis about the US embassy attack in Cuba
 
 The recording of what some US embassy workers heard in Havana has
 characteristics similar to the signal at 945MHz that I receive in my
@@ -151,7 +160,7 @@ There are two types of pulse:
 
 -   Pulses with sinusoids separated by 180 Hz and variable pulse repetition period.
 
-### Method to get the voices from the audio recording
+### Methods to get the voices from the audio recording
 
 -   FIR filter to select the content between 6 and 9 kHz.
 
@@ -194,8 +203,9 @@ Alternative method:
 
 [cuba_attack_decoded_alt.ogg](https://github.com/titola/neuropa/blob/master/media/cuba_attack_decoded_alt.ogg)
 
-Other signals to analyse
-------------------------
+## Other signals to analyse
+
+### Events synchronized with the voices
 
 This type of signal is synchronized with the voices:
 
@@ -232,8 +242,7 @@ and without isolated sinusoidal signals:
 Received at the frequencies 421.684 MHz (bw 5kHz instead of 4kHz) and
 422.733 MHz (bw 3kHz instead of 4kHz).
 
-References
-----------
+## References
 
 [1] Costituzione della Repubblica Italiana, articolo 13.
 
