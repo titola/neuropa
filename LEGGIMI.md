@@ -93,10 +93,25 @@ B = 0.0511 s = 75 / 1469  => 19.57 Hz
 freq_media = 5 / ((A * 4) + B) = 21.23 Hz
 ```
 
-Questo segnale è molto importante. Ho un'idea ma devo ancora
-svilupparla, quindi evito commenti superficiali. Comunque è possibile
-calcolare l'ampiezza della pressione indotta utilizzando la formula
-ed i fattori di ampiezza della figura 4 in [4]:
+Ho simulato il tinnitus prodotto da questo segnale in base al
+demodulatore termo-acustico descritto nella sezione "Codifica della voce":
+
+[tinnitus_pulses.wav (View Raw)](https://raw.githubusercontent.com/titola/neuropa/master/media/tinnitus_pulses.wav)
+
+[tinnitus_pulses.wav](https://github.com/titola/neuropa/blob/master/media/tinnitus_pulses.wav)
+
+Ho preferito utilizzare un modello sorgente-filtro invece di sintetizzare
+le frequenze acustiche, quindi l'onda termo-elastica è approssimata da
+un treno d'impulsi con pattern A-A-A-A-B e frequenza media di 21.23 Hz
+(gli altri impulsi sono esclusi per semplificare il modello) filtrato
+dal filtro di conduzione disegnato in base alla figura 4 in [4].
+Questo tipo di segnale interferisce in modo particolare con le
+oscillazioni neurali (gli altri impulsi variabili possono modulare
+specifiche onde cerebrali con ritmi diversi) prima di raggiungere
+l'orecchio interno.
+
+E' possibile calcolare l'ampiezza della pressione indotta utilizzando
+la formula ed i fattori di ampiezza della figura 4 in [4]:
 
 ```
 P(pulse_width) = A*abs(sin(pi*freq*pulse_width)) =
@@ -106,9 +121,43 @@ P(pulse_width) = A*abs(sin(pi*freq*pulse_width)) =
 
 dove 7800 Hz è la frequenza acustica principale.
 
-La parte etichettata "misc" comprende impulsi generati dalla somma di
-sinusoidi separate da 1469 Hz e da altre sinusoidi separate ancora da
-1469 Hz.
+Il file audio seguente contiene un fastidioso intervallo di sesta
+minore tra il tinnitus simulato a 21.2 Hz ed un'oscillazione di circa
+35.4 Hz (l'ascolto richiede cuffie decenti):
+
+[tinnitus_plus_6min.wav (View Raw)](https://raw.githubusercontent.com/titola/neuropa/master/media/tinnitus_plus_6min.wav)
+
+[tinnitus_plus_6min.wav](https://github.com/titola/neuropa/blob/master/media/tinnitus_plus_6min.wav)
+
+L'esempio della sesta minore non è casuale ma sono stato ispirato
+da alcune registrazioni audio che catturano suoni a bassa frequenza
+udibili ed infrasuoni. Il ritaglio seguente è amplificato di 40 dB:
+
+![](media/low_freq_with_6min_for_tinnitus.jpg)
+
+[low_freq_with_6min_for_tinnitus.wav](https://github.com/titola/neuropa/blob/master/media/low_freq_with_6min_for_tinnitus.wav)
+
+I criminali (sotto protezione) usano questi suoni anche per sfruttare
+l'interazione con il tinnitus. Aggiungerò una sezione dedicata alle
+registrazioni audio notturne contenenti suoni generati tramite interferenze
+elettromagnetiche intenzionali: impulsi ripetuti ogni 1.9 secondi,
+un segnale continuo con frequenza fondamentale di 7.62 Hz ed altre
+frequenze che formano rapporti semplici con 50 Hz, la frequenza
+nominale della rete elettrica in Italia [5], per esempio:
+
+```
+100 = 50 * 2
+66.6 = 50 * 4/3
+216.6 = 50 * 13/3
+
+errori "scintillanti" sporadici:
+  5415 = 216.6 * 25
+  1155 = 216.6 * 16/3
+```
+
+Infine, la parte etichettata "misc" nel primo sonogramma comprende
+impulsi generati dalla somma di sinusoidi separate da 1469 Hz e da
+altre sinusoidi separate ancora da 1469 Hz.
 
 ## Codifica della voce
 
@@ -124,7 +173,7 @@ Gli impulsi sono generati da somme di sinusoidi separate da frequenze
 che provocano un incessante tinnitus risonante nella mia testa.
 
 Ogni volta che l'energia di un impulso è assorbita dal tessuto
-cerebrale, la temperatura sale di 5e-6 °C [5]. La rapida espansione
+cerebrale, la temperatura sale di 5e-6 °C [6]. La rapida espansione
 termica produce un'onda termo-elastica che raggiunge l'orecchio
 interno. Quindi i criminali utilizzano questo demodulatore
 termo-acustico per inviarmi messaggi vocali tramite ultrasuoni.
@@ -284,10 +333,21 @@ Ricevuto alle frequenze 421.684 MHz (bw 5kHz invece di 4kHz) e 422.733 MHz
 
 [1] Costituzione della Repubblica Italiana, articolo 13.
 
-[2] Josh Lederman and Michael Weissenstein. Dangerous sound? What Americans heard in Cuba attacks. AP News, October 2017.
+[2] Josh Lederman and Michael Weissenstein. Dangerous sound?
+What Americans heard in Cuba attacks. AP News, October 2017.
 
-[3] Hang Chen, Xiaolong Fan, Hengan Zhou, Wenxi Wang, Y. S. Gui, C.-M. Hu, and Desheng Xue. Spin rectification enabled by anomalous Hall effect.
+[3] Hang Chen, Xiaolong Fan, Hengan Zhou, Wenxi Wang, Y. S. Gui,
+C.-M. Hu, and Desheng Xue. Spin rectification enabled by anomalous
+Hall effect.
 
-[4] N. M. Yitzhak, R. Ruppin, R. Hareuveny. Numerical Analysis of the Microwave Auditory Effect.
+[4] N. M. Yitzhak, R. Ruppin, R. Hareuveny. Numerical Analysis of the
+Microwave Auditory Effect.
 
-[5] J.A. Elder and C.K. Chou. Auditory Response to Pulsed Radiofrequency Energy.
+[5] Coincidenze: un contatore trifase rotto l'anno scorso durante
+l'inizio dell'attacco ed un contatore dei servizi inutilizzabile
+qualche mese fa perché erano stati tirati i fili. Inoltre, se spengo
+il contatore dei servizi, l'intensità delle vibrazioni delle torture
+notturne diminuisce.
+
+[6] J.A. Elder and C.K. Chou. Auditory Response to Pulsed
+Radiofrequency Energy.
