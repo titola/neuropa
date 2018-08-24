@@ -149,6 +149,7 @@ nominale della rete elettrica in Italia [5], per esempio:
 100 = 50 * 2
 66.6 = 50 * 4/3
 216.6 = 50 * 13/3
+50 = 96 / [periodo di ripetizione dei picchi] = 96 / 1.92
 
 errori "scintillanti" sporadici:
   5415 = 216.6 * 25
@@ -314,12 +315,12 @@ Il segnale sinusoidale finale dura circa 0.034 secondi.
 La durata della parte rumorosa (forse una nuvola di grani sinusoidali)
 dipende dalla voce percepita.
 
-Il segnale seguente è simile ma con durata di 0.178 secondi, periodo
-costante di 1.92 secondi
+Il segnale seguente è simile ma dura 0.178 secondi ed è ripetuto ogni
+1.92 secondi
 
 ```
-# quantizzato a 20.83 Hz
-1.92 = 0.048 * 40
+# 96 cicli della frequenza nominale della rete elettrica
+1.92 = 96 / 50
 ```
 
 e senza segnali sinusoidali isolati:
@@ -328,6 +329,19 @@ e senza segnali sinusoidali isolati:
 
 Ricevuto alle frequenze 421.684 MHz (bw 5kHz invece di 4kHz) e 422.733 MHz
 (bw 3kHz invece di 4kHz).
+
+Nota la durata di 0.178 secondi ed il periodo di ripetizione di 1.92
+secondi nelle registrazioni audio che contengono suoni a bassa frequenza
+udibili ed infrasuoni:
+
+![](media/low_freq_with_6min_for_tinnitus.jpg)
+
+[low_freq_with_6min_for_tinnitus.wav](https://github.com/titola/neuropa/blob/master/media/low_freq_with_6min_for_tinnitus.wav)
+
+Nota: 421.684 MHz non è presente in una registrazione del 23 Agosto 2018
+e la larghezza di banda a 422.733 MHz diventa 5kHz. Il confronto sarà
+utile per comprendere meglio la sintesi e la funzione del segnale audio
+a bassa frequenza.
 
 ## Riferimenti
 

@@ -314,11 +314,11 @@ The duration of the noisy part (maybe a cloud of sinusoidal gains)
 depends on the perceived voice.
 
 The following signal is similar but with duration of 0.178 seconds,
-constant period of 1.92 seconds
+repeated every 1.92 seconds
 
 ```
-# quantized to 20.83 Hz
-1.92 = 0.048 * 40
+# 96 cycles of the nominal frequency of the electrical grid
+1.92 = 96 / 50
 ```
 
 and without isolated sinusoidal signals:
@@ -327,6 +327,19 @@ and without isolated sinusoidal signals:
 
 Received at the frequencies 421.684 MHz (bw 5kHz instead of 4kHz) and
 422.733 MHz (bw 3kHz instead of 4kHz).
+
+Note the duration of 0.178 seconds and the repetition period of 1.92
+seconds in the audio recordings that contain low frequency sounds
+and infrasounds:
+
+![](media/low_freq_with_6min_for_tinnitus.jpg)
+
+[low_freq_with_6min_for_tinnitus.wav](https://github.com/titola/neuropa/blob/master/media/low_freq_with_6min_for_tinnitus.wav)
+
+Note: 421.684 MHz is not present in a recording on August 23th 2018,
+and the bandwidth at 422.733 MHz becomes 5kHz. The comparison will be
+useful to understand better the synthesis and the function of the low
+frequency audio signal.
 
 ## References
 
