@@ -302,6 +302,11 @@ This type of signal is synchronized with the voices:
 Received at the frequencies 173.456 MHz, 173.880 MHz, 173.956 MHz and
 460.557 MHz with bandwidth of 4 kHz.
 
+The hook shaped curve remembers the PLHR (Power Line Harmonic Radiation)
+induction lines described in the paper "On the nonlinear triggering of
+VLF emissions by power line harmonic radiation" by D. Nunn, J. Manninen,
+T. Turunen, V. Trakhtengerts and N. Erokhin.
+
 A sinusoidal signal goes down from the maximum to the central
 frequency and continues with duration between 0.072 and 0.076 seconds,
 then it is amplitude modulated by a sinusoid of 2 kHz (mix of two side

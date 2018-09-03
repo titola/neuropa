@@ -303,6 +303,12 @@ Questo tipo di segnale è sincronizzato con le voci:
 Ricevuto alle frequenze 173.456 MHz, 173.880 MHz, 173.956 MHz e
 460.557 MHz con larghezza di banda pari a 4 kHz.
 
+La curva a forma di uncino ricorda le linee d'induzione PLHR
+(Power Line Harmonic Radiation) descritte nell'articolo scientifico
+"On the nonlinear triggering of VLF emissions by power line harmonic
+radiation" di D. Nunn, J. Manninen, T. Turunen, V. Trakhtengerts e
+N. Erokhin.
+
 Un segnale sinusoidale scende dalla frequenza massima a quella
 centrale e continua per una durata da 0.072 a 0.076 secondi, poi
 prosegue modulato in ampiezza da una sinusoide di 2 kHz (mix di due
