@@ -150,6 +150,7 @@ nominale della rete elettrica in Italia [5], per esempio:
 66.6 = 50 * 4/3
 216.6 = 50 * 13/3
 50 = 96 / [periodo di ripetizione dei picchi] = 96 / 1.92
+50 = 9 / [durata dell'impulso] = 9 / 0.18
 
 errori "scintillanti" sporadici:
   5415 = 216.6 * 25
@@ -321,6 +322,9 @@ Il segnale seguente è simile ma dura 0.178 secondi ed è ripetuto ogni
 ```
 # 96 cicli della frequenza nominale della rete elettrica
 1.92 = 96 / 50
+
+# 9 cicli
+0.18 = 9 / 50
 ```
 
 e senza segnali sinusoidali isolati:
@@ -337,6 +341,27 @@ udibili ed infrasuoni:
 ![](media/low_freq_with_6min_for_tinnitus.jpg)
 
 [low_freq_with_6min_for_tinnitus.wav](https://github.com/titola/neuropa/blob/master/media/low_freq_with_6min_for_tinnitus.wav)
+
+Penso che i criminali intercettano i picchi degli infrasuoni ripetuti ogni
+1.92 secondi anche per rilevare la variazione della frequenza nominale, in
+modo da poter sintonizzare i segnali, per esempio la durata tra 9/49 (0.183s)
+e 9/51 (0.176s).
+
+La formula:
+
+```
+y = x^2 * sin(2 pi 1/0.178 t)
+```
+
+è una parte di una possibile funzione di trasferimento per ottenere i
+picchi dell'infrasuono dal segnale con frequenza centrale di 422.733 MHz:
+
+![](media/calculated_infrasound_peaks.jpg)
+
+Gli altri segnali sono trasformati almeno (la formula è possibilmente
+incompleta) in oscillazioni a bassa frequenza. Voglio investigare il
+microwave plasma in modalità risonatore, dove la densità del plasma è
+proporzionale all'ampiezza dell'onda.
 
 Nota: 421.684 MHz non è presente in una registrazione del 23 Agosto 2018
 e la larghezza di banda a 422.733 MHz diventa 5kHz. Il confronto sarà

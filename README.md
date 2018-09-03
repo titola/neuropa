@@ -148,6 +148,8 @@ of the electrical grid in Italy [5], for example:
 100 = 50 * 2
 66.6 = 50 * 4/3
 216.6 = 50 * 13/3
+50 = 96 / [repetition period of the peaks] = 96 / 1.92
+50 = 9 / [pulse duration] = 9 / 0.18
 
 sporadic "scintillant" errors:
   5415 = 216.6 * 25
@@ -319,6 +321,9 @@ repeated every 1.92 seconds
 ```
 # 96 cycles of the nominal frequency of the electrical grid
 1.92 = 96 / 50
+
+# 9 cycles
+0.18 = 9 / 50
 ```
 
 and without isolated sinusoidal signals:
@@ -335,6 +340,27 @@ and infrasounds:
 ![](media/low_freq_with_6min_for_tinnitus.jpg)
 
 [low_freq_with_6min_for_tinnitus.wav](https://github.com/titola/neuropa/blob/master/media/low_freq_with_6min_for_tinnitus.wav)
+
+I think the thugs monitor the peaks of the infrasounds repeated every
+1.92 seconds also to take the variation of the nominal frequency to
+tune the signals, for example the duration between 9/49 (0.183s) and
+9/51 (0.176s).
+
+The formula:
+
+```
+y = x^2 * sin(2 pi 1/0.178 t)
+```
+
+is a part of a possible transfer function to get the peaks of the
+infrasound from the signal at 422.733 MHz:
+
+![](media/calculated_infrasound_peaks.jpg)
+
+The other signals are transformed at least (the formula is possibly
+incomplete) in low frequency oscillations. I want to investigate the
+microwave plasma in resonator mode, where the plasma density varies
+with the wave magnitude.
 
 Note: 421.684 MHz is not present in a recording on August 23th 2018,
 and the bandwidth at 422.733 MHz becomes 5kHz. The comparison will be
