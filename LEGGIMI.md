@@ -375,6 +375,28 @@ e la larghezza di banda a 422.733 MHz diventa 5kHz. Il confronto sarà
 utile per comprendere meglio la sintesi e la funzione del segnale audio
 a bassa frequenza.
 
+La figura seguente mostra l'autocorrelazione dell'inviluppo a 422.733 MHz,
+con frequenze principali
+
+```
+20 Hz = 50 * 2/5
+
+213.6 Hz vicina a 216.6 Hz analizzata sopra e dipendente dalla
+frequenza nominale: 216.6 = 50 * 13/3
+
+2/5 * 422.733 = 169 MHz
+(vedi la prossima sezione "Contatori elettronici ACEA-ARETI").
+
+2/5 * 50 = 20 Hz (freq principale dell'inviluppo a 422.733 MHz).
+
+5 * 173.7 = 868 MHz (contatori elettronici).
+
+5 * 42.72 = 213.6 (un'altra frequenza principale dell'inviluppo a 422.733 MHz)
+dove 42.72 Hz è -2.8 dB sotto 213.6 Hz.
+```
+
+![](media/422_733_env_ac.jpg)
+
 ### Contatori elettronici ACEA-ARETI
 
 I contatori elettronici di ACEA/ARETI hanno antenne per comunicare in RF

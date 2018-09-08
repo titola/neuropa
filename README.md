@@ -373,6 +373,27 @@ and the bandwidth at 422.733 MHz becomes 5kHz. The comparison will be
 useful to understand better the synthesis and the function of the low
 frequency audio signal.
 
+The following figure displays the autocorrelation of the envelope at
+422.733 MHz, with the main frequencies:
+
+```
+20 Hz = 50 * 2/5
+
+213.6 Hz near 216.6 Hz previously analyzed and dependent on the
+nominal frequency: 216.6 = 50 * 13/3
+
+2/5 * 422.733 = 169 MHz (see the next section "Electric meters ACEA-ARETI").
+
+2/5 * 50 = 20 Hz (main freq of the envelope at 422.733 MHz).
+
+5 * 173.7 = 868 MHz (electric meters).
+
+5 * 42.72 = 213.6 (another main freq of the envelope at 422.733 MHz).
+where 42.72 Hz is -2.8 dB under 213.6 Hz.
+```
+
+![](media/422_733_env_ac.jpg)
+
 ### Electric meters ACEA-ARETI
 
 The electric meters of ACEA-ARETI have anttennas to communicate in RF
