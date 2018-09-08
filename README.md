@@ -64,6 +64,7 @@ accidentally listened to the result of an envelope follower.
     - [Methods to get the voices from the audio recording](#methods-to-get-the-voices-from-the-audio-recording)
 - [Other signals to analyse](#other-signals-to-analyse)
     - [Events synchronized with the voices](#events-synchronized-with-the-voices)
+    - [Electric meters ACEA-ARETI](#electric-meters-acea-areti)
 - [References](#references)
 
 ## Private signal
@@ -371,6 +372,34 @@ Note: 421.684 MHz is not present in a recording on August 23th 2018,
 and the bandwidth at 422.733 MHz becomes 5kHz. The comparison will be
 useful to understand better the synthesis and the function of the low
 frequency audio signal.
+
+### Electric meters ACEA-ARETI
+
+The electric meters of ACEA-ARETI have anttennas to communicate in RF
+at the frequencies 169 and 868 MHz. These frequencies are multiple of
+some frequencies used for the attack (see the previous section):
+
+```
+868 / 5 = 173.6
+    => 173.4 and 173.7 MHz are synchronized to the voices.
+
+169 * 5/2 = 422.5
+    => 421.684 and 422.7 MHz are synchronized to the infrasounds.
+```
+
+From "Bilancio di Sostenibilità 2017 del Gruppo Acea", pag. 81:
+
+> È stato poi avviato lo sviluppo di un concentratore multiservizio
+> per i contatori elettronici di prima generazione adeguatamente
+> reingegnerizzato, predisposto per l’acquisizione dei contatori di
+> seconda generazione e per essere integrato con una terza unità
+> per la comunicazione in RF a 169/868 MHz. Il nuovo concentratore
+> multiservizio (CMS) è un apparato di tipo modulare costituito da
+> un’unità centrale di controllo ed elaborazione e una o più unità
+> aggiuntive ognuna dedicata a un servizio specifico (elettrico,
+> idrico, ecc.). A fine dicembre 2017 è stato presentato il
+> prototipo che sarà oggetto delle prove e dei collaudi nel corso
+> della prima metà del 2018.
 
 ## References
 

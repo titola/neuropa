@@ -62,6 +62,7 @@ accidentalmente il risultato di un inseguitore d'inviluppo.
     - [Metodi per ottenere le voci dalla registrazione audio](#metodi-per-ottenere-le-voci-dalla-registrazione-audio)
 - [Altri segnali da analizzare](#altri-segnali-da-analizzare)
     - [Eventi sincronizzati con le voci](#eventi-sincronizzati-con-le-voci)
+    - [Contatori elettronici ACEA-ARETI](#contatori-elettronici-acea-areti)
 - [Riferimenti](#riferimenti)
 
 ## Segnale privato
@@ -373,6 +374,34 @@ Nota: 421.684 MHz non è presente in una registrazione del 23 Agosto 2018
 e la larghezza di banda a 422.733 MHz diventa 5kHz. Il confronto sarà
 utile per comprendere meglio la sintesi e la funzione del segnale audio
 a bassa frequenza.
+
+### Contatori elettronici ACEA-ARETI
+
+I contatori elettronici di ACEA/ARETI hanno antenne per comunicare in RF
+alle frequenze 169 e 868 MHz. Queste frequenze sono multiple di alcune
+frequenze utilizzate per l'attacco (vedi la sezione precedente):
+
+```
+868 / 5 = 173.6
+    => 173.4 e 173.7 MHz sono sincronizzate con le voci.
+
+169 * 5/2 = 422.5
+    => 421.684 e 422.7 MHz sono sincronizzati con gli infrasuoni.
+```
+
+Dal "Bilancio di Sostenibilità 2017 del Gruppo Acea", pag. 81:
+
+> È stato poi avviato lo sviluppo di un concentratore multiservizio
+> per i contatori elettronici di prima generazione adeguatamente
+> reingegnerizzato, predisposto per l’acquisizione dei contatori di
+> seconda generazione e per essere integrato con una terza unità
+> per la comunicazione in RF a 169/868 MHz. Il nuovo concentratore
+> multiservizio (CMS) è un apparato di tipo modulare costituito da
+> un’unità centrale di controllo ed elaborazione e una o più unità
+> aggiuntive ognuna dedicata a un servizio specifico (elettrico,
+> idrico, ecc.). A fine dicembre 2017 è stato presentato il
+> prototipo che sarà oggetto delle prove e dei collaudi nel corso
+> della prima metà del 2018.
 
 ## Riferimenti
 
