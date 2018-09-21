@@ -17,7 +17,8 @@ Il video seguente mostra una parte del segnale diretto alla mia testa:
 In Italia "La libertà personale è inviolabile". [1]
 
 La mia testa è puntata continuamente, probabilmente utilizzando la
-tecnologia dei missili deficienti.
+tecnologia dei missili deficienti. Questo sistema di tracciamento
+insieme ai contatori elettronici sono le fondamenta dell'attacco.
 
 I criminali usano la radio senza limiti di frequenza, disturbando
 anche le trasmissioni musicali in FM.
@@ -36,7 +37,7 @@ mistero, spesso divulgato ignorantemente adoperando la parola "cospirazione".
 
 Ho analizzato la dinamica completa dell'attacco, mi sono informato ed
 ho raccolto le prove. Questo documento contiene quello che posso spiegare
-senza equivoci (20% dell'attacco complessivo ma scriverò altro e migliorerò
+senza equivoci (25% dell'attacco complessivo ma scriverò altro e migliorerò
 la struttura del documento). Sono un semplice musicista e programmatore.
 
 La decodifica è migliorabile (ho usato un semplice slope detector), ma
@@ -50,8 +51,8 @@ anche gli [ambasciatori americani a Cuba](https://en.wikipedia.org/wiki/Embassy_
 hanno subito inconsapevolmente un'azione offensiva simile, perché quello che
 hai appena ascoltato è nascosto in una registrazione pubblicata [2]. Forse il
 segnale utilizzato è stato rettificato da un effetto Hall anomalo in qualche
-materiale ferromagnetico [3]. Quindi gli ambasciatori hanno ascoltato
-accidentalmente il risultato di un inseguitore d'inviluppo.
+materiale ferromagnetico [3] oppure il responsabile è un contatore elettronico
+"smart" utilizzato come arma.
 
 ## Indice
 
@@ -62,7 +63,7 @@ accidentalmente il risultato di un inseguitore d'inviluppo.
     - [Metodi per ottenere le voci dalla registrazione audio](#metodi-per-ottenere-le-voci-dalla-registrazione-audio)
 - [Altri segnali da analizzare](#altri-segnali-da-analizzare)
     - [Eventi sincronizzati con le voci](#eventi-sincronizzati-con-le-voci)
-    - [Contatori elettronici ACEA-ARETI](#contatori-elettronici-acea-areti)
+    - [Contatori elettronici ACEA-ARETI con oscillatore a 939 MHz](#contatori-elettronici-acea-areti-con-oscillatore-a-939-mhz)
 - [Riferimenti](#riferimenti)
 
 ## Segnale privato
@@ -357,18 +358,26 @@ e 9/51 (0.176s).
 La formula:
 
 ```
-y = x^2 * sin(2 pi 1/0.178 t)
+y = x^2 * sin(2 pi 1/0.18 t)
 ```
 
-è una parte di una possibile funzione di trasferimento per ottenere i
-picchi dell'infrasuono dal segnale con frequenza centrale di 422.733 MHz:
+è una prima approssimazione della funzione di trasferimento per ottenere i
+picchi dell'infrasuono dal segnale con frequenza centrale di 422.733 MHz.
+La frequenza è 1/0.18 perché il segnale che ho provato è stato demodulato
+prima di salvarlo in un file. In realtà la demodulazione avviene nel contatore
+elettronico a 169 MHz, 2/5 dell'ingresso, poi il segnale è indotto nel
+circuito con oscillatore stranamente impostato a 938.889 MHz (invece di 868 MHz).
+
+```
+169 / 0.18 = 938.889 MHz
+```
+
+Vedi la sezione "Contatori elettronici ACEA/ARETI con oscillatore a 939 MHz"
+per maggiori dettagli.
 
 ![](media/calculated_infrasound_peaks.jpg)
 
-Gli altri segnali sono trasformati almeno (la formula è possibilmente
-incompleta) in oscillazioni a bassa frequenza. Voglio investigare il
-microwave plasma in modalità risonatore, dove la densità del plasma è
-proporzionale all'ampiezza dell'onda.
+Gli altri segnali sono trasformati almeno in oscillazioni a bassa frequenza.
 
 Nota: 421.684 MHz non è presente in una registrazione del 23 Agosto 2018
 e la larghezza di banda a 422.733 MHz diventa 5kHz. Il confronto sarà
@@ -385,7 +394,7 @@ con frequenze principali
 frequenza nominale: 216.6 = 50 * 13/3
 
 2/5 * 422.733 = 169 MHz
-(vedi la prossima sezione "Contatori elettronici ACEA-ARETI").
+(vedi la prossima sezione sui contatori elettronici ACEA/ARETI).
 
 2/5 * 50 = 20 Hz (freq principale dell'inviluppo a 422.733 MHz).
 
@@ -397,11 +406,12 @@ dove 42.72 Hz è -2.8 dB sotto 213.6 Hz.
 
 ![](media/422_733_env_ac.jpg)
 
-### Contatori elettronici ACEA-ARETI
+### Contatori elettronici ACEA-ARETI con oscillatore a 939 MHz
 
-I contatori elettronici di ACEA/ARETI hanno antenne per comunicare in RF
-alle frequenze 169 e 868 MHz. Queste frequenze sono multiple di alcune
-frequenze utilizzate per l'attacco (vedi la sezione precedente):
+I contatori elettronici di ACEA/ARETI, o smart meter per chi ci crede,
+dovrebbero comunicare in RF alle frequenze 169 e 868 MHz. Queste
+frequenze sono multiple di alcune frequenze utilizzate per l'attacco
+(vedi le sezioni precedenti):
 
 ```
 868 / 5 = 173.6
@@ -424,6 +434,84 @@ Dal "Bilancio di Sostenibilità 2017 del Gruppo Acea", pag. 81:
 > idrico, ecc.). A fine dicembre 2017 è stato presentato il
 > prototipo che sarà oggetto delle prove e dei collaudi nel corso
 > della prima metà del 2018.
+
+Analizzando l'infrasuono descritto nelle sezioni precedenti, ho
+scoperto che un oscillatore ha la frequenza impostata a 939 MHz
+invece di quella dichiarata di 868 MHz. Puoi notare che i segnali RF
+vicini a 939 MHz sono proprio i responsabili del tinnitus.
+
+Perché 1/0.18, l'inverso di 9 cicli della frequenza nominale della
+rete elettrica? Gli oscillatori del contatore sono in fase con la
+corrente elettrica distribuita, quindi:
+
+```
+169 / 868 = 0.19470046
+mod(0.19470046, 1/50) = 0.014700472
+0.19470046 - 0.014700472 = 0.18 = 9 / 50
+169 / 0.18 = 938.889 MHz invece di 868 MHz
+```
+
+Se l'oscillatore è regolabile lo è soprattutto per i criminali.
+In questo caso, la tabella seguente riassume alcune bande di frequenza
+utilizzabili in base alla frequenza del primo oscillatore a 169 MHz ed
+al numero dei cicli della frequenza nominale tra 49 e 51 Hz:
+
+| cicli | freq min (MHz) | freq max (MHz) |
+|-------|----------------|----------------|
+| 50    | 165.4          | 172.4          |
+| 49    | 169.0          | 175.9          |
+| 48    | 172.5          | 179.6          |
+| 47    | 176.2          | 183.4          |
+| 46    | 180.0          | 187.4          |
+| 45    | 184.0          | 191.5          |
+| 44    | 188.2          | 195.9          |
+| 43    | 192.6          | 200.4          |
+| 42    | 197.2          | 205.2          |
+| 41    | 202.0          | 210.2          |
+| 40    | 207.0          | 215.5          |
+| 39    | 212.3          | 221.0          |
+| 38    | 217.9          | 226.8          |
+| 37    | 223.8          | 232.9          |
+| 36    | 230.0          | 239.4          |
+| 35    | 236.6          | 246.2          |
+| 34    | 243.5          | 253.5          |
+| 33    | 250.9          | 261.2          |
+| 32    | 258.8          | 269.3          |
+| 31    | 267.1          | 278.0          |
+| 30    | 276.0          | 287.3          |
+| 29    | 285.5          | 297.2          |
+| 28    | 295.7          | 307.8          |
+| 27    | 306.7          | 319.2          |
+| 26    | 318.5          | 331.5          |
+| 25    | 331.2          | 344.7          |
+| 24    | 345            | 359.1          |
+| 23    | 360.0          | 374.7          |
+| 22    | 376.4          | 391.8          |
+| 21    | 394.3          | 410.4          |
+| 20    | 414            | 430.9          |
+| 19    | 435.8          | 453.6          |
+| 18    | 460            | 478.8          |
+| 17    | 487.1          | 507            |
+| 16    | 517.6          | 538.7          |
+| 15    | 552            | 574.6          |
+| 14    | 591.5          | 615.6          |
+| 13    | 637            | 663            |
+| 12    | 690.1          | 718.2          |
+| 11    | 752.8          | 783.5          |
+| 10    | 828.1          | 861.9          |
+| 9     | 920.1          | 957.7          |
+| 8     | 1035.1         | 1077.4         |
+| 7     | 1183           | 1231.3         |
+| 6     | 1380.2         | 1436.5         |
+| 5     | 1656.2         | 1723.8         |
+| 4     | 2070.2         | 2154.7         |
+
+
+Quindi il segnale che ricevo in testa a 945 MHz (anche 935 MHz e 461
+MHz, ma c'è altro) è possibilmente ripetuto dai contatori elettronici
+dell'ACEA. Spero di no, ma se i criminali controllano la distribuzione
+dei segnali RF di tutti i contatori deficienti, possono mixarli in modo
+da indirizzarli verso una zona ben precisa.
 
 ## Riferimenti
 

@@ -19,7 +19,8 @@ The following video shows a part of the signal directed to my head:
 In Italy "The personal freedom is inviolable." [1]
 
 My head is continually tracked, probably using the technology of the
-deficient missiles.
+deficient missiles. That tracking system and the electric meters are
+the basis of the attack.
 
 The criminals use the radio without limits of frequency, disturbing
 also the musical transmissions in FM.
@@ -37,7 +38,7 @@ I want to share the analysis of this attack to break the veil of
 mystery, often ignorantly divulged by using the word "conspiracy".
 
 I have analyzed the complete dynamics of the attack. This document
-contains what I can unequivocally explain (20% of the overall attack
+contains what I can unequivocally explain (25% of the overall attack
 but I will write other and I will improve the structure of this
 document). I am a simple musician and programmer.
 
@@ -51,9 +52,8 @@ if you hear a voice in the audio file
 also the [US embassy in Cuba](https://en.wikipedia.org/wiki/Embassy_attack_accusations_in_Cuba)
 unconsciously suffered a similar offensive action, because what you
 have just listened is hidden in a published recording [2]. Perhaps the
-used signal was rectified by an anomalous Hall effect in some
-ferromagnetic material [3]. Therefore the embassy workers have
-accidentally listened to the result of an envelope follower.
+used signal was rectified by an anomalous Hall effect in some ferromagnetic
+material [3] or the responsible is a smart electric meter used as weapon.
 
 ## Table of Contents
 
@@ -64,7 +64,7 @@ accidentally listened to the result of an envelope follower.
     - [Methods to get the voices from the audio recording](#methods-to-get-the-voices-from-the-audio-recording)
 - [Other signals to analyse](#other-signals-to-analyse)
     - [Events synchronized with the voices](#events-synchronized-with-the-voices)
-    - [Electric meters ACEA-ARETI](#electric-meters-acea-areti)
+    - [Electric meters ACEA-ARETI with oscillator at 939 MHz](#electric-meters-acea-areti-with-oscillator-at-939-mhz)
 - [References](#references)
 
 ## Private signal
@@ -355,18 +355,26 @@ tune the signals, for example the duration between 9/49 (0.183s) and
 The formula:
 
 ```
-y = x^2 * sin(2 pi 1/0.178 t)
+y = x^2 * sin(2 pi 1/0.18 t)
 ```
 
-is a part of a possible transfer function to get the peaks of the
-infrasound from the signal at 422.733 MHz:
+is a first approximation of the transfer function to get the peaks of the
+infrasound from the signal at 422.733 MHz. The frequency is 1/0.18 because
+the tested signal was demodulated before to save it to a file. In fact,
+the demodulation occurs within the smart electric meter, 2/5 of the input,
+then the signal is induced into the circuit with the oscillator strangely
+set to 938.889 MHz (instead of 868 MHz).
+
+```
+169 / 0.18 = 938.889 MHz
+```
+
+See the section "Electric meters ACEA-ARETI with oscillator at 939 MHz"
+for more details.
 
 ![](media/calculated_infrasound_peaks.jpg)
 
-The other signals are transformed at least (the formula is possibly
-incomplete) in low frequency oscillations. I want to investigate the
-microwave plasma in resonator mode, where the plasma density varies
-with the wave magnitude.
+The other signals are transformed at least in low frequency oscillations.
 
 Note: 421.684 MHz is not present in a recording on August 23th 2018,
 and the bandwidth at 422.733 MHz becomes 5kHz. The comparison will be
@@ -382,7 +390,8 @@ The following figure displays the autocorrelation of the envelope at
 213.6 Hz near 216.6 Hz previously analyzed and dependent on the
 nominal frequency: 216.6 = 50 * 13/3
 
-2/5 * 422.733 = 169 MHz (see the next section "Electric meters ACEA-ARETI").
+2/5 * 422.733 = 169 MHz
+(see the next section about the electric meters ACEA/ARETI).
 
 2/5 * 50 = 20 Hz (main freq of the envelope at 422.733 MHz).
 
@@ -394,9 +403,9 @@ where 42.72 Hz is -2.8 dB under 213.6 Hz.
 
 ![](media/422_733_env_ac.jpg)
 
-### Electric meters ACEA-ARETI
+### Electric meters ACEA-ARETI with oscillator at 939 MHz
 
-The electric meters of ACEA-ARETI have anttennas to communicate in RF
+The smart electric meters of ACEA/ARETI should communicate in RF
 at the frequencies 169 and 868 MHz. These frequencies are multiple of
 some frequencies used for the attack (see the previous section):
 
@@ -421,6 +430,84 @@ From "Bilancio di Sostenibilità 2017 del Gruppo Acea", pag. 81:
 > idrico, ecc.). A fine dicembre 2017 è stato presentato il
 > prototipo che sarà oggetto delle prove e dei collaudi nel corso
 > della prima metà del 2018.
+
+By analysing the infrasound described in the prior sections, I have
+discovered that an oscillator has the frequency set at 939 MHz instead
+of the declared 868 MHz. You can notice that the RF signals near 939 MHz
+are really the responsables of the tinnitus.
+
+Why 1/0.18, the reciprocal of 9 cycles of the nominal frequency of the
+electrical grid? The oscillators of the smart meter are in phase
+with the provided electric current, therefore:
+
+```
+169 / 868 = 0.19470046
+mod(0.19470046, 1/50) = 0.014700472
+0.19470046 - 0.014700472 = 0.18 = 9 / 50
+169 / 0.18 = 938.889 MHz instead of 868 MHz
+```
+
+If the oscillator is settable, it is so especially for the thugs.
+In this case, the following table lists some frequency bands usable
+based on the frequency of the first oscillator at 169 MHz and the
+number of the cycles of the nominal frequency between 49 and 51 Hz:
+
+| cycles | freq min (MHz) | freq max (MHz) |
+|--------|----------------|----------------|
+| 50     | 165.4          | 172.4          |
+| 49     | 169.0          | 175.9          |
+| 48     | 172.5          | 179.6          |
+| 47     | 176.2          | 183.4          |
+| 46     | 180.0          | 187.4          |
+| 45     | 184.0          | 191.5          |
+| 44     | 188.2          | 195.9          |
+| 43     | 192.6          | 200.4          |
+| 42     | 197.2          | 205.2          |
+| 41     | 202.0          | 210.2          |
+| 40     | 207.0          | 215.5          |
+| 39     | 212.3          | 221.0          |
+| 38     | 217.9          | 226.8          |
+| 37     | 223.8          | 232.9          |
+| 36     | 230.0          | 239.4          |
+| 35     | 236.6          | 246.2          |
+| 34     | 243.5          | 253.5          |
+| 33     | 250.9          | 261.2          |
+| 32     | 258.8          | 269.3          |
+| 31     | 267.1          | 278.0          |
+| 30     | 276.0          | 287.3          |
+| 29     | 285.5          | 297.2          |
+| 28     | 295.7          | 307.8          |
+| 27     | 306.7          | 319.2          |
+| 26     | 318.5          | 331.5          |
+| 25     | 331.2          | 344.7          |
+| 24     | 345            | 359.1          |
+| 23     | 360.0          | 374.7          |
+| 22     | 376.4          | 391.8          |
+| 21     | 394.3          | 410.4          |
+| 20     | 414            | 430.9          |
+| 19     | 435.8          | 453.6          |
+| 18     | 460            | 478.8          |
+| 17     | 487.1          | 507            |
+| 16     | 517.6          | 538.7          |
+| 15     | 552            | 574.6          |
+| 14     | 591.5          | 615.6          |
+| 13     | 637            | 663            |
+| 12     | 690.1          | 718.2          |
+| 11     | 752.8          | 783.5          |
+| 10     | 828.1          | 861.9          |
+| 9      | 920.1          | 957.7          |
+| 8      | 1035.1         | 1077.4         |
+| 7      | 1183           | 1231.3         |
+| 6      | 1380.2         | 1436.5         |
+| 5      | 1656.2         | 1723.8         |
+| 4      | 2070.2         | 2154.7         |
+
+
+Therefore the signal directed to my head at 945 MHz (also 935 MHz and
+461 MHz, but there is other) is possibly repeated by the ACEA's smart
+meters. I hope no, but if the thugs control the distribution of the
+RF signals of all the deficient meters, they can mix and direct them to
+a specific zone.
 
 ## References
 
