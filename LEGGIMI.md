@@ -91,12 +91,29 @@ pattern seguente:
 A A A A B A A A A B A A A A B ...
 
 A = 0.0461 s = 80 / 1733  => 21.69 Hz
-B = 0.0511 s = 75 / 1469  => 19.57 Hz
+B = 0.0511 s = A + 1/200 = 75 / 1469  => 19.57 Hz
 freq_media = 5 / ((A * 4) + B) = 21.23 Hz
 ```
 
-Ho simulato il tinnitus prodotto da questo segnale in base al
-demodulatore termo-acustico descritto nella sezione "Codifica della voce":
+Questo pattern è particolarmente simpatizzante dell'oscillazione alla
+frequenza nominale della rete elettrica tra 49 e 51 Hz:
+
+```
+A * 4 = 0.0461 * 4 = 0.184 = 9 cicli a 49 Hz
+A * 4 + B = 5 * 0.0461 + 1/(50*4) = 0.235 = 12 cicli a 51 Hz
+```
+
+In pratica il pattern è formato da 5 ripetizioni di A più la durata di
+un quarto di ciclo a 50 Hz. La prossima figura mostra 10 secondi del
+valore assoluto di tre oscillazioni a 49, 50 e 51 Hz, campionate
+utilizzando i periodi di questo pattern. La distribuzione e la
+modulazione dei picchi ricordano i tremori che percepisco ogni tanto.
+
+![](media/fake_gsm_sampler_49hz50hz51hz.jpg)
+
+Ho simulato il tinnitus prodotto dagli impulsi del segnale ricevuto a
+945 MHz in base al demodulatore termo-acustico descritto nella sezione
+"Codifica della voce":
 
 [tinnitus_pulses.wav (View Raw)](https://raw.githubusercontent.com/titola/neuropa/master/media/tinnitus_pulses.wav)
 

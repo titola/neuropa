@@ -90,12 +90,30 @@ The pattern of the the pulse repetition periods is
 A A A A B A A A A B A A A A B ...
 
 A = 0.0461 s = 80 / 1733  => 21.69 Hz
-B = 0.0511 s = 75 / 1469  => 19.57 Hz
+B = 0.0511 s = A + 1/200 = 75 / 1469  => 19.57 Hz
 freq_average = 5 / ((A * 4) + B) = 21.23 Hz
 ```
 
-I have simulated the tinnitus produced by that signal by approximating the
-termo-acoustic demodulator described in the section "Voice encoding":
+This pattern is particularly sympathizing with the oscillation at the
+nominal frequency of the electrical grid between 49 and 51 Hz:
+
+```
+A * 4 = 0.0461 * 4 = 0.184 = 9 cycles at 49 Hz
+A * 4 + B = 5 * 0.0461 + 1/(50*4) = 0.235 = 12 cycles at 51 Hz
+```
+
+In practice, the pattern is made by 5 repetitions of A plus the
+duration of a quarter cycle at 50 Hz. The next figure shows 10 seconds
+of the absolute value of three oscillations at 49, 50 and 51 Hz
+respectively, sampled by using the periods of that pattern.
+The distribution and the modulation of the peaks remind the tremors
+that I sometimes perceive.
+
+![](media/fake_gsm_sampler_49hz50hz51hz.jpg)
+
+I have simulated the tinnitus produced by the pulses of the signal
+received at 945 MHz by approximating the termo-acoustic demodulator
+described in the section "Voice encoding":
 
 [tinnitus_pulses.wav (View Raw)](https://raw.githubusercontent.com/titola/neuropa/master/media/tinnitus_pulses.wav)
 
