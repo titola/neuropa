@@ -4,9 +4,10 @@
 
 I noticed the attack voice-to-skull the last year, July 15th 2017.
 
-The artificial deficiency coordinates the sequences and the psychology
-of the dialogues, often offensive, and the interferences to the normal
-neural oscillations that disturb the sleep with tremors, convulsions, etc.
+The artificial and natural deficiency coordinates the sequences and the
+psychology of the dialogues, often offensive, and the interferences to
+the normal neural oscillations that disturb the sleep with tremors,
+convulsions, etc.
 
 The following video shows a part of the signal directed to my head:
 
@@ -19,8 +20,10 @@ The following video shows a part of the signal directed to my head:
 In Italy "The personal freedom is inviolable." [1]
 
 My head is continually tracked, probably using the technology of the
-deficient missiles. That tracking system and the electric meters are
-the basis of the attack.
+deficient missiles. Sporadic sounds, that are not directional but
+audible by all and based on my location, suggest to me the use of the
+plasma. That tracking system and the electric meters are the basis of
+the attack.
 
 The criminals use the radio without limits of frequency, disturbing
 also the musical transmissions in FM.
@@ -40,7 +43,7 @@ mystery, often ignorantly divulged by using the word "conspiracy".
 I have analyzed the complete dynamics of the attack. This document
 contains what I can unequivocally explain (25% of the overall attack
 but I will write other and I will improve the structure of this
-document). I am a simple musician and programmer.
+document). I am a musician and programmer.
 
 The decoding is improvable (I have used a simple slope detector), but
 if you hear a voice in the audio file
@@ -57,9 +60,9 @@ material [3] or the responsible is a smart electric meter used as weapon.
 
 ## Table of Contents
 
-- [Private signal](#private-signal)
+- [Signal directed to the head](#signal-directed-to-the-head)
 - [Voice encoding](#voice-encoding)
-- [Public signal](#public-signal)
+- [Harmonics of 50 Hz from the mix of the amplitude modulations](#harmonics-of-50-hz-from-the-mix-of-the-amplitude-modulations)
 - [Hypothesis about the US embassy attack in Cuba](#hypothesis-about-the-us-embassy-attack-in-cuba)
     - [Methods to get the voices from the audio recording](#methods-to-get-the-voices-from-the-audio-recording)
 - [Other signals to analyse](#other-signals-to-analyse)
@@ -67,7 +70,7 @@ material [3] or the responsible is a smart electric meter used as weapon.
     - [Electric meters ACEA-ARETI with oscillator at 939 MHz](#electric-meters-acea-areti-with-oscillator-at-939-mhz)
 - [References](#references)
 
-## Private signal
+## Signal directed to the head
 
 The sonogram of a recording of the signal, with center frequency of
 945 MHz and sampling rate of 2 MHz, highlights the main pulses:
@@ -83,7 +86,33 @@ unchanged.
 A pulse "A" is the sum of 100 sinusoids separated by 1733 Hz, so the
 bandwidth is 173.3 kHz.
 
-A pulse "B" is the sum of 7 sinusoids separated by 216.6 Hz (= 1733/8).
+```
+1733.33 = 5200 / 3 = 50 * 8 * 13/3 = 650 * 8/3
+```
+
+A pulse "B" is the sum of 7 sinusoids separated by 216.6 Hz.
+
+```
+216.66667 = 650 / 3 = 5200 / 24 = 1733.33 / 8
+```
+
+Note: the frequencies 1733.33 Hz and 216.67 Hz can be mixed with the
+harmonics of 50 Hz to get other harmonics of 50 Hz. It is important
+because the whole attack exploits the electric current with nominal
+frequency of 50 Hz.
+
+```
+sin(x+y) = sin(x)*cos(y) + cos(x)*sin(x)
+sin(x-y) = sin(x)*cos(y) - cos(x)*sin(x)
+sin(3*(x+y)) = 3 sin(x+y) - 4 (sin(x+y))^3
+
+Examples:
+
+sin(50) = sin(3*(650/3 - 200)) = 3 * sin(650/3 - 200) - 4 * (sin(650/3 - 200))^3
+
+sin(100) = sin(3*(250 - 650/3)) = 3 * sin(250 - 650/3) - 4 * (sin(250 - 650/3))^3
+```
+
 The pattern of the the pulse repetition periods is
 
 ```
@@ -179,6 +208,30 @@ Finally, the part labeled "misc" in the first sonogram contains pulses
 produced by the sum of sinusoids separated by 1469 Hz and other
 sinusoids also separated by 1469 Hz.
 
+If I apply an envelope follower to the recorded I/Q, the result
+contains again the harmonics of 1733 Hz:
+
+![](media/945mhz_env.jpg)
+
+I continue to receive that and other malicious signals (at least)
+from July 2017 thanks to the negligence of the Italian security forces
+and Ministero della Difesa that should control the use of the radio
+frequencies. Unfortunately, there aren't real professionals in North Rome.
+If the attack is caused by foreign agencies and it is difficult to
+stop for various reasons, the citizens should be informed. From the
+Costituzione della Repubblica Italiana, articolo 28:
+
+> I funzionari e i dipendenti dello Stato e degli enti pubblici sono
+> direttamente responsabili, secondo le leggi penali, civili e
+> amministrative, degli atti compiuti in violazione di diritti. In
+> tali casi la responsabilità civile si estende allo Stato e agli enti
+> pubblici.
+
+Let me know if the Costituzione italiana that I have always respected
+is still valid. Meanwhile, I have learned to humiliate these fanatic
+idiots by controlling their sophisticated movements through a simple
+game of mirrors.
+
 ## Voice encoding
 
 The criminals use more techniques.
@@ -203,7 +256,10 @@ suggestive effect. The childish effect "play the entryphone and run
 away" and the annoying side effects (to describe in a separate section)
 persist.
 
-## Public signal
+I still have to analyze another technique that use the plasma and the
+electric current.
+
+## Harmonics of 50 Hz from the mix of the amplitude modulations
 
 Also my neighbors receive this type of signal:
 
@@ -219,23 +275,40 @@ On July 18th 2018, I have counted about 45 components of this type,
 
 The autocorrelation of the envelope reveals the signature of the sender:
 resonances multiple of about 1740 Hz and a pulse train with frequency of
-about 18 Hz and bandwidth less than 1600 Hz.
+about 18 Hz and bandwidth less than 1600 Hz. The envelope also contains
+a strong isolated oscillation with frequency around 20 kHz.
 
 Example: center frequency of 138 MHz
 
 ![](media/138_env_ac.jpg)
 
-Example: center frequency of 160 MHz
+Other examples:
 
-![](media/160_env_ac.jpg)
+[fc 160 MHz](https://github.com/titola/neuropa/blob/master/media/160_env_ac.jpg)
 
-Example: center frequency of 170 MHz
+[fc 170 MHz](https://github.com/titola/neuropa/blob/master/media/170_env_ac.jpg)
 
-![](media/170_env_ac.jpg)
+I have analyzed the whole envelope of the recorded I/Q with sampling
+rate of 2.4 MHz, considering all the carrier frequencies within the
+band of 1.2 MHz and the result is surprising:
 
-The energy of the pulses of over forty components is absorbed by the
-cerebral tissue, therefore the threshold level necessary to produce
-the thermoelastic wave is lower.
+![](media/138mhz_bw1200khz.jpg)
+
+The oscillations are multiple of the nominal frequency of 50 Hz and
+the highest harmonic is of 100 Hz. I have repeated the measure by
+applying a high pass filter to remove the first 50 kHz and the result
+is the same.
+
+The autocorrelation highlights the harmonics:
+
+![](media/138mhz_bw1200khz_ac.jpg)
+
+Therefore there are hundreds of carrier frequencies with modulations
+that hide their intent: harmonic frequencies of 50 Hz resulting from
+the mix of the amplitude modulations. The related currents induced
+into the circuits that pass through a rectifier and an amplifier,
+particularly the radio modules of the smart electric meters, dirty
+the electric current in a particular and possibly controlled way.
 
 ## Hypothesis about the US embassy attack in Cuba
 

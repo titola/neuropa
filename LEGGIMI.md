@@ -2,9 +2,10 @@
 
 L'attacco è iniziato l'anno scorso, il 15 Luglio 2017.
 
-La deficienza artificiale coordina le sequenze e la psicologia dei
-dialoghi, spesso offensivi, e le interferenze alle normali oscillazioni
-neurali che disturbano il sonno con tremori, convulsioni, etc.
+La deficienza artificiale e quella naturale coordinano le sequenze e
+la psicologia dei dialoghi, spesso offensivi, e le interferenze alle
+normali oscillazioni neurali che disturbano il sonno con tremori,
+convulsioni, etc.
 
 Il video seguente mostra una parte del segnale diretto alla mia testa:
 
@@ -17,7 +18,9 @@ Il video seguente mostra una parte del segnale diretto alla mia testa:
 In Italia "La libertà personale è inviolabile". [1]
 
 La mia testa è puntata continuamente, probabilmente utilizzando la
-tecnologia dei missili deficienti. Questo sistema di tracciamento
+tecnologia dei missili deficienti. Suoni sporadici, che non sono
+direzionali ma udibili da tutti e basati sulla mia posizione, mi
+suggeriscono l'utilizzo del plasma. Questo sistema di tracciamento
 insieme ai contatori elettronici sono le fondamenta dell'attacco.
 
 I criminali usano la radio senza limiti di frequenza, disturbando
@@ -38,7 +41,7 @@ mistero, spesso divulgato ignorantemente adoperando la parola "cospirazione".
 Ho analizzato la dinamica completa dell'attacco, mi sono informato ed
 ho raccolto le prove. Questo documento contiene quello che posso spiegare
 senza equivoci (25% dell'attacco complessivo ma scriverò altro e migliorerò
-la struttura del documento). Sono un semplice musicista e programmatore.
+la struttura del documento). Sono un musicista e programmatore.
 
 La decodifica è migliorabile (ho usato un semplice slope detector), ma
 se senti una voce nel file audio
@@ -56,9 +59,9 @@ materiale ferromagnetico [3] oppure il responsabile è un contatore elettronico
 
 ## Indice
 
-- [Segnale privato](#segnale-privato)
+- [Segnale diretto verso la testa](#segnale-diretto-verso-la-testa)
 - [Codifica della voce](#codifica-della-voce)
-- [Segnale pubblico](#segnale-pubblico)
+- [Armoniche di 50 Hz dalla combinazione di segnali modulanti](#armoniche-di-50-hz-dalla-combinazione-di-segnali-modulanti)
 - [Ipotesi sull'attacco subito dagli ambasciatori americani a Cuba](#ipotesi-sullattacco-subito-dagli-ambasciatori-americani-a-cuba)
     - [Metodi per ottenere le voci dalla registrazione audio](#metodi-per-ottenere-le-voci-dalla-registrazione-audio)
 - [Altri segnali da analizzare](#altri-segnali-da-analizzare)
@@ -66,11 +69,11 @@ materiale ferromagnetico [3] oppure il responsabile è un contatore elettronico
     - [Contatori elettronici ACEA-ARETI con oscillatore a 939 MHz](#contatori-elettronici-acea-areti-con-oscillatore-a-939-mhz)
 - [Riferimenti](#riferimenti)
 
-## Segnale privato
+## Segnale diretto verso la testa
 
-Il sonogramma di una registrazione di una parte del segnale che ho in
-testa, con frequenza centrale di circa 945 MHz e frequenza di campionamento
-pari a 2 MHz, mette in evidenza le pulsazioni principali:
+Il sonogramma di una registrazione di una parte del segnale diretto verso
+la mia testa, con frequenza centrale di circa 945 MHz e frequenza di
+campionamento pari a 2 MHz, mette in evidenza le pulsazioni principali:
 
 ![](media/sonogram_945mhz.jpg)
 
@@ -83,9 +86,34 @@ invariato.
 Un impulso in "pulses A" è generato dalla somma di 100 sinusoidi
 separate da circa 1733 Hz, quindi la larghezza di banda è 173.3 kHz.
 
+```
+1733.33 = 5200 / 3 = 50 * 8 * 13/3 = 650 * 8/3
+```
+
 Un impulso in "pulses B" è la somma di 7 sinusoidi separate da 216.6 Hz
-(= 1733/8). I periodi di ripetizione della pulsazione formano il
-pattern seguente:
+
+```
+216.66667 = 650 / 3 = 5200 / 24 = 1733.33 / 8
+```
+
+Nota: le frequenze 1733.33 Hz e 216.67 Hz possono essere sommate alle
+armoniche di 50 Hz per ottenere altre armoniche di 50 Hz. E' importante
+precisarlo perché l'attacco complessivo sfrutta la corrente elettrica
+con frequenza nominale di 50 Hz.
+
+```
+sin(x+y) = sin(x)*cos(y) + cos(x)*sin(x)
+sin(x-y) = sin(x)*cos(y) - cos(x)*sin(x)
+sin(3*(x+y)) = 3 sin(x+y) - 4 (sin(x+y))^3
+
+Esempi:
+
+sin(50) = sin(3*(650/3 - 200)) = 3 * sin(650/3 - 200) - 4 * (sin(650/3 - 200))^3
+
+sin(100) = sin(3*(250 - 650/3)) = 3 * sin(250 - 650/3) - 4 * (sin(250 - 650/3))^3
+```
+
+I periodi di ripetizione della pulsazione formano il pattern seguente:
 
 ```
 A A A A B A A A A B A A A A B ...
@@ -180,6 +208,30 @@ Infine, la parte etichettata "misc" nel primo sonogramma comprende
 impulsi generati dalla somma di sinusoidi separate da 1469 Hz e da
 altre sinusoidi separate ancora da 1469 Hz.
 
+Se applico un inseguitore d'inviluppo al I/Q registrato, ottengo
+di nuovo frequenze armoniche di 1733 Hz:
+
+![](media/945mhz_env.jpg)
+
+Continuo a ricevere questo ed altri segnali maligni (almeno) da Luglio
+2017 grazie alla negligenza dei servizi di sicurezza italiani e del
+Ministero della Difesa che dovrebbe sorvegliare l'utilizzo delle
+frequenze radio. Purtroppo non ci sono veri professionisti a Roma Nord.
+Se l'attacco proviene da agenzie governative estere ed è difficile da
+bloccare per diversi motivi, i cittadini dovrebbero essere informati.
+Dalla Costituzione della Repubblica Italiana, articolo 28:
+
+> I funzionari e i dipendenti dello Stato e degli enti pubblici sono
+> direttamente responsabili, secondo le leggi penali, civili e
+> amministrative, degli atti compiuti in violazione di diritti. In
+> tali casi la responsabilità civile si estende allo Stato e agli enti
+> pubblici.
+
+Fatemi sapere se la Costituzione italiana che ho sempre rispettato è
+ancora valida. Intanto ho imparato ad umiliare questi fanatici idioti
+controllando i loro sofisticati movimenti tramite un semplice gioco di
+specchi.
+
 ## Codifica della voce
 
 Hanno usato più tecniche.
@@ -204,7 +256,10 @@ l'effetto suggestivo. Rimane quello puerile "suona il citofono e
 scappa" più i fastidiosi effetti collaterali (da descrivere in una
 sezione separata).
 
-## Segnale pubblico
+Devo ancora analizzare un'altra tecnica che usa il plasma e la
+corrente elettrica.
+
+## Armoniche di 50 Hz dalla combinazione di segnali modulanti
 
 Anche i miei vicini di casa ricevono questo tipo di segnale:
 
@@ -221,22 +276,41 @@ Il 18 Luglio 2018 ho contato circa 45 componenti di questo tipo, 5 tra
 L'autocorrelazione dell'inviluppo rivela la firma del mittente:
 risonanze multiple di circa 1740 Hz ed impulsi ripetuti con una
 frequenza di circa 18 Hz e larghezza di banda inferiore a 1600 Hz.
+L'inviluppo contiene anche una forte oscillazione isolata con
+frequenza intorno a 20 kHz.
 
 Esempio: frequenza centrale 138 MHz
 
 ![](media/138_env_ac.jpg)
 
-Esempio: frequenza centrale 160 MHz
+Altri esempi:
 
-![](media/160_env_ac.jpg)
+[fc 160 MHz](https://github.com/titola/neuropa/blob/master/media/160_env_ac.jpg)
 
-Esempio: frequenza centrale 170 MHz
+[fc 170 MHz](https://github.com/titola/neuropa/blob/master/media/170_env_ac.jpg)
 
-![](media/170_env_ac.jpg)
+Ho analizzato l'inviluppo complessivo del I/Q registrato con frequenza
+di campionamento di 2.4 MHz, considerando tutte le frequenze portanti
+nella banda di 1.2 MHz ed il risultato è sorprendente:
 
-L'energia degli impulsi di oltre quaranta componenti è assorbita dal tessuto
-cerebrale, quindi si abbassa il valore di soglia da raggiungere per generare
-l'onda termo-acustica.
+![](media/138mhz_bw1200khz.jpg)
+
+Le oscillazioni sono multiple della frequenza nominale di 50 Hz e
+l'armonica con ampiezza maggiore è quella a 100 Hz. Ho ripetuto la
+misura applicando un filtro passa alto per rimuovere i primi 50 kHz
+ed il risultato è lo stesso.
+
+L'autocorrelazione evidenzia le armoniche:
+
+![](media/138mhz_bw1200khz_ac.jpg)
+
+Quindi ci sono centinaia di frequenze portanti con modulazioni che
+nascondono il loro intento: frequenze armoniche di 50 Hz ottenute
+sommando i segnali modulanti (AM) di ogni componente. Le rispettive
+correnti indotte nei circuiti che attraversano un rettificatore ed un
+amplificatore, in particolare i moduli radio dei contatori elettronici,
+sporcano la corrente elettrica in modo particolare e possibilmente
+controllato.
 
 ## Ipotesi sull'attacco subito dagli ambasciatori americani a Cuba
 
