@@ -139,6 +139,26 @@ modulazione dei picchi ricordano i tremori che percepisco ogni tanto.
 
 ![](media/fake_gsm_sampler_49hz50hz51hz.jpg)
 
+Se uso il mio corpo come antenna toccando l'antenna di ricezione con
+la mano, posso registrare impulsi ripetuti con una frequenza di circa
+78250 Hz, che potrebbero provenire dal SMPS (Switch Mode Power
+Supplies) del contatore elettronico.
+
+I campioni di un suono campionato a 80 KHz possono essere nascosti nei
+segnali modulanti. La radiazione impulsiva assorbita di 80 KHz genera
+impulsi termo-elastici che "campionano" l'inviluppo del segnale
+complessivo (non solo quello dell segnale di 945 MHz ma anche le altre
+componenti, alcune descritte in questo documento), provocando la
+percezione del suono. Il dominio non è digitale, quindi i campioni
+hanno una durata almeno pari alla larghezza dell'impulso.
+
+E' difficile demodulare correttamente il segnale nascosto ed ascoltare
+il suono, perché i campioni iniettati devono essere in fase con la
+corrente elettrica, proprio come gli impulsi di 80 KHz. Il trucco
+utilizzato dai criminali per monitorare la fase della corrente
+elettrica è descritto in una sezione separata (un infrasuono ottenuto
+da un segnale a 422.733 MHz).
+
 Ho simulato il tinnitus prodotto dagli impulsi del segnale ricevuto a
 945 MHz in base al demodulatore termo-acustico descritto nella sezione
 "Codifica della voce":

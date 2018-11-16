@@ -140,6 +140,25 @@ that I sometimes perceive.
 
 ![](media/fake_gsm_sampler_49hz50hz51hz.jpg)
 
+If I use my body as antenna by touching the receiving antenna with the
+hand, I can record the pulses repeated with frequency of about 78250
+Hz that could be caused by the SMPS (Switch Mode Power Supplies) of
+the electric smart meter.
+
+The samples of a sound sampled at 80 KHz can be hidden in the
+modulanting signals. The absorbed impulsive radiation of 80 KHz
+generates thermoelastic pulses that "sample" the overall signal
+envelope (not just the signal at 945 MHz but also the other
+components, some described in this document), causing the perception
+of the sound. The domain is not digital, therefore the samples have a
+duration at least equal to the pulse width.
+
+It is difficult to correctly demodulate the hidden signal and listen
+the sound, because the injected samples have to be in phase with the
+electric current, just as the pulses at 80 KHz. The trick used by the
+thugs to monitor the phases of the electric current is described in a
+separated section (an infrasound obtained from a signal at 422.733 MHz).
+
 I have simulated the tinnitus produced by the pulses of the signal
 received at 945 MHz by approximating the termo-acoustic demodulator
 described in the section "Voice encoding":
