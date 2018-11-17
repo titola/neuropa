@@ -143,10 +143,13 @@ that I sometimes perceive.
 If I use my body as antenna by touching the receiving antenna with the
 hand, I can record the pulses repeated with frequency of about 78250
 Hz that could be caused by the SMPS (Switch Mode Power Supplies) of
-the electric smart meter.
+the electric smart meter. Sometimes I have recorded pulses with
+frequency 31300 Hz instead of 78250 Hz. The ratio 5/2 between these
+frequencies is described in the section "Electric meters ACEA-ARETI
+with oscillator at 939 MHz".
 
-The samples of a sound sampled at 80 KHz can be hidden in the
-modulanting signals. The absorbed impulsive radiation of 80 KHz
+The samples of a sound sampled at 80 KHz (or 31.3 KHz) can be hidden
+in the modulanting signals. The absorbed impulsive radiation of 80 KHz
 generates thermoelastic pulses that "sample" the overall signal
 envelope (not just the signal at 945 MHz but also the other
 components, some described in this document), causing the perception
@@ -545,6 +548,20 @@ By analysing the infrasound described in the prior sections, I have
 discovered that an oscillator has the frequency set at 939 MHz instead
 of the declared 868 MHz. You can notice that the RF signals near 939 MHz
 are really the responsables of the tinnitus.
+
+It is interesting to notice the ratio between that frequency and the
+frequencies 78250 Hz and 31300 Hz of the recorded pulses, probably
+induced by the SMPS (Switch Mode Power Supplies):
+
+```
+939000000 / 78250 = 12000
+939000000 / 31300 = 30000
+78250 / 31300 = 5/2
+```
+
+12000 or 30000 cycles at 939 MHz between two pulses. Besides, the
+ratio 5/2 between the two frequencies is equal to the ratio between
+422.733 MHz and 169 MHz.
 
 Why 1/0.18, the reciprocal of 9 cycles of the nominal frequency of the
 electrical grid? The oscillators of the smart meter are in phase

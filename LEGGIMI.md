@@ -142,14 +142,17 @@ modulazione dei picchi ricordano i tremori che percepisco ogni tanto.
 Se uso il mio corpo come antenna toccando l'antenna di ricezione con
 la mano, posso registrare impulsi ripetuti con una frequenza di circa
 78250 Hz, che potrebbero provenire dal SMPS (Switch Mode Power
-Supplies) del contatore elettronico.
+Supplies) del contatore elettronico. Alcune volte ho registrato
+impulsi con frequenza 31300 Hz invece di 78250 Hz. Il rapporto 5/2 tra
+queste due frequenze è descritto nella sezione "Contatori elettronici
+ACEA-ARETI con oscillatore a 939 MHz".
 
-I campioni di un suono campionato a 80 KHz possono essere nascosti nei
-segnali modulanti. La radiazione impulsiva assorbita di 80 KHz genera
-impulsi termo-elastici che "campionano" l'inviluppo del segnale
-complessivo (non solo quello dell segnale di 945 MHz ma anche le altre
-componenti, alcune descritte in questo documento), provocando la
-percezione del suono. Il dominio non è digitale, quindi i campioni
+I campioni di un suono campionato a 80 KHz (o 31.3 KHz) possono essere
+nascosti nei segnali modulanti. La radiazione impulsiva assorbita di
+80 KHz genera impulsi termo-elastici che "campionano" l'inviluppo del
+segnale complessivo (non solo quello dell segnale di 945 MHz ma anche
+le altre componenti, alcune descritte in questo documento), provocando
+la percezione del suono. Il dominio non è digitale, quindi i campioni
 hanno una durata almeno pari alla larghezza dell'impulso.
 
 E' difficile demodulare correttamente il segnale nascosto ed ascoltare
@@ -550,6 +553,19 @@ Analizzando l'infrasuono descritto nelle sezioni precedenti, ho
 scoperto che un oscillatore ha la frequenza impostata a 939 MHz
 invece di quella dichiarata di 868 MHz. Puoi notare che i segnali RF
 vicini a 939 MHz sono proprio i responsabili del tinnitus.
+
+E' interessante notare il rapporto tra questa frequenza e le frequenze
+78250 Hz e 31300 Hz degli impulsi registrati, probabilmente indotti
+dal SMPS (Switch Mode Power Supplies):
+
+```
+939000000 / 78250 = 12000
+939000000 / 31300 = 30000
+78250 / 31300 = 5/2
+```
+
+12000 o 30000 cicli a 939 Mhz tra due impulsi. Inoltre, il rapporto 5/2
+tra le due frequenze equivale al rapporto tra 422.733 MHz e 169 MHz.
 
 Perché 1/0.18, l'inverso di 9 cicli della frequenza nominale della
 rete elettrica? Gli oscillatori del contatore sono in fase con la
