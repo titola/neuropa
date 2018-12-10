@@ -67,6 +67,9 @@ materiale ferromagnetico [3] oppure il responsabile è un contatore elettronico
 - [Altri segnali da analizzare](#altri-segnali-da-analizzare)
     - [Eventi sincronizzati con le voci](#eventi-sincronizzati-con-le-voci)
     - [Contatori elettronici ACEA-ARETI con oscillatore a 939 MHz](#contatori-elettronici-acea-areti-con-oscillatore-a-939-mhz)
+- [Registrazioni audio](#registrazioni-audio)
+    - [Oscillazione di 5400 Hz dopo una convulsione indotta](#oscillazione-di-5400-hz-dopo-una-convulsione-indotta)
+    - [Intervallo di sesta minore con il tinnitus](#intervallo-di-sesta-minore-con-il-tinnitus)
 - [Riferimenti](#riferimenti)
 
 ## Segnale diretto verso la testa
@@ -208,12 +211,12 @@ udibili ed infrasuoni. Il ritaglio seguente è amplificato di 40 dB:
 [low_freq_with_6min_for_tinnitus.wav](https://github.com/titola/neuropa/blob/master/media/low_freq_with_6min_for_tinnitus.wav)
 
 I criminali (sotto protezione) usano questi suoni anche per sfruttare
-l'interazione con il tinnitus. Aggiungerò una sezione dedicata alle
-registrazioni audio notturne contenenti suoni generati tramite interferenze
-elettromagnetiche intenzionali: impulsi ripetuti ogni 1.9 secondi,
-un segnale continuo con frequenza fondamentale di 7.62 Hz ed altre
-frequenze che formano rapporti semplici con 50 Hz, la frequenza
-nominale della rete elettrica in Italia [5], per esempio:
+l'interazione con il tinnitus. Alcune registrazioni audio notturne
+contengono suoni generati tramite interferenze elettromagnetiche
+intenzionali: impulsi ripetuti ogni 1.9 secondi, un segnale continuo
+con frequenza fondamentale di 7.62 Hz ed altre frequenze che formano
+rapporti semplici con 50 Hz, la frequenza nominale della rete
+elettrica in Italia [5], per esempio:
 
 ```
 100 = 50 * 2
@@ -224,7 +227,6 @@ nominale della rete elettrica in Italia [5], per esempio:
 
 errori "scintillanti" sporadici:
   5415 = 216.6 * 25
-  1155 = 216.6 * 16/3
 ```
 
 Infine, la parte etichettata "misc" nel primo sonogramma comprende
@@ -639,6 +641,28 @@ MHz, ma c'è altro) è possibilmente ripetuto dai contatori elettronici
 dell'ACEA. Spero di no, ma se i criminali controllano la distribuzione
 dei segnali RF di tutti i contatori deficienti, possono mixarli in modo
 da indirizzarli verso una zona ben precisa.
+
+## Registrazioni audio
+
+### Oscillazione di 5400 Hz dopo una convulsione indotta
+
+Ho ascoltato un'oscillazione di 5400 Hz soltanto una volta, la notte
+del 20 Agosto 2018. Respiro profondamente dopo una delle tante
+convulsioni notturne indotte. L'oscillazione inizia insieme al picco
+dell'infrasuono.
+
+[5400hz_20180820_night.wav (View Raw)](https://raw.githubusercontent.com/titola/neuropa/master/media/5400hz_20180820_night.wav)
+
+[5400hz_20180820_night.wav](https://github.com/titola/neuropa/blob/master/media/5400hz_20180820_night.wav)
+
+### Intervallo di sesta minore con il tinnitus
+
+Un fastidioso intervallo di sesta minore tra il tinnitus indotto
+ed un'oscillazione di circa 35.4 Hz.
+
+[low_freq_with_6min_for_tinnitus.wav (View Raw)](https://raw.githubusercontent.com/titola/neuropa/master/media/low_freq_with_6min_for_tinnitus.wav)
+
+[low_freq_with_6min_for_tinnitus.wav](https://github.com/titola/neuropa/blob/master/media/low_freq_with_6min_for_tinnitus.wav)
 
 ## Riferimenti
 

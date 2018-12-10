@@ -68,6 +68,9 @@ material [3] or the responsible is a smart electric meter used as weapon.
 - [Other signals to analyse](#other-signals-to-analyse)
     - [Events synchronized with the voices](#events-synchronized-with-the-voices)
     - [Electric meters ACEA-ARETI with oscillator at 939 MHz](#electric-meters-acea-areti-with-oscillator-at-939-mhz)
+- [Audio recordings](#audio-recordings)
+    - [Oscillation of 5400 Hz after an induced convulsion](#oscillation-of-5400-hz-after-an-induced-convulsion)
+    - [Interval of minor sixth with the tinnitus](#interval-of-minor-sixth-with-the-tinnitus)
 - [References](#references)
 
 ## Signal directed to the head
@@ -207,12 +210,12 @@ infrasounds. The next clip is amplified by 40 dB:
 [low_freq_with_6min_for_tinnitus.wav](https://github.com/titola/neuropa/blob/master/media/low_freq_with_6min_for_tinnitus.wav)
 
 The (protected) criminals use these sounds also to exploit the
-interaction with the tinnitus. I will add a section for the nightly
-audio recordings that contain the sounds produced through intentional
-electromagnetic interferences: pulses repeated every 1.9 seconds,
-a continuous signal with fundamental frequency of 7.62 Hz and other
-frequencies that form simple ratios with 50 Hz, the nominal frequency
-of the electrical grid in Italy [5], for example:
+interaction with the tinnitus. Some nightly audio recordings contain
+the sounds produced through intentional electromagnetic interferences:
+pulses repeated every 1.9 seconds, a continuous signal with fundamental
+frequency of 7.62 Hz and other frequencies that form simple ratios with
+50 Hz, the nominal frequency of the electrical grid in Italy [5], for
+example:
 
 ```
 100 = 50 * 2
@@ -223,7 +226,6 @@ of the electrical grid in Italy [5], for example:
 
 sporadic "scintillant" errors:
   5415 = 216.6 * 25
-  1155 = 216.6 * 16/3
 ```
 
 Finally, the part labeled "misc" in the first sonogram contains pulses
@@ -635,6 +637,28 @@ Therefore the signal directed to my head at 945 MHz (also 935 MHz and
 meters. I hope no, but if the thugs control the distribution of the
 RF signals of all the deficient meters, they can mix and direct them to
 a specific zone.
+
+## Audio recordings
+
+### Oscillation of 5400 Hz after an induced convulsion
+
+I have heard an oscillation of 5400 Hz only one time, the night on
+August 20, 2018. I profoundly breathe after one of the many nightly
+induced convulsions. The oscillation starts with the peak of the
+infrasound.
+
+[5400hz_20180820_night.wav (View Raw)](https://raw.githubusercontent.com/titola/neuropa/master/media/5400hz_20180820_night.wav)
+
+[5400hz_20180820_night.wav](https://github.com/titola/neuropa/blob/master/media/5400hz_20180820_night.wav)
+
+### Interval of minor sixth with the tinnitus
+
+An annoying interval of minor sixth between the induced tinnitus and
+an oscillation of about 35.4 Hz.
+
+[low_freq_with_6min_for_tinnitus.wav (View Raw)](https://raw.githubusercontent.com/titola/neuropa/master/media/low_freq_with_6min_for_tinnitus.wav)
+
+[low_freq_with_6min_for_tinnitus.wav](https://github.com/titola/neuropa/blob/master/media/low_freq_with_6min_for_tinnitus.wav)
 
 ## References
 
