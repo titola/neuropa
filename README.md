@@ -71,6 +71,7 @@ material [3] or the responsible is a smart electric meter used as weapon.
 - [Audio recordings](#audio-recordings)
     - [Oscillation of 5400 Hz after an induced convulsion](#oscillation-of-5400-hz-after-an-induced-convulsion)
     - [Interval of minor sixth with the tinnitus](#interval-of-minor-sixth-with-the-tinnitus)
+    - [Amplitude modulated oscillation of 100 Hz](#amplitude-modulated-oscillation-of-100-hz)
 - [References](#references)
 
 ## Signal directed to the head
@@ -659,6 +660,38 @@ an oscillation of about 35.4 Hz.
 [low_freq_with_6min_for_tinnitus.wav (View Raw)](https://raw.githubusercontent.com/titola/neuropa/master/media/low_freq_with_6min_for_tinnitus.wav)
 
 [low_freq_with_6min_for_tinnitus.wav](https://github.com/titola/neuropa/blob/master/media/low_freq_with_6min_for_tinnitus.wav)
+
+### Amplitude modulated oscillation of 100 Hz
+
+Recorded on August 10, 2018.
+
+There is a main entrance that communicates with five rooms. An amplitude
+modulated oscillation with frequency of 100 Hz starts every time I go
+into the entrance. The sound terminates if I go into a room. It is useless
+to comment, they are idiots with the pedigree.
+
+I have done more recordings by setting up the microphone in every room.
+The following sound files are regions normalized and low pass filtered to
+remove the environmental sounds. There are also some very low frequencies
+to analyse.
+
+(The game is suspended).
+
+[Room A (View Raw)](https://raw.githubusercontent.com/titola/neuropa/master/media/100hz_room_a.wav)
+
+[Room A](https://github.com/titola/neuropa/blob/master/media/100hz_room_a.wav)
+
+[Room B (View Raw)](https://raw.githubusercontent.com/titola/neuropa/master/media/100hz_room_b.wav)
+
+[Room B](https://github.com/titola/neuropa/blob/master/media/100hz_room_b.wav)
+
+[Room C (View Raw)](https://raw.githubusercontent.com/titola/neuropa/master/media/100hz_room_c.wav)
+
+[Room C](https://github.com/titola/neuropa/blob/master/media/100hz_room_c.wav)
+
+[Entrance (View Raw)](https://raw.githubusercontent.com/titola/neuropa/master/media/100hz_entrance.wav)
+
+[Entrance](https://github.com/titola/neuropa/blob/master/media/100hz_entrance.wav)
 
 ## References
 

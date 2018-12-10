@@ -70,6 +70,7 @@ materiale ferromagnetico [3] oppure il responsabile è un contatore elettronico
 - [Registrazioni audio](#registrazioni-audio)
     - [Oscillazione di 5400 Hz dopo una convulsione indotta](#oscillazione-di-5400-hz-dopo-una-convulsione-indotta)
     - [Intervallo di sesta minore con il tinnitus](#intervallo-di-sesta-minore-con-il-tinnitus)
+    - [Oscillazione di 100 Hz modulata in ampiezza](#oscillazione-di-100-hz-modulata-in-ampiezza)
 - [Riferimenti](#riferimenti)
 
 ## Segnale diretto verso la testa
@@ -663,6 +664,38 @@ ed un'oscillazione di circa 35.4 Hz.
 [low_freq_with_6min_for_tinnitus.wav (View Raw)](https://raw.githubusercontent.com/titola/neuropa/master/media/low_freq_with_6min_for_tinnitus.wav)
 
 [low_freq_with_6min_for_tinnitus.wav](https://github.com/titola/neuropa/blob/master/media/low_freq_with_6min_for_tinnitus.wav)
+
+### Oscillazione di 100 Hz modulata in ampiezza
+
+Registrazioni del 10 Agosto 2018.
+
+C'è un ingresso che comunica con cinque stanze. Un'oscillazione con
+frequenza di 100 Hz modulata in ampiezza inizia ogni volta che entro
+nell'ingresso. Il suono termina se entro in una stanza. E' inutile
+commentare, sono idioti col pedigree.
+
+Ho effettuato più registrazioni posizionando il microfono in ogni
+stanza. I file seguenti sono regioni normalizzate e filtrate con un
+filtro passa basso per eliminare i suoni ambientali. Ci sono anche
+alcune frequenze molto basse da analizzare.
+
+(Il gioco è stato sospeso).
+
+[Stanza A (View Raw)](https://raw.githubusercontent.com/titola/neuropa/master/media/100hz_room_a.wav)
+
+[Stanza A](https://github.com/titola/neuropa/blob/master/media/100hz_room_a.wav)
+
+[Stanza B (View Raw)](https://raw.githubusercontent.com/titola/neuropa/master/media/100hz_room_b.wav)
+
+[Stanza B](https://github.com/titola/neuropa/blob/master/media/100hz_room_b.wav)
+
+[Stanza C (View Raw)](https://raw.githubusercontent.com/titola/neuropa/master/media/100hz_room_c.wav)
+
+[Stanza C](https://github.com/titola/neuropa/blob/master/media/100hz_room_c.wav)
+
+[Ingresso (View Raw)](https://raw.githubusercontent.com/titola/neuropa/master/media/100hz_entrance.wav)
+
+[Ingresso](https://github.com/titola/neuropa/blob/master/media/100hz_entrance.wav)
 
 ## Riferimenti
 
