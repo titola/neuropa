@@ -41,7 +41,7 @@ I want to share the analysis of this attack to break the veil of
 mystery, often ignorantly divulged by using the word "conspiracy".
 
 I have analyzed the complete dynamics of the attack. This document
-contains what I can unequivocally explain (25% of the overall attack
+contains what I can unequivocally explain (30% of the overall attack
 but I will write other and I will improve the structure of this
 document). I am a musician and programmer.
 
@@ -150,7 +150,14 @@ Hz that could be caused by the SMPS (Switch Mode Power Supplies) of
 the electric smart meter. Sometimes I have recorded pulses with
 frequency 31300 Hz instead of 78250 Hz. The ratio 5/2 between these
 frequencies is described in the section "Electric meters ACEA-ARETI
-with oscillator at 939 MHz".
+with oscillator at 939 MHz". These pulses allow the sampling of the
+signal hidden into the overall radiation (diffuse and direct):
+
+![](media/sampler.jpg)
+
+The direct radiation can also exploit some common signals that belong
+to the diffuse radiation, for example the radio-tv stations, concealing
+some partials in the same signal with inverted phase.
 
 The samples of a sound sampled at 80 KHz (or 31.3 KHz) can be hidden
 in the modulanting signals. The absorbed impulsive radiation of 80 KHz
@@ -160,11 +167,149 @@ components, some described in this document), causing the perception
 of the sound. The domain is not digital, therefore the samples have a
 duration at least equal to the pulse width.
 
-It is difficult to correctly demodulate the hidden signal and listen
-the sound, because the injected samples have to be in phase with the
-electric current, just as the pulses at 80 KHz. The trick used by the
-thugs to monitor the phases of the electric current is described in a
-separated section (an infrasound obtained from a signal at 422.733 MHz).
+In this case, it is difficult to correctly demodulate the hidden
+signal and listen the sound, because the injected samples have to be
+in phase with the electric current, just as the pulses at 80 KHz. The
+trick used by the thugs to monitor the phases of the electric current
+is described in a separated section (an infrasound obtained from a
+signal at 422.733 MHz).
+
+However, it is simplest to "sample" particular oscillations through
+aliasing. For example, to get an oscillation of 100 Hz when the pulse
+frequency is 78250 Hz, it is enough to transmit a signal with central
+frequency of
+
+```
+78250 * N - 100
+78250 * N + 100
+```
+
+where N is an integer greater than zero. The oscillations are
+
+```
+sin(2*pi*(78250*N-100)*t + pi - initial_phase)
+sin(2*pi*(78250*N+100)*t + initial_phase)
+
+Example: getting 100 Hz from about 700 MHz with intial phase pi/8
+
+700024600 = 78250 * 8946 + 100
+sin(2*pi*700024600*t + pi/8)
+
+or:
+
+700024400 = 78250 * 8946 - 100
+sin(2*pi*700024400*t + 7/8 pi)
+```
+
+In the section "Audio recordings", there is a link to a sound file
+that contains an oscillation of 5400 Hz recorded on August 20, 2018.
+I have noticed that 5400 Hz can be obtained through the aliasing of
+the "pulses A" if the sampling rate is 31.3 kHz. The following table
+lists the frequencies obtainable through the aliasing of the
+"pulses A" with sampling frequencies 31300 Hz and 78250 Hz:
+
+| sr = 31300 Hz | sr = 78250 Hz |
+|---------------|---------------|
+| 100           | 250           |
+| 200           | 500           |
+| 300           | 1233          |
+| 400           | 1483          |
+| 500           | 1733          |
+| 1233          | 1983          |
+| 1333          | 2233          |
+| 1433          | 2967          |
+| 1533          | 3217          |
+| 1633          | 3467          |
+| 1733          | 3717          |
+| 1833          | 3967          |
+| 1933          | 4700          |
+| 2033          | 4950          |
+| 2133          | 5200          |
+| 2233          | 5450          |
+| 2967          | 5700          |
+| 3067          | 6433          |
+| 3167          | 6683          |
+| 3267          | 6933          |
+| 3367          | 7183          |
+| 3467          | 7433          |
+| 3567          | 8167          |
+| 3667          | 8417          |
+| 3767          | 8667          |
+| 3867          | 8917          |
+| 3967          | 9167          |
+| 4700          | 9900          |
+| 4800          | 10150         |
+| 4900          | 10400         |
+| 5000          | 10650         |
+| 5100          | 10900         |
+| 5200          | 11633         |
+| 5300          | 11883         |
+| 5400          | 12133         |
+| 5500          | 12383         |
+| 5600          | 12633         |
+| 5700          | 13367         |
+| 6433          | 13617         |
+| 6533          | 13867         |
+| 6633          | 14117         |
+| 6733          | 14367         |
+| 6833          | 15100         |
+| 6933          | 15350         |
+| 7033          | 15600         |
+| 7133          | 15850         |
+| 7233          | 16100         |
+| 7333          | 17083         |
+| 7433          | 17333         |
+| 8167          | 17583         |
+| 8267          | 17833         |
+| 8367          | 18817         |
+| 8467          | 19067         |
+| 8567          | 19317         |
+| 8667          | 19567         |
+| 8767          | 20550         |
+| 8867          | 20800         |
+| 8967          | 21050         |
+| 9067          | 21300         |
+| 9167          | 22283         |
+| 9900          | 22533         |
+| 10000         | 22783         |
+| 10100         | 23033         |
+| 10200         | 24017         |
+| 10300         | 24267         |
+| 10400         | 24517         |
+| 10500         | 24767         |
+| 10600         | 25750         |
+| 10700         | 26000         |
+| 10800         | 26250         |
+| 10900         | 26500         |
+| 11633         | 27483         |
+| 11733         | 27733         |
+| 11833         | 27983         |
+| 11933         | 28233         |
+| 12033         | 29217         |
+| 12133         | 29467         |
+| 12233         | 29717         |
+| 12333         | 29967         |
+| 12433         | 30950         |
+| 12533         | 31200         |
+| 12633         | 31450         |
+| 13367         | 31700         |
+| 13467         | 32683         |
+| 13567         | 32933         |
+| 13667         | 33183         |
+| 13767         | 33433         |
+| 13867         | 34417         |
+| 13967         | 34667         |
+| 14067         | 34917         |
+| 14167         | 35167         |
+| 14267         | 36150         |
+| 14367         | 36400         |
+| 15100         | 36650         |
+| 15200         | 36900         |
+| 15300         | 37883         |
+| 15400         | 38133         |
+| 15500         | 38383         |
+| 15600         | 38633         |
+
 
 I have simulated the tinnitus produced by the pulses of the signal
 received at 945 MHz by approximating the termo-acoustic demodulator
@@ -259,9 +404,17 @@ game of mirrors.
 
 ## Voice encoding
 
-The criminals use more techniques.
+The criminals use more techniques. The prior section "Signal directed
+to the head" describes the sampling with aliasing through a pulse train.
+The steps to transmit a signal to a termo-acoustic "sampler" are:
 
-A simple recipe to get the pulses A is the following:
+- STFT (Short Time Fourier Transform) to divide the signal into modulated sinusoids.
+
+- Transmit these oscillations in scattered or arbitrary order (diffuse and/or direct radiation) with central frequencies obtained through aliasing.
+
+- Send pulses through the electrical grid. The pulse frequency is equal to the sampling rate used to compute the central frequencies.
+
+A recipe to get the pulses A is the following:
 
 -   Sinusoidal signal with frequency 14.5 kHz, frequency modulated by a vocal sound.
 

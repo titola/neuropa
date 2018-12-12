@@ -40,7 +40,7 @@ mistero, spesso divulgato ignorantemente adoperando la parola "cospirazione".
 
 Ho analizzato la dinamica completa dell'attacco, mi sono informato ed
 ho raccolto le prove. Questo documento contiene quello che posso spiegare
-senza equivoci (25% dell'attacco complessivo ma scriverò altro e migliorerò
+senza equivoci (30% dell'attacco complessivo ma scriverò altro e migliorerò
 la struttura del documento). Sono un musicista e programmatore.
 
 La decodifica è migliorabile (ho usato un semplice slope detector), ma
@@ -149,7 +149,16 @@ la mano, posso registrare impulsi ripetuti con una frequenza di circa
 Supplies) del contatore elettronico. Alcune volte ho registrato
 impulsi con frequenza 31300 Hz invece di 78250 Hz. Il rapporto 5/2 tra
 queste due frequenze è descritto nella sezione "Contatori elettronici
-ACEA-ARETI con oscillatore a 939 MHz".
+ACEA-ARETI con oscillatore a 939 MHz". Questi impulsi permettono il
+campionamento di un segnale nascosto nella radiazione complessiva
+(diffusa e diretta):
+
+![](media/sampler.jpg)
+
+La radiazione diretta può anche sfruttare alcuni segnali comuni che
+appartengono alla radiazione diffusa, per esempio le stazioni
+radio-tv, nascondendo alcune parziali nello stesso segnale con fase
+invertita.
 
 I campioni di un suono campionato a 80 KHz (o 31.3 KHz) possono essere
 nascosti nei segnali modulanti. La radiazione impulsiva assorbita di
@@ -159,12 +168,149 @@ le altre componenti, alcune descritte in questo documento), provocando
 la percezione del suono. Il dominio non è digitale, quindi i campioni
 hanno una durata almeno pari alla larghezza dell'impulso.
 
-E' difficile demodulare correttamente il segnale nascosto ed ascoltare
-il suono, perché i campioni iniettati devono essere in fase con la
-corrente elettrica, proprio come gli impulsi di 80 KHz. Il trucco
-utilizzato dai criminali per monitorare la fase della corrente
-elettrica è descritto in una sezione separata (un infrasuono ottenuto
-da un segnale a 422.733 MHz).
+In questo caso è difficile demodulare correttamente il segnale
+nascosto ed ascoltare il suono, perché i campioni iniettati devono
+essere in fase con la corrente elettrica, proprio come gli impulsi di
+80 KHz. Il trucco utilizzato dai criminali per monitorare la fase
+della corrente elettrica è descritto in una sezione separata (un
+infrasuono ottenuto da un segnale a 422.733 MHz).
+
+Comunque è più semplice "campionare" particolari oscillazioni tramite
+aliasing. Per esempio, per ottenere un'oscillazione di 100 Hz quando
+la frequenza degli impulsi è 78250 Hz, è sufficiente trasmettere un
+segnale con frequenza centrale pari a
+
+```
+78250 * N - 100
+78250 * N + 100
+```
+
+con N intero maggiore di zero. Le oscillazioni sono
+
+```
+sin(2*pi*(78250*N-100)*t + pi - fase_iniziale)
+sin(2*pi*(78250*N+100)*t + fase_iniziale)
+
+Esempio: ottenere 100 Hz da circa 700 MHz con fase iniziale pi/8
+
+700024600 = 78250 * 8946 + 100
+sin(2*pi*700024600*t + pi/8)
+
+oppure:
+
+700024400 = 78250 * 8946 - 100
+sin(2*pi*700024400*t + 7/8 pi)
+```
+
+Nella sezione "Registrazioni audio" c'è un collegamento ad un file
+audio contenente un oscillazione di 5400 Hz registrata il 20 Agosto 2018.
+Ho notato che questa frequenza può essere ottenuta tramite aliasing
+degli impulsi "pulses A" quando la frequenza di campionamento è 31.3 kHz.
+La tabella seguente elenca le frequenze ottenibili tramite aliasing degli
+impulsi "pulses A" con frequenze di campionamento 31300 Hz e 78250 Hz:
+
+| sr = 31300 Hz | sr = 78250 Hz |
+|---------------|---------------|
+| 100           | 250           |
+| 200           | 500           |
+| 300           | 1233          |
+| 400           | 1483          |
+| 500           | 1733          |
+| 1233          | 1983          |
+| 1333          | 2233          |
+| 1433          | 2967          |
+| 1533          | 3217          |
+| 1633          | 3467          |
+| 1733          | 3717          |
+| 1833          | 3967          |
+| 1933          | 4700          |
+| 2033          | 4950          |
+| 2133          | 5200          |
+| 2233          | 5450          |
+| 2967          | 5700          |
+| 3067          | 6433          |
+| 3167          | 6683          |
+| 3267          | 6933          |
+| 3367          | 7183          |
+| 3467          | 7433          |
+| 3567          | 8167          |
+| 3667          | 8417          |
+| 3767          | 8667          |
+| 3867          | 8917          |
+| 3967          | 9167          |
+| 4700          | 9900          |
+| 4800          | 10150         |
+| 4900          | 10400         |
+| 5000          | 10650         |
+| 5100          | 10900         |
+| 5200          | 11633         |
+| 5300          | 11883         |
+| 5400          | 12133         |
+| 5500          | 12383         |
+| 5600          | 12633         |
+| 5700          | 13367         |
+| 6433          | 13617         |
+| 6533          | 13867         |
+| 6633          | 14117         |
+| 6733          | 14367         |
+| 6833          | 15100         |
+| 6933          | 15350         |
+| 7033          | 15600         |
+| 7133          | 15850         |
+| 7233          | 16100         |
+| 7333          | 17083         |
+| 7433          | 17333         |
+| 8167          | 17583         |
+| 8267          | 17833         |
+| 8367          | 18817         |
+| 8467          | 19067         |
+| 8567          | 19317         |
+| 8667          | 19567         |
+| 8767          | 20550         |
+| 8867          | 20800         |
+| 8967          | 21050         |
+| 9067          | 21300         |
+| 9167          | 22283         |
+| 9900          | 22533         |
+| 10000         | 22783         |
+| 10100         | 23033         |
+| 10200         | 24017         |
+| 10300         | 24267         |
+| 10400         | 24517         |
+| 10500         | 24767         |
+| 10600         | 25750         |
+| 10700         | 26000         |
+| 10800         | 26250         |
+| 10900         | 26500         |
+| 11633         | 27483         |
+| 11733         | 27733         |
+| 11833         | 27983         |
+| 11933         | 28233         |
+| 12033         | 29217         |
+| 12133         | 29467         |
+| 12233         | 29717         |
+| 12333         | 29967         |
+| 12433         | 30950         |
+| 12533         | 31200         |
+| 12633         | 31450         |
+| 13367         | 31700         |
+| 13467         | 32683         |
+| 13567         | 32933         |
+| 13667         | 33183         |
+| 13767         | 33433         |
+| 13867         | 34417         |
+| 13967         | 34667         |
+| 14067         | 34917         |
+| 14167         | 35167         |
+| 14267         | 36150         |
+| 14367         | 36400         |
+| 15100         | 36650         |
+| 15200         | 36900         |
+| 15300         | 37883         |
+| 15400         | 38133         |
+| 15500         | 38383         |
+| 15600         | 38633         |
+
 
 Ho simulato il tinnitus prodotto dagli impulsi del segnale ricevuto a
 945 MHz in base al demodulatore termo-acustico descritto nella sezione
@@ -260,9 +406,17 @@ specchi.
 
 ## Codifica della voce
 
-Hanno usato più tecniche.
+Hanno usato più tecniche. La sezione precedente "Segnale diretto verso
+la testa" descrive il campionamento con aliasing tramite un treno d'impulsi.
+I passi per trasmettere un segnale ad un "campionatore" termo-acustico sono:
 
-Una semplice ricetta per ottenere "pulses A" è la seguente:
+- STFT (Short Time Fourier Transform) per dividere il segnale in sinusoidi modulate.
+
+- Trasmettere queste oscillazioni in ordine sparso o arbitrario (radiazione diffusa e/o diretta) con frequenze centrali ottenute tramite aliasing.
+
+- Inviare gli impulsi attraverso la rete elettrica. La frequenza degli impulsi è uguale alla frequenza di campionamento usata per calcolare le frequenze centrali.
+
+Una ricetta per ottenere "pulses A" è la seguente:
 
 - Segnale sinusoidale con frequenza 14.5 kHz modulato in frequenza dal suono di una voce.
 
