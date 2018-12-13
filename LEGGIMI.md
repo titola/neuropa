@@ -604,6 +604,11 @@ Il segnale seguente è simile ma dura 0.178 secondi ed è ripetuto ogni
 
 # 9 cicli
 0.18 = 9 / 50
+
+# Valori di frequenza degli impulsi, 78250 Hz e 31300 Hz, ottenuti
+# moltiplicando 96/50 per alcuni numeri primi.
+96/50 * 5 * 3 * 11 * 13 * 19 = 1.92 * 40755 = 78250
+96/50 * 2 * 3 * 11 * 13 * 19 = 1.92 * 16302 = 31300
 ```
 
 e senza segnali sinusoidali isolati:

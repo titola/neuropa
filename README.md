@@ -599,6 +599,11 @@ repeated every 1.92 seconds
 
 # 9 cycles
 0.18 = 9 / 50
+
+# Values of the pulse frequency, 78250 Hz and 31300 Hz, obtained
+# by multiplying 96/50 by some prime numbers.
+96/50 * 5 * 3 * 11 * 13 * 19 = 1.92 * 40755 = 78250
+96/50 * 2 * 3 * 11 * 13 * 19 = 1.92 * 16302 = 31300
 ```
 
 and without isolated sinusoidal signals:
