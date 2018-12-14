@@ -208,6 +208,13 @@ the "pulses A" if the sampling rate is 31.3 kHz. The following table
 lists the frequencies obtainable through the aliasing of the
 "pulses A" with sampling frequencies 31300 Hz and 78250 Hz:
 
+```
+31300 = 313 * 100
+78250 = 313 * 250
+
+313 is a prime number.
+```
+
 | sr = 31300 Hz | sr = 78250 Hz |
 |---------------|---------------|
 | 100           | 250           |
@@ -517,6 +524,52 @@ There are two types of pulse:
 -   Pulses with sinusoids separated by 180 Hz, bandwidth of 3960 Hz and pulse frequency of 21 Hz.
 
 -   Pulses with sinusoids separated by 180 Hz and variable pulse repetition period.
+
+If the system is the same used against me, the pulses from the
+electrical grid, for example with frequency
+
+```
+56340 = 313 * 180
+```
+
+"sample" the harmonic frequencies of 180 Hz through aliasing (see
+the previous section "Signal directed to the head" to understand
+the radiation sampling). For example, the aliasing of 157 sinusoids
+separated by 1800=5400/3 Hz (instead of 1733=5200/3) starting from
+943.695e6 MHz, results all the frequencies multiple of 180 Hz from
+180 to 28080. In the general case:
+
+```
+157 sinusoids separated by 180 * N, with N positive integer.
+157 = (56340/180 + 1)/2
+```
+
+In this case the magic ratio should be 3/2 instead of 5/2
+(or 3 if the inferior frequency is 18780 Hz):
+
+```
+# 60 Hz is the nominal frequency of the electrical grid in Cuba.
+18780 = 313 * 60
+37560 = 313 * 120
+56340 = 313 * 60 * 3 = 313 * 120 * 3/2
+```
+
+The overall attack should be based on the ratio 3/2 (or 3).
+For example, if the radio module receives at 169 MHz, the signal that
+generates the infrasound is about 253.5 MHz (or 507 MHz if the ratio
+is 3).
+
+Note: with the prime number 433, the pulse frequency 77940 Hz is
+near 78250 Hz:
+
+```
+433 * 60 = 25980
+433 * 120 = 51960
+433 * 60 * 3 = 433 * 120 * 3/2 = 77940
+```
+
+During an electromagnetic phenomenon, a flow of spins obtained from
+these pulses could have generated the sound.
 
 ### Methods to get the voices from the audio recording
 

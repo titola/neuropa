@@ -209,6 +209,13 @@ degli impulsi "pulses A" quando la frequenza di campionamento è 31.3 kHz.
 La tabella seguente elenca le frequenze ottenibili tramite aliasing degli
 impulsi "pulses A" con frequenze di campionamento 31300 Hz e 78250 Hz:
 
+```
+31300 = 313 * 100
+78250 = 313 * 250
+
+313 è un numero primo.
+```
+
 | sr = 31300 Hz | sr = 78250 Hz |
 |---------------|---------------|
 | 100           | 250           |
@@ -521,6 +528,52 @@ Ci sono due tipi di impulso:
 - Impulsi con sinusoidi separate da 180 Hz, larghezza di banda complessiva di 3960 Hz e frequenza di pulsazione di circa 21 Hz.
 
 - Impulsi con sinusoidi separate da 180 Hz e periodo di ripetizione variabile.
+
+Se il sistema è lo stesso utilizzato contro di me, gli impulsi
+provenienti dalla rete eletrica, per esempio con frequenza
+
+```
+56340 = 313 * 180
+```
+
+"campionano" frequenze armoniche di 180 Hz tramite aliasing (vedi la
+sezione precedente "Segnale diretto verso la testa" per comprendere il
+campionamento della radiazione). Per esempio, l'aliasing di 157
+sinusoidi separate ogni 1800=5400/3 Hz (invece di 1733=5200/3)
+partendo da 943.695e6 MHz, produce tutti i multipli di 180 Hz da 180
+a 28080. In generale:
+
+```
+157 sinusoidi separate ogni 180 * N, con N intero positivo.
+157 = (56340/180 + 1)/2
+```
+
+In questo caso il rapporto magico dovrebbe essere 3/2 invece di 5/2
+(oppure 3 se la frequenza inferiore è 18780 Hz):
+
+```
+# 60 Hz è la frequenza nominale della rete elettrica a Cuba.
+18780 = 313 * 60
+37560 = 313 * 120
+56340 = 313 * 60 * 3 = 313 * 120 * 3/2
+```
+
+Quindi l'attacco complessivo dovrebbe essere basato sul rapporto 3/2
+(oppure 3). Per esempio, se il modulo radio riceve a 169 MHz, il
+segnale che genera l'infrasuono è circa 253.5 MHz (oppure 507 MHz se
+il rapporto è 3).
+
+Nota: con il numero primo 433, la frequenza degli impulsi 77940 Hz
+è vicina a 78250 Hz:
+
+```
+433 * 60 = 25980
+433 * 120 = 51960
+433 * 60 * 3 = 433 * 120 * 3/2 = 77940
+```
+
+Durante un fenomeno elettromagnetico, un flusso di spin ottenuto da
+questi impulsi potrebbe aver generato il suono.
 
 ### Metodi per ottenere le voci dalla registrazione audio
 
