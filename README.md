@@ -442,7 +442,14 @@ away" and the annoying side effects (to describe in a separate section)
 persist.
 
 I still have to analyze another technique that use the plasma and the
-electric current.
+electric current. The system used against me outdoors is similar to the
+weapon described in this page:
+
+[Scalable Compact Ultra-short Pulse Laser Systems (SCUPLS)](https://www.sbir.gov/sbirsearch/detail/1508927)
+
+If it allows the listening of more spatialized voices and sound samples,
+then it is the same weapon or an imitation (imagine to have invisible
+headphones with 3D binaural audio effect).
 
 ## Harmonics of 50 Hz from the mix of the amplitude modulations
 

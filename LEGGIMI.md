@@ -444,7 +444,14 @@ scappa" più i fastidiosi effetti collaterali (da descrivere in una
 sezione separata).
 
 Devo ancora analizzare un'altra tecnica che usa il plasma e la
-corrente elettrica.
+corrente elettrica. Il sistema utilizzato all'aperto contro di me è
+simile all'arma descritta in questa pagina:
+
+[Scalable Compact Ultra-short Pulse Laser Systems (SCUPLS)](https://www.sbir.gov/sbirsearch/detail/1508927)
+
+Se permette l'ascolto di più voci e campioni sonori spazializzati,
+allora è la stessa arma oppure un'imitazione (immagina di avere cuffie
+invisibili con effetto audio binaurale 3D).
 
 ## Armoniche di 50 Hz dalla combinazione di segnali modulanti
 
