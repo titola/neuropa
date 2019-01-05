@@ -68,6 +68,7 @@ material [3] or the responsible is a smart electric meter used as weapon.
 - [Other signals to analyse](#other-signals-to-analyse)
     - [Events synchronized with the voices](#events-synchronized-with-the-voices)
     - [Electric meters ACEA-ARETI with oscillator at 939 MHz](#electric-meters-acea-areti-with-oscillator-at-939-mhz)
+    - [Frequency of 3.7 GHz and 5G testing](#frequency-of-3.7-ghz-and-5g-testing)
 - [Audio recordings](#audio-recordings)
     - [Oscillation of 5400 Hz after an induced convulsion](#oscillation-of-5400-hz-after-an-induced-convulsion)
     - [Interval of minor sixth with the tinnitus](#interval-of-minor-sixth-with-the-tinnitus)
@@ -856,6 +857,31 @@ Therefore the signal directed to my head at 945 MHz (also 935 MHz and
 meters. I hope no, but if the thugs control the distribution of the
 RF signals of all the deficient meters, they can mix and direct them to
 a specific zone.
+
+### Frequency of 3.7 GHz and 5G testing
+
+The frequency band of 929.6-970 MHz includes more signals directed to
+my head. The signal level is high around the frequencies 930 MHz,
+935.575 MHz, 937.592 MHz, 938.775 MHz, 940.567 MHz, 941.164 MHz,
+942.570 MHz, 944.781 MHz, 945 MHz (analyzed) and 960 MHz.
+
+Perhaps it is a coincidence, but if we multiply the frequency band
+929.6-970 MHz by four
+
+```
+3.718 GHz = 4 * 929.6 MHz
+3.780 GHz = 4 * 945.0 MHz
+3.880 GHz = 4 * 970.0 MHz
+```
+
+we get a band width of about 160 MHz starting from about 3.7 GHz.
+160 MHz should correspond to the two upper lots of 80 MHz of the
+frequency band 3.6-3.8 GHz, that it is assigned to Telecom Italia
+(specific block 80 MHz), Vodafone Italia (generic block 80 MHz),
+Wind Tre (generic block 20 MHz) and Iliad Italia (generic block
+20 MHz).
+
+[Conclusa la GARA 5G (sviluppoeconomico.gov.it)](https://www.sviluppoeconomico.gov.it/index.php/it/194-comunicati-stampa/2038666-gara-5g)
 
 ## Audio recordings
 

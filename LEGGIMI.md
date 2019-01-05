@@ -67,6 +67,7 @@ materiale ferromagnetico [3] oppure il responsabile è un contatore elettronico
 - [Altri segnali da analizzare](#altri-segnali-da-analizzare)
     - [Eventi sincronizzati con le voci](#eventi-sincronizzati-con-le-voci)
     - [Contatori elettronici ACEA-ARETI con oscillatore a 939 MHz](#contatori-elettronici-acea-areti-con-oscillatore-a-939-mhz)
+    - [Frequenza di 3.7 GHz e sperimentazione 5G](#frequenza-di-3.7-ghz-e-sperimentazione-5g)
 - [Registrazioni audio](#registrazioni-audio)
     - [Oscillazione di 5400 Hz dopo una convulsione indotta](#oscillazione-di-5400-hz-dopo-una-convulsione-indotta)
     - [Intervallo di sesta minore con il tinnitus](#intervallo-di-sesta-minore-con-il-tinnitus)
@@ -861,6 +862,31 @@ MHz, ma c'è altro) è possibilmente ripetuto dai contatori elettronici
 dell'ACEA. Spero di no, ma se i criminali controllano la distribuzione
 dei segnali RF di tutti i contatori deficienti, possono mixarli in modo
 da indirizzarli verso una zona ben precisa.
+
+### Frequenza di 3.7 GHz e sperimentazione 5G
+
+La banda di frequenze 929.6-970 MHz comprende più segnali diretti
+verso la mia testa. Il livello del segnale è più alto intorno alle
+frequenze 930 MHz, 935.575 MHz, 937.592 MHz, 938.775 MHz, 940.567 MHz,
+941.164 MHz, 942.570 MHz, 944.781 MHz, 945 MHz (analizzato) e 960 MHz.
+
+Forse è una coincidenza, ma se moltiplichiamo la banda di frequenze
+929.6-970 MHz per quattro
+
+```
+3.718 GHz = 4 * 929.6 MHz
+3.780 GHz = 4 * 945.0 MHz
+3.880 GHz = 4 * 970.0 MHz
+```
+
+otteniamo una larghezza di banda di circa 160 Mhz partendo da circa
+3.7 GHz. 160 MHz dovrebbe corrispondere ai due lotti superiori da 80
+MHz della banda di frequenze 3.6-3.8 GHz che è stata assegnata a
+Telecom Italia (blocco specifico 80 MHz), Vodafone Italia (blocco
+generico 80 MHz), Wind Tre (blocco generico 20 MHz) e Iliad Italia
+(blocco generico 20 MHz).
+
+[Conclusa la GARA 5G (sviluppoeconomico.gov.it)](https://www.sviluppoeconomico.gov.it/index.php/it/194-comunicati-stampa/2038666-gara-5g)
 
 ## Registrazioni audio
 
