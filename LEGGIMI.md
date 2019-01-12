@@ -68,6 +68,7 @@ materiale ferromagnetico [3] oppure il responsabile è un contatore elettronico
     - [Eventi sincronizzati con le voci](#eventi-sincronizzati-con-le-voci)
     - [Contatori elettronici ACEA-ARETI con oscillatore a 939 MHz](#contatori-elettronici-acea-areti-con-oscillatore-a-939-mhz)
     - [Frequenza di 3.7 GHz e sperimentazione 5G](#frequenza-di-3.7-ghz-e-sperimentazione-5g)
+    - [Vibrazione del corpo terminata dopo alcune esplosioni notturne](#vibrazione-del-corpo-terminata-dopo-alcune-esplosioni-notturne)
 - [Registrazioni audio](#registrazioni-audio)
     - [Oscillazione di 5400 Hz dopo una convulsione indotta](#oscillazione-di-5400-hz-dopo-una-convulsione-indotta)
     - [Intervallo di sesta minore con il tinnitus](#intervallo-di-sesta-minore-con-il-tinnitus)
@@ -887,6 +888,20 @@ generico 80 MHz), Wind Tre (blocco generico 20 MHz) e Iliad Italia
 (blocco generico 20 MHz).
 
 [Conclusa la GARA 5G (sviluppoeconomico.gov.it)](https://www.sviluppoeconomico.gov.it/index.php/it/194-comunicati-stampa/2038666-gara-5g)
+
+## Vibrazione del corpo terminata dopo alcune esplosioni notturne
+
+La notte del 2 Ottobre 2018 il mio corpo ha iniziato a vibrare
+rapidamente con un'intensità crescente. Dopo una precipitosa sequenza
+di almeno tre esplosioni (non ho controllato l'ora), l'intensità della
+vibrazione è diminuita del 70%.
+
+La notte del 12 Gennaio 2019, verso le 4:15, un'altra esplosione
+simile ma meno forte ha segnato la fine di una lieve vibrazione del
+corpo, iniziata dopo uno dei tanti risvegli forzati.
+
+Il suono che ascolto durante le vibrazioni del corpo ricorda quello di
+una betoniera.
 
 ## Registrazioni audio
 

@@ -69,6 +69,7 @@ material [3] or the responsible is a smart electric meter used as weapon.
     - [Events synchronized with the voices](#events-synchronized-with-the-voices)
     - [Electric meters ACEA-ARETI with oscillator at 939 MHz](#electric-meters-acea-areti-with-oscillator-at-939-mhz)
     - [Frequency of 3.7 GHz and 5G testing](#frequency-of-3.7-ghz-and-5g-testing)
+    - [Body vibration stopped after some nightly explosions](#body-vibration-stopped-after-some-nightly-explosions)
 - [Audio recordings](#audio-recordings)
     - [Oscillation of 5400 Hz after an induced convulsion](#oscillation-of-5400-hz-after-an-induced-convulsion)
     - [Interval of minor sixth with the tinnitus](#interval-of-minor-sixth-with-the-tinnitus)
@@ -882,6 +883,20 @@ Wind Tre (generic block 20 MHz) and Iliad Italia (generic block
 20 MHz).
 
 [Conclusa la GARA 5G (sviluppoeconomico.gov.it)](https://www.sviluppoeconomico.gov.it/index.php/it/194-comunicati-stampa/2038666-gara-5g)
+
+## Body vibration stopped after some nightly explosions
+
+On October 2 2018 night, my body has started to rapidly vibrate with a
+growing intensity. After a hasty sequence of at least three explosions
+(I haven't checked on the time), the vibration intensity is attenuated
+about 70%.
+
+On January 12 2019 at 4:15 a.m., another similar but less strong
+explosion has marked the end of a slight body vibration, started after
+one of the many forced awakenings.
+
+The sound that I hear during the body vibrations remembers the sound
+of a concrete mixer.
 
 ## Audio recordings
 
