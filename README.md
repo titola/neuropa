@@ -19,6 +19,32 @@ The following video shows a part of the signal directed to my head:
 
 In Italy "The personal freedom is inviolable." [1]
 
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Signal directed to the head](#signal-directed-to-the-head)
+    - [Radiation sampling and aliasing](#radiation-sampling-and-aliasing)
+    - [Tinnitus simulation](#tinnitus-simulation)
+    - [Pulses repeated in the modulating signal](#pulses-repeated-in-the-modulating-signal)
+- [Voice encoding](#voice-encoding)
+- [Harmonics of 50 Hz from the mix of the amplitude modulations](#harmonics-of-50-hz-from-the-mix-of-the-amplitude-modulations)
+- [Hypothesis about the US embassy attack in Cuba](#hypothesis-about-the-us-embassy-attack-in-cuba)
+    - [Harmonics of 180 Hz through aliasing](#harmonics-of-180-hz-through-aliasing)
+    - [Methods to get the voices from the audio recording](#methods-to-get-the-voices-from-the-audio-recording)
+- [Other signals to analyse](#other-signals-to-analyse)
+    - [Events synchronized with the voices](#events-synchronized-with-the-voices)
+    - [Correspondence between 422.733 MHz and infrasounds](#correspondence-between-422.733-mhz-and-infrasounds)
+    - [Electric meters ACEA-ARETI with oscillator at 939 MHz](#electric-meters-acea-areti-with-oscillator-at-939-mhz)
+    - [Frequency of 3.7 GHz and 5G testing](#frequency-of-3.7-ghz-and-5g-testing)
+    - [Body vibration stopped after some nightly explosions](#body-vibration-stopped-after-some-nightly-explosions)
+- [Audio recordings](#audio-recordings)
+    - [Oscillation of 5400 Hz after an induced convulsion](#oscillation-of-5400-hz-after-an-induced-convulsion)
+    - [Interval of minor sixth with the tinnitus](#interval-of-minor-sixth-with-the-tinnitus)
+    - [Amplitude modulated oscillation of 100 Hz](#amplitude-modulated-oscillation-of-100-hz)
+- [References](#references)
+
+## Introduction
+
 My head is continually tracked, probably using the technology of the
 deficient missiles. Sporadic sounds, that are not directional but
 audible by all and based on my location, suggest to me the use of the
@@ -57,24 +83,6 @@ unconsciously suffered a similar offensive action, because what you
 have just listened is hidden in a published recording [2]. Perhaps the
 used signal was rectified by an anomalous Hall effect in some ferromagnetic
 material [3] or the responsible is a smart electric meter used as weapon.
-
-## Table of Contents
-
-- [Signal directed to the head](#signal-directed-to-the-head)
-- [Voice encoding](#voice-encoding)
-- [Harmonics of 50 Hz from the mix of the amplitude modulations](#harmonics-of-50-hz-from-the-mix-of-the-amplitude-modulations)
-- [Hypothesis about the US embassy attack in Cuba](#hypothesis-about-the-us-embassy-attack-in-cuba)
-    - [Methods to get the voices from the audio recording](#methods-to-get-the-voices-from-the-audio-recording)
-- [Other signals to analyse](#other-signals-to-analyse)
-    - [Events synchronized with the voices](#events-synchronized-with-the-voices)
-    - [Electric meters ACEA-ARETI with oscillator at 939 MHz](#electric-meters-acea-areti-with-oscillator-at-939-mhz)
-    - [Frequency of 3.7 GHz and 5G testing](#frequency-of-3.7-ghz-and-5g-testing)
-    - [Body vibration stopped after some nightly explosions](#body-vibration-stopped-after-some-nightly-explosions)
-- [Audio recordings](#audio-recordings)
-    - [Oscillation of 5400 Hz after an induced convulsion](#oscillation-of-5400-hz-after-an-induced-convulsion)
-    - [Interval of minor sixth with the tinnitus](#interval-of-minor-sixth-with-the-tinnitus)
-    - [Amplitude modulated oscillation of 100 Hz](#amplitude-modulated-oscillation-of-100-hz)
-- [References](#references)
 
 ## Signal directed to the head
 
@@ -146,6 +154,8 @@ that I sometimes perceive.
 
 ![](media/fake_gsm_sampler_49hz50hz51hz.jpg)
 
+### Radiation sampling and aliasing
+
 If I use my body as antenna by touching the receiving antenna with the
 hand, I can record the pulses repeated with frequency of about 78250
 Hz that could be caused by the SMPS (Switch Mode Power Supplies) of
@@ -162,7 +172,7 @@ to the diffuse radiation, for example the radio-tv stations, concealing
 some partials in the same signal with inverted phase.
 
 The samples of a sound sampled at 80 KHz (or 31.3 KHz) can be hidden
-in the modulanting signals. The absorbed impulsive radiation of 80 KHz
+in the modulating signals. The absorbed impulsive radiation of 80 KHz
 generates thermoelastic pulses that "sample" the overall signal
 envelope (not just the signal at 945 MHz but also the other
 components, some described in this document), causing the perception
@@ -319,6 +329,7 @@ lists the frequencies obtainable through the aliasing of the
 | 15500         | 38383         |
 | 15600         | 38633         |
 
+### Tinnitus simulation
 
 I have simulated the tinnitus produced by the pulses of the signal
 received at 945 MHz by approximating the termo-acoustic demodulator
@@ -382,6 +393,8 @@ example:
 sporadic "scintillant" errors:
   5415 = 216.6 * 25
 ```
+
+### Pulses repeated in the modulating signal
 
 Finally, the part labeled "misc" in the first sonogram contains pulses
 produced by the sum of sinusoids separated by 1469 Hz and other
@@ -534,6 +547,8 @@ There are two types of pulse:
 
 -   Pulses with sinusoids separated by 180 Hz and variable pulse repetition period.
 
+### Harmonics of 180 Hz through aliasing
+
 If the system is the same used against me, the pulses from the
 electrical grid, for example with frequency
 
@@ -651,6 +666,8 @@ The duration of the final sinusoidal signal is about 0.034 seconds.
 
 The duration of the noisy part (maybe a cloud of sinusoidal gains)
 depends on the perceived voice.
+
+### Correspondence between 422.733 MHz and infrasounds
 
 The following signal is similar but with duration of 0.178 seconds,
 repeated every 1.92 seconds

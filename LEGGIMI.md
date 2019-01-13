@@ -17,6 +17,32 @@ Il video seguente mostra una parte del segnale diretto alla mia testa:
 
 In Italia "La libertà personale è inviolabile". [1]
 
+## Indice
+
+- [Introduzione](#introduzione)
+- [Segnale diretto verso la testa](#segnale-diretto-verso-la-testa)
+    - [Campionamento della radiazione ed aliasing](#campionamento-della-radiazione-ed-aliasing)
+    - [Simulazione del tinnitus](#simulazione-del-tinnitus)
+    - [Impulsi ripetuti nel segnale modulante](#impulsi-ripetuti-nel-segnale-modulante)
+- [Codifica della voce](#codifica-della-voce)
+- [Armoniche di 50 Hz dalla combinazione di segnali modulanti](#armoniche-di-50-hz-dalla-combinazione-di-segnali-modulanti)
+- [Ipotesi sull'attacco subito dagli ambasciatori americani a Cuba](#ipotesi-sullattacco-subito-dagli-ambasciatori-americani-a-cuba)
+    - [Armoniche di 180 Hz tramite aliasing](#armoniche-di-180-hz-tramite-aliasing)
+    - [Metodi per ottenere le voci dalla registrazione audio](#metodi-per-ottenere-le-voci-dalla-registrazione-audio)
+- [Altri segnali da analizzare](#altri-segnali-da-analizzare)
+    - [Eventi sincronizzati con le voci](#eventi-sincronizzati-con-le-voci)
+    - [Corrispondenza tra 422.733 MHz ed infrasuoni](#corrispondenza-tra-422.733-mhz-ed-infrasuoni)
+    - [Contatori elettronici ACEA-ARETI con oscillatore a 939 MHz](#contatori-elettronici-acea-areti-con-oscillatore-a-939-mhz)
+    - [Frequenza di 3.7 GHz e sperimentazione 5G](#frequenza-di-3.7-ghz-e-sperimentazione-5g)
+    - [Vibrazione del corpo terminata dopo alcune esplosioni notturne](#vibrazione-del-corpo-terminata-dopo-alcune-esplosioni-notturne)
+- [Registrazioni audio](#registrazioni-audio)
+    - [Oscillazione di 5400 Hz dopo una convulsione indotta](#oscillazione-di-5400-hz-dopo-una-convulsione-indotta)
+    - [Intervallo di sesta minore con il tinnitus](#intervallo-di-sesta-minore-con-il-tinnitus)
+    - [Oscillazione di 100 Hz modulata in ampiezza](#oscillazione-di-100-hz-modulata-in-ampiezza)
+- [Riferimenti](#riferimenti)
+
+## Introduzione
+
 La mia testa è puntata continuamente, probabilmente utilizzando la
 tecnologia dei missili deficienti. Suoni sporadici, che non sono
 direzionali ma udibili da tutti e basati sulla mia posizione, mi
@@ -56,24 +82,6 @@ hai appena ascoltato è nascosto in una registrazione pubblicata [2]. Forse il
 segnale utilizzato è stato rettificato da un effetto Hall anomalo in qualche
 materiale ferromagnetico [3] oppure il responsabile è un contatore elettronico
 "smart" utilizzato come arma.
-
-## Indice
-
-- [Segnale diretto verso la testa](#segnale-diretto-verso-la-testa)
-- [Codifica della voce](#codifica-della-voce)
-- [Armoniche di 50 Hz dalla combinazione di segnali modulanti](#armoniche-di-50-hz-dalla-combinazione-di-segnali-modulanti)
-- [Ipotesi sull'attacco subito dagli ambasciatori americani a Cuba](#ipotesi-sullattacco-subito-dagli-ambasciatori-americani-a-cuba)
-    - [Metodi per ottenere le voci dalla registrazione audio](#metodi-per-ottenere-le-voci-dalla-registrazione-audio)
-- [Altri segnali da analizzare](#altri-segnali-da-analizzare)
-    - [Eventi sincronizzati con le voci](#eventi-sincronizzati-con-le-voci)
-    - [Contatori elettronici ACEA-ARETI con oscillatore a 939 MHz](#contatori-elettronici-acea-areti-con-oscillatore-a-939-mhz)
-    - [Frequenza di 3.7 GHz e sperimentazione 5G](#frequenza-di-3.7-ghz-e-sperimentazione-5g)
-    - [Vibrazione del corpo terminata dopo alcune esplosioni notturne](#vibrazione-del-corpo-terminata-dopo-alcune-esplosioni-notturne)
-- [Registrazioni audio](#registrazioni-audio)
-    - [Oscillazione di 5400 Hz dopo una convulsione indotta](#oscillazione-di-5400-hz-dopo-una-convulsione-indotta)
-    - [Intervallo di sesta minore con il tinnitus](#intervallo-di-sesta-minore-con-il-tinnitus)
-    - [Oscillazione di 100 Hz modulata in ampiezza](#oscillazione-di-100-hz-modulata-in-ampiezza)
-- [Riferimenti](#riferimenti)
 
 ## Segnale diretto verso la testa
 
@@ -144,6 +152,8 @@ utilizzando i periodi di questo pattern. La distribuzione e la
 modulazione dei picchi ricordano i tremori che percepisco ogni tanto.
 
 ![](media/fake_gsm_sampler_49hz50hz51hz.jpg)
+
+### Campionamento della radiazione ed aliasing
 
 Se uso il mio corpo come antenna toccando l'antenna di ricezione con
 la mano, posso registrare impulsi ripetuti con una frequenza di circa
@@ -320,6 +330,7 @@ impulsi "pulses A" con frequenze di campionamento 31300 Hz e 78250 Hz:
 | 15500         | 38383         |
 | 15600         | 38633         |
 
+### Simulazione del tinnitus
 
 Ho simulato il tinnitus prodotto dagli impulsi del segnale ricevuto a
 945 MHz in base al demodulatore termo-acustico descritto nella sezione
@@ -384,6 +395,8 @@ elettrica in Italia [5], per esempio:
 errori "scintillanti" sporadici:
   5415 = 216.6 * 25
 ```
+
+### Impulsi ripetuti nel segnale modulante
 
 Infine, la parte etichettata "misc" nel primo sonogramma comprende
 impulsi generati dalla somma di sinusoidi separate da 1469 Hz e da
@@ -538,8 +551,10 @@ Ci sono due tipi di impulso:
 
 - Impulsi con sinusoidi separate da 180 Hz e periodo di ripetizione variabile.
 
+### Armoniche di 180 Hz tramite aliasing
+
 Se il sistema è lo stesso utilizzato contro di me, gli impulsi
-provenienti dalla rete eletrica, per esempio con frequenza
+provenienti dalla rete elettrica, per esempio con frequenza
 
 ```
 56340 = 313 * 180
@@ -656,6 +671,8 @@ Il segnale sinusoidale finale dura circa 0.034 secondi.
 
 La durata della parte rumorosa (forse una nuvola di grani sinusoidali)
 dipende dalla voce percepita.
+
+### Corrispondenza tra 422.733 MHz ed infrasuoni
 
 Il segnale seguente è simile ma dura 0.178 secondi ed è ripetuto ogni
 1.92 secondi
