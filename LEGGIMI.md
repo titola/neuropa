@@ -906,6 +906,38 @@ generico 80 MHz), Wind Tre (blocco generico 20 MHz) e Iliad Italia
 
 [Conclusa la GARA 5G (sviluppoeconomico.gov.it)](https://www.sviluppoeconomico.gov.it/index.php/it/194-comunicati-stampa/2038666-gara-5g)
 
+Le coincidenze sono più di una:
+
+```
+422.733 MHz * 9 = 169 MHz * 9 * 5/2 = 3.8 GHz
+169 MHz * 5/2 * 7 * 9 = 26.6 GHz
+```
+
+5/2 è il solito numero magico e 26.6 GHz appartiene alla banda di
+frequenze 26.5-27.5 GHz per il 5G con lunghezze d'onda di circa
+11 millimetri.
+
+Sono curioso di conoscere il rapporto tra la frequenza di downlink e
+quella di uplink utilizzato nei test di Vodafone Italia e Huawei.
+E' anche interessante conoscere i dettagli sui problemi di sicurezza
+della tecnologia Huawei, improvvisamente ripudiata da diversi paesi
+ma utilizzata in Italia anche da ACEA:
+
+[Rinnovata l’intesa tecnologica fra Acea e Huawei (www.gruppo.acea.it)](https://www.gruppo.acea.it/it/gruppo/comunicato?idComunicato=/2018/11/rinnovata-l-intesa-tecnologica-fra-acea-e-huawei&resource=/content/aceacorporate/it/home/media-eventi/news-comunicati-stampa.html&title=Rinnovata%20l%27intesa%20tecnologica%20%20fra%20Acea%20e%20Huawei)
+
+C'è anche un...
+
+> Progetto di videosorveglianza aerea basato sull’utilizzo di droni,
+> realizzato in collaborazione con Intellitronika, Politecnico di Milano,
+> Huawei, la Polizia Locale e Italdron [...]
+
+<http://hi-tech.leonardo.it/5g-vodafone-huawei-drone-sicurezza/>
+
+> soluzioni tecnologiche avanzate per le forze dell’ordine e per la
+> sicurezza civile e militare [...]
+
+Spiacente, ma non siete più credibili né affidabili.
+
 ## Vibrazione del corpo terminata dopo alcune esplosioni notturne
 
 La notte del 2 Ottobre 2018 il mio corpo ha iniziato a vibrare
