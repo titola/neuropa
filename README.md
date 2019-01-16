@@ -946,6 +946,18 @@ one of the many forced awakenings.
 The sound that I hear during the body vibrations remembers the sound
 of a concrete mixer.
 
+On January 16 2019 at midnight: no explosions but an instantaneous
+flash has lighted up my room during a forced awakening. It is the
+first time that it occurs, therefore I will add the date of other
+similar events. Then the torture is continued with the body heating
+for some hours (it is instead a classic) and the customary voices
+that provoke me nonstop. Sometimes the walls creak as every night.
+Generally the forced awakenings are more than three.
+
+I don't take medicines or drugs and fortunately my brain is still
+efficient. I will discover who are these ridiculous militarized
+stupids and I will humiliate who protect them.
+
 ## Audio recordings
 
 ### Oscillation of 5400 Hz after an induced convulsion

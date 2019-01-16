@@ -952,6 +952,18 @@ corpo, iniziata dopo uno dei tanti risvegli forzati.
 Il suono che ascolto durante le vibrazioni del corpo ricorda quello di
 una betoniera.
 
+Mezzanotte del 16 Gennaio 2019: nessuna esplosione ma un bagliore
+istantaneo ha illuminato la mia stanza durante un risveglio forzato.
+E' la prima volta che accade, quindi aggiungerò la data di altri
+eventi simili. La tortura è continuata con il riscaldamento del corpo
+per alcune ore (questo invece è un classico) e le solite voci che mi
+provocano ininterrottamente. Le pareti scricchiolano ogni tanto come
+ogni notte. Di solito i risvegli forzati sono più di tre.
+
+Non prendo medicine o droghe e fortunatamente il mio cervello è ancora
+efficiente. Scoprirò chi sono questi ridicoli imbecilli militarizzati
+ed umilierò chi li sta proteggendo.
+
 ## Registrazioni audio
 
 ### Oscillazione di 5400 Hz dopo una convulsione indotta
