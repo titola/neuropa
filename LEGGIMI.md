@@ -35,6 +35,7 @@ In Italia "La libertà personale è inviolabile". [1]
     - [Contatori elettronici ACEA-ARETI con oscillatore a 939 MHz](#contatori-elettronici-acea-areti-con-oscillatore-a-939-mhz)
     - [Frequenza di 3.7 GHz e sperimentazione 5G](#frequenza-di-3.7-ghz-e-sperimentazione-5g)
     - [Vibrazione del corpo terminata dopo alcune esplosioni notturne](#vibrazione-del-corpo-terminata-dopo-alcune-esplosioni-notturne)
+    - [Battimento tra radiazione impulsiva e VLF militare](#battimento-tra-radiazione-impulsiva-e-vlf-militare)
 - [Registrazioni audio](#registrazioni-audio)
     - [Oscillazione di 5400 Hz dopo una convulsione indotta](#oscillazione-di-5400-hz-dopo-una-convulsione-indotta)
     - [Intervallo di sesta minore con il tinnitus](#intervallo-di-sesta-minore-con-il-tinnitus)
@@ -938,7 +939,7 @@ C'è anche un...
 
 Spiacente, ma non siete più credibili né affidabili.
 
-## Vibrazione del corpo terminata dopo alcune esplosioni notturne
+### Vibrazione del corpo terminata dopo alcune esplosioni notturne
 
 La notte del 2 Ottobre 2018 il mio corpo ha iniziato a vibrare
 rapidamente con un'intensità crescente. Dopo una precipitosa sequenza
@@ -963,6 +964,90 @@ ogni notte. Di solito i risvegli forzati sono più di tre.
 Non prendo medicine o droghe e fortunatamente il mio cervello è ancora
 efficiente. Scoprirò chi sono questi ridicoli imbecilli militarizzati
 ed umilierò chi li sta proteggendo.
+
+## Battimento tra radiazione impulsiva e VLF militare
+
+Gli impulsi ottenuti da sinusoidi separate da 5200/3 o 1733 Hz creano
+un battimento particolare con 20760 Hz, la VLF (Very Low Frequency)
+trasmessa dalle antenne dell'Isola di Tavolara (Sardegna):
+
+<https://en.wikipedia.org/wiki/List_of_VLF-transmitters>
+
+<https://en.wikipedia.org/wiki/Tavolara_Island>
+
+<http://www.lanuovasardegna.it/sassari/cronaca/2013/05/11/news/aerei-robot-radar-e-satelliti-le-nuove-servitu-1.7043405>
+
+5200 è la terza armonica di 5200/3 Hz e corrisponde all'intervallo
+musicale di quinta giusta, un'ottava sopra. La dodicesima armonica
+di 20800 Hz è ancora una quinta giusta ma tre ottave sopra.
+
+```
+5200/3 * 12 = 20800 Hz    ; quinta giusta, 3 ottave sopra => 12/8 = 3/2
+650/3 * 96 = 20800 Hz     ; quinta giusta, 6 ottave sopra => 96/64 = 3/2
+20800 - 20760 = 40 Hz     ; battimento
+50 / 40 = 5/4             ; terza maggiore
+100 / 40 = 5/2            ; terza maggiore, 1 ottava sopra (10ma maggiore)
+```
+
+L'intervallo musicale tra 50 Hz ed il battimento di 40 Hz è la terza
+maggiore, mentre quello tra 100 Hz e 40 Hz è la decima maggiore (terza
+maggiore un'ottava sopra). 100/40 equivale a 5/2, il numero magico
+dell'intero attacco.
+
+C'è anche un rapporto particolare tra 20760 Hz e gli impulsi con
+pattern A-A-A-A-B analizzati nella sezione "Segnale diretto verso la
+testa":
+
+```
+20760 / (3 * 11 * 29) = 21.69 Hz
+```
+
+20760 Hz funziona bene anche con la frequenza nominale di 60 Hz,
+creando un battimento di 60 Hz con la 115ma armonica di 180 Hz:
+
+```
+180 * 115 = 60 * 3 * 5 * 23 = 20700 Hz
+20760 - 20700 = 60 Hz
+```
+
+Inoltre, se la relazione tra la frequenza 3.78 GHz della nuova banda
+per il 5G e 945 MHz implica impulsi composti da armoniche di 20800/3 Hz,
+
+```
+3.78 GHz = 4 * 945.0 MHz
+20800/3 = 6933 = 4 * 5200/3 MHz
+```
+
+anche la terza armonica della modulazione impulsiva a 3.78 GHz genera
+un battimento di 40 Hz con 20760 Hz.
+
+Non sto giocando con i numeri, la modulazione di ampiezza intorno a
+20800 Hz è presente nelle registrazioni della radiazione, per esempio:
+
+[hum_20180911_part1.wav](https://github.com/titola/neuropa/blob/master/media/hum_20180911_part1.wav)
+
+[hum_20180911_part2.wav](https://github.com/titola/neuropa/blob/master/media/hum_20180911_part2.wav)
+
+La radiazione è stata registrata collegando un'antenna alla scheda
+audio del computer. Nella seconda registrazione ho utilizzando il mio
+corpo come antenna toccando un jack connesso alla scheda audio.
+
+Se applichiamo un filtro passa alto selettivo con frequenza di taglio
+di 10 kHz e normalizziamo il risultato, possiamo osservare il formante
+a circa 20800 Hz. Ci sono altri formanti intorno 17900 Hz e 12000 Hz.
+
+![](media/hum_20180911_part1_stft1.jpg)
+
+Se demoduliamo in ampiezza il suono filtrato, otteniamo frequenze
+multiple di 50 Hz ed un formante isolato intorno a 6400 Hz:
+
+![](media/hum_20180911_part1_stft2.jpg)
+
+Infine, è interessante osservare la posizione di Havana (Cuba), Roma,
+Tavolara (Sardegna) e Guǎngzhōu (Cina) sulla mappa delle latitudini
+geomagnetiche:
+
+<https://spawx.nwra.com/spawx/maps/maplats.html>
 
 ## Registrazioni audio
 
