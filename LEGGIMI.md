@@ -469,6 +469,10 @@ Se permette l'ascolto di più voci e campioni sonori spazializzati,
 allora è la stessa arma oppure un'imitazione (immagina di avere cuffie
 invisibili con effetto audio binaurale 3D).
 
+Un altro collegamento utile:
+
+<https://www.osa.org/en-us/about_osa/newsroom/news_releases/2019/new_technology_uses_lasers_to_transmit_audible_mes/>
+
 ## Armoniche di 50 Hz dalla combinazione di segnali modulanti
 
 Anche i miei vicini di casa ricevono questo tipo di segnale:

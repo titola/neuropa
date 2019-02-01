@@ -467,6 +467,10 @@ If it allows the listening of more spatialized voices and sound samples,
 then it is the same weapon or an imitation (imagine to have invisible
 headphones with 3D binaural audio effect).
 
+Another useful link:
+
+<https://www.osa.org/en-us/about_osa/newsroom/news_releases/2019/new_technology_uses_lasers_to_transmit_audible_mes/>
+
 ## Harmonics of 50 Hz from the mix of the amplitude modulations
 
 Also my neighbors receive this type of signal:
