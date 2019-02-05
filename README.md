@@ -503,6 +503,10 @@ and an isolated formant around 6400 Hz:
 
 ![](media/hum_20180911_part1_stft2.jpg)
 
+If you want to listen to the Roman cousin of a Caribbean cricket,
+select the formant around 6400 Hz with a BP filter. The resultant
+sound is part of my tinnitus.
+
 I have to rewrite the sum between the pulses (sum of cosines) and the
 modulated oscillation at 20760 Hz, to simplify amplitudes and phases
 of the harmonic frequencies as in the resynthesis of a STFT analysis,

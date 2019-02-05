@@ -505,6 +505,10 @@ multiple di 50 Hz ed un formante isolato intorno a 6400 Hz:
 
 ![](media/hum_20180911_part1_stft2.jpg)
 
+Se vuoi ascoltare il cugino di un grillo cubano intonato un tono
+sotto, seleziona il formante a 6400 Hz con un filtro BP. Il suono
+risultante è parte del mio tinnitus.
+
 Devo riscrivere la somma tra gli impulsi (somma di coseni) e
 l'oscillazione modulata a 20760 Hz, per semplificare le ampiezze e le
 fasi delle frequenze armoniche come nella risintesi di un'analisi STFT,
