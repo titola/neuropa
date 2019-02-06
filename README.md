@@ -133,9 +133,9 @@ The pattern of the the pulse repetition periods is
 ```
 A A A A B A A A A B A A A A B ...
 
-A = 0.0461 s = 80 / 1733  => 21.69 Hz
-B = 0.0511 s = A + 1/200 = 75 / 1469  => 19.57 Hz
-freq_average = 5 / ((A * 4) + B) = 21.23 Hz
+A = 0.0461 s = 80 / 5200/3 = 80 / 1733.33 = 3/65  => 21.67 Hz
+B = 0.0511 s = A + 1/200 = 266 / 5200  => 19.55 Hz
+freq_average = 5 / ((A * 4) + B) = 21.25 Hz
 ```
 
 This pattern is particularly sympathizing with the oscillation at the
@@ -454,11 +454,14 @@ is again a perfect fifth but three octaves up.
 The ratio between 50 Hz and the modulation of 20 Hz is 5/2, the magic
 number of the whole attack.
 
-There is also a particular ratio between 20760 Hz and the pulses with
+There is also a particular beat between 20 Hz and the pulses with
 pattern A-A-A-A-B analysed in the section "Signal directed to the head":
 
 ```
-20760 / (3 * 11 * 29) = 21.69 Hz
+A = 65/3 = 21.67 Hz
+beat = (A - 20)/2 = (65/3 - 60/3)/2 = 5/6 = 5/2 * 1/3
+5200/3 / beat = 5200 * 2/5 = 2080
+650/3 / beat = 650 * 2/5 = 260
 ```
 
 20760 Hz also works good with the nominal frequency of 60 Hz,

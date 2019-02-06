@@ -133,9 +133,9 @@ I periodi di ripetizione della pulsazione formano il pattern seguente:
 ```
 A A A A B A A A A B A A A A B ...
 
-A = 0.0461 s = 80 / 1733  => 21.69 Hz
-B = 0.0511 s = A + 1/200 = 75 / 1469  => 19.57 Hz
-freq_media = 5 / ((A * 4) + B) = 21.23 Hz
+A = 0.0461 s = 80 / 5200/3 = 80 / 1733.33 = 3/65  => 21.67 Hz
+B = 0.0511 s = A + 1/200 = 266 / 5200  => 19.55 Hz
+freq_media = 5 / ((A * 4) + B) = 21.25 Hz
 ```
 
 Questo pattern è particolarmente simpatizzante dell'oscillazione alla
@@ -456,12 +456,15 @@ di 20800 Hz è ancora una quinta giusta ma tre ottave sopra.
 Il rapporto tra 50 Hz e la modulazione di 20 Hz è 5/2, il numero
 magico dell'intero attacco.
 
-C'è anche un rapporto particolare tra 20760 Hz e gli impulsi con
+C'è anche un battimento particolare tra 20 Hz e gli impulsi con
 pattern A-A-A-A-B analizzati nella sezione "Segnale diretto verso la
 testa":
 
 ```
-20760 / (3 * 11 * 29) = 21.69 Hz
+A = 65/3 = 21.67 Hz
+battimento (A - 20)/2 = (65/3 - 60/3)/2 = 5/6 = 5/2 * 1/3
+5200/3 / beat = 5200 * 2/5 = 2080
+650/3 / beat = 650 * 2/5 = 260
 ```
 
 20760 Hz funziona bene anche con la frequenza nominale di 60 Hz,
