@@ -464,6 +464,27 @@ beat = (A - 20)/2 = (65/3 - 60/3)/2 = 5/6 = 5/2 * 1/3
 650/3 / beat = 650 * 2/5 = 260
 ```
 
+If we consider the radiation sampling with aliasing, we get other
+particular beats:
+
+```
+sampling frequency: 78250 Hz
+    20550 Hz = aliasing of 5200/3 * 57
+    21050 Hz = aliasing of 5200/3 * 33
+    (20760 - 20550)/2 = 105 Hz
+    (21050 - 20760)/2 = 145 Hz
+    (105 - 100)/2 = 5/2
+    (150 - 145)/2 = 5/2
+
+sampling frequency: 31300 Hz
+    10540 Hz = aliasing of 20760 Hz
+    10600 Hz = aliasing of 5200/3 * 30
+    (10600 - 10540)/2 = 30 Hz
+    (50 - 30)/2 = 10 Hz
+    (65/3 - 10)/2 = 5/2 * 7/3 = 5.83 Hz
+    (30 - 65/3)/2 = 5/2 * 5/3 = 4.17 Hz
+```
+
 20760 Hz also works good with the nominal frequency of 60 Hz,
 creating a beat of 60 Hz with the 115th harmonic of 180 Hz:
 

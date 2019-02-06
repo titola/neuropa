@@ -467,6 +467,27 @@ battimento (A - 20)/2 = (65/3 - 60/3)/2 = 5/6 = 5/2 * 1/3
 650/3 / beat = 650 * 2/5 = 260
 ```
 
+Se consideriamo il campionamento della radiazione con aliasing,
+otteniamo altri battimenti particolari:
+
+```
+frequenza di campionamento: 78250 Hz
+    20550 Hz = aliasing di 5200/3 * 57
+    21050 Hz = aliasing di 5200/3 * 33
+    (20760 - 20550)/2 = 105 Hz
+    (21050 - 20760)/2 = 145 Hz
+    (105 - 100)/2 = 5/2
+    (150 - 145)/2 = 5/2
+
+frequenza di campionamento: 31300 Hz
+    10540 Hz = aliasing di 20760 Hz
+    10600 Hz = aliasing di 5200/3 * 30
+    (10600 - 10540)/2 = 30 Hz
+    (50 - 30)/2 = 10 Hz
+    (65/3 - 10)/2 = 5/2 * 7/3 = 5.83 Hz
+    (30 - 65/3)/2 = 5/2 * 5/3 = 4.17 Hz
+```
+
 20760 Hz funziona bene anche con la frequenza nominale di 60 Hz,
 creando un battimento di 60 Hz con la 115ma armonica di 180 Hz:
 
