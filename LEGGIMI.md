@@ -1,6 +1,6 @@
 # Analisi di un attacco elettromagnetico
 
-L'attacco è iniziato l'anno scorso, il 15 Luglio 2017.
+L'attacco è iniziato il 15 Luglio 2017.
 
 La deficienza artificiale e quella naturale coordinano le sequenze e
 la psicologia dei dialoghi, spesso offensivi, e le interferenze alle
@@ -96,7 +96,7 @@ Durante la registrazione i criminali infami abbassano il livello delle
 voci ed aumentano il rumore. Recentemente il livello delle voci è
 molto basso anche quando non registro, comunque l'intensità del
 [tinnitus](https://it.wikipedia.org/wiki/Acufene) indotto rimane
-invariato.
+invariata.
 
 Un impulso in "pulses A" è generato dalla somma di 100 sinusoidi
 separate da circa 1733 Hz, quindi la larghezza di banda è 173.3 kHz.

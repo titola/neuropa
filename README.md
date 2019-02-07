@@ -2,7 +2,7 @@
 
 # Analysis of an electromagnetic attack
 
-I noticed the attack voice-to-skull the last year, July 15th 2017.
+I noticed the attack voice-to-skull on July 15th 2017.
 
 The artificial and natural deficiency coordinates the sequences and the
 psychology of the dialogues, often offensive, and the interferences to
