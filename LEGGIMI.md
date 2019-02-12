@@ -31,6 +31,7 @@ In Italia "La libertà personale è inviolabile". [1]
     - [Armoniche di 180 Hz tramite aliasing](#armoniche-di-180-hz-tramite-aliasing)
     - [Metodi per ottenere le voci dalla registrazione audio](#metodi-per-ottenere-le-voci-dalla-registrazione-audio)
 - [Altri segnali da analizzare](#altri-segnali-da-analizzare)
+    - [Infrarosso e laser plasmonico](#infrarosso-e-laser-plasmonico)
     - [Eventi sincronizzati con le voci](#eventi-sincronizzati-con-le-voci)
     - [Corrispondenza tra 422.733 MHz ed infrasuoni](#corrispondenza-tra-422.733-mhz-ed-infrasuoni)
     - [Contatori elettronici ACEA-ARETI con oscillatore a 939 MHz](#contatori-elettronici-acea-areti-con-oscillatore-a-939-mhz)
@@ -766,6 +767,35 @@ Metodo alternativo:
 [cuba_attack_decoded_alt.ogg](https://github.com/titola/neuropa/blob/master/media/cuba_attack_decoded_alt.ogg)
 
 ## Altri segnali da analizzare
+
+### Infrarosso e laser plasmonico
+
+Sto sperimentando l'utilizzo di DVD per riflettere la radiazione.
+Ho scoperto che se cambio la disposizione di uno o più DVD posso
+modificare la distribuzione e la granulosità del tinnitus. Sono
+rimasto sorpreso quando ho trovato tracce di umidità sotto ai DVD che
+ho posizionato di notte vicino alla mia spalla e alla parte superiore
+della testa. Per questo motivo voglio scoprire se i criminali stanno
+impiegando anche NIR (Near Infrared) e laser plasmonico (spaser)
+con tecniche simili a SCULPS (Scalable Compact Ultra-short Pulse
+Laser Systems).
+
+I DVD mi aiutano ad individuare i raggi diretti verso alcune parti del
+corpo, in particolare i piedi, la spina dorsale quando dormo su un
+fianco, le spalle e la testa. I raggi che colpiscono i piedi provocano
+un tremore e la percezione di un rumore. Se colloco un DVD sulla
+caviglia e lo sposto in direzione dei raggi, il tremore ed il rumore
+svaniscono (a volte una voce probabilmente programmata impreca quando
+punto rapidamente la sorgente di vibrazione).
+
+Spesso quando apro gli occhi vedo oscillazioni luminose di circa 4 o 5 Hz
+(certe volte accade anche all'aperto ma la luce è più intensa). Ricordo
+anche oscillazioni di circa 8 Hz. Una notte il mio fegato ha vibrato
+vigorosamente più di un minuto con frequenza di vibrazione di almeno 8 Hz.
+
+I telecomandi non funzionano bene, soprattutto quello del
+videoregistratore che è stato quasi del tutto inutilizzabile per
+qualche mese.
 
 ### Eventi sincronizzati con le voci
 

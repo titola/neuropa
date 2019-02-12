@@ -33,6 +33,7 @@ In Italy "The personal freedom is inviolable." [1]
     - [Harmonics of 180 Hz through aliasing](#harmonics-of-180-hz-through-aliasing)
     - [Methods to get the voices from the audio recording](#methods-to-get-the-voices-from-the-audio-recording)
 - [Other signals to analyse](#other-signals-to-analyse)
+    - [Infrared and plasmonic laser](#infrared-and-plasmonic-laser)
     - [Events synchronized with the voices](#events-synchronized-with-the-voices)
     - [Correspondence between 422.733 MHz and infrasounds](#correspondence-between-422.733-mhz-and-infrasounds)
     - [Electric meters ACEA-ARETI with oscillator at 939 MHz](#electric-meters-acea-areti-with-oscillator-at-939-mhz)
@@ -762,6 +763,35 @@ Alternative method:
 [cuba_attack_decoded_alt.ogg](https://github.com/titola/neuropa/blob/master/media/cuba_attack_decoded_alt.ogg)
 
 ## Other signals to analyse
+
+### Infrared and plasmonic laser
+
+I'm experimenting with the use of DVD's to reflect the radiation.
+I have discovered that if I change the arrangement of one or
+more DVD's, I can vary the distribution and the granularity
+of the tinnitus. I was astonished when I found traces of humidity
+under the DVD placed at night near my shoulder and the upper part
+of the head. For this reason, I want to discover if the thugs are
+also using NIR (Near Infrared) and plasmonic laser (spaser) with
+techniques similar to SCULPS (Scalable Compact Ultra-short Pulse
+Laser Systems).
+
+The DVD's help me to locate the rays directed to some body parts,
+in particular the feet, the backbone when I sleep on one's side,
+the shoulders and the head. The rays that hit on the feet cause
+a tremor and the perception of a noise. If I place a DVD on the
+ankle and move it in the direction of the rays, the tremor and
+the noise vanish (sometimes a probably programmed voice curses
+when I rapidly point the source of the vibration).
+
+Often, when I open my eyes I see luminous oscillations of about 4 or
+5 Hz (sometimes it also occurs outdoor but the light is more intense).
+I also remember oscillations of about 8 Hz. A night my liver vigorously
+vibrated for more than one minute with vibration frequency of at least
+8 Hz.
+
+The remote controls don't work well, especially that of the
+video recorder that was quasi completely unusable for some months.
 
 ### Events synchronized with the voices
 
