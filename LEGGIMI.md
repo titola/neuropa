@@ -21,6 +21,7 @@ In Italia "La libertà personale è inviolabile". [1]
 
 - [Introduzione](#introduzione)
 - [Segnale diretto verso la testa](#segnale-diretto-verso-la-testa)
+    - [Armoniche di 230.4 MHz e comunicazione mobile 5G](#armoniche-di-230.4-mhz-e-comunicazione-mobile-5g)
     - [Campionamento della radiazione ed aliasing](#campionamento-della-radiazione-ed-aliasing)
     - [Simulazione del tinnitus](#simulazione-del-tinnitus)
     - [Impulsi ripetuti nel segnale modulante](#impulsi-ripetuti-nel-segnale-modulante)
@@ -35,7 +36,7 @@ In Italia "La libertà personale è inviolabile". [1]
     - [Eventi sincronizzati con le voci](#eventi-sincronizzati-con-le-voci)
     - [Corrispondenza tra 422.733 MHz ed infrasuoni](#corrispondenza-tra-422.733-mhz-ed-infrasuoni)
     - [Contatori elettronici ACEA-ARETI con oscillatore a 939 MHz](#contatori-elettronici-acea-areti-con-oscillatore-a-939-mhz)
-    - [Frequenza di 3.7 GHz e sperimentazione 5G](#frequenza-di-3.7-ghz-e-sperimentazione-5g)
+    - [Sperimentazione 5G](#sperimentazione-5g)
     - [Vibrazione del corpo terminata dopo alcune esplosioni notturne](#vibrazione-del-corpo-terminata-dopo-alcune-esplosioni-notturne)
 - [Registrazioni audio](#registrazioni-audio)
     - [Oscillazione di 5400 Hz dopo una convulsione indotta](#oscillazione-di-5400-hz-dopo-una-convulsione-indotta)
@@ -68,7 +69,7 @@ mistero, spesso divulgato ignorantemente adoperando la parola "cospirazione".
 
 Ho analizzato la dinamica completa dell'attacco, mi sono informato ed
 ho raccolto le prove. Questo documento contiene quello che posso spiegare
-senza equivoci (30% dell'attacco complessivo ma scriverò altro e migliorerò
+senza equivoci (35% dell'attacco complessivo ma scriverò altro e migliorerò
 la struttura del documento). Sono un musicista e programmatore.
 
 La decodifica è migliorabile (ho usato un semplice slope detector), ma
@@ -155,15 +156,87 @@ modulazione dei picchi ricordano i tremori che percepisco ogni tanto.
 
 ![](media/fake_gsm_sampler_49hz50hz51hz.jpg)
 
-### Campionamento della radiazione ed aliasing
+### Armoniche di 230.4 MHz e comunicazione mobile 5G
 
 Se uso il mio corpo come antenna toccando l'antenna di ricezione con
 la mano, posso registrare impulsi ripetuti con una frequenza di circa
-78250 Hz, che potrebbero provenire dal SMPS (Switch Mode Power
-Supplies) del contatore elettronico. Alcune volte ho registrato
-impulsi con frequenza 31300 Hz invece di 78250 Hz. Il rapporto 5/2 tra
-queste due frequenze è descritto nella sezione "Contatori elettronici
-ACEA-ARETI con oscillatore a 939 MHz". Questi impulsi permettono il
+78250 Hz. Alcune volte ho registrato impulsi con frequenza 31300 Hz
+invece di 78250 Hz. Il rapporto 5/2 tra queste due frequenze è
+descritto nella sezione "Contatori elettronici ACEA-ARETI con
+oscillatore a 939 MHz".
+
+Anche il segnale con frequenza centrale 230.4 MHz è modulato da
+impulsi di 78 kHz:
+
+![](media/230_4mhz.jpg)
+
+Ci sono armoniche di 230.4 MHz e la sedicesima è 3.686 GHz, utilizzata
+dalle tecnologie per telefonia mobile 5G. Quindi le frequenze intorno
+a 3.7 GHz permettono il controllo di 16 bande con frequenze centrali
+multiple di 230.4 MHz:
+
+```
+cos(x)^32 = (cos(32 x) + 32 cos(30 x) + 496 cos(28 x) + 4960 cos(26 x) +
+             + 35960 cos(24 x) + 201376 cos(22 x) + 906192 cos(20 x)
+             + 3365856 cos(18 x) + 10518300 cos(16 x) + 28048800 cos(14 x)
+             + 64512240 cos(12 x) + 129024480 cos(10 x) + 225792840 cos(8 x)
+             + 347373600 cos(6 x) + 471435600 cos(4 x) + 565722720 cos(2 x)
+             + 300540195)/2147483648
+
+cos(2*pi*x*t)^32 - cos(64*pi*x*t) = [controllo di 16 bande di frequenza]
+
+Esempi:
+
+Se x = 115.2 MHz
+  32 * x = 3.6864 GHz    [telefonia mobile 5G]
+   8 * x = 921.6 MHz     [diretto verso la testa]
+   2 * x = 230.4 MHz
+
+Se x = 118.125 MHz:
+  32 * x = 3.78 GHz      [telefonia mobile 5G]
+   8 * x = 945 MHz       [diretto verso la testa e mostrato nel sonogramma]
+   2 * x = 236.25 MHz
+```
+
+In pratica tutto il segnale prodotto dalla combinazione è diretto
+verso di me. Per esempio, la banda di frequenze 929.6-970 MHz
+comprende più segnali diretti verso la mia testa. Il livello del
+segnale è più alto intorno alle frequenze 930 MHz, 935.575 MHz,
+937.592 MHz, 938.775 MHz, 940.567 MHz, 941.164 MHz, 942.570 MHz,
+944.781 MHz, 945 MHz (analizzato) e 960 MHz.
+
+Se moltiplichiamo la banda di frequenze 929.6-970 MHz per quattro
+
+```
+3.718 GHz = 4 * 929.6 MHz
+3.780 GHz = 4 * 945.0 MHz
+3.880 GHz = 4 * 970.0 MHz
+```
+
+otteniamo una larghezza di banda di circa 160 Mhz partendo da circa
+3.7 GHz. 160 MHz dovrebbe corrispondere ai due lotti superiori da 80
+MHz della banda di frequenze 3.6-3.8 GHz che è stata assegnata a
+Telecom Italia (blocco specifico 80 MHz), Vodafone Italia (blocco
+generico 80 MHz), Wind Tre (blocco generico 20 MHz) e Iliad Italia
+(blocco generico 20 MHz).
+
+[Conclusa la GARA 5G (sviluppoeconomico.gov.it)](https://www.sviluppoeconomico.gov.it/index.php/it/194-comunicati-stampa/2038666-gara-5g)
+
+Inoltre, le frequenze seguenti sono analizzate in altre sezioni di
+questo documento:
+
+```
+422.733 MHz * 9 = 169 MHz * 9 * 5/2 = 3.8 GHz
+169 MHz * 5/2 * 7 * 9 = 26.6 GHz
+```
+
+5/2 è il solito numero magico e 26.6 GHz appartiene alla banda di
+frequenze 26.5-27.5 GHz per il 5G con lunghezze d'onda di circa
+11 millimetri.
+
+### Campionamento della radiazione ed aliasing
+
+Gli impulsi con frequenze d'impulso 78250 Hz e 31300 Hz permettono il
 campionamento di un segnale nascosto nella radiazione complessiva
 (diffusa e diretta):
 
@@ -1032,43 +1105,10 @@ Quindi il segnale che ricevo in testa a 945 MHz (anche 935 MHz e 461
 MHz, ma c'è altro) è possibilmente ripetuto dai contatori elettronici
 dell'ACEA. Spero di no, ma se i criminali controllano la distribuzione
 dei segnali RF di tutti i contatori deficienti, possono mixarli in modo
-da indirizzarli verso una zona ben precisa.
+da indirizzarli verso una zona ben precisa. Idem per la distribuzione
+dei segnali per telefonia mobile 5G combinati con le armoniche di 230.4 MHz.
 
-### Frequenza di 3.7 GHz e sperimentazione 5G
-
-La banda di frequenze 929.6-970 MHz comprende più segnali diretti
-verso la mia testa. Il livello del segnale è più alto intorno alle
-frequenze 930 MHz, 935.575 MHz, 937.592 MHz, 938.775 MHz, 940.567 MHz,
-941.164 MHz, 942.570 MHz, 944.781 MHz, 945 MHz (analizzato) e 960 MHz.
-
-Forse è una coincidenza, ma se moltiplichiamo la banda di frequenze
-929.6-970 MHz per quattro
-
-```
-3.718 GHz = 4 * 929.6 MHz
-3.780 GHz = 4 * 945.0 MHz
-3.880 GHz = 4 * 970.0 MHz
-```
-
-otteniamo una larghezza di banda di circa 160 Mhz partendo da circa
-3.7 GHz. 160 MHz dovrebbe corrispondere ai due lotti superiori da 80
-MHz della banda di frequenze 3.6-3.8 GHz che è stata assegnata a
-Telecom Italia (blocco specifico 80 MHz), Vodafone Italia (blocco
-generico 80 MHz), Wind Tre (blocco generico 20 MHz) e Iliad Italia
-(blocco generico 20 MHz).
-
-[Conclusa la GARA 5G (sviluppoeconomico.gov.it)](https://www.sviluppoeconomico.gov.it/index.php/it/194-comunicati-stampa/2038666-gara-5g)
-
-Le coincidenze sono più di una:
-
-```
-422.733 MHz * 9 = 169 MHz * 9 * 5/2 = 3.8 GHz
-169 MHz * 5/2 * 7 * 9 = 26.6 GHz
-```
-
-5/2 è il solito numero magico e 26.6 GHz appartiene alla banda di
-frequenze 26.5-27.5 GHz per il 5G con lunghezze d'onda di circa
-11 millimetri.
+### Sperimentazione 5G
 
 Sono curioso di conoscere il rapporto tra la frequenza di downlink e
 quella di uplink utilizzato nei test di Vodafone Italia e Huawei.
