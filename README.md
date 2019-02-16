@@ -991,6 +991,9 @@ some frequencies used for the attack (see the previous section):
 
 169 * 5/2 = 422.5
     => 421.684 and 422.7 MHz are synchronized to the infrasounds.
+
+169 MHz = (5200 * 5/2)^2 MHz
+sqrt(169e6) = 13000 = 5200 * 5/2
 ```
 
 From "Bilancio di Sostenibilità 2017 del Gruppo Acea", pag. 81:

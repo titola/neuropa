@@ -1000,6 +1000,9 @@ frequenze sono multiple di alcune frequenze utilizzate per l'attacco
 
 169 * 5/2 = 422.5
     => 421.684 e 422.7 MHz sono sincronizzati con gli infrasuoni.
+
+169 MHz = (5200 * 5/2)^2 MHz
+sqrt(169e6) = 13000 = 5200 * 5/2
 ```
 
 Dal "Bilancio di Sostenibilità 2017 del Gruppo Acea", pag. 81:
