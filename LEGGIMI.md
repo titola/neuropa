@@ -196,6 +196,11 @@ Se x = 118.125 MHz:
   32 * x = 3.78 GHz      [telefonia mobile 5G]
    8 * x = 945 MHz       [diretto verso la testa e mostrato nel sonogramma]
    2 * x = 236.25 MHz
+
+E' interessante anche il rapporto tra 230.4 MHz e 144 MHz,
+una frequenza assegnata ai radioamatori.
+
+230.4 MHz * 5/2 = 144 MHz * 4
 ```
 
 In pratica tutto il segnale prodotto dalla combinazione è diretto
