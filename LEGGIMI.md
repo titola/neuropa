@@ -527,6 +527,12 @@ secondi. Questi tempi dipendono dalla frequenza nominale di 50 Hz:
 
 Inoltre, il rapporto tra 422.733 MHz e la frequenza di ricezione
 169 MHz di un contatore elettronico "smart" di ACEA/ARETI è 5/2.
+Anche la distanza in frequenza di 1950 Hz tra le due oscillazioni è
+particolare:
+
+```
+1950 = 650/3 * 9 = 216.67 * 9
+```
 
 Negli impulsi filtrati ottenuti dal file audio pubblicato, la distanza
 tra due picchi è circa 1.874 secondi e la frequenza di taglio è 5.69 Hz

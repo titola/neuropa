@@ -522,6 +522,12 @@ about 0.18 seconds. These times depend on the nominal frequency of 50 Hz:
 
 Besides, the ratio between 422.733 MHz and the receiving frequency
 169 MHz of a "smart" electric meter of ACEA/ARETI is 5/2.
+Also the distance in frequency of 1950 Hz between the two oscillations
+is particular:
+
+```
+1950 = 650/3 * 9 = 216.67 * 9
+```
 
 In the filtered pulses obtained from the published sound file, the
 temporal interval between two peaks is about 1.874 seconds, and the
