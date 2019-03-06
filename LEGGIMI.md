@@ -25,6 +25,7 @@ In Italia "La libertà personale è inviolabile". [1]
     - [Campionamento della radiazione ed aliasing](#campionamento-della-radiazione-ed-aliasing)
     - [Simulazione del tinnitus](#simulazione-del-tinnitus)
     - [Impulsi ripetuti nel segnale modulante](#impulsi-ripetuti-nel-segnale-modulante)
+- [Infrasuono dal segnale ricevuto a 422.733 MHz](#infrasuono-dal-segnale-ricevuto-a-422.733-mhz)
 - [Battimento tra radiazione impulsiva e VLF militare](#battimento-tra-radiazione-impulsiva-e-vlf-militare)
 - [Codifica della voce](#codifica-della-voce)
 - [Armoniche di 50 Hz dalla combinazione di segnali modulanti](#armoniche-di-50-hz-dalla-combinazione-di-segnali-modulanti)
@@ -506,6 +507,85 @@ ancora valida. Intanto ho imparato ad umiliare questi fanatici idioti
 controllando i loro sofisticati movimenti tramite un semplice gioco di
 specchi.
 
+## Infrasuono dal segnale ricevuto a 422.733 MHz
+
+![](media/infrasound.jpg)
+
+La figura mostra i passaggi per ottenere l'infrasuono registrato in
+[low_freq_with_6min_for_tinnitus.wav](https://github.com/titola/neuropa/blob/master/media/low_freq_with_6min_for_tinnitus.wav).
+
+Di solito il segnale è ripetuto ogni 1.92 secondi e dura circa 0.18
+secondi. Questi tempi dipendono dalla frequenza nominale di 50 Hz:
+
+```
+# 96 cicli della frequenza nominale della rete elettrica
+1.92 = 96 / 50
+
+# 9 cicli
+0.18 = 9 / 50 = 1.92 * 3/32
+```
+
+Inoltre, il rapporto tra 422.733 MHz e la frequenza di ricezione
+169 MHz di un contatore elettronico "smart" di ACEA/ARETI è 5/2.
+
+Negli impulsi filtrati ottenuti dal file audio pubblicato, la distanza
+tra due picchi è circa 1.874 secondi e la frequenza di taglio è 5.69 Hz
+invece di 50/9 Hz:
+
+```
+32/3 * 1/1.874 = 5.69 Hz
+
+Relazione tra frequenza di taglio e frequenza nominale di 50 Hz:
+
+50/9 +/- 2.5% = (2 +/- 0.05) * (5/3)^2
+```
+
+L'uscita del primo differenziatore può essere ottenuta integrando il
+suono registrato:
+
+```
+somma = 0
+k = 1 / 80.5
+m = k / 10.35
+
+"m" è la costante di normalizzazione per ottenere un guadagno unitario.
+
+Per ogni campione "ingresso":
+    somma = somma + ingresso + k
+    risultato = m * somma
+```
+
+L'integrazione del risultato precedente rivela gli impulsi iniziali:
+
+```
+somma = 0
+k = -0.05
+m = k / -164.11
+
+Per ogni campione "ingresso":
+    somma = somma + ingresso + k
+    risultato = m * somma
+```
+
+La figura seguente mostra l'autocorrelazione dell'inviluppo a 422.733 MHz,
+con frequenze principali:
+
+```
+20 Hz = 50 * 2/5
+
+213.6 Hz vicina a 216.6 Hz analizzata sopra e in relazione con
+la frequenza nominale: 216.6 = 50 * 13/3
+
+200 Hz = 50 * 4 = 20 * 10
+
+42.72 * 5 = 213.6 dove 42.72 Hz è -2.8 dB sotto 213.6 Hz.
+```
+
+![](media/422_733_env_ac.jpg)
+
+Nella sezione "Altri segnali da analizzare" ci sono informazioni che
+riguardano gli smerd meter ed altre sperimentazioni sospette.
+
 ## Battimento tra radiazione impulsiva e VLF militare
 
 Gli impulsi ottenuti da sinusoidi separate da 5200/3 o 1733 Hz creano
@@ -969,28 +1049,6 @@ Nota: 421.684 MHz non è presente in una registrazione del 23 Agosto 2018
 e la larghezza di banda a 422.733 MHz diventa 5kHz. Il confronto sarà
 utile per comprendere meglio la sintesi e la funzione del segnale audio
 a bassa frequenza.
-
-La figura seguente mostra l'autocorrelazione dell'inviluppo a 422.733 MHz,
-con frequenze principali
-
-```
-20 Hz = 50 * 2/5
-
-213.6 Hz vicina a 216.6 Hz analizzata sopra e dipendente dalla
-frequenza nominale: 216.6 = 50 * 13/3
-
-2/5 * 422.733 = 169 MHz
-(vedi la prossima sezione sui contatori elettronici ACEA/ARETI).
-
-2/5 * 50 = 20 Hz (freq principale dell'inviluppo a 422.733 MHz).
-
-5 * 173.7 = 868 MHz (contatori elettronici).
-
-5 * 42.72 = 213.6 (un'altra frequenza principale dell'inviluppo a 422.733 MHz)
-dove 42.72 Hz è -2.8 dB sotto 213.6 Hz.
-```
-
-![](media/422_733_env_ac.jpg)
 
 ### Contatori elettronici ACEA-ARETI con oscillatore a 939 MHz
 

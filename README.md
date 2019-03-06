@@ -27,6 +27,7 @@ In Italy "The personal freedom is inviolable." [1]
     - [Radiation sampling and aliasing](#radiation-sampling-and-aliasing)
     - [Tinnitus simulation](#tinnitus-simulation)
     - [Pulses repeated in the modulating signal](#pulses-repeated-in-the-modulating-signal)
+- [Infrasound from the signal received at 422.733 MHz](#infrasound-from-the-signal-received-at-422.733-mhz)
 - [Beat between impulsive radiation and military VLF](#beat-between-impulsive-radiation-and-military-vlf)
 - [Voice encoding](#voice-encoding)
 - [Harmonics of 50 Hz from the mix of the amplitude modulations](#harmonics-of-50-hz-from-the-mix-of-the-amplitude-modulations)
@@ -501,6 +502,85 @@ is still valid. Meanwhile, I have learned to humiliate these fanatic
 idiots by controlling their sophisticated movements through a simple
 game of mirrors.
 
+## Infrasound from the signal received at 422.733 MHz
+
+![](media/infrasound.jpg)
+
+The figure shows the steps to get the infrasound recorded in
+[low_freq_with_6min_for_tinnitus.wav](https://github.com/titola/neuropa/blob/master/media/low_freq_with_6min_for_tinnitus.wav).
+
+Generally, the signal is repeated every 1.92 seconds and the duration is
+about 0.18 seconds. These times depend on the nominal frequency of 50 Hz:
+
+```
+# 96 cycles of the nominal frequency of the electrical grid
+1.92 = 96 / 50
+
+# 9 cycles
+0.18 = 9 / 50 = 1.92 * 3/32
+```
+
+Besides, the ratio between 422.733 MHz and the receiving frequency
+169 MHz of a "smart" electric meter of ACEA/ARETI is 5/2.
+
+In the filtered pulses obtained from the published sound file, the
+temporal interval between two peaks is about 1.874 seconds, and the
+cutoff frequency is about 5.69 Hz instead of 50/9 Hz:
+
+```
+32/3 * 1/1.874 = 5.69 Hz
+
+Relation between the cutoff frequency and the nominal frequency of 50 Hz:
+
+50/9 +/- 2.5% = (2 +/- 0.05) * (5/3)^2
+```
+
+The output of the first differentiator can be obtained by integrating
+the recorded sound:
+
+```
+sum = 0
+k = 1 / 80.5
+m = k / 10.35
+
+"m" is the normalization constant to get an unitary gain.
+
+For each sample "input":
+    sum = sum + input + k
+    output = m * sum
+```
+
+The integration of the previous result reveals the initial pulses:
+
+```
+sum = 0
+k = -0.05
+m = k / -164.11
+
+For each sample "input":
+    sum = sum + input + k
+    output = m * sum
+```
+
+The following figure displays the autocorrelation of the envelope at
+422.733 MHz, with the main frequencies:
+
+```
+20 Hz = 50 * 2/5
+
+213.6 Hz near 216.6 Hz previously analyzed and dependent on the
+nominal frequency: 216.6 = 50 * 13/3
+
+200 Hz = 50 * 4 = 20 * 10
+
+5 * 42.72 = 213.6 where 42.72 Hz is -2.8 dB under 213.6 Hz.
+```
+
+![](media/422_733_env_ac.jpg)
+
+Additional information regarding smerd meters and other suspected
+experimentations can be found in the section "Other signals to analyse".
+
 ## Beat between impulsive radiation and military VLF
 
 The pulses obtained from sinusoids separated by 5200/3 or 1733 Hz
@@ -961,28 +1041,6 @@ Note: 421.684 MHz is not present in a recording on August 23th 2018,
 and the bandwidth at 422.733 MHz becomes 5kHz. The comparison will be
 useful to understand better the synthesis and the function of the low
 frequency audio signal.
-
-The following figure displays the autocorrelation of the envelope at
-422.733 MHz, with the main frequencies:
-
-```
-20 Hz = 50 * 2/5
-
-213.6 Hz near 216.6 Hz previously analyzed and dependent on the
-nominal frequency: 216.6 = 50 * 13/3
-
-2/5 * 422.733 = 169 MHz
-(see the next section about the electric meters ACEA/ARETI).
-
-2/5 * 50 = 20 Hz (main freq of the envelope at 422.733 MHz).
-
-5 * 173.7 = 868 MHz (electric meters).
-
-5 * 42.72 = 213.6 (another main freq of the envelope at 422.733 MHz).
-where 42.72 Hz is -2.8 dB under 213.6 Hz.
-```
-
-![](media/422_733_env_ac.jpg)
 
 ### Electric meters ACEA-ARETI with oscillator at 939 MHz
 
