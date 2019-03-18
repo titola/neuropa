@@ -1,4 +1,4 @@
-# Analisi di un attacco elettromagnetico
+# Analisi di un attacco con armi ad energia diretta
 
 L'attacco è iniziato il 15 Luglio 2017.
 
@@ -15,7 +15,9 @@ Il video seguente mostra una parte del segnale diretto alla mia testa:
 
 [head_945mhz.mp4](https://github.com/titola/neuropa/blob/master/media/head_945mhz.mp4)
 
-In Italia "La libertà personale è inviolabile". [1]
+In Italia "La libertà personale è violabile" [1], perché la mafia ed altri
+ignobili idioti militarizzati hanno applicato una patch all'articolo 13
+della nostra costituzione.
 
 ## Indice
 
@@ -50,11 +52,11 @@ In Italia "La libertà personale è inviolabile". [1]
 La mia testa è puntata continuamente, probabilmente utilizzando la
 tecnologia dei missili deficienti. Suoni sporadici, che non sono
 direzionali ma udibili da tutti e basati sulla mia posizione, mi
-suggeriscono l'utilizzo del plasma. Questo sistema di tracciamento
-insieme ai contatori elettronici sono le fondamenta dell'attacco.
+suggeriscono l'utilizzo del plasma. Questo sistema e la corrente
+elettrica sono le fondamenta dell'attacco.
 
-I criminali usano la radio senza limiti di frequenza, disturbando
-anche le trasmissioni musicali in FM.
+I criminali usano la radio senza limiti di frequenza e hanno la
+licenza di fare ciò che vogliono.
 
 Ci sono almeno quattro posizioni fisse degli attaccanti. Le misure
 sono state prese a Roma (nord), il 5 Giugno 2018, utilizzando SDR,
@@ -65,8 +67,11 @@ un'antenna semplice ed una bussola digitale.
   - tra SW 227° e WSW 251°
   - tra E 92° e SE 127°
 
-Voglio condividere l'analisi di questo attacco per rompere il velo di
-mistero, spesso divulgato ignorantemente adoperando la parola "cospirazione".
+Voglio condividere l'analisi di questo attacco per denunciare
+pubblicamente i codardi che mi stanno aggredendo e torturando di
+nascosto dal 2017, 24 ore su 24. Se la polizia ed i servizi segreti
+italiani temono questi killer infami, possono dirmi chi sono e
+risolverò personalmente e definitivamente il problema.
 
 Ho analizzato la dinamica completa dell'attacco, mi sono informato ed
 ho raccolto le prove. Questo documento contiene quello che posso spiegare
@@ -531,7 +536,7 @@ Anche la distanza in frequenza di 1950 Hz tra le due oscillazioni è
 particolare:
 
 ```
-1950 = 650/3 * 9 = 216.67 * 9
+1950 = 650/3 * 9 = 216.67 * 9 = 13 * 3^3 * 50/9 = 351 * 50/9
 ```
 
 Negli impulsi filtrati ottenuti dal file audio pubblicato, la distanza
@@ -1285,7 +1290,8 @@ alcune frequenze molto basse da analizzare.
 
 ## Riferimenti
 
-[1] Costituzione della Repubblica Italiana, articolo 13.
+[1] Dall'articolo 13 originale della Costituzione della Repubblica Italiana:
+    "La libertà personale è inviolabile".
 
 [2] Josh Lederman and Michael Weissenstein. Dangerous sound?
 What Americans heard in Cuba attacks. AP News, October 2017.

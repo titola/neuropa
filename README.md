@@ -1,10 +1,10 @@
 [Traduzione italiana](LEGGIMI.md)
 
-# Analysis of an electromagnetic attack
+# Analysis of an attack with directed energy weapons (DEW)
 
 I noticed the attack voice-to-skull on July 15th 2017.
 
-The artificial and natural deficiency coordinates the sequences and the
+The artificial and natural deficiency coordinate the sequences and the
 psychology of the dialogues, often offensive, and the interferences to
 the normal neural oscillations that disturb the sleep with tremors,
 convulsions, etc.
@@ -17,7 +17,9 @@ The following video shows a part of the signal directed to my head:
 
 [head_945mhz.mp4](https://github.com/titola/neuropa/blob/master/media/head_945mhz.mp4)
 
-In Italy "The personal freedom is inviolable." [1]
+In Italy "The personal freedom is violable" [1], because mafia and
+other ignoble militarized idiots have applied a patch to the article 13
+of the Costituzione della Repubblica Italiana.
 
 ## Table of Contents
 
@@ -52,11 +54,10 @@ In Italy "The personal freedom is inviolable." [1]
 My head is continually tracked, probably using the technology of the
 deficient missiles. Sporadic sounds, that are not directional but
 audible by all and based on my location, suggest to me the use of the
-plasma. That tracking system and the electric meters are the basis of
-the attack.
+plasma. That system and the electric current are the basis of the attack.
 
-The criminals use the radio without limits of frequency, disturbing
-also the musical transmissions in FM.
+The criminals use the radio without limits of frequency and have the
+licence to do what they want.
 
 There are at least four fixed positions of the attackers. The measures
 have been taken in Rome (north), June 5th 2018, by using SDR, a simple
@@ -67,8 +68,11 @@ antenna and a digital compass.
 -   between SW 227° and WSW 251°
 -   between E 92° and SE 127°
 
-I want to share the analysis of this attack to break the veil of
-mystery, often ignorantly divulged by using the word "conspiracy".
+I want to share the analysis of this attack to publicly report the
+cowards that are secretly assaulting and torturing me from 2017,
+24 hours/day. If the Italian police and secret services fear these
+infamous killers, they can say to me who they are and I personally
+and definitively will resolve the problem.
 
 I have analyzed the complete dynamics of the attack. This document
 contains what I can unequivocally explain (35% of the overall attack
@@ -526,7 +530,7 @@ Also the distance in frequency of 1950 Hz between the two oscillations
 is particular:
 
 ```
-1950 = 650/3 * 9 = 216.67 * 9
+1950 = 650/3 * 9 = 216.67 * 9 = 13 * 3^3 * 50/9 = 351 * 50/9
 ```
 
 In the filtered pulses obtained from the published sound file, the
@@ -1277,7 +1281,8 @@ to analyse.
 
 ## References
 
-[1] Costituzione della Repubblica Italiana, articolo 13.
+[1] From the original article 13 of Costituzione della Repubblica Italiana:
+    "The personal freedom is inviolable."
 
 [2] Josh Lederman and Michael Weissenstein. Dangerous sound?
 What Americans heard in Cuba attacks. AP News, October 2017.
