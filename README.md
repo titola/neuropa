@@ -59,14 +59,7 @@ plasma. That system and the electric current are the basis of the attack.
 The criminals use the radio without limits of frequency and have the
 licence to do what they want.
 
-There are at least four fixed positions of the attackers. The measures
-have been taken in Rome (north), June 5th 2018, by using SDR, a simple
-antenna and a digital compass.
-
--   NNE 20°
--   NNW 338°
--   between SW 227° and WSW 251°
--   between E 92° and SE 127°
+There are drones around my home. One is very near on March 19th 2019 20:50.
 
 I want to share the analysis of this attack to publicly report the
 cowards that are secretly assaulting and torturing me from 2017,

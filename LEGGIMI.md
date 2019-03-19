@@ -58,14 +58,8 @@ elettrica sono le fondamenta dell'attacco.
 I criminali usano la radio senza limiti di frequenza e hanno la
 licenza di fare ciò che vogliono.
 
-Ci sono almeno quattro posizioni fisse degli attaccanti. Le misure
-sono state prese a Roma (nord), il 5 Giugno 2018, utilizzando SDR,
-un'antenna semplice ed una bussola digitale.
-
-  - NNE 20°
-  - NNW 338°
-  - tra SW 227° e WSW 251°
-  - tra E 92° e SE 127°
+Ci sono drone intorno alla mia casa. Uno è molto vicino il 19 Marzo
+2019 alle ore 20:50.
 
 Voglio condividere l'analisi di questo attacco per denunciare
 pubblicamente i codardi che mi stanno aggredendo e torturando di
