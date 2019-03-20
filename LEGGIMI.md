@@ -65,7 +65,10 @@ Voglio condividere l'analisi di questo attacco per denunciare
 pubblicamente i codardi che mi stanno aggredendo e torturando di
 nascosto dal 2017, 24 ore su 24. Se la polizia ed i servizi segreti
 italiani temono questi killer infami, possono dirmi chi sono e
-risolverò personalmente e definitivamente il problema.
+risolverò personalmente e definitivamente il problema. Se invece
+si tratta di un sistema illegale C4ISRT (Command, Control, Communications,
+Computers, Intelligence, Surveillance, Reconnaissance and Torture),
+continuerò l'indagine nonostante l'indifferenza e l'omertà generale.
 
 Ho analizzato la dinamica completa dell'attacco, mi sono informato ed
 ho raccolto le prove. Questo documento contiene quello che posso spiegare
