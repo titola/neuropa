@@ -969,18 +969,23 @@ induction lines described in the paper "On the nonlinear triggering of
 VLF emissions by power line harmonic radiation" by D. Nunn, J. Manninen,
 T. Turunen, V. Trakhtengerts and N. Erokhin.
 
-A sinusoidal signal goes down from the maximum to the central
-frequency and continues with duration between 0.072 and 0.076 seconds,
-then it is amplitude modulated by a sinusoid of 2 kHz (mix of two side
-sinusoids) for 0.034 seconds. The middle part is a kind of noise with
-LTAS (Long-Term Average Spectrum) almost uniform in bandwidth:
+This signal should interact with the laser-induced plasma obtained
+from ultrashort laser pulses.
+
+The hook goes down from the maximum to the central frequency and
+continues with duration between 0.072 and 0.076 seconds, then the signal
+is amplitude modulated by a sinusoid of 2 kHz for 0.034 seconds and
+frequency modulated with variation to analyse:
+
+![](media/461mhz_zoom.jpg)
+
+The LTAS (Long-Term Average Spectrum) is almost uniform in bandwidth:
 
 ![](media/422_733_ltas.jpg)
 
 The duration of the final sinusoidal signal is about 0.034 seconds.
 
-The duration of the noisy part (maybe a cloud of sinusoidal gains)
-depends on the perceived voice.
+The duration of the frequency modulated part depends on the perceived voice.
 
 ### Correspondence between 422.733 MHz and infrasounds
 

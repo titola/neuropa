@@ -978,18 +978,24 @@ La curva a forma di uncino ricorda le linee d'induzione PLHR
 radiation" di D. Nunn, J. Manninen, T. Turunen, V. Trakhtengerts e
 N. Erokhin.
 
-Un segnale sinusoidale scende dalla frequenza massima a quella
-centrale e continua per una durata da 0.072 a 0.076 secondi, poi
-prosegue modulato in ampiezza da una sinusoide di 2 kHz (mix di due
-sinusoidi laterali) per 0.034 secondi. Inizia una specie di rumore con
-LTAS (Long-Term Average Spectrum) quasi uniforme nella banda passante:
+Questo segnale dovrebbe interagire con il laser-induced plasma
+ottenuto da impulsi laser estremamente brevi (Ultra-short Pulse Laser).
+
+L'uncino scende dalla frequenza massima a quella centrale e continua
+per una durata da 0.072 a 0.076 secondi, poi il segnale prosegue
+modulato in ampiezza da una sinusoide di 2 kHz per 0.034 secondi e
+modulato in frequenza con variazione da analizzare:
+
+![](media/461mhz_zoom.jpg)
+
+Il LTAS (Long-Term Average Spectrum) è quasi uniforme nella banda passante:
 
 ![](media/422_733_ltas.jpg)
 
 Il segnale sinusoidale finale dura circa 0.034 secondi.
 
-La durata della parte rumorosa (forse una nuvola di grani sinusoidali)
-dipende dalla voce percepita.
+La durata della parte modulata in frequenza dipende dalla voce
+percepita.
 
 ### Corrispondenza tra 422.733 MHz ed infrasuoni
 
