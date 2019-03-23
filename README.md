@@ -1218,6 +1218,11 @@ for some hours (it is instead a classic) and the customary voices
 that provoke me nonstop. Sometimes the walls creak as every night.
 Generally the forced awakenings are more than three.
 
+On March 23 2019 night 1:30: another burst near the window of my room
+(outdoors). On 21 March, I have hung a a Venetian curtain in front of
+the window. On 22 March, I have added reflecting materials (DVD and
+aluminium) between the window and the curtain.
+
 I don't take medicines or drugs and fortunately my brain is still
 efficient. I will discover who are these ridiculous militarized
 stupids and I will humiliate who protect them.

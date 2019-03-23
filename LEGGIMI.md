@@ -1227,6 +1227,11 @@ per alcune ore (questo invece è un classico) e le solite voci che mi
 provocano ininterrottamente. Le pareti scricchiolano ogni tanto come
 ogni notte. Di solito i risvegli forzati sono più di tre.
 
+La notte del 23 Marzo 2019 ore 1:30: un'altro scoppio vicino alla
+finestra della mia stanza (fuori). Il 21 Marzo ho appeso una tenda
+veneziana davanti alla finestra. Il 22 Marzo ho aggiunto materiale
+riflettente (DVD e fogli di alluminio) tra la finestra e la tenda.
+
 Non prendo medicine o droghe e fortunatamente il mio cervello è ancora
 efficiente. Scoprirò chi sono questi ridicoli imbecilli militarizzati
 ed umilierò chi li sta proteggendo.
