@@ -964,6 +964,14 @@ This type of signal is synchronized with the voices:
 Received at the frequencies 173.456 MHz, 173.880 MHz, 173.956 MHz and
 460.557 MHz with bandwidth of 4 kHz.
 
+The frequency 460.557 MHz is near the second harmonic of 230.4 MHz
+analysed in a previous section:
+
+```
+230.4 * 2 = 460.8 MHz
+460.557 * 8 = 3.684 GHz    [mobile communications 5G]
+```
+
 The hook shaped curve remembers the PLHR (Power Line Harmonic Radiation)
 induction lines described in the paper "On the nonlinear triggering of
 VLF emissions by power line harmonic radiation" by D. Nunn, J. Manninen,

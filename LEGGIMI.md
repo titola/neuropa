@@ -972,6 +972,14 @@ Questo tipo di segnale è sincronizzato con le voci:
 Ricevuto alle frequenze 173.456 MHz, 173.880 MHz, 173.956 MHz e
 460.557 MHz con larghezza di banda pari a 4 kHz.
 
+La frequenza 460.557 è vicina alla seconda armonica di 230.4 MHz
+analizzata in una sezione precedente:
+
+```
+230.4 * 2 = 460.8 MHz
+460.557 * 8 = 3.684 GHz    [telefonia mobile 5G]
+```
+
 La curva a forma di uncino ricorda le linee d'induzione PLHR
 (Power Line Harmonic Radiation) descritte nell'articolo scientifico
 "On the nonlinear triggering of VLF emissions by power line harmonic
