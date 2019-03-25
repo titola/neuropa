@@ -972,6 +972,20 @@ analysed in a previous section:
 460.557 * 8 = 3.684 GHz    [mobile communications 5G]
 ```
 
+The other frequencies are near 172.8 MHz, the interval of perfect fifth
+of 115.2 MHz (the half of the distance between 115.2 MHz and 230.4 MHz):
+
+```
+115.2 * 3/2 = 230.4 * 3/4 = 172.8 MHz
+
+Interval of perfect fourth, 5 octaves up:
+
+172.800 * 64/3 = 3.686 GHz
+173.456 * 64/3 = 3.700 GHz
+173.880 * 64/3 = 3.709 GHz
+173.956 * 64/3 = 3.711 GHz
+```
+
 The hook shaped curve remembers the PLHR (Power Line Harmonic Radiation)
 induction lines described in the paper "On the nonlinear triggering of
 VLF emissions by power line harmonic radiation" by D. Nunn, J. Manninen,

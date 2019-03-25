@@ -980,6 +980,20 @@ analizzata in una sezione precedente:
 460.557 * 8 = 3.684 GHz    [telefonia mobile 5G]
 ```
 
+Le altre frequenze sono vicine a 172.8 MHz, l'intervallo di quinta giusta
+di 115.2 MHz (la metà della distanza tra 115.2 MHz e 230.4 MHz):
+
+```
+115.2 * 3/2 = 230.4 * 3/4 = 172.8 MHz
+
+Intervallo di quarta giusta, 5 ottave sopra:
+
+172.800 * 64/3 = 3.686 GHz
+173.456 * 64/3 = 3.700 GHz
+173.880 * 64/3 = 3.709 GHz
+173.956 * 64/3 = 3.711 GHz
+```
+
 La curva a forma di uncino ricorda le linee d'induzione PLHR
 (Power Line Harmonic Radiation) descritte nell'articolo scientifico
 "On the nonlinear triggering of VLF emissions by power line harmonic
