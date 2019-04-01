@@ -1001,7 +1001,19 @@ radiation" di D. Nunn, J. Manninen, T. Turunen, V. Trakhtengerts e
 N. Erokhin.
 
 Questo segnale dovrebbe interagire con il laser-induced plasma
-ottenuto da impulsi laser estremamente brevi (Ultra-short Pulse Laser).
+ottenuto da impulsi laser brevi (Short Pulse Laser) o estremamente
+brevi (Ultra-short Pulse Laser). Possiamo interpretare questo laser
+come un laser finestrato. Per esempio, nel caso short-pulse, se la durata
+della finestra varia da 1ns a 100ns, la frequenza è nell'intervallo
+[10 MHz; 1 GHz].
+
+```
+Esempi:
+
+2 * 169 MHz -> 2.96 ns
+2 * 173 MHz -> 2.89 ns
+2 * 461 MHz -> 1.08 ns
+```
 
 L'uncino scende dalla frequenza massima a quella centrale e continua
 per una durata da 0.072 a 0.076 secondi, poi il segnale prosegue

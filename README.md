@@ -992,7 +992,18 @@ VLF emissions by power line harmonic radiation" by D. Nunn, J. Manninen,
 T. Turunen, V. Trakhtengerts and N. Erokhin.
 
 This signal should interact with the laser-induced plasma obtained
-from ultrashort laser pulses.
+from short or ultrashort laser pulses. We can interpret that laser
+as a windowed laser. For example, in the case of short-pulse,
+if the window duration varies from 1ns to 100ns, the frequency is
+in the range [10 MHz; 1 GHz].
+
+```
+Examples:
+
+2 * 169 MHz -> 2.96 ns
+2 * 173 MHz -> 2.89 ns
+2 * 461 MHz -> 1.08 ns
+```
 
 The hook goes down from the maximum to the central frequency and
 continues with duration between 0.072 and 0.076 seconds, then the signal
