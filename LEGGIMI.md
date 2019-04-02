@@ -68,7 +68,8 @@ italiani temono questi killer infami, possono dirmi chi sono e
 risolverò personalmente e definitivamente il problema. Se invece
 si tratta di un sistema illegale C4ISRT (Command, Control, Communications,
 Computers, Intelligence, Surveillance, Reconnaissance and Torture),
-continuerò l'indagine nonostante l'indifferenza e l'omertà generale.
+continuerò l'indagine nonostante l'indifferenza, l'omertà generale
+e la Smart Italy [2].
 
 Ho analizzato la dinamica completa dell'attacco, mi sono informato ed
 ho raccolto le prove. Questo documento contiene quello che posso spiegare
@@ -84,9 +85,9 @@ se senti una voce nel file audio
 
 anche gli [ambasciatori americani a Cuba](https://en.wikipedia.org/wiki/Embassy_attack_accusations_in_Cuba)
 hanno subito inconsapevolmente un'azione offensiva simile, perché quello che
-hai appena ascoltato è nascosto in una registrazione pubblicata [2]. Forse il
+hai appena ascoltato è nascosto in una registrazione pubblicata [3]. Forse il
 segnale utilizzato è stato rettificato da un effetto Hall anomalo in qualche
-materiale ferromagnetico [3] oppure il responsabile è un contatore elettronico
+materiale ferromagnetico [4] oppure il responsabile è un contatore elettronico
 "smart" utilizzato come arma.
 
 ## Segnale diretto verso la testa
@@ -427,14 +428,14 @@ Ho preferito utilizzare un modello sorgente-filtro invece di sintetizzare
 le frequenze acustiche, quindi l'onda termo-elastica è approssimata da
 un treno d'impulsi con pattern A-A-A-A-B e frequenza media di 21.23 Hz
 (gli altri impulsi sono esclusi per semplificare il modello) filtrato
-dal filtro di conduzione disegnato in base alla figura 4 in [4].
+dal filtro di conduzione disegnato in base alla figura 4 in [5].
 Questo tipo di segnale interferisce in modo particolare con le
 oscillazioni neurali (gli altri impulsi variabili possono modulare
 specifiche onde cerebrali con ritmi diversi) prima di raggiungere
 l'orecchio interno.
 
 E' possibile calcolare l'ampiezza della pressione indotta utilizzando
-la formula ed i fattori di ampiezza della figura 4 in [4]:
+la formula ed i fattori di ampiezza della figura 4 in [5]:
 
 ```
 P(pulse_width) = A*abs(sin(pi*freq*pulse_width)) =
@@ -466,7 +467,7 @@ contengono suoni generati tramite interferenze elettromagnetiche
 intenzionali: impulsi ripetuti ogni 1.9 secondi, un segnale continuo
 con frequenza fondamentale di 7.62 Hz ed altre frequenze che formano
 rapporti semplici con 50 Hz, la frequenza nominale della rete
-elettrica in Italia [5], per esempio:
+elettrica in Italia [6], per esempio:
 
 ```
 100 = 50 * 2
@@ -734,7 +735,7 @@ Gli impulsi sono generati da somme di sinusoidi separate da frequenze
 che provocano un incessante tinnitus risonante nella mia testa.
 
 Ogni volta che l'energia di un impulso è assorbita dal tessuto
-cerebrale, la temperatura sale di 5e-6 °C [6]. La rapida espansione
+cerebrale, la temperatura sale di 5e-6 °C [7]. La rapida espansione
 termica produce un'onda termo-elastica che raggiunge l'orecchio
 interno. Quindi i criminali utilizzano questo demodulatore
 termo-acustico per inviarmi messaggi vocali tramite ultrasuoni.
@@ -1335,21 +1336,23 @@ alcune frequenze molto basse da analizzare.
 [1] Dall'articolo 13 originale della Costituzione della Repubblica Italiana:
     "La libertà personale è inviolabile".
 
-[2] Josh Lederman and Michael Weissenstein. Dangerous sound?
+[2] Smart Italy: https://www.ilfattoquotidiano.it/in-edicola/articoli/2019/04/02/spyware-exodus-i-dati-sul-cloud-di-amazon/5079967/
+
+[3] Josh Lederman and Michael Weissenstein. Dangerous sound?
 What Americans heard in Cuba attacks. AP News, October 2017.
 
-[3] Hang Chen, Xiaolong Fan, Hengan Zhou, Wenxi Wang, Y. S. Gui,
+[4] Hang Chen, Xiaolong Fan, Hengan Zhou, Wenxi Wang, Y. S. Gui,
 C.-M. Hu, and Desheng Xue. Spin rectification enabled by anomalous
 Hall effect.
 
-[4] N. M. Yitzhak, R. Ruppin, R. Hareuveny. Numerical Analysis of the
+[5] N. M. Yitzhak, R. Ruppin, R. Hareuveny. Numerical Analysis of the
 Microwave Auditory Effect.
 
-[5] Coincidenze: un contatore trifase rotto l'anno scorso durante
+[6] Coincidenze: un contatore trifase rotto l'anno scorso durante
 l'inizio dell'attacco ed un contatore dei servizi inutilizzabile
 qualche mese fa perché erano stati tirati i fili. Inoltre, se spengo
 il contatore dei servizi, l'intensità delle vibrazioni delle torture
 notturne diminuisce.
 
-[6] J.A. Elder and C.K. Chou. Auditory Response to Pulsed
+[7] J.A. Elder and C.K. Chou. Auditory Response to Pulsed
 Radiofrequency Energy.
