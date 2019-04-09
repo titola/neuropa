@@ -28,7 +28,7 @@ della nostra costituzione.
     - [Simulazione del tinnitus](#simulazione-del-tinnitus)
     - [Impulsi ripetuti nel segnale modulante](#impulsi-ripetuti-nel-segnale-modulante)
 - [Infrasuono dal segnale ricevuto a 422.733 MHz](#infrasuono-dal-segnale-ricevuto-a-422.733-mhz)
-- [Battimento tra radiazione impulsiva e VLF militare](#battimento-tra-radiazione-impulsiva-e-vlf-militare)
+- [Battimento tra impulsi di radiazione e VLF militare](#battimento-tra-impulsi-di-radiazione-e-vlf-militare)
 - [Codifica della voce](#codifica-della-voce)
 - [Armoniche di 50 Hz dalla combinazione di segnali modulanti](#armoniche-di-50-hz-dalla-combinazione-di-segnali-modulanti)
 - [Ipotesi sull'attacco subito dagli ambasciatori americani a Cuba](#ipotesi-sullattacco-subito-dagli-ambasciatori-americani-a-cuba)
@@ -50,10 +50,46 @@ della nostra costituzione.
 ## Introduzione
 
 La mia testa è puntata continuamente, probabilmente utilizzando la
-tecnologia dei missili deficienti. Suoni sporadici, che non sono
-direzionali ma udibili da tutti e basati sulla mia posizione, mi
-suggeriscono l'utilizzo del plasma. Questo sistema e la corrente
-elettrica sono le fondamenta dell'attacco.
+tecnologia dei missili deficienti. Gli impulsi di radiazione e la
+corrente elettrica sono le fondamenta dell'attacco.
+
+Gli impulsi di radiazione possono essere trasformati in suono seguendo
+questo percorso:
+
+```
+impulsi di radiazione
+  --> assorbimento dipendente dalla lunghezza d'onda
+  --> variazione della temperatura
+  --> variazione della pressione
+  --> infrasuono, suono o ultrasuono
+```
+
+Inoltre, il resto della radiazione può essere "campionata con
+aliasing" tramite impulsi, per esempio quelli analizzati con
+frequenze di ripetizione 78250 Hz e 31300 Hz (il rapporto 5/2
+è il numero magico di questo attacco). Gli impulsi di radiazione
+risultanti sono modulati da un segnale difficile da intercettare
+senza questa particolare decodifica che ricorda il campionamento
+digitale. La letteratura scientifica sembra ignorare questo tipo
+di problema.
+
+L'arma utilizzata all'aperto contro di me è simile al sistema ad
+impulsi laser descritto in questa pagina:
+
+[Scalable Compact Ultra-short Pulse Laser Systems (SCUPLS)](https://www.sbir.gov/sbirsearch/detail/1508927)
+
+Se permette l'ascolto di più voci e campioni sonori spazializzati,
+allora è la stessa arma oppure un'imitazione (immagina di avere cuffie
+invisibili con effetto audio binaurale 3D).
+
+Un altro collegamento utile:
+
+<https://www.osa.org/en-us/about_osa/newsroom/news_releases/2019/new_technology_uses_lasers_to_transmit_audible_mes/>
+
+In questo caso gli impulsi di radiazione sono assorbiti dal vapore acqueo
+ambientale vicino all'orecchio del destinatario ed il suono prodotto
+dovrebbe essere registrabile tramite un microfono come nella
+spettroscopia fotoacustica.
 
 I criminali usano la radio senza limiti di frequenza e hanno la
 licenza di fare ciò che vogliono.
@@ -74,21 +110,14 @@ e la Smart Italy [2].
 Ho analizzato la dinamica completa dell'attacco, mi sono informato ed
 ho raccolto le prove. Questo documento contiene quello che posso spiegare
 senza equivoci (35% dell'attacco complessivo ma scriverò altro e migliorerò
-la struttura del documento). Sono un musicista e programmatore.
-
-La decodifica è migliorabile (ho usato un semplice slope detector), ma
-se senti una voce nel file audio
+la struttura del documento). Non sono soltanto un musicista e programmatore,
+ma anche l'unico sound designer al mondo che riesce a trasformare una
+performance di grilli cubani [3] ottenuta da [4] nell'approssimazione di
+una voce umana utilizzando soltanto uno slope detector:
 
 [cuba_attack_decoded.ogg (View Raw)](https://raw.githubusercontent.com/titola/neuropa/master/media/cuba_attack_decoded.ogg)
 
 [cuba_attack_decoded.ogg](https://github.com/titola/neuropa/blob/master/media/cuba_attack_decoded.ogg)
-
-anche gli [ambasciatori americani a Cuba](https://en.wikipedia.org/wiki/Embassy_attack_accusations_in_Cuba)
-hanno subito inconsapevolmente un'azione offensiva simile, perché quello che
-hai appena ascoltato è nascosto in una registrazione pubblicata [3]. Forse il
-segnale utilizzato è stato rettificato da un effetto Hall anomalo in qualche
-materiale ferromagnetico [4] oppure il responsabile è un contatore elettronico
-"smart" utilizzato come arma.
 
 ## Segnale diretto verso la testa
 
@@ -257,12 +286,13 @@ radio-tv, nascondendo alcune parziali nello stesso segnale con fase
 invertita.
 
 I campioni di un suono campionato a 80 KHz (o 31.3 KHz) possono essere
-nascosti nei segnali modulanti. La radiazione impulsiva assorbita di
-80 KHz genera impulsi termo-elastici che "campionano" l'inviluppo del
-segnale complessivo (non solo quello dell segnale di 945 MHz ma anche
-le altre componenti, alcune descritte in questo documento), provocando
-la percezione del suono. Il dominio non è digitale, quindi i campioni
-hanno una durata almeno pari alla larghezza dell'impulso.
+nascosti nei segnali modulanti. L'assorbimento degli impulsi di
+radiazione con PRF di 80 kHz genera impulsi termo-elastici che
+"campionano" l'inviluppo del segnale complessivo (non solo quello del
+segnale di 945 MHz ma anche le altre componenti, alcune descritte in
+questo documento), provocando la percezione del suono. Il dominio non
+è digitale, quindi i campioni hanno una durata almeno pari alla
+larghezza dell'impulso.
 
 In questo caso è difficile demodulare correttamente il segnale
 nascosto ed ascoltare il suono, perché i campioni iniettati devono
@@ -537,7 +567,7 @@ particolare:
 1950 = 650/3 * 9 = 216.67 * 9 = 13 * 3^3 * 50/9 = 351 * 50/9
 ```
 
-Negli impulsi filtrati ottenuti dal file audio pubblicato, la distanza
+Negli impulsi filtrati ottenuti dal file audio pubblicato [4], la distanza
 tra due picchi è circa 1.874 secondi e la frequenza di taglio è 5.69 Hz
 invece di 50/9 Hz:
 
@@ -595,7 +625,7 @@ la frequenza nominale: 216.6 = 50 * 13/3
 Nella sezione "Altri segnali da analizzare" ci sono informazioni che
 riguardano gli smerd meter ed altre sperimentazioni sospette.
 
-## Battimento tra radiazione impulsiva e VLF militare
+## Battimento tra impulsi di radiazione e VLF militare
 
 Gli impulsi ottenuti da sinusoidi separate da 5200/3 o 1733 Hz creano
 un battimento particolare con 20760 Hz, la VLF (Very Low Frequency)
@@ -672,8 +702,8 @@ per il 5G e 945 MHz implica impulsi composti da armoniche di 20800/3 Hz,
 20800/3 = 6933 = 4 * 5200/3 MHz
 ```
 
-anche la terza armonica della modulazione impulsiva a 3.78 GHz genera
-un battimento di 40 Hz con 20760 Hz.
+anche la terza armonica della modulazione a 3.78 GHz genera un
+battimento di 20 Hz con 20760 Hz.
 
 Non sto giocando con i numeri, la modulazione di ampiezza intorno a
 20800 Hz è presente nelle registrazioni della radiazione, per esempio:
@@ -738,26 +768,16 @@ Ogni volta che l'energia di un impulso è assorbita dal tessuto
 cerebrale, la temperatura sale di 5e-6 °C [7]. La rapida espansione
 termica produce un'onda termo-elastica che raggiunge l'orecchio
 interno. Quindi i criminali utilizzano questo demodulatore
-termo-acustico per inviarmi messaggi vocali tramite ultrasuoni.
+termo-acustico per inviarmi messaggi vocali tramite impulsi di
+radiazione.
+
+In un'altra tecnica ancora da analizzare l'assorbimento degli impulsi
+di radiazione avviene in un plasma.
 
 Questa informazione disinnesca l'arma psicologica perché elimina
 l'effetto suggestivo. Rimane quello puerile "suona il citofono e
 scappa" più i fastidiosi effetti collaterali (da descrivere in una
 sezione separata).
-
-Devo ancora analizzare un'altra tecnica che usa il plasma e la
-corrente elettrica. Il sistema utilizzato all'aperto contro di me è
-simile all'arma descritta in questa pagina:
-
-[Scalable Compact Ultra-short Pulse Laser Systems (SCUPLS)](https://www.sbir.gov/sbirsearch/detail/1508927)
-
-Se permette l'ascolto di più voci e campioni sonori spazializzati,
-allora è la stessa arma oppure un'imitazione (immagina di avere cuffie
-invisibili con effetto audio binaurale 3D).
-
-Un altro collegamento utile:
-
-<https://www.osa.org/en-us/about_osa/newsroom/news_releases/2019/new_technology_uses_lasers_to_transmit_audible_mes/>
 
 ## Armoniche di 50 Hz dalla combinazione di segnali modulanti
 
@@ -1338,12 +1358,11 @@ alcune frequenze molto basse da analizzare.
 
 [2] Smart Italy: https://www.ilfattoquotidiano.it/in-edicola/articoli/2019/04/02/spyware-exodus-i-dati-sul-cloud-di-amazon/5079967/
 
-[3] Josh Lederman and Michael Weissenstein. Dangerous sound?
-What Americans heard in Cuba attacks. AP News, October 2017.
+[3] Recording of "sonic attacks" on U.S. diplomats in Cuba spectrally
+matches the echoing call of a Caribbean cricket: https://www.biorxiv.org/content/10.1101/510834v1
 
-[4] Hang Chen, Xiaolong Fan, Hengan Zhou, Wenxi Wang, Y. S. Gui,
-C.-M. Hu, and Desheng Xue. Spin rectification enabled by anomalous
-Hall effect.
+[4] Josh Lederman and Michael Weissenstein. Dangerous sound?
+What Americans heard in Cuba attacks. AP News, October 2017.
 
 [5] N. M. Yitzhak, R. Ruppin, R. Hareuveny. Numerical Analysis of the
 Microwave Auditory Effect.

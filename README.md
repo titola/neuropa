@@ -30,7 +30,7 @@ of the Costituzione della Repubblica Italiana.
     - [Tinnitus simulation](#tinnitus-simulation)
     - [Pulses repeated in the modulating signal](#pulses-repeated-in-the-modulating-signal)
 - [Infrasound from the signal received at 422.733 MHz](#infrasound-from-the-signal-received-at-422.733-mhz)
-- [Beat between impulsive radiation and military VLF](#beat-between-impulsive-radiation-and-military-vlf)
+- [Beat between pulsed radiation and military VLF](#beat-between-pulsed-radiation-and-military-vlf)
 - [Voice encoding](#voice-encoding)
 - [Harmonics of 50 Hz from the mix of the amplitude modulations](#harmonics-of-50-hz-from-the-mix-of-the-amplitude-modulations)
 - [Hypothesis about the US embassy attack in Cuba](#hypothesis-about-the-us-embassy-attack-in-cuba)
@@ -52,9 +52,43 @@ of the Costituzione della Repubblica Italiana.
 ## Introduction
 
 My head is continually tracked, probably using the technology of the
-deficient missiles. Sporadic sounds, that are not directional but
-audible by all and based on my location, suggest to me the use of the
-plasma. That system and the electric current are the basis of the attack.
+deficient missiles. The pulsed radiation and the electric current
+are the basis of the attack.
+
+A pulsed radiation can be transformed in sound by following this path:
+
+```
+pulsed radiation
+  --> absorption dependent on the wavelength
+  --> temperature variation
+  --> pressure variation
+  --> infrasound, sound or ultrasound
+```
+
+Besides, the rest of the radiation can be "sampled with aliasing"
+through pulses, for example those analysed with pulse repetition
+frequencies 78250 Hz and 31300 Hz (the ratio 5/2 is the magic
+number of this attack). The result is a pulsed radiation modulated
+by a signal difficult to intercept without this particular decoder
+that remembers the digital sampling. The scientific literature
+seems to ignore this type of problem.
+
+The weapon used against me outdoors is similar to the pulse laser
+system described in this page:
+
+[Scalable Compact Ultra-short Pulse Laser Systems (SCUPLS)](https://www.sbir.gov/sbirsearch/detail/1508927)
+
+If it allows the listening of more spatialized voices and sound samples,
+then it is the same weapon or an imitation (imagine to have invisible
+headphones with 3D binaural audio effect).
+
+Another useful link:
+
+<https://www.osa.org/en-us/about_osa/newsroom/news_releases/2019/new_technology_uses_lasers_to_transmit_audible_mes/>
+
+In this case the pulsed radiation is absorbed by ambient water vapor
+near the receiver's ear and the produced sound should be recordable
+through a microphone as in photoacoustic spectroscopy.
 
 The criminals use the radio without limits of frequency and have the
 licence to do what they want.
@@ -74,20 +108,14 @@ the omertà and the Smart Italy [2].
 I have analyzed the complete dynamics of the attack. This document
 contains what I can unequivocally explain (35% of the overall attack
 but I will write other and I will improve the structure of this
-document). I am a musician and programmer.
-
-The decoding is improvable (I have used a simple slope detector), but
-if you hear a voice in the audio file
+document). I am not just a musician and programmer, but also the only
+sound designer in the world that manages to transform a performance of
+Caribbean crickets [3] obtained from [4] in the approximation of a
+human voice by using just a slope detector:
 
 [cuba_attack_decoded.ogg (View Raw)](https://raw.githubusercontent.com/titola/neuropa/master/media/cuba_attack_decoded.ogg)
 
 [cuba_attack_decoded.ogg](https://github.com/titola/neuropa/blob/master/media/cuba_attack_decoded.ogg)
-
-also the [US embassy in Cuba](https://en.wikipedia.org/wiki/Embassy_attack_accusations_in_Cuba)
-unconsciously suffered a similar offensive action, because what you
-have just listened is hidden in a published recording [3]. Perhaps the
-used signal was rectified by an anomalous Hall effect in some ferromagnetic
-material [4] or the responsible is a smart electric meter used as weapon.
 
 ## Signal directed to the head
 
@@ -251,9 +279,9 @@ to the diffuse radiation, for example the radio-tv stations, concealing
 some partials in the same signal with inverted phase.
 
 The samples of a sound sampled at 80 KHz (or 31.3 KHz) can be hidden
-in the modulating signals. The absorbed impulsive radiation of 80 KHz
-generates thermoelastic pulses that "sample" the overall signal
-envelope (not just the signal at 945 MHz but also the other
+in the modulating signals. The absorption of the pulsed radiation with
+PRF of 80 KHz generates thermoelastic pulses that "sample" the overall
+signal envelope (not just the signal at 945 MHz but also the other
 components, some described in this document), causing the perception
 of the sound. The domain is not digital, therefore the samples have a
 duration at least equal to the pulse width.
@@ -530,7 +558,7 @@ is particular:
 1950 = 650/3 * 9 = 216.67 * 9 = 13 * 3^3 * 50/9 = 351 * 50/9
 ```
 
-In the filtered pulses obtained from the published sound file, the
+In the filtered pulses obtained from the published sound file [4], the
 temporal interval between two peaks is about 1.874 seconds, and the
 cutoff frequency is about 5.69 Hz instead of 50/9 Hz:
 
@@ -588,7 +616,7 @@ nominal frequency: 216.6 = 50 * 13/3
 Additional information regarding smerd meters and other suspected
 experimentations can be found in the section "Other signals to analyse".
 
-## Beat between impulsive radiation and military VLF
+## Beat between pulsed radiation and military VLF
 
 The pulses obtained from sinusoids separated by 5200/3 or 1733 Hz
 create a particular beat with 20760 Hz, the VLF (Very Low Frequency)
@@ -665,8 +693,8 @@ harmonics of 20800/3 Hz,
 20800/3 = 6933 = 4 * 5200/3 MHz
 ```
 
-also the third harmonic of the impulsive modulation at 3.78 GHz
-generates a beat of 40 Hz with 20760 Hz.
+also the third harmonic of the pulsed modulation at 3.78 GHz
+generates a beat of 20 Hz with 20760 Hz.
 
 I don't playing with the numbers, the amplitude modulation around
 20800 Hz is present in the radiation recordings, for example:
@@ -731,26 +759,15 @@ Any time the energy of a RF pulse is absorbed by the cerebral tissue,
 the temperature rises of 5e-6 °C [7]. The rapid thermal expansion produces
 a thermoelastic wave that travels to the inner ear. Therefore the
 criminals use that thermo-acoustic demodulator to send vocal messages
-to me through ultrasounds.
+to me through a pulsed radiation.
+
+In another technique still to analyze, the pulsed radiation is absorbed
+into a plasma.
 
 This information defuses the psychologic weapon because it cancels the
 suggestive effect. The childish effect "play the entryphone and run
 away" and the annoying side effects (to describe in a separate section)
 persist.
-
-I still have to analyze another technique that use the plasma and the
-electric current. The system used against me outdoors is similar to the
-weapon described in this page:
-
-[Scalable Compact Ultra-short Pulse Laser Systems (SCUPLS)](https://www.sbir.gov/sbirsearch/detail/1508927)
-
-If it allows the listening of more spatialized voices and sound samples,
-then it is the same weapon or an imitation (imagine to have invisible
-headphones with 3D binaural audio effect).
-
-Another useful link:
-
-<https://www.osa.org/en-us/about_osa/newsroom/news_releases/2019/new_technology_uses_lasers_to_transmit_audible_mes/>
 
 ## Harmonics of 50 Hz from the mix of the amplitude modulations
 
@@ -1326,12 +1343,11 @@ to analyse.
 
 [2] Smart Italy: https://www.ilfattoquotidiano.it/in-edicola/articoli/2019/04/02/spyware-exodus-i-dati-sul-cloud-di-amazon/5079967/
 
-[3] Josh Lederman and Michael Weissenstein. Dangerous sound?
-What Americans heard in Cuba attacks. AP News, October 2017.
+[3] Recording of "sonic attacks" on U.S. diplomats in Cuba spectrally
+matches the echoing call of a Caribbean cricket: https://www.biorxiv.org/content/10.1101/510834v1
 
-[4] Hang Chen, Xiaolong Fan, Hengan Zhou, Wenxi Wang, Y. S. Gui,
-C.-M. Hu, and Desheng Xue. Spin rectification enabled by anomalous
-Hall effect.
+[4] Josh Lederman and Michael Weissenstein. Dangerous sound?
+What Americans heard in Cuba attacks. AP News, October 2017.
 
 [5] N. M. Yitzhak, R. Ruppin, R. Hareuveny. Numerical Analysis of the
 Microwave Auditory Effect.
