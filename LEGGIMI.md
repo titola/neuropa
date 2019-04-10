@@ -84,7 +84,7 @@ invisibili con effetto audio binaurale 3D).
 
 Un altro collegamento utile:
 
-<https://www.osa.org/en-us/about_osa/newsroom/news_releases/2019/new_technology_uses_lasers_to_transmit_audible_mes/>
+[New Technology Uses Lasers to Transmit Audible Messages to Specific People (osa.org)](https://www.osa.org/en-us/about_osa/newsroom/news_releases/2019/new_technology_uses_lasers_to_transmit_audible_mes/)
 
 In questo caso gli impulsi di radiazione sono assorbiti dal vapore acqueo
 ambientale vicino all'orecchio del destinatario ed il suono prodotto
@@ -631,11 +631,11 @@ Gli impulsi ottenuti da sinusoidi separate da 5200/3 o 1733 Hz creano
 un battimento particolare con 20760 Hz, la VLF (Very Low Frequency)
 trasmessa dalle antenne dell'Isola di Tavolara (Sardegna):
 
-<https://en.wikipedia.org/wiki/List_of_VLF-transmitters>
+[List of VLF-transmitters (wikipedia.org)](https://en.wikipedia.org/wiki/List_of_VLF-transmitters)
 
-<https://en.wikipedia.org/wiki/Tavolara_Island>
+[Tavolara Island (wikipedia.org)](https://en.wikipedia.org/wiki/Tavolara_Island)
 
-<http://www.lanuovasardegna.it/sassari/cronaca/2013/05/11/news/aerei-robot-radar-e-satelliti-le-nuove-servitu-1.7043405>
+[Aerei-robot, radar e satelliti: le nuove servitù (lanuovasardegna.it)](http://www.lanuovasardegna.it/sassari/cronaca/2013/05/11/news/aerei-robot-radar-e-satelliti-le-nuove-servitu-1.7043405)
 
 5200 è la terza armonica di 5200/3 Hz e corrisponde all'intervallo
 musicale di quinta giusta, un'ottava sopra. La dodicesima armonica
@@ -741,7 +741,7 @@ Infine, è interessante osservare la posizione di Havana (Cuba), Roma,
 Tavolara (Sardegna) e Guǎngzhōu (Cina) sulla mappa delle latitudini
 geomagnetiche:
 
-<https://spawx.nwra.com/spawx/maps/maplats.html>
+[Geomagnetic (350km Apex) Latitudes (nwra.com)](https://spawx.nwra.com/spawx/maps/maplats.html)
 
 ## Codifica della voce
 
@@ -1251,7 +1251,7 @@ E' anche interessante conoscere i dettagli sui problemi di sicurezza
 della tecnologia Huawei, improvvisamente ripudiata da diversi paesi
 ma utilizzata in Italia anche da ACEA:
 
-[Rinnovata l’intesa tecnologica fra Acea e Huawei (www.gruppo.acea.it)](https://www.gruppo.acea.it/it/gruppo/comunicato?idComunicato=/2018/11/rinnovata-l-intesa-tecnologica-fra-acea-e-huawei&resource=/content/aceacorporate/it/home/media-eventi/news-comunicati-stampa.html&title=Rinnovata%20l%27intesa%20tecnologica%20%20fra%20Acea%20e%20Huawei)
+[Rinnovata l’intesa tecnologica fra Acea e Huawei (acea.it)](https://www.gruppo.acea.it/it/gruppo/comunicato?idComunicato=/2018/11/rinnovata-l-intesa-tecnologica-fra-acea-e-huawei&resource=/content/aceacorporate/it/home/media-eventi/news-comunicati-stampa.html&title=Rinnovata%20l%27intesa%20tecnologica%20%20fra%20Acea%20e%20Huawei)
 
 C'è anche un...
 
@@ -1259,7 +1259,7 @@ C'è anche un...
 > realizzato in collaborazione con Intellitronika, Politecnico di Milano,
 > Huawei, la Polizia Locale e Italdron [...]
 
-<http://hi-tech.leonardo.it/5g-vodafone-huawei-drone-sicurezza/>
+[Vodafone e Huawei, un drone 5G per la sicurezza (leonardo.it)](http://hi-tech.leonardo.it/5g-vodafone-huawei-drone-sicurezza/)
 
 > soluzioni tecnologiche avanzate per le forze dell’ordine e per la
 > sicurezza civile e militare [...]
@@ -1356,10 +1356,9 @@ alcune frequenze molto basse da analizzare.
 [1] Dall'articolo 13 originale della Costituzione della Repubblica Italiana:
     "La libertà personale è inviolabile".
 
-[2] Smart Italy: https://www.ilfattoquotidiano.it/in-edicola/articoli/2019/04/02/spyware-exodus-i-dati-sul-cloud-di-amazon/5079967/
+[2] Smart Italy: [Spyware Exodus: "I dati sul cloud di Amazon" (ilfattoquotidiano.it)](https://www.ilfattoquotidiano.it/in-edicola/articoli/2019/04/02/spyware-exodus-i-dati-sul-cloud-di-amazon/5079967/)
 
-[3] Recording of "sonic attacks" on U.S. diplomats in Cuba spectrally
-matches the echoing call of a Caribbean cricket: https://www.biorxiv.org/content/10.1101/510834v1
+[3] Grilli cubani: [Recording of "sonic attacks" on U.S. diplomats in Cuba spectrally matches the echoing call of a Caribbean cricket (biorxiv.org)](https://www.biorxiv.org/content/10.1101/510834v1)
 
 [4] Josh Lederman and Michael Weissenstein. Dangerous sound?
 What Americans heard in Cuba attacks. AP News, October 2017.
