@@ -144,6 +144,11 @@ Un impulso in "pulses B" è la somma di 7 sinusoidi separate da 216.6 Hz
 
 ```
 216.66667 = 650 / 3 = 5200 / 24 = 1733.33 / 8
+
+Forse è soltanto una coincidenza ma il seguente rapporto ha senso nel
+contesto di impulsi di radiazione assorbiti dall'acqua:
+
+216.7 / 50 = 4.3 = velocità_del_suono_in_acqua / velocità_del_suono_in_aria
 ```
 
 Nota: le frequenze 1733.33 Hz e 216.67 Hz possono essere sommate alle

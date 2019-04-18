@@ -141,6 +141,11 @@ A pulse "B" is the sum of 7 sinusoids separated by 216.6 Hz.
 
 ```
 216.66667 = 650 / 3 = 5200 / 24 = 1733.33 / 8
+
+Maybe it is just a coincidence, but the following ratio makes sense
+in the context of pulsed radiation absorbed by water:
+
+216.7 / 50 = 4.3 = speed_of_sound_in_water / speed_of_sound_in_air
 ```
 
 Note: the frequencies 1733.33 Hz and 216.67 Hz can be mixed with the
