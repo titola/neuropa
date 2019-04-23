@@ -281,6 +281,19 @@ questo documento:
 frequenze 26.5-27.5 GHz per il 5G con lunghezze d'onda di circa
 11 millimetri.
 
+Qundi la combinazione di più segnali che passano facilmente attraverso
+un muro, con il possibile contributo di segnali distribuiti tramite
+la linea telefonica e/o la rete elettrica, permette un segnale
+telefonico ad una frequenza più alta "in ogni angolo della tua casa!".
+
+Da un altro punto di vista, questo radar può individuare una persona "in
+ogni angolo della tua casa!" con uno straordinario effetto collaterale:
+un segnale telefonico di quinta generazione.
+
+Questo è un sistema di sorveglianza illegale utilizzato non solo per
+spiare ma anche per torturare, condizionare psicologicamente ed
+uccidere le persone con l'aiuto di altri impulsi di radiazione.
+
 ### Campionamento della radiazione ed aliasing
 
 Gli impulsi con frequenze d'impulso 78250 Hz e 31300 Hz permettono il

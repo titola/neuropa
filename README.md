@@ -276,6 +276,19 @@ this document:
 5/2 is the usual magic number and 26.6 GHz belongs to the frequency
 band 26.5-27.5 GHz for 5G with wavelengths of about 11 millimeters.
 
+Therefore, the combination of more signals that easily pass through
+the wall, with the possible contribute of signals distributed through
+the telephone system and/or the electrical grid, allows a telephone
+signal at highest frequency "in every angle of your home!".
+
+From another point of view, this radar can track a person "in every
+angle of your home!" with a extraordinary side effect: a telephone
+signal 5G.
+
+It is an illegal surveillance system not only used to spy, but also to
+torture, psychologically influence and kill persons with the help of
+other pulsed radiations.
+
 ### Radiation sampling and aliasing
 
 The pulses with pulse frequencies 78250 Hz e 31300 Hz allow the sampling
