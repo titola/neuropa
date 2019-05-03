@@ -47,6 +47,7 @@ of the Costituzione della Repubblica Italiana.
     - [Oscillation of 5400 Hz after an induced convulsion](#oscillation-of-5400-hz-after-an-induced-convulsion)
     - [Interval of minor sixth with the tinnitus](#interval-of-minor-sixth-with-the-tinnitus)
     - [Amplitude modulated oscillation of 100 Hz](#amplitude-modulated-oscillation-of-100-hz)
+- [Smart links](#smart-links)
 - [References](#references)
 
 ## Introduction
@@ -1357,6 +1358,16 @@ to analyse.
 [Entrance (View Raw)](https://raw.githubusercontent.com/titola/neuropa/master/media/100hz_entrance.wav)
 
 [Entrance](https://github.com/titola/neuropa/blob/master/media/100hz_entrance.wav)
+
+## Smart links
+
+Smart city for smart people with smart phones (Il secolo dei cretini).
+
+[Vodafone Found Hidden Backdoors in Huawei Equipment (bloomberg.com)](https://www.bloomberg.com/news/articles/2019-04-30/vodafone-found-hidden-backdoors-in-huawei-equipment)
+
+[Siemens smart meters with critical vulnerability (us-cert.gov)](https://ics-cert.us-cert.gov/advisories/ICSA-17-278-02)
+
+[Exodus: New Android Spyware Made in Italy (securitywithoutborders.org)](https://securitywithoutborders.org/blog/2019/03/29/exodus.html)
 
 ## References
 

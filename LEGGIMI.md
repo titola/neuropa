@@ -45,6 +45,7 @@ della nostra costituzione.
     - [Oscillazione di 5400 Hz dopo una convulsione indotta](#oscillazione-di-5400-hz-dopo-una-convulsione-indotta)
     - [Intervallo di sesta minore con il tinnitus](#intervallo-di-sesta-minore-con-il-tinnitus)
     - [Oscillazione di 100 Hz modulata in ampiezza](#oscillazione-di-100-hz-modulata-in-ampiezza)
+- [Smart links](#smart-links)
 - [Riferimenti](#riferimenti)
 
 ## Introduzione
@@ -1372,6 +1373,16 @@ alcune frequenze molto basse da analizzare.
 [Ingresso (View Raw)](https://raw.githubusercontent.com/titola/neuropa/master/media/100hz_entrance.wav)
 
 [Ingresso](https://github.com/titola/neuropa/blob/master/media/100hz_entrance.wav)
+
+## Smart links
+
+Smart city for smart people with smart phones (Il secolo dei cretini).
+
+[Vodafone Found Hidden Backdoors in Huawei Equipment (bloomberg.com)](https://www.bloomberg.com/news/articles/2019-04-30/vodafone-found-hidden-backdoors-in-huawei-equipment)
+
+[Siemens smart meters with critical vulnerability (us-cert.gov)](https://ics-cert.us-cert.gov/advisories/ICSA-17-278-02)
+
+[Exodus: Nuovo Spyware per Android Made in Italy (securitywithoutborders.org)](https://securitywithoutborders.org/blog/2019/03/29/exodus-ita.html)
 
 ## Riferimenti
 
