@@ -95,6 +95,18 @@ signal is amplified by the coherent addition of acoustic waves
 like to know the maximum intensity achievable by a vibrator obtained
 combining more laser sources of this type.
 
+On May 16 2019 night, I have partially covered the window with
+aluminum foil to reduce the moist surface to monitor. I found a dry
+circle in the morning with a diameter of about 6cm:
+
+![](media/circle_window.jpg)
+
+Therefore the pulsed laser is also used indoors. The diameter of the
+dry circle is proportional to the laser intensity (there is a Venetian
+curtain in front of the window). I have also an audio recording to
+analyse, started some minutes after a forced awakening at 1:30
+(microphone near the left ear).
+
 The criminals use the radio without limits of frequency and have the
 licence to do what they want.
 

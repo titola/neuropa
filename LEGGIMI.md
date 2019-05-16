@@ -96,6 +96,20 @@ velocità del suono [2]). Mi piacerebbe conoscere l'intensità massima
 raggiungibile da un vibratore ottenuto combinando più sorgenti laser
 di questo tipo.
 
+La notte del 16 Maggio 2019 ho coperto parzialmente il vetro della
+finestra con alcuni fogli di carta di alluminio per ridurre la
+superficie umida da osservare. La mattina ho trovato un cerchio
+asciutto con un diametro di circa 6cm:
+
+![](media/circle_window.jpg)
+
+Quindi gli impulsi laser sono utilizzati anche dentro le abitazioni.
+Il diametro del cerchio asciutto è proporzionale all'intensità del
+laser (c'è una tenda veneziana davanti alla finestra). Ho anche una
+registrazione audio da analizzare, iniziata qualche minuto dopo un
+risveglio forzato alle ore 1:30 (microfono vicino all'orecchio
+sinistro).
+
 I criminali usano la radio senza limiti di frequenza e hanno la
 licenza di fare ciò che vogliono.
 
