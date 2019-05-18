@@ -33,6 +33,7 @@ of the Costituzione della Repubblica Italiana.
 - [Beat between pulsed radiation and military VLF](#beat-between-pulsed-radiation-and-military-vlf)
 - [Voice encoding](#voice-encoding)
 - [Harmonics of 50 Hz from the mix of the amplitude modulations](#harmonics-of-50-hz-from-the-mix-of-the-amplitude-modulations)
+- [Bulb with knob](#bulb-with-knob)
 - [Hypothesis about the US embassy attack in Cuba](#hypothesis-about-the-us-embassy-attack-in-cuba)
     - [Harmonics of 180 Hz through aliasing](#harmonics-of-180-hz-through-aliasing)
     - [Methods to get the voices from the audio recording](#methods-to-get-the-voices-from-the-audio-recording)
@@ -854,6 +855,28 @@ the mix of the amplitude modulations. The related currents induced
 into the circuits that pass through a rectifier and an amplifier,
 particularly the radio modules of the smart electric meters, dirty
 the electric current in a particular and possibly controlled way.
+
+## Bulb with knob
+
+I can adjust the light bulb through a knob to check the presence of
+unhealthy signals distributed through the electrical grid, and to
+temporarily remove the tinnitus. The perceived voices are really low
+since I started to intercept the attack, however sometimes the
+demented and second demented increase the volume. In this case,
+if the pulses are transmitted also exploiting the electrical grid,
+I can "see" the envelope of the voice through the bright stuttering
+of the bulb switched on via a low current (sometimes it also works
+with highest currents). This show only lasts some seconds, then the
+light becomes stable while the voice level decreases.
+
+The bulb with knob is also a good filter to temporarily remove the
+perception of the tinnitus. The noise disappears when the bulb
+receives a particular amount of current. The tinnitus reappears after
+a few seconds, therefore I have to spin the knob if I want to continue
+the listening of "radio silence".
+
+In the future, I could build a dynamic filter to automatically remove
+the intentional electromagnetic interferences and record the variations.
 
 ## Hypothesis about the US embassy attack in Cuba
 

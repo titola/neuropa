@@ -31,6 +31,7 @@ della nostra costituzione.
 - [Battimento tra impulsi di radiazione e VLF militare](#battimento-tra-impulsi-di-radiazione-e-vlf-militare)
 - [Codifica della voce](#codifica-della-voce)
 - [Armoniche di 50 Hz dalla combinazione di segnali modulanti](#armoniche-di-50-hz-dalla-combinazione-di-segnali-modulanti)
+- [Lampadina con potenziometro](#lampadina-con-potenziometro)
 - [Ipotesi sull'attacco subito dagli ambasciatori americani a Cuba](#ipotesi-sullattacco-subito-dagli-ambasciatori-americani-a-cuba)
     - [Armoniche di 180 Hz tramite aliasing](#armoniche-di-180-hz-tramite-aliasing)
     - [Metodi per ottenere le voci dalla registrazione audio](#metodi-per-ottenere-le-voci-dalla-registrazione-audio)
@@ -868,6 +869,31 @@ correnti indotte nei circuiti che attraversano un rettificatore ed un
 amplificatore, in particolare i moduli radio dei contatori elettronici,
 sporcano la corrente elettrica in modo particolare e possibilmente
 controllato.
+
+## Lampadina con potenziometro
+
+Posso regolare la luce di una lampadina tramite un potenziometro per
+verificare la presenza di segnali malsani distribuiti attraverso
+la rete elettrica, e per rimuovere temporaneamente il tinnitus.
+Le voci percepite sono molto basse da quando ho iniziato ad
+intercettare l'attacco, comunque ogni tanto i dementi e sotto-dementi
+alzano il volume. In questo caso, se gli impulsi sono trasmessi
+sfruttando anche la rete elettrica, posso "vedere" l'inviluppo della
+voce tramite il balbettìo luminoso della lampadina tenuta accesa da
+una bassa corrente (a volte funziona anche con correnti più alte).
+Questo spettacolo dura soltanto qualche secondo, poi la luce si
+stabilizza mentre il livello della voce decresce.
+
+La lampadina con il potenziometro è anche un buon filtro per
+rimuovere temporaneamente la percezione del tinnitus. Il rumore
+svanisce quando la lampadina riceve una particolare quantità di
+corrente. Dopo alcuni secondi il tinnitus ricompare, quindi devo
+girare nuovamente il potenziometro se voglio continuare l'ascolto
+di "radio silenzio".
+
+In futuro potrei costruire un filtro dinamico per rimuovere
+automaticamente le interferenze elettromagnetiche intenzionali e
+registrare le variazioni.
 
 ## Ipotesi sull'attacco subito dagli ambasciatori americani a Cuba
 
