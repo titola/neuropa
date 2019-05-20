@@ -107,12 +107,14 @@ asciutto con un diametro di circa 6cm:
 Quindi gli impulsi laser sono utilizzati anche dentro le abitazioni.
 Il diametro del cerchio asciutto è proporzionale all'intensità del
 laser (c'è una tenda veneziana davanti alla finestra). Ho anche una
-registrazione audio da analizzare, iniziata qualche minuto dopo un
-risveglio forzato alle ore 1:30 (microfono vicino all'orecchio
-sinistro).
-
-I criminali usano la radio senza limiti di frequenza e hanno la
-licenza di fare ciò che vogliono.
+registrazione audio iniziata qualche minuto dopo un risveglio forzato
+alle ore 1:30 (microfono vicino all'orecchio sinistro). Gli infrasuoni
+ed i suoni a bassa frequenza sono analoghi a quelli registrati (anche)
+l'anno precedente (aggiungerò qualche clip nella sezione "Registrazioni
+audio"). L'intera colonna sonora rappresenta perfettamente lo spirito
+di questi cacker istituzionali, bambacia [3] cullati dalla mafia, che
+usano la radio senza limiti di frequenza e hanno la licenza di fare ciò
+che vogliono.
 
 Ci sono drone intorno alla mia casa. Uno è molto vicino il 19 Marzo
 2019 alle ore 20:50.
@@ -125,14 +127,14 @@ risolverò personalmente e definitivamente il problema. Se invece
 si tratta di un sistema illegale C4ISRT (Command, Control, Communications,
 Computers, Intelligence, Surveillance, Reconnaissance and Torture),
 continuerò l'indagine nonostante l'indifferenza, l'omertà generale
-e la Smart Italy [3].
+e la Smart Italy [4].
 
 Ho analizzato la dinamica completa dell'attacco, mi sono informato ed
 ho raccolto le prove. Questo documento contiene quello che posso spiegare
 senza equivoci (35% dell'attacco complessivo ma scriverò altro e migliorerò
 la struttura del documento). Non sono soltanto un musicista e programmatore,
 ma anche l'unico sound designer al mondo che riesce a trasformare una
-performance di grilli cubani [4] ottenuta da [5] nell'approssimazione di
+performance di grilli cubani [5] ottenuta da [6] nell'approssimazione di
 una voce umana utilizzando soltanto uno slope detector:
 
 [cuba_attack_decoded.ogg (View Raw)](https://raw.githubusercontent.com/titola/neuropa/master/media/cuba_attack_decoded.ogg)
@@ -496,14 +498,14 @@ Ho preferito utilizzare un modello sorgente-filtro invece di sintetizzare
 le frequenze acustiche, quindi l'onda termo-elastica è approssimata da
 un treno d'impulsi con pattern A-A-A-A-B e frequenza media di 21.23 Hz
 (gli altri impulsi sono esclusi per semplificare il modello) filtrato
-dal filtro di conduzione disegnato in base alla figura 4 in [6].
+dal filtro di conduzione disegnato in base alla figura 4 in [7].
 Questo tipo di segnale interferisce in modo particolare con le
 oscillazioni neurali (gli altri impulsi variabili possono modulare
 specifiche onde cerebrali con ritmi diversi) prima di raggiungere
 l'orecchio interno.
 
 E' possibile calcolare l'ampiezza della pressione indotta utilizzando
-la formula ed i fattori di ampiezza della figura 4 in [6]:
+la formula ed i fattori di ampiezza della figura 4 in [7]:
 
 ```
 P(pulse_width) = A*abs(sin(pi*freq*pulse_width)) =
@@ -535,7 +537,7 @@ contengono suoni generati tramite interferenze elettromagnetiche
 intenzionali: impulsi ripetuti ogni 1.9 secondi, un segnale continuo
 con frequenza fondamentale di 7.62 Hz ed altre frequenze che formano
 rapporti semplici con 50 Hz, la frequenza nominale della rete
-elettrica in Italia [7], per esempio:
+elettrica in Italia [8], per esempio:
 
 ```
 100 = 50 * 2
@@ -605,7 +607,7 @@ particolare:
 1950 = 650/3 * 9 = 216.67 * 9 = 13 * 3^3 * 50/9 = 351 * 50/9
 ```
 
-Negli impulsi filtrati ottenuti dal file audio pubblicato [5], la distanza
+Negli impulsi filtrati ottenuti dal file audio pubblicato [6], la distanza
 tra due picchi è circa 1.874 secondi e la frequenza di taglio è 5.69 Hz
 invece di 50/9 Hz:
 
@@ -803,7 +805,7 @@ Gli impulsi sono generati da somme di sinusoidi separate da frequenze
 che provocano un incessante tinnitus risonante nella mia testa.
 
 Ogni volta che l'energia di un impulso è assorbita dal tessuto
-cerebrale, la temperatura sale di 5e-6 °C [8]. La rapida espansione
+cerebrale, la temperatura sale di 5e-6 °C [9]. La rapida espansione
 termica produce un'onda termo-elastica che raggiunge l'orecchio
 interno. Quindi i criminali utilizzano questo demodulatore
 termo-acustico per inviarmi messaggi vocali tramite impulsi di
@@ -1432,21 +1434,29 @@ Smart city for smart people with smart phones (Il secolo dei cretini).
 [2] C. M. Wynn, S. Palmacci, M. L. Clark, and R. R. Kunz.
 Dynamic photoacoustic spectroscopy for trace gas detection.
 
-[3] Smart Italy: [Spyware Exodus: "I dati sul cloud di Amazon" (ilfattoquotidiano.it)](https://www.ilfattoquotidiano.it/in-edicola/articoli/2019/04/02/spyware-exodus-i-dati-sul-cloud-di-amazon/5079967/)
+[3] Non credo che questi sono della CIA perché durante un attacco
+notturno tra la fine del 2017 e l'inizio del 2018 il mio sonno
+è stato interrotto da due voci ad alto volume, una percepita a destra e
+l'altra a sinistra, che cercavano di spaventarmi asserendo più volte
+con tono da action-movie: «Siamo della CIA!». Quindi probabilmente non
+sono della CIA ed il termine bambacia è perfetto per questi patetici
+wannabee che insultano ed aggrediscono vigliaccamente come bimbi-minkia.
 
-[4] Grilli cubani: [Recording of "sonic attacks" on U.S. diplomats in Cuba spectrally matches the echoing call of a Caribbean cricket (biorxiv.org)](https://www.biorxiv.org/content/10.1101/510834v1)
+[4] Smart Italy: [Spyware Exodus: "I dati sul cloud di Amazon" (ilfattoquotidiano.it)](https://www.ilfattoquotidiano.it/in-edicola/articoli/2019/04/02/spyware-exodus-i-dati-sul-cloud-di-amazon/5079967/)
 
-[5] Josh Lederman and Michael Weissenstein. Dangerous sound?
+[5] Grilli cubani: [Recording of "sonic attacks" on U.S. diplomats in Cuba spectrally matches the echoing call of a Caribbean cricket (biorxiv.org)](https://www.biorxiv.org/content/10.1101/510834v1)
+
+[6] Josh Lederman and Michael Weissenstein. Dangerous sound?
 What Americans heard in Cuba attacks. AP News, October 2017.
 
-[6] N. M. Yitzhak, R. Ruppin, R. Hareuveny. Numerical Analysis of the
+[7] N. M. Yitzhak, R. Ruppin, R. Hareuveny. Numerical Analysis of the
 Microwave Auditory Effect.
 
-[7] Coincidenze: un contatore trifase rotto l'anno scorso durante
+[8] Coincidenze: un contatore trifase rotto l'anno scorso durante
 l'inizio dell'attacco ed un contatore dei servizi inutilizzabile
 qualche mese fa perché erano stati tirati i fili. Inoltre, se spengo
 il contatore dei servizi, l'intensità delle vibrazioni delle torture
 notturne diminuisce.
 
-[8] J.A. Elder and C.K. Chou. Auditory Response to Pulsed
+[9] J.A. Elder and C.K. Chou. Auditory Response to Pulsed
 Radiofrequency Energy.
