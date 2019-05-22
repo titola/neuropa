@@ -1400,7 +1400,7 @@ to analyse.
 ### Infrasounds
 
 The following sonogram shows the dance below 20 Hz that interferes
-with the neural oscillations (March 23 2019 night):
+with the neural oscillations (May 16 2019 night):
 
 ![](media/infrasound-20190516.jpg)
 
