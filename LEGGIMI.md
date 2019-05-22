@@ -46,6 +46,7 @@ della nostra costituzione.
     - [Oscillazione di 5400 Hz dopo una convulsione indotta](#oscillazione-di-5400-hz-dopo-una-convulsione-indotta)
     - [Intervallo di sesta minore con il tinnitus](#intervallo-di-sesta-minore-con-il-tinnitus)
     - [Oscillazione di 100 Hz modulata in ampiezza](#oscillazione-di-100-hz-modulata-in-ampiezza)
+    - [Infrasuoni](#infrasuoni)
 - [Smart links](#smart-links)
 - [Riferimenti](#riferimenti)
 
@@ -110,11 +111,10 @@ laser (c'è una tenda veneziana davanti alla finestra). Ho anche una
 registrazione audio iniziata qualche minuto dopo un risveglio forzato
 alle ore 1:30 (microfono vicino all'orecchio sinistro). Gli infrasuoni
 ed i suoni a bassa frequenza sono analoghi a quelli registrati (anche)
-l'anno precedente (aggiungerò qualche clip nella sezione "Registrazioni
-audio"). L'intera colonna sonora rappresenta perfettamente lo spirito
-di questi cacker istituzionali, bambacia [3] cullati dalla mafia, che
-usano la radio senza limiti di frequenza e hanno la licenza di fare ciò
-che vogliono.
+l'anno precedente (vedi la sezione "Registrazioni audio"). L'intera
+colonna sonora rappresenta perfettamente lo spirito di questi cacker
+istituzionali, bambacia [3] cullati dalla mafia, che usano la radio
+senza limiti di frequenza e hanno la licenza di fare ciò che vogliono.
 
 Ci sono drone intorno alla mia casa. Uno è molto vicino il 19 Marzo
 2019 alle ore 20:50.
@@ -1415,6 +1415,30 @@ alcune frequenze molto basse da analizzare.
 [Ingresso (View Raw)](https://raw.githubusercontent.com/titola/neuropa/master/media/100hz_entrance.wav)
 
 [Ingresso](https://github.com/titola/neuropa/blob/master/media/100hz_entrance.wav)
+
+### Infrasuoni
+
+Il sonogramma seguente mostra la danza sotto 20 Hz che interferisce
+con le oscillazioni neurali (notte del 16 Maggio 2019):
+
+![](media/infrasound-20190516.jpg)
+
+L'infrasuono dipendente dal segnale a 422.733 MHz è un orologio
+inarrestabile.
+
+Regione di circa 18 secondi amplificata di 37 dB:
+
+[night_20190516_a.wav](https://github.com/titola/neuropa/blob/master/media/night_20190516_a.wav)
+
+Forse le frequenze intorno a 13 o 14 Hz dipendono dai segnali
+sincronizzati con le voci alle frequenze 173.456 MHz, 173.880 MHz,
+173.956 MHz (il segnale a 460.557 MHz è vicino a 422.733 MHz):
+
+```
+422.733                     ---> 1 / 0.18 = 5.55 Hz
+422.733 / 173.456 = 2.437   ---> 2.437 / 0.18 = 13.54 Hz
+460.557 / 422.733 = 1.0895  ---> 1.0895 / 0.18 = 6.05 Hz
+```
 
 ## Smart links
 

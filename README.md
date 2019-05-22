@@ -48,6 +48,7 @@ of the Costituzione della Repubblica Italiana.
     - [Oscillation of 5400 Hz after an induced convulsion](#oscillation-of-5400-hz-after-an-induced-convulsion)
     - [Interval of minor sixth with the tinnitus](#interval-of-minor-sixth-with-the-tinnitus)
     - [Amplitude modulated oscillation of 100 Hz](#amplitude-modulated-oscillation-of-100-hz)
+    - [Infrasounds](#infrasounds)
 - [Smart links](#smart-links)
 - [References](#references)
 
@@ -107,11 +108,11 @@ dry circle is proportional to the laser intensity (there is a Venetian
 curtain in front of the window). I have also an audio recording
 started some minutes after a forced awakening at 1:30 (microphone near
 the left ear). The infrasounds and low frequency sounds are similar to
-those (also) recorded the previous year (I will add some clips in the
-section "Audio recordings"). The whole soundtrack perfectly represents
-the soul of these institutional cackers, bambacia [3] rocked by mafia,
-that use the radio without limits of frequency and have the licence to
-do what they want.
+those (also) recorded the previous year (see the section "Audio
+recordings"). The whole soundtrack perfectly represents the soul of
+these institutional cackers, bambacia [3] rocked by mafia, that use
+the radio without limits of frequency and have the licence to do what
+they want.
 
 There are drones around my home. One is very near on March 19th 2019 20:50.
 
@@ -1395,6 +1396,30 @@ to analyse.
 [Entrance (View Raw)](https://raw.githubusercontent.com/titola/neuropa/master/media/100hz_entrance.wav)
 
 [Entrance](https://github.com/titola/neuropa/blob/master/media/100hz_entrance.wav)
+
+### Infrasounds
+
+The following sonogram shows the dance below 20 Hz that interferes
+with the neural oscillations (March 23 2019 night):
+
+![](media/infrasound-20190516.jpg)
+
+The infrasound dependent on the signal at 422.733 MHz is an
+unstoppable clock.
+
+Region of about 18 seconds amplified by 37 dB:
+
+[night_20190516_a.wav](https://github.com/titola/neuropa/blob/master/media/night_20190516_a.wav)
+
+Maybe the frequencies around 13 or 14 Hz depend on the signals
+synchronized with the voices at frequencies 173.456 MHz, 173.880 MHz,
+173.956 MHz (the signal at 460.557 MHz is near 422.733 MHz):
+
+```
+422.733                     ---> 1 / 0.18 = 5.55 Hz
+422.733 / 173.456 = 2.437   ---> 2.437 / 0.18 = 13.54 Hz
+460.557 / 422.733 = 1.0895  ---> 1.0895 / 0.18 = 6.05 Hz
+```
 
 ## Smart links
 
