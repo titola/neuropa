@@ -44,6 +44,7 @@ of the Costituzione della Repubblica Italiana.
     - [Electric meters ACEA-ARETI with oscillator at 939 MHz](#electric-meters-acea-areti-with-oscillator-at-939-mhz)
     - [About 5G](#about-5g)
     - [Body vibration stopped after some nightly explosions](#body-vibration-stopped-after-some-nightly-explosions)
+    - [Teeth vibration](#teeth-vibration)
 - [Audio recordings](#audio-recordings)
     - [Oscillation of 5400 Hz after an induced convulsion](#oscillation-of-5400-hz-after-an-induced-convulsion)
     - [Interval of minor sixth with the tinnitus](#interval-of-minor-sixth-with-the-tinnitus)
@@ -1342,6 +1343,27 @@ aluminium) between the window and the curtain.
 I don't take medicines or drugs and fortunately my brain is still
 efficient. I will discover who are these ridiculous militarized
 stupids and I will humiliate who protect them.
+
+### Teeth vibration
+
+I add this section because my teeth considerably vibrated on May 31 2019
+around 6:00 AM.
+
+The following table shows the approximations of six natural frequencies
+of four kinds of tooth, calculated by using a mechanical model described
+in the paper "Calculation of Natural Frequencies of Teeth Supported with
+the Periodontal Ligament" by Yukio KOJIMA and Hisao FUKUI.
+
+| tooth                 | f1   | f2   | f3   | f4   | f5   | f6   |
+|-----------------------|------|------|------|------|------|------|
+| upper central incisor | 1330 | 1440 | 1610 | 1670 | 5010 | 5410 |
+| upper first premolar  | 1610 | 1900 | 1950 | 3050 | 5810 | 6440 |
+| upper first molar     | 1610 | 1840 | 2230 | 4010 | 5590 | 6480 |
+| lower first molar     | 1780 | 1910 | 2100 | 2940 | 4370 | 6380 |
+
+The frequencies 1610 Hz, 1670 Hz and 1780 Hz are near 1733 Hz analysed
+in the section "Signal directed to the head" (also 5010 Hz and 5410 Hz
+are near 5200 Hz).
 
 ## Audio recordings
 

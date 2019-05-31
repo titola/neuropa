@@ -42,6 +42,7 @@ della nostra costituzione.
     - [Contatori elettronici ACEA-ARETI con oscillatore a 939 MHz](#contatori-elettronici-acea-areti-con-oscillatore-a-939-mhz)
     - [Sperimentazione 5G](#sperimentazione-5g)
     - [Vibrazione del corpo terminata dopo alcune esplosioni notturne](#vibrazione-del-corpo-terminata-dopo-alcune-esplosioni-notturne)
+    - [Vibrazione dei denti](#vibrazione-dei-denti)
 - [Registrazioni audio](#registrazioni-audio)
     - [Oscillazione di 5400 Hz dopo una convulsione indotta](#oscillazione-di-5400-hz-dopo-una-convulsione-indotta)
     - [Intervallo di sesta minore con il tinnitus](#intervallo-di-sesta-minore-con-il-tinnitus)
@@ -1361,6 +1362,28 @@ riflettente (DVD e fogli di alluminio) tra la finestra e la tenda.
 Non prendo medicine o droghe e fortunatamente il mio cervello è ancora
 efficiente. Scoprirò chi sono questi ridicoli imbecilli militarizzati
 ed umilierò chi li sta proteggendo.
+
+### Vibrazione dei denti
+
+Aggiungo questa sezione perché la mattina del 31 Maggio 2019 verso le
+6:00 i miei denti vibrarono notevolmente.
+
+La tabella seguente mostra le approssimazioni di sei frequenze
+naturali di quattro tipi di dente, calcolate utilizzando un modello
+meccanico descritto nell'articolo scientifico "Calculation of Natural
+Frequencies of Teeth Supported with the Periodontal Ligament" di Yukio
+KOJIMA e Hisao FUKUI.
+
+| dente                       | f1   | f2   | f3   | f4   | f5   | f6   |
+|-----------------------------|------|------|------|------|------|------|
+| incisivo centrale superiore | 1330 | 1440 | 1610 | 1670 | 5010 | 5410 |
+| primo premolare superiore   | 1610 | 1900 | 1950 | 3050 | 5810 | 6440 |
+| primo molare superiore      | 1610 | 1840 | 2230 | 4010 | 5590 | 6480 |
+| primo molare inferiore      | 1780 | 1910 | 2100 | 2940 | 4370 | 6380 |
+
+Le frequenze 1610 Hz, 1670 Hz e 1780 Hz sono vicine a 1733 Hz analizzata
+nella sezione "Segnale diretto verso la testa" (anche 5010 Hz e 5410 Hz
+sono vicine a 5200 Hz).
 
 ## Registrazioni audio
 
