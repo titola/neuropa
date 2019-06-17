@@ -844,6 +844,29 @@ Esempio: frequenza centrale 138 MHz
 
 ![](media/138_env_ac.jpg)
 
+Curiosa coincidenza:
+
+```
+78250 / 45 = 1739 Hz = 31300 / 18
+```
+
+Significa che il mix di 45 sorgenti impulsive sfasate, con impulsi ripetuti
+ad una frequenza di 1739 Hz, genera impulsi con PRF 78250 Hz. Ogni sorgente N
+è ritardata rispetto ad una sorgente di riferimento (N=1) di
+
+```
+(N - 1) / 78250 secondi, N intero tra 1 e 45
+```
+
+Se 27 sorgenti sono disattivate, le rimanenti 18 generano impulsi con
+PRF 31300 Hz. In questo caso il ritardo di ogni sorgente è
+
+```
+(N - 1) / 31300 secondi, N intero tra 1 e 18
+```
+
+![](media/mix_of_pulses.jpg)
+
 Altri esempi:
 
 [fc 160 MHz](https://github.com/titola/neuropa/blob/master/media/160_env_ac.jpg)

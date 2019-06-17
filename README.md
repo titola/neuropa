@@ -832,6 +832,29 @@ Example: center frequency of 138 MHz
 
 ![](media/138_env_ac.jpg)
 
+Curious coincidence:
+
+```
+78250 / 45 = 1739 Hz = 31300 / 18
+```
+
+It means that the mix of 45 out of phase pulsed sources, with pulses
+repeated at frequency 1739 Hz, generates pulses with PRF 78250 Hz.
+Every source N is delayed with respect to a reference source (N=1) of
+
+```
+(N - 1) / 78250 seconds, N integer between 1 and 45
+```
+
+If 27 sources are deactivated, the remaining 18 generate pulses
+with PRF 31300 Hz. In this case, the delay of every source is
+
+```
+(N - 1) / 31300 seconds, N integer between 1 and 18
+```
+
+![](media/mix_of_pulses.jpg)
+
 Other examples:
 
 [fc 160 MHz](https://github.com/titola/neuropa/blob/master/media/160_env_ac.jpg)
