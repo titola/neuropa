@@ -1424,8 +1424,6 @@ The following sound files are regions normalized and low pass filtered to
 remove the environmental sounds. There are also some very low frequencies
 to analyse.
 
-(The game is suspended).
-
 [Room A (View Raw)](https://raw.githubusercontent.com/titola/neuropa/master/media/100hz_room_a.wav)
 
 [Room A](https://github.com/titola/neuropa/blob/master/media/100hz_room_a.wav)
@@ -1441,6 +1439,8 @@ to analyse.
 [Entrance (View Raw)](https://raw.githubusercontent.com/titola/neuropa/master/media/100hz_entrance.wav)
 
 [Entrance](https://github.com/titola/neuropa/blob/master/media/100hz_entrance.wav)
+
+[One year after (June 23 2019)](https://github.com/titola/neuropa/blob/master/media/100hz_again.wav)
 
 ### Infrasounds
 

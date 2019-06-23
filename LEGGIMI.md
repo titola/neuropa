@@ -1444,8 +1444,6 @@ stanza. I file seguenti sono regioni normalizzate e filtrate con un
 filtro passa basso per eliminare i suoni ambientali. Ci sono anche
 alcune frequenze molto basse da analizzare.
 
-(Il gioco è stato sospeso).
-
 [Stanza A (View Raw)](https://raw.githubusercontent.com/titola/neuropa/master/media/100hz_room_a.wav)
 
 [Stanza A](https://github.com/titola/neuropa/blob/master/media/100hz_room_a.wav)
@@ -1461,6 +1459,8 @@ alcune frequenze molto basse da analizzare.
 [Ingresso (View Raw)](https://raw.githubusercontent.com/titola/neuropa/master/media/100hz_entrance.wav)
 
 [Ingresso](https://github.com/titola/neuropa/blob/master/media/100hz_entrance.wav)
+
+[Un anno dopo (23 Giugno 2019)](https://github.com/titola/neuropa/blob/master/media/100hz_again.wav)
 
 ### Infrasuoni
 
