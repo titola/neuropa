@@ -921,6 +921,18 @@ In futuro potrei costruire un filtro dinamico per rimuovere
 automaticamente le interferenze elettromagnetiche intenzionali e
 registrare le variazioni.
 
+26 Giugno 2019, 8 di mattina: devo rotare il potenziometro di circa
+45 gradi per accendere la lampadina. La luce non è stabile e
+percepisco un forte tinnitus oltre alle solite voci notevolmente
+attenuate. La posizione del potenziometro che riduce il livello del
+tinnitus si trova tra 0 e 45 gradi (dove la lampadina è spenta).
+Inizio a far oscillare il potenziometro tra questi due punti (senza
+accendere la lampadina) mentre percepisco la variazione del tinnitus.
+Ad un tratto la modulazione scompare. Provo a riaccendere la luce ma è
+necessario rotare il potenziometro di quasi 90 gradi! La luce è stabile.
+Ora il punto di riduzione del tinnitus si trova tra 45 e 90 gradi.
+Chi controlla il basso carico? Domanda apparentemente retorica.
+
 ## Ipotesi sull'attacco subito dagli ambasciatori americani a Cuba
 
 Il suono registrato a Cuba ha caratteristiche simili al segnale di

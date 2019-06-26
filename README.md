@@ -905,6 +905,17 @@ the listening of "radio silence".
 In the future, I could build a dynamic filter to automatically remove
 the intentional electromagnetic interferences and record the variations.
 
+On June 26 2019, 8:00 a.m.: I have to rotate the knob of about 45 degrees
+to switch on the bulb. The light is unstable and I perceive an intense
+tinnitus mixed with the usual very low voices. The knob position that
+reduces the level of the tinnitus is between 0 and 45 degrees (where the
+bulb is switched off). I start to rotate the knob between these two points
+(without to switch on the bulb) while I perceive the tinnitus variation.
+Suddenly the modulation svanishes. I try to switch on the bulb but it is
+necessary to rotate the knob of about 90 degrees! The light is stable.
+Now the point to reduce the tinnitus is between 45 and 90 degrees.
+Who controls the under load? Question apparently rhetoric.
+
 ## Hypothesis about the US embassy attack in Cuba
 
 The recording of what some US embassy workers heard in Havana has
