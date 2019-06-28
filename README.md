@@ -45,6 +45,7 @@ of the Costituzione della Repubblica Italiana.
     - [About 5G](#about-5g)
     - [Body vibration stopped after some nightly explosions](#body-vibration-stopped-after-some-nightly-explosions)
     - [Teeth vibration](#teeth-vibration)
+    - [Mysterious light in the dark](#mysterious-light-in-the-dark)
 - [Audio recordings](#audio-recordings)
     - [Oscillation of 5400 Hz after an induced convulsion](#oscillation-of-5400-hz-after-an-induced-convulsion)
     - [Interval of minor sixth with the tinnitus](#interval-of-minor-sixth-with-the-tinnitus)
@@ -1398,6 +1399,34 @@ the Periodontal Ligament" by Yukio KOJIMA and Hisao FUKUI.
 The frequencies 1610 Hz, 1670 Hz and 1780 Hz are near 1733 Hz analysed
 in the section "Signal directed to the head" (also 5010 Hz and 5410 Hz
 are near 5200 Hz).
+
+### Mysterious light in the dark
+
+In a completely dark room I continue to perceive an extremely soft light.
+I have tried blindfold but the light remains stable, all the night.
+I have tried to interfere by moving some objects of different material
+around my head. Nothing, the subtle gleam doesn't suffer alterations,
+neither short variations; when it goes out, always with a fade-out less
+than two seconds, I suddenly feel the tiredness of a person that doesn't
+sleep from days and then, if they (?) don't switch it on again, I fall
+asleep. Also the fade-in from dark to soft light lasts less than two
+seconds.
+
+If I try to press my eyes with the fingers to enhance the blood
+pressure, I perceive a light with growing intensity as a sun engraved
+on the retina. The room is dark and the effect doesn't change blindfold.
+When I raise the fingers, the light slowly comes back to the starting
+level, with black spots randomly scattered during the transition. If I
+repeat the experiment more times, the more bright zone departs from
+the center. Therefore, this constant light altered by a variation of
+the blood pressure around the eyes allows the perception of an image
+(not very interesting when I press the eyes with the fingers).
+
+I cannot ignore this light and the distribution of the blood pressure
+in the context of the fake dreams, sketched out in the comment of a
+change of this document:
+
+[Investigating hypnagogic and hypnopompic hallucinations](https://github.com/titola/neuropa/commit/b00a680bcd18de638dd2d87fb30e51602ac951bd)
 
 ## Audio recordings
 

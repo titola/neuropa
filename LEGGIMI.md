@@ -43,6 +43,7 @@ della nostra costituzione.
     - [Sperimentazione 5G](#sperimentazione-5g)
     - [Vibrazione del corpo terminata dopo alcune esplosioni notturne](#vibrazione-del-corpo-terminata-dopo-alcune-esplosioni-notturne)
     - [Vibrazione dei denti](#vibrazione-dei-denti)
+    - [Misteriosa luce nel buio](#misteriosa-luce-nel-buio)
 - [Registrazioni audio](#registrazioni-audio)
     - [Oscillazione di 5400 Hz dopo una convulsione indotta](#oscillazione-di-5400-hz-dopo-una-convulsione-indotta)
     - [Intervallo di sesta minore con il tinnitus](#intervallo-di-sesta-minore-con-il-tinnitus)
@@ -1419,6 +1420,35 @@ KOJIMA e Hisao FUKUI.
 Le frequenze 1610 Hz, 1670 Hz e 1780 Hz sono vicine a 1733 Hz analizzata
 nella sezione "Segnale diretto verso la testa" (anche 5010 Hz e 5410 Hz
 sono vicine a 5200 Hz).
+
+### Misteriosa luce nel buio
+
+In una stanza completamente buia continuo a percepire una luce
+estremamente bassa. Ho provato a bendare gli occhi ma la luce
+rimane stabile, tutta la notte. Ho cercato di interferire spostando
+alcuni oggetti di materiale diverso intorno alla testa. Niente,
+il sottile barlume non subisce alterazioni, neanche brevi variazioni;
+quando si spegne, sempre con un fade-out inferiore ai due secondi,
+sento improvvisamente la stanchezza di una persona che non dorme da
+giorni e poi, se non la riaccendono, mi addormento. Anche il fade-in
+dal buio alla luce tenue dura meno di due secondi.
+
+Se provo a premere gli occhi con le dita per aumentare la pressione
+del sangue, percepisco una luce con intensità crescente come se avessi
+un sole impresso nella retina. La stanza è buia e l'effetto non cambia
+se bendo gli occhi. Quando sollevo le dita, la luce torna lentamente
+al livello iniziale, con macchie nere sparse casualmente durante la
+transizione. Se ripeto l'esperimento più volte la zona più luminosa
+si allontana dal centro. Quindi questa luce costante alterata da una
+variazione della pressione sanguigna intorno agli occhi permette la
+percezione di un'immagine (non molto interessante quando premo gli
+occhi con le dita).
+
+Non posso ignorare questa luce e la distribuzione della pressione del
+sangue nel contesto dei sogni falsi accennati nel commento di una
+modifica di questo documento (in inglese):
+
+[Investigating hypnagogic and hypnopompic hallucinations](https://github.com/titola/neuropa/commit/b00a680bcd18de638dd2d87fb30e51602ac951bd)
 
 ## Registrazioni audio
 
