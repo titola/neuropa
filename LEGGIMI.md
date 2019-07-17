@@ -98,7 +98,12 @@ spettroscopia fotoacustica. Il segnale acustico è amplificato dalla somma
 coerente di onde acustiche (fascio laser attraverso la piuma alla
 velocità del suono [2]). Mi piacerebbe conoscere l'intensità massima
 raggiungibile da un vibratore ottenuto combinando più sorgenti laser
-di questo tipo.
+di questo tipo. Inoltre, un'oscillazione della velocità del fascio laser
+attraverso la piuma intorno alla velocità del suono introduce un'ampia
+variazione dell'intensità, un effetto di tremolo o modulazione AM
+dipendente dalla frequenza di oscillazione. E' possibile modulare questa
+velocità a frequenze ultrasoniche? Purtroppo non ho gli strumenti per
+provarlo.
 
 La notte del 16 Maggio 2019 ho coperto parzialmente il vetro della
 finestra con alcuni fogli di carta di alluminio per ridurre la

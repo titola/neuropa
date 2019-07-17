@@ -97,7 +97,12 @@ through a microphone as in photoacoustic spectroscopy. The acoustic
 signal is amplified by the coherent addition of acoustic waves
 (laser beam through the plume at the speed of sound [2]). I would
 like to know the maximum intensity achievable by a vibrator obtained
-combining more laser sources of this type.
+combining more laser sources of this type. Besides, an oscillation
+of the speed of laser beam through the plume around the speed of
+sound introduces a wide variation of the intensity, an effect of
+tremolo or AM modulation dependent on the oscillation frequency.
+Is it possible to modulate this speed at ultrasonic frequencies?
+Unfortunately I don't have the tools to test it.
 
 On May 16 2019 night, I have partially covered the window with
 aluminum foil to reduce the moist surface to monitor. I found a dry
