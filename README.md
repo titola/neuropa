@@ -43,6 +43,7 @@ of the Costituzione della Repubblica Italiana.
     - [Correspondence between 422.733 MHz and infrasounds](#correspondence-between-422.733-mhz-and-infrasounds)
     - [Electric meters ACEA-ARETI with oscillator at 939 MHz](#electric-meters-acea-areti-with-oscillator-at-939-mhz)
     - [About 5G](#about-5g)
+    - [Anomalous breath modulation](#anomalous-breath-modulation)
     - [Body vibration stopped after some nightly explosions](#body-vibration-stopped-after-some-nightly-explosions)
     - [Teeth vibration](#teeth-vibration)
     - [Mysterious light in the dark](#mysterious-light-in-the-dark)
@@ -1352,6 +1353,20 @@ There is also...
 > sicurezza civile e militare [...]
 
 I'm sorry, but you are no more credible nor reliable.
+
+### Anomalous breath modulation
+
+On August 9 2019 night, between 2:20 and 2:30 a.m., I am supine in bed.
+Unexpectedly the audible frequency of my noisy breath decreases, more or
+less linearly, till the disappearance of the noise in about two or three
+seconds. This type of breath is absolutely unnatural and not under my
+control. It is the first time that it occurs during the attack and in
+my life.
+
+The following sound file contains a filtered noise that approximates
+the described effect:
+
+[approximated_anomalous_breath_modulation.wav](https://raw.githubusercontent.com/titola/neuropa/master/media/approximated_anomalous_breath_modulation.wav)
 
 ### Body vibration stopped after some nightly explosions
 

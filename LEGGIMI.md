@@ -41,6 +41,7 @@ della nostra costituzione.
     - [Corrispondenza tra 422.733 MHz ed infrasuoni](#corrispondenza-tra-422.733-mhz-ed-infrasuoni)
     - [Contatori elettronici ACEA-ARETI con oscillatore a 939 MHz](#contatori-elettronici-acea-areti-con-oscillatore-a-939-mhz)
     - [Sperimentazione 5G](#sperimentazione-5g)
+    - [Modulazione anomala del respiro](#modulazione-anomala-del-respiro)
     - [Vibrazione del corpo terminata dopo alcune esplosioni notturne](#vibrazione-del-corpo-terminata-dopo-alcune-esplosioni-notturne)
     - [Vibrazione dei denti](#vibrazione-dei-denti)
     - [Misteriosa luce nel buio](#misteriosa-luce-nel-buio)
@@ -1372,6 +1373,20 @@ C'è anche un...
 > sicurezza civile e militare [...]
 
 Spiacente, ma non siete più credibili né affidabili.
+
+### Modulazione anomala del respiro
+
+La notte del 9 Agosto 2019, tra le 2:20 e 2:30, mi trovo sul letto
+a pancia sopra. Improvvisamente la frequenza udibile del mio respiro
+rumoroso decresce più o meno linearmente fino alla scomparsa del
+rumore in circa due o tre secondi. Questo tipo di respirazione è
+assolutamente innaturale e non controllato da me. E' la prima volta
+che accade durante l'attacco e nella mia vita.
+
+Il seguente file audio contiene un rumore filtrato che approssima
+l'effetto descritto:
+
+[approximated_anomalous_breath_modulation.wav](https://raw.githubusercontent.com/titola/neuropa/master/media/approximated_anomalous_breath_modulation.wav)
 
 ### Vibrazione del corpo terminata dopo alcune esplosioni notturne
 
