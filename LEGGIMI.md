@@ -1265,8 +1265,7 @@ invece di quella dichiarata di 868 MHz. Puoi notare che i segnali RF
 vicini a 939 MHz sono proprio i responsabili del tinnitus.
 
 E' interessante notare il rapporto tra questa frequenza e le frequenze
-78250 Hz e 31300 Hz degli impulsi registrati, probabilmente indotti
-dal SMPS (Switch Mode Power Supplies):
+78250 Hz e 31300 Hz degli impulsi registrati:
 
 ```
 939000000 / 78250 = 12000
