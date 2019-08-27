@@ -1402,6 +1402,12 @@ l'effetto descritto:
 
 [approximated_anomalous_breath_modulation.wav](https://raw.githubusercontent.com/titola/neuropa/master/media/approximated_anomalous_breath_modulation.wav)
 
+Chiedi al tuo motore di ricerca preferito che cosa è accaduto il
+giorno 8 Agosto 2019. Forse è una coincidenza (spero) ma il laser
+montato su certi veicoli è utilizzato come arma ad energia diretta
+(per esempio COIL -- chemical oxygen-iodine laser che opera alla
+lunghezza d'onda di 1315 nm).
+
 ### Vibrazione del corpo terminata dopo alcune esplosioni notturne
 
 La notte del 2 Ottobre 2018 il mio corpo ha iniziato a vibrare

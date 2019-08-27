@@ -1382,6 +1382,12 @@ the described effect:
 
 [approximated_anomalous_breath_modulation.wav](https://raw.githubusercontent.com/titola/neuropa/master/media/approximated_anomalous_breath_modulation.wav)
 
+Ask to your favourite search engine what happened on August 8 2019.
+Maybe it is a coincidence (I hope) but the laser placed on such
+vehicles is used as directed-energy weapon (i.e. COIL -- chemical
+oxygen-iodine laser, an infrared chemical laser with operation
+wavelength of 1315 nm).
+
 ### Body vibration stopped after some nightly explosions
 
 On October 2 2018 night, my body has started to rapidly vibrate with a
