@@ -111,6 +111,20 @@ circle in the morning with a diameter of about 6cm:
 
 ![](media/circle_window.jpg)
 
+A few months back I placed some cylinders created by rolling up
+aluminum foils in front of the window. When I unrolled the cylinders
+to experiment other configurations, I noticed that they were full
+of holes (photograph taked with the light of a lamp behind the foil):
+
+![](media/perforated_aluminum_foil.jpg)
+
+I can claim that the aluminum foils were perforated through laser
+ablation. Also an aluminum container placed in an angle near the door
+of my room has two little holes. I have repeated the experiment
+after the update of this document on May 16 2019. Today (August 27 2019)
+the aluminum foils are not perforated. The attack continues but the
+System is changed.
+
 Therefore the pulsed laser is also used indoors. The diameter of the
 dry circle is proportional to the laser intensity (there is a Venetian
 curtain in front of the window). I have also an audio recording
