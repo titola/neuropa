@@ -113,21 +113,6 @@ asciutto con un diametro di circa 6cm:
 
 ![](media/circle_window.jpg)
 
-Qualche mese prima avevo collocato davanti alla finestra alcuni
-cilindri creati arrotolando la carta di alluminio. Quando ho
-srotolato i cilindri per sperimentare altre configurazioni, ho notato
-che erano pieni di buchi (foto scattata con la luce di una lampada
-dietro al foglio):
-
-![](media/perforated_aluminum_foil.jpg)
-
-Posso asserire che i fogli di carta di alluminio sono stati perforati
-tramite ablazione laser. Anche un contenitore di alluminio che si
-trovava in un angolo vicino alla porta della mia stanza ha due piccoli
-fori. Ho ripetuto l'esperimento dopo aver aggiornato questo documento
-il 16 Maggio 2019. Oggi (27 Agosto 2019) i fogli di carta di alluminio
-non sono bucati. L'attacco continua ma il Sistema è cambiato.
-
 Quindi gli impulsi laser sono utilizzati anche dentro le abitazioni.
 Il diametro del cerchio asciutto è proporzionale all'intensità del
 laser (c'è una tenda veneziana davanti alla finestra). Ho anche una
