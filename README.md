@@ -1401,6 +1401,8 @@ On March 23 2019 night 1:30: another burst near the window of my room
 the window. On 22 March, I have added reflecting materials (DVD and
 aluminium) between the window and the curtain.
 
+On September 8 2019 at 4:00 a.m., another instantaneous flash.
+
 I don't take medicines or drugs and fortunately my brain is still
 efficient. I will discover who are these ridiculous militarized
 stupids and I will humiliate who protect them.
