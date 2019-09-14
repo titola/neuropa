@@ -132,8 +132,8 @@ and definitively will resolve the problem. If on the contrary it is
 an illegal C4ISRT system (Command, Control, Communications,
 Computers, Intelligence, Surveillance, Reconnaissance and Torture)
 with optional PSYWAR (psychological warfare), I will continue the
-investigation in spite of the general indifference, the omertà and the
-Smart Italy [4].
+investigation in spite of the general indifference, the omertà,
+5 or 14 Polyphemuses and the Smart Italy [4].
 
 I have analyzed the complete dynamics of the attack. This document
 contains what I can unequivocally explain (35% of the overall attack

@@ -135,7 +135,8 @@ risolverò personalmente e definitivamente il problema. Se invece
 si tratta di un sistema illegale C4ISRT (Command, Control, Communications,
 Computers, Intelligence, Surveillance, Reconnaissance and Torture)
 con PSYWAR (psychological warfare) opzionale, continuerò l'indagine
-nonostante l'indifferenza, l'omertà generale e la Smart Italy [4].
+nonostante l'indifferenza, l'omertà generale, 5 o 14 Polifemi e la
+Smart Italy [4].
 
 Ho analizzato la dinamica completa dell'attacco, mi sono informato ed
 ho raccolto le prove. Questo documento contiene quello che posso spiegare
