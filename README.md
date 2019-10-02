@@ -45,6 +45,7 @@ of the Costituzione della Repubblica Italiana.
     - [About 5G](#about-5g)
     - [Anomalous breath modulation](#anomalous-breath-modulation)
     - [Body vibration stopped after some nightly explosions](#body-vibration-stopped-after-some-nightly-explosions)
+    - [Symmetric wounds near the knees](#symmetric-wounds-near-the-knees)
     - [Teeth vibration](#teeth-vibration)
     - [Mysterious light in the dark](#mysterious-light-in-the-dark)
 - [Audio recordings](#audio-recordings)
@@ -1406,6 +1407,15 @@ On September 8 2019 at 4:00 a.m., another instantaneous flash.
 I don't take medicines or drugs and fortunately my brain is still
 efficient. I will discover who are these ridiculous militarized
 stupids and I will humiliate who protect them.
+
+### Symmetric wounds near the knees
+
+I have two similar permanent wounds near the knees. This photo shows
+the left side of the right knee:
+
+![](media/right_knee.jpg)
+
+I have also a more pronounced wound on the left foot.
 
 ### Teeth vibration
 

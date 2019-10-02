@@ -43,6 +43,7 @@ della nostra costituzione.
     - [Sperimentazione 5G](#sperimentazione-5g)
     - [Modulazione anomala del respiro](#modulazione-anomala-del-respiro)
     - [Vibrazione del corpo terminata dopo alcune esplosioni notturne](#vibrazione-del-corpo-terminata-dopo-alcune-esplosioni-notturne)
+    - [Ferite simmetriche vicino ai ginocchi](#ferite-simmetriche-vicino-ai-ginocchi)
     - [Vibrazione dei denti](#vibrazione-dei-denti)
     - [Misteriosa luce nel buio](#misteriosa-luce-nel-buio)
 - [Registrazioni audio](#registrazioni-audio)
@@ -1426,6 +1427,15 @@ riflettente (DVD e fogli di alluminio) tra la finestra e la tenda.
 Non prendo medicine o droghe e fortunatamente il mio cervello è ancora
 efficiente. Scoprirò chi sono questi ridicoli imbecilli militarizzati
 ed umilierò chi li sta proteggendo.
+
+### Ferite simmetriche vicino ai ginocchi
+
+Ho due ferite simili permanenti vicino ai ginocchi. Questa foto
+mostra il lato sinistro del ginocchio destro:
+
+![](media/right_knee.jpg)
+
+Ho anche una ferita più pronunciata sulla pianta del piede sinistro.
 
 ### Vibrazione dei denti
 
