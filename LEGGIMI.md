@@ -734,6 +734,22 @@ frequenza di campionamento: 31300 Hz
     (50 - 30)/2 = 10 Hz
     (65/3 - 10)/2 = 5/2 * 7/3 = 5.83 Hz
     (30 - 65/3)/2 = 5/2 * 5/3 = 4.17 Hz
+
+da indagare (frequenza di campionamento: 78250 Hz)
+    sqrt(422.733 MHz) = 20560.47 Hz = aliasing di 1733.517 * 3 * 19
+    422.733 MHz - 103.0 MHz = 959.2/3 MHz
+    422.733 MHz - 102.7 MHz = 960.1/3 MHz
+    422.733 MHz - 102.4 MHz = 961/3 MHz
+      dove 961 MHz è una quinta giusta della differenza, un'ottava sopra.
+      Il livello del segnale ricevuto intorno a 960 MHz è alto.
+      Radio Radicale (102.4 MHz) trasmette da Monte Mario (Roma).
+      Ram Power (102.7 MHz) trasmette da Monte Porzio Catone (Roma).
+      RDS (103.0 MHz) trasmette da Rocca di Papa e Monte Cavo (Roma).
+    sqrt(3 * (422.733 MHz - 102.4 MHz)) = sqrt(961 MHz) = 31000 Hz
+    31000 Hz = aliasing di 1734.127 * 3 * 21
+
+    230.4 MHz = "Radio Radicale" * 3/2 * 3/2 = 40^5 * 9/4
+    945 MHz = "Radio Vaticana One" * 9
 ```
 
 20760 Hz funziona bene anche con la frequenza nominale di 60 Hz,

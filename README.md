@@ -723,6 +723,22 @@ sampling frequency: 31300 Hz
     (50 - 30)/2 = 10 Hz
     (65/3 - 10)/2 = 5/2 * 7/3 = 5.83 Hz
     (30 - 65/3)/2 = 5/2 * 5/3 = 4.17 Hz
+
+under investigation (sampling frequency: 78250 Hz)
+    sqrt(422.733 MHz) = 20560.47 Hz = aliasing of 1733.517 * 3 * 19
+    422.733 MHz - 103.0 MHz = 959.2/3 MHz
+    422.733 MHz - 102.7 MHz = 960.1/3 MHz
+    422.733 MHz - 102.4 MHz = 961/3 MHz
+      where 961 MHz is a perfect fifth of the difference, one octave up.
+      The signal level received around 960 MHz is high.
+      Radio Radicale (102.4 MHz) transmits from Monte Mario (Rome).
+      Ram Power (102.7 MHz) transmits from Monte Porzio Catone (Rome).
+      RDS (103.0 MHz) transmits from Rocca di Papa and Monte Cavo (Rome).
+    sqrt(3 * (422.733 MHz - 102.4 MHz)) = sqrt(961 MHz) = 31000 Hz
+    31000 Hz = aliasing of 1734.127 * 3 * 21
+
+    230.4 MHz = "Radio Radicale" * 3/2 * 3/2 = 40^5 * 9/4
+    945 MHz = "Radio Vaticana One" * 9
 ```
 
 20760 Hz also works good with the nominal frequency of 60 Hz,
