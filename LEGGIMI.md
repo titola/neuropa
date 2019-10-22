@@ -1597,9 +1597,9 @@ Radio RTL (102.1 MHz) scompare quando sposto un'antenna omnidirezionale
 dietro la testa. Radio TRS (102.3 MHz) è quasi completamente assente.
 I due segnali sono trasmessi da Monte Gennaro (Roma).
 
-[driven_radio.mpg (View Raw)](https://raw.githubusercontent.com/titola/neuropa/master/media/driven_radio.mp4)
+[driven_radio.mp4 (View Raw)](https://raw.githubusercontent.com/titola/neuropa/master/media/driven_radio.mp4)
 
-[driven_radio.mpg](https://github.com/titola/neuropa/blob/master/media/driven_radio.mp4)
+[driven_radio.mp4](https://github.com/titola/neuropa/blob/master/media/driven_radio.mp4)
 
 La lunghezza d'onda è quasi tre metri, quindi questo tipo di sfasamento
 richiede almeno un ripetitore controllato. Il risultato è smart: una

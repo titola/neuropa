@@ -1575,9 +1575,9 @@ Radio RTL (102.1 MHz) svanishes when I move an omnidiretional antenna
 behind the head. Radio TRS (102.3 MHz) is almost completely absent.
 The two signals are transmitted from Monte Gennaro (Rome).
 
-[driven_radio.mpg (View Raw)](https://raw.githubusercontent.com/titola/neuropa/master/media/driven_radio.mp4)
+[driven_radio.mp4 (View Raw)](https://raw.githubusercontent.com/titola/neuropa/master/media/driven_radio.mp4)
 
-[driven_radio.mpg](https://github.com/titola/neuropa/blob/master/media/driven_radio.mp4)
+[driven_radio.mp4](https://github.com/titola/neuropa/blob/master/media/driven_radio.mp4)
 
 The wavelength is almost three meters, therefore this type of phase
 displacement requires at least one controlled repeater. The result
