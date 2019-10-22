@@ -7,7 +7,10 @@ I noticed the attack voice-to-skull on July 15th 2017.
 The artificial and natural deficiency coordinate the sequences and the
 psychology of the dialogues, often offensive, and the interferences to
 the normal neural oscillations that disturb the sleep with tremors,
-convulsions, etc.
+convulsions, etc. They said to me during the first tortures: "tanto ti
+ammazzi da solo", "hai una pistola puntata contro", "non capisci un
+cazzo di computer", "non capisci un cazzo di musica", and other
+insults and threats (I avoid the embarassing list).
 
 The following video shows a part of the signal directed to my head:
 
@@ -53,6 +56,8 @@ of the Costituzione della Repubblica Italiana.
     - [Interval of minor sixth with the tinnitus](#interval-of-minor-sixth-with-the-tinnitus)
     - [Amplitude modulated oscillation of 100 Hz](#amplitude-modulated-oscillation-of-100-hz)
     - [Infrasounds](#infrasounds)
+- [Video recordings](#video-recordings)
+    - [Radio interferences](#radio-interferences)
 - [Smart links](#smart-links)
 - [References](#references)
 
@@ -119,7 +124,7 @@ started some minutes after a forced awakening at 1:30 (microphone near
 the left ear). The infrasounds and low frequency sounds are similar to
 those (also) recorded the previous year (see the section "Audio
 recordings"). The whole soundtrack perfectly represents the soul of
-these institutional cackers, bambacia [3] rocked by mafia, that use
+these institutional cackers, bambacia [3] and toy boys of mafia, that use
 the radio without limits of frequency and have the licence to do what
 they want.
 
@@ -1559,6 +1564,26 @@ synchronized with the voices at frequencies 173.456 MHz, 173.880 MHz,
 422.733 / 173.456 = 2.437   ---> 2.437 / 0.18 = 13.54 Hz
 422.733 / 460.557 = 0.918   ---> 0.918 / 0.18 = 5.1 Hz
 ```
+
+## Video recordings
+
+### Radio interferences
+
+Recorded on June 8 2018, 17:10.
+
+Radio RTL (102.1 MHz) svanishes when I move an omnidiretional antenna
+behind the head. Radio TRS (102.3 MHz) is almost completely absent.
+The two signals are transmitted from Monte Gennaro (Rome).
+
+[driven_radio.mpg (View Raw)](https://raw.githubusercontent.com/titola/neuropa/master/media/driven_radio.mp4)
+
+[driven_radio.mpg](https://github.com/titola/neuropa/blob/master/media/driven_radio.mp4)
+
+The wavelength is almost three meters, therefore this type of phase
+displacement requires at least one controlled repeater. The result
+is smart: a radio station "in some angle of your home".
+
+This secret service is not currently available (2019).
 
 ## Smart links
 

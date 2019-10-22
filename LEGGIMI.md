@@ -5,7 +5,10 @@ L'attacco è iniziato il 15 Luglio 2017.
 La deficienza artificiale e quella naturale coordinano le sequenze e
 la psicologia dei dialoghi, spesso offensivi, e le interferenze alle
 normali oscillazioni neurali che disturbano il sonno con tremori,
-convulsioni, etc.
+convulsioni, etc. Durante le prime torture mi dicevano: "tanto ti
+ammazzi da solo", "hai una pistola puntata contro", "non capisci un
+cazzo di computer", "non capisci un cazzo di musica", ed altri insulti
+e minacce (evito l'imbarazzante elenco).
 
 Il video seguente mostra una parte del segnale diretto alla mia testa:
 
@@ -51,13 +54,15 @@ della nostra costituzione.
     - [Intervallo di sesta minore con il tinnitus](#intervallo-di-sesta-minore-con-il-tinnitus)
     - [Oscillazione di 100 Hz modulata in ampiezza](#oscillazione-di-100-hz-modulata-in-ampiezza)
     - [Infrasuoni](#infrasuoni)
+- [Registrazioni video](#registrazioni-video)
+    - [Interferenze radio](#interferenze-radio)
 - [Smart links](#smart-links)
 - [Riferimenti](#riferimenti)
 
 ## Introduzione
 
 La mia testa è puntata continuamente, probabilmente utilizzando la
-tecnologia dei missili deficienti. Gli impulsi di radiazione e la
+tecnologia dei missili (dei) deficienti. Gli impulsi di radiazione e la
 corrente elettrica sono le fondamenta dell'attacco.
 
 Gli impulsi di radiazione possono essere trasformati in suono seguendo
@@ -122,7 +127,7 @@ alle ore 1:30 (microfono vicino all'orecchio sinistro). Gli infrasuoni
 ed i suoni a bassa frequenza sono analoghi a quelli registrati (anche)
 l'anno precedente (vedi la sezione "Registrazioni audio"). L'intera
 colonna sonora rappresenta perfettamente lo spirito di questi cacker
-istituzionali, bambacia [3] cullati dalla mafia, che usano la radio
+istituzionali, bambacia [3] e toy boy della mafia, che usano la radio
 senza limiti di frequenza e hanno la licenza di fare ciò che vogliono.
 
 Ci sono drone intorno alla mia casa. Uno è molto vicino il 19 Marzo
@@ -1581,6 +1586,26 @@ sincronizzati con le voci alle frequenze 173.456 MHz, 173.880 MHz,
 422.733 / 173.456 = 2.437   ---> 2.437 / 0.18 = 13.54 Hz
 422.733 / 460.557 = 0.918   ---> 0.918 / 0.18 = 5.1 Hz
 ```
+
+## Registrazioni video
+
+### Interferenze radio
+
+Registrazione del 8 Giugno 2018, 17:10.
+
+Radio RTL (102.1 MHz) scompare quando sposto un'antenna omnidirezionale
+dietro la testa. Radio TRS (102.3 MHz) è quasi completamente assente.
+I due segnali sono trasmessi da Monte Gennaro (Roma).
+
+[driven_radio.mpg (View Raw)](https://raw.githubusercontent.com/titola/neuropa/master/media/driven_radio.mp4)
+
+[driven_radio.mpg](https://github.com/titola/neuropa/blob/master/media/driven_radio.mp4)
+
+La lunghezza d'onda è quasi tre metri, quindi questo tipo di sfasamento
+richiede almeno un ripetitore controllato. Il risultato è smart: una
+stazione radio "in qualche angolo della tua casa".
+
+Questo servizio segreto non è al momento disponibile (2019).
 
 ## Smart links
 
