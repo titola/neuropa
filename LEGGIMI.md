@@ -1617,6 +1617,8 @@ Smart city for smart people with smart phones (Il secolo dei cretini).
 
 [Exodus: Nuovo Spyware per Android Made in Italy (securitywithoutborders.org)](https://securitywithoutborders.org/blog/2019/03/29/exodus-ita.html)
 
+[Laser-Based Audio Injection Attacks on Voice-Controllable Systems](https://lightcommands.com)
+
 ## Riferimenti
 
 [1] Dall'articolo 13 originale della Costituzione della Repubblica Italiana:
