@@ -1512,6 +1512,10 @@ modifica di questo documento (in inglese):
 
 ### Ipnosi
 
+Un altro commento (in inglese):
+
+[Hypnopompic hallucinations with oculus style (VR) and vibration of 35 Hz](https://github.com/titola/neuropa/commit/4838e45fbf339940b3f3533a7e079049fab7c88a)
+
 ## Registrazioni audio
 
 ### Oscillazione di 5400 Hz dopo una convulsione indotta

@@ -1490,6 +1490,10 @@ change of this document:
 
 ### Hypnosis
 
+Another comment:
+
+[Hypnopompic hallucinations with oculus style (VR) and vibration of 35 Hz](https://github.com/titola/neuropa/commit/4838e45fbf339940b3f3533a7e079049fab7c88a)
+
 ## Audio recordings
 
 ### Oscillation of 5400 Hz after an induced convulsion
