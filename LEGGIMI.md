@@ -49,6 +49,7 @@ della nostra costituzione.
     - [Ferite simmetriche vicino ai ginocchi](#ferite-simmetriche-vicino-ai-ginocchi)
     - [Vibrazione dei denti](#vibrazione-dei-denti)
     - [Misteriosa luce nel buio](#misteriosa-luce-nel-buio)
+    - [Ipnosi](#ipnosi)
 - [Registrazioni audio](#registrazioni-audio)
     - [Oscillazione di 5400 Hz dopo una convulsione indotta](#oscillazione-di-5400-hz-dopo-una-convulsione-indotta)
     - [Intervallo di sesta minore con il tinnitus](#intervallo-di-sesta-minore-con-il-tinnitus)
@@ -1508,6 +1509,8 @@ sangue nel contesto dei sogni falsi accennati nel commento di una
 modifica di questo documento (in inglese):
 
 [Investigating hypnagogic and hypnopompic hallucinations](https://github.com/titola/neuropa/commit/b00a680bcd18de638dd2d87fb30e51602ac951bd)
+
+### Ipnosi
 
 ## Registrazioni audio
 

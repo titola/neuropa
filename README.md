@@ -51,6 +51,7 @@ of the Costituzione della Repubblica Italiana.
     - [Symmetric wounds near the knees](#symmetric-wounds-near-the-knees)
     - [Teeth vibration](#teeth-vibration)
     - [Mysterious light in the dark](#mysterious-light-in-the-dark)
+    - [Hypnosis](#hypnosis)
 - [Audio recordings](#audio-recordings)
     - [Oscillation of 5400 Hz after an induced convulsion](#oscillation-of-5400-hz-after-an-induced-convulsion)
     - [Interval of minor sixth with the tinnitus](#interval-of-minor-sixth-with-the-tinnitus)
@@ -1486,6 +1487,8 @@ in the context of the fake dreams, sketched out in the comment of a
 change of this document:
 
 [Investigating hypnagogic and hypnopompic hallucinations](https://github.com/titola/neuropa/commit/b00a680bcd18de638dd2d87fb30e51602ac951bd)
+
+### Hypnosis
 
 ## Audio recordings
 
