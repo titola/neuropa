@@ -721,6 +721,23 @@ battimento (A - 20)/2 = (65/3 - 60/3)/2 = 5/6 = 5/2 * 1/3
 650/3 / beat = 650 * 2/5 = 260
 ```
 
+Anche questi battimenti multipli di 100 Hz sono interessanti:
+
+```
+MUOS_VLF = 20760 Hz
+
+sin(2 pi 20560 t) + sin(2 pi 20960 t) =
+= 2 * sin(2 pi MUOS_VLF t) * cos(2 pi 200 t)
+
+dove (20760.47 - 200)^2 = 20560.47^2 = 422.733 MHz
+
+sin(2 pi 20060 t) + sin(2 pi 21460 t) =
+= 2 * sin(2 pi MUOS_VLF t) * cos(2 pi 700 t)
+
+dove (20760.59 + 700)^2 = 21460.59^2 = 460.557 MHz, la frequenza
+di uno dei segnali sincronizzati con le voci.
+```
+
 Se consideriamo il campionamento della radiazione con aliasing,
 otteniamo altri battimenti particolari:
 
