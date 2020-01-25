@@ -36,7 +36,7 @@
 (defvar *conduction-filter*
   (with-buffer (b +conduction-filter-size+
                 :fill-function (gen:fir *conduction-filter-coeffs*))
-    (buffer->pvbuffer b 256)))
+    (make-part-convolve-buffer b 256)))
 
 (dsp! tinnitus-pulses-21-hz ((flt pvbuffer) amp)
   "Tinnitus from pattern pulses: A A A A B A A A A B A A A A B ...
