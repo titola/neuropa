@@ -521,6 +521,33 @@ P(pulse_width) = A*abs(sin(pi*freq*pulse_width)) =
 
 where 7800 Hz is the main acoustic frequency.
 
+Another relevant resonance frequency obtained from the same figure of
+the paper is 1300 Hz. The related amplitude is about 4.3 dB under
+the loudest resonance at 7800 Hz. The harmonic ratios between these
+frequencies and 5200 Hz are very simple:
+
+```
+5200 * 3/2 = 7800 Hz     ; perfect fifth
+5200 / 4 = 1300 Hz       ; 2 octaves
+5200 / 3 = 1733 Hz       ; perfect fifth + 1 octave
+5200 / 24 = 216.67       ; perfect fifth + 4 octaves
+
+216.67 * 6 = 1300 Hz
+1300 * 6 = 7800 Hz
+
+1733 * 3/4 = 1300 Hz
+1733 * 9/2 = 7800 Hz
+
+The frequencies 1300 Hz and 7800 Hz are obtained from the figure of
+the paper "Numerical Analysis of the Microwave Auditory Effect"
+by N. M. Yitzhak, R. Ruppin, R. Hareuveny. 216.67 Hz and 1733 Hz
+are present in the analysed pulsed radiation.
+```
+
+I can hear low frequency beats and a partial cancellation of my
+tinnitus if I play an acoustic oscillation at a frequency between
+1730 Hz and 1742 Hz. It seems like I tune the string of a guitar.
+
 The following audio file contains an annoying interval of minor sixth
 between the simulated tinnitus at 21.2 Hz and an oscillation around 35.4 Hz
 (the listening requires decent headphones):

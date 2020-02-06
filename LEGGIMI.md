@@ -531,6 +531,35 @@ P(pulse_width) = A*abs(sin(pi*freq*pulse_width)) =
 
 dove 7800 Hz è la frequenza acustica principale.
 
+Un'altra frequenza di risonanza rilevante ottenuta dalla stessa figura
+dell'articolo scientifico è 1300 Hz. L'ampiezza relativa è circa
+4.3 dB sotto la risonanza a 7800 Hz. I rapporti armonici tra queste
+frequenze e 5200 Hz sono molto semplici:
+
+```
+5200 * 3/2 = 7800 Hz     ; quinta giusta
+5200 / 4 = 1300 Hz       ; 2 ottave
+5200 / 3 = 1733 Hz       ; quinta giusta + 1 ottava
+5200 / 24 = 216.67       ; quinta giusta + 4 ottave
+
+216.67 * 6 = 1300 Hz
+1300 * 6 = 7800 Hz
+
+1733 * 3/4 = 1300 Hz
+1733 * 9/2 = 7800 Hz
+
+Le frequenze 1300 Hz e 7800 Hz sono ricavate dalla figura
+dell'articolo scientifico "Numerical Analysis of the Microwave
+Auditory Effect" di N. M. Yitzhak, R. Ruppin, R. Hareuveny.
+216.67 Hz e 1733 Hz sono presenti negli impulsi di radiazione
+analizzati.
+```
+
+Posso ascoltare battimenti a bassa frequenza e una cancellazione
+parziale del mio tinnitus se suono un'oscillazione acustica con
+frequenza tra 1730 Hz e 1742 Hz. E' come accordare la corda di una
+chitarra.
+
 Il file audio seguente contiene un fastidioso intervallo di sesta
 minore tra il tinnitus simulato a 21.2 Hz ed un'oscillazione di circa
 35.4 Hz (l'ascolto richiede cuffie decenti):
