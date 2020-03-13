@@ -1452,6 +1452,8 @@ rumore in circa due o tre secondi. Questo tipo di respirazione è
 assolutamente innaturale e non controllato da me. E' la prima volta
 che accade durante l'attacco e nella mia vita.
 
+Nota: c'è l'ora legale, quindi 2:30 equivale a 1:30 + 1.
+
 Il seguente file audio contiene un rumore filtrato che approssima
 l'effetto descritto:
 
@@ -1462,6 +1464,13 @@ giorno 8 Agosto 2019. Forse è una coincidenza (spero) ma il laser
 montato su certi veicoli è utilizzato come arma ad energia diretta
 (per esempio COIL -- chemical oxygen-iodine laser che opera alla
 lunghezza d'onda di 1315 nm).
+
+Stesso copione la notte del 13 Marzo 2020 tra 1:35 e 1:40,
+pressappoco l'orario del 9 Agosto senza l'ora legale.
+E' probabile un collegamento con l'organizzazione militare, forzata
+dal provvedimento governativo per limitare il contagio dal coronavirus.
+Forse alcuni veicoli killer spengono i motori verso 1:30 di notte
+in seguito a provvedimenti eccezionali.
 
 ### Vibrazione del corpo terminata dopo alcune esplosioni notturne
 

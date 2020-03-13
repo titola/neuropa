@@ -1430,6 +1430,8 @@ seconds. This type of breath is absolutely unnatural and not under my
 control. It is the first time that it occurs during the attack and in
 my life.
 
+Note: there is the summer time in Italy, therefore 2:30 is 1:30 + 1.
+
 The following sound file contains a filtered noise that approximates
 the described effect:
 
@@ -1440,6 +1442,13 @@ Maybe it is a coincidence (I hope) but the laser placed on such
 vehicles is used as directed-energy weapon (i.e. COIL -- chemical
 oxygen-iodine laser, an infrared chemical laser with operation
 wavelength of 1315 nm).
+
+Same film script on March 13 2020 night, between 1:35 and 1:40 a.m.
+more or less the time of August 9 without summer time.
+Probably there is a link with the military management, forced by the
+Italian governmental measures to curb the infection from Covid-19.
+Perhaps (in Italy) some killer vehicles switch off the engines around
+1:30 a.m. in consequence of special measures.
 
 ### Body vibration stopped after some nightly explosions
 
