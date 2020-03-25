@@ -560,6 +560,35 @@ parziale del mio tinnitus se suono un'oscillazione acustica con
 frequenza tra 1730 Hz e 1742 Hz. E' come accordare la corda di una
 chitarra.
 
+Questa è la tabella con tutte le frequenze ricavate da
+"Numerical Analysis of the Microwave Auditory Effect":
+
+| Frequenza (Hz) | Ampiezza (lin) | dB    |
+|----------------|----------------|-------|
+| 1290           | 0.000          | -inf  |
+| 1300           | 0.610          | -4.3  |
+| 1516           | 0.222          | -13.1 |
+| 2938           | 0.201          | -13.9 |
+| 3317           | 0.194          | -14.2 |
+| 4478           | 0.369          | -8.7  |
+| 6398           | 0.233          | -12.7 |
+| 7346           | 0.339          | -9.4  |
+| 7772           | 1.000          | 0.0   |
+| 8128           | 0.189          | -14.5 |
+| 9976           | 0.362          | -8.8  |
+| 10142          | 0.108          | -19.3 |
+| 11374          | 0.068          | -23.3 |
+| 12535          | 0.121          | -18.4 |
+| 12938          | 0.070          | -23.1 |
+| 14597          | 0.222          | -13.1 |
+| 15734          | 0.269          | -11.4 |
+| 16706          | 0.068          | -23.3 |
+| 18080          | 0.052          | -25.6 |
+| 18720          | 0.031          | -30.0 |
+| 19597          | 0.021          | -33.6 |
+| 19600          | 0.000          | -inf  |
+
+
 Il file audio seguente contiene un fastidioso intervallo di sesta
 minore tra il tinnitus simulato a 21.2 Hz ed un'oscillazione di circa
 35.4 Hz (l'ascolto richiede cuffie decenti):
