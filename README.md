@@ -673,7 +673,8 @@ Main acoustic frequency of microwave auditory effect:
 1950 * 4 = 7800 Hz
 
 Note: 1950 Hz is a natural frequency of the upper first premolar
-(see the section "Teeth vibration").
+(see the section "Teeth vibration"). 3025 Hz is near 3050 Hz,
+another natural frequency of the same tooth.
 ```
 
 In the filtered pulses obtained from the published sound file [6], the

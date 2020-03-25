@@ -685,7 +685,8 @@ Frequenza acustica principale dell'effetto uditivo da microonde:
 1950 * 4 = 7800 Hz
 
 Nota: 1950 Hz è una frequenza naturale del primo premolare superiore
-(vedi la sezione "Vibrazione dei denti").
+(vedi la sezione "Vibrazione dei denti"). 3025 Hz è vicina a 3050 Hz,
+un'altra frequenza naturale dello stesso dente.
 ```
 
 Negli impulsi filtrati ottenuti dal file audio pubblicato [6], la distanza
