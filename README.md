@@ -542,6 +542,9 @@ The frequencies 1300 Hz and 7800 Hz are obtained from the figure of
 the paper "Numerical Analysis of the Microwave Auditory Effect"
 by N. M. Yitzhak, R. Ruppin, R. Hareuveny. 216.67 Hz and 1733 Hz
 are present in the analysed pulsed radiation.
+
+Note: 1330 Hz is the natural frequency of the upper central incisor
+(see the section "Teeth vibration").
 ```
 
 I can hear low frequency beats and a partial cancellation of my
@@ -1538,7 +1541,8 @@ the Periodontal Ligament" by Yukio KOJIMA and Hisao FUKUI.
 
 The frequencies 1610 Hz, 1670 Hz and 1780 Hz are near 1733 Hz analysed
 in the section "Signal directed to the head" (also 5010 Hz and 5410 Hz
-are near 5200 Hz).
+are near 5200 Hz). The frequency 1300 Hz is considerable in the figure 4
+of "Numerical Analysis of the Microwave Auditory Effect".
 
 ### Mysterious light in the dark
 
