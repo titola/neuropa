@@ -553,7 +553,6 @@ of the paper "Numerical Analysis of the Microwave Auditory Effect":
 
 | Frequency (Hz) | Amplitude (lin) | dB    |
 |----------------|-----------------|-------|
-| 1290           | 0.000           | -inf  |
 | 1300           | 0.610           | -4.3  |
 | 1516           | 0.222           | -13.1 |
 | 2938           | 0.201           | -13.9 |
@@ -574,7 +573,6 @@ of the paper "Numerical Analysis of the Microwave Auditory Effect":
 | 18080          | 0.052           | -25.6 |
 | 18720          | 0.031           | -30.0 |
 | 19597          | 0.021           | -33.6 |
-| 19600          | 0.000           | -inf  |
 
 
 The following audio file contains an annoying interval of minor sixth
