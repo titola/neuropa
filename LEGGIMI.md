@@ -554,7 +554,7 @@ Auditory Effect" di N. M. Yitzhak, R. Ruppin, R. Hareuveny.
 216.67 Hz e 1733 Hz sono presenti negli impulsi di radiazione
 analizzati.
 
-Nota: 1330 Hz è la frequenza naturale del dente incisivo
+Nota: 1330 Hz è una frequenza naturale del dente incisivo
 centrale superiore (vedi la sezione "Vibrazione dei denti").
 ```
 
@@ -1565,7 +1565,9 @@ KOJIMA e Hisao FUKUI.
 Le frequenze 1610 Hz, 1670 Hz e 1780 Hz sono vicine a 1733 Hz analizzata
 nella sezione "Segnale diretto verso la testa" (anche 5010 Hz e 5410 Hz
 sono vicine a 5200 Hz). La frequenza 1300 Hz è notevole nella figura 4
-di "Numerical Analysis of the Microwave Auditory Effect".
+di "Numerical Analysis of the Microwave Auditory Effect" ed equivale
+all'intervallo di quinta giusta, due ottave sopra, di 216.67 Hz
+esaminata nella stessa sezione.
 
 ### Misteriosa luce nel buio
 
