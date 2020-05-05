@@ -55,6 +55,7 @@ della nostra costituzione.
     - [Intervallo di sesta minore con il tinnitus](#intervallo-di-sesta-minore-con-il-tinnitus)
     - [Oscillazione di 100 Hz modulata in ampiezza](#oscillazione-di-100-hz-modulata-in-ampiezza)
     - [Infrasuoni](#infrasuoni)
+    - [Emissioni con frequenza crescente](#emissioni-con-frequenza-crescente)
 - [Registrazioni video](#registrazioni-video)
     - [Interferenze radio](#interferenze-radio)
 - [Smart links](#smart-links)
@@ -1688,6 +1689,18 @@ sincronizzati con le voci alle frequenze 173.456 MHz, 173.880 MHz,
 422.733 / 173.456 = 2.437   ---> 2.437 / 0.18 = 13.54 Hz
 422.733 / 460.557 = 0.918   ---> 0.918 / 0.18 = 5.1 Hz
 ```
+
+### Emissioni con frequenza crescente
+
+Registrate il 5 Maggio 2020 da un amplificatore per chitarra.
+
+[rising_frequency_emissions_1.wav](https://github.com/titola/neuropa/blob/master/media/rising_frequency_emissions_1.wav)
+
+![](media/rising_frequency_emissions_1.jpg)
+
+VLF dalla stessa regione audio:
+
+![](media/hum_20200505_guitar_ampli_vlf_1.jpg)
 
 ## Registrazioni video
 

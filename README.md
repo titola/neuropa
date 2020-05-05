@@ -57,6 +57,7 @@ of the Costituzione della Repubblica Italiana.
     - [Interval of minor sixth with the tinnitus](#interval-of-minor-sixth-with-the-tinnitus)
     - [Amplitude modulated oscillation of 100 Hz](#amplitude-modulated-oscillation-of-100-hz)
     - [Infrasounds](#infrasounds)
+    - [Rising frequency emissions](#rising-frequency-emissions)
 - [Video recordings](#video-recordings)
     - [Radio interferences](#radio-interferences)
 - [Smart links](#smart-links)
@@ -1664,6 +1665,18 @@ synchronized with the voices at frequencies 173.456 MHz, 173.880 MHz,
 422.733 / 173.456 = 2.437   ---> 2.437 / 0.18 = 13.54 Hz
 422.733 / 460.557 = 0.918   ---> 0.918 / 0.18 = 5.1 Hz
 ```
+
+### Rising frequency emissions
+
+Recorded on May 5, 2020 from a guitar amplifier.
+
+[rising_frequency_emissions_1.wav](https://github.com/titola/neuropa/blob/master/media/rising_frequency_emissions_1.wav)
+
+![](media/rising_frequency_emissions_1.jpg)
+
+VLF from the same audio region:
+
+![](media/hum_20200505_guitar_ampli_vlf_1.jpg)
 
 ## Video recordings
 
