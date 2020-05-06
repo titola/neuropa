@@ -1702,6 +1702,12 @@ VLF dalla stessa regione audio:
 
 ![](media/hum_20200505_guitar_ampli_vlf_1.jpg)
 
+Proprietà di 19963 Hz: questa frequenza "fold back" a 400.5 Hz se
+la frequenza di campionamento della radiazione è 78250/(2^k) Hz,
+con k intero tra 2 e 6. Per esempio impulsi di radiazione con PRF
+uguale a 4890.625 Hz (78250/16) o con PRF 78250 Hz e burst ratio
+1:15 (sottocampionamento dal punto di vista di una pulsar).
+
 ## Registrazioni video
 
 ### Interferenze radio

@@ -1678,6 +1678,12 @@ VLF from the same audio region:
 
 ![](media/hum_20200505_guitar_ampli_vlf_1.jpg)
 
+Property of 19963 Hz: it folds back into 400.5 Hz if the radiation
+sampling rate is 78250/(2^k) Hz, where k is an integer between 2 and 6.
+For example, a pulsed radiation with PRF of 4890.625 Hz (78250/16) or
+with PRF of 78250 Hz and burst ratio 1:15 (downsampling from the point
+of view of a pulsar).
+
 ## Video recordings
 
 ### Radio interferences
