@@ -58,6 +58,7 @@ of the Costituzione della Repubblica Italiana.
     - [Amplitude modulated oscillation of 100 Hz](#amplitude-modulated-oscillation-of-100-hz)
     - [Infrasounds](#infrasounds)
     - [Rising frequency emissions](#rising-frequency-emissions)
+    - [Amplitude modulated distortion of electric current](#amplitude-modulated-distortion-of-electric-current)
 - [Video recordings](#video-recordings)
     - [Radio interferences](#radio-interferences)
 - [Smart links](#smart-links)
@@ -1683,6 +1684,22 @@ sampling rate is 78250/(2^k) Hz, where k is an integer between 2 and 6.
 For example, a pulsed radiation with PRF of 4890.625 Hz (78250/16) or
 with PRF of 78250 Hz and burst ratio 1:15 (downsampling from the point
 of view of a pulsar).
+
+### Amplitude modulated distortion of electric current
+
+Recorded on May 5, 2020 from a guitar amplifier.
+
+The carrier of the modulator is about 12 Hz. The duration of that
+modulation is variable between 7 and 18 cycles of the nominal
+frequency of the electrical grid. The modulation is repeated every
+two seconds (100 cycles at 50 Hz).
+
+[](https://github.com/titola/neuropa/blob/master/media/hum_20200505_guitar_ampli_mod_1.wav)
+
+This part of the sonogram highlights the side lobes
+(high frequency resolution and Kaiser window):
+
+![](media/hum_20200505_guitar_ampli_mod_1.jpg)
 
 ## Video recordings
 

@@ -56,6 +56,7 @@ della nostra costituzione.
     - [Oscillazione di 100 Hz modulata in ampiezza](#oscillazione-di-100-hz-modulata-in-ampiezza)
     - [Infrasuoni](#infrasuoni)
     - [Emissioni con frequenza crescente](#emissioni-con-frequenza-crescente)
+    - [Distorsione della corrente elettrica modulata in ampiezza](#distorsione-della-corrente-elettrica-modulata-in-ampiezza)
 - [Registrazioni video](#registrazioni-video)
     - [Interferenze radio](#interferenze-radio)
 - [Smart links](#smart-links)
@@ -1707,6 +1708,21 @@ la frequenza di campionamento della radiazione è 78250/(2^k) Hz,
 con k intero tra 2 e 6. Per esempio impulsi di radiazione con PRF
 uguale a 4890.625 Hz (78250/16) o con PRF 78250 Hz e burst ratio
 1:15 (sottocampionamento dal punto di vista di una pulsar).
+
+### Distorsione della corrente elettrica modulata in ampiezza
+
+Registrato il 5 Maggio 2020 da un amplificatore per chitarra.
+
+La frequenza portante del modulatore è circa 12 Hz. La durata della
+modulazione varia tra 7 e 18 cicli della frequenza nominale della rete
+elettrica. La modulazione è ripetuta ogni due secondi (100 cicli a 50 Hz).
+
+[](https://github.com/titola/neuropa/blob/master/media/hum_20200505_guitar_ampli_mod_1.wav)
+
+Questa parte del sonogramma evidenzia le bande laterali
+(alta risoluzione di frequenza e finestra di Kaiser):
+
+![](media/hum_20200505_guitar_ampli_mod_1.jpg)
 
 ## Registrazioni video
 
