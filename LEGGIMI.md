@@ -1717,7 +1717,7 @@ La frequenza portante del modulatore è circa 12 Hz. La durata della
 modulazione varia tra 7 e 18 cicli della frequenza nominale della rete
 elettrica. La modulazione è ripetuta ogni due secondi (100 cicli a 50 Hz).
 
-[](https://github.com/titola/neuropa/blob/master/media/hum_20200505_guitar_ampli_mod_1.wav)
+[hum_20200505_guitar_ampli_mod_1.wav](https://github.com/titola/neuropa/blob/master/media/hum_20200505_guitar_ampli_mod_1.wav)
 
 Questa parte del sonogramma evidenzia le bande laterali
 (alta risoluzione di frequenza e finestra di Kaiser):

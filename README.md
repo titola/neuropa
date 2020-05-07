@@ -1694,7 +1694,7 @@ modulation is variable between 7 and 18 cycles of the nominal
 frequency of the electrical grid. The modulation is repeated every
 two seconds (100 cycles at 50 Hz).
 
-[](https://github.com/titola/neuropa/blob/master/media/hum_20200505_guitar_ampli_mod_1.wav)
+[hum_20200505_guitar_ampli_mod_1.wav](https://github.com/titola/neuropa/blob/master/media/hum_20200505_guitar_ampli_mod_1.wav)
 
 This part of the sonogram highlights the side lobes
 (high frequency resolution and Kaiser window):
