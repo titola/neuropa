@@ -1724,6 +1724,12 @@ Questa parte del sonogramma evidenzia le bande laterali
 
 ![](media/hum_20200505_guitar_ampli_mod_1.jpg)
 
+Pubblicai questo file il [7 Maggio 2020](https://github.com/titola/neuropa/commit/bf5085f374810b84ebe2e2328feb99fbd626cc46). La notte seguente, tra le 3:00 e le 3:30, gli idioti erano
+un pò nervosetti. Da Gennaio 2020 sistemo due recipienti pieni d'acqua
+sotto il letto per controllare la lunghezza d'onda degli impulsi di
+radiazione durante gli attacchi notturni. La notte del 8 Maggio ascoltai
+per la prima volta il suono della pioggia sotto la rete del mio letto.
+
 ## Registrazioni video
 
 ### Interferenze radio

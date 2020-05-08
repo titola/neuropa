@@ -1701,6 +1701,12 @@ This part of the sonogram highlights the side lobes
 
 ![](media/hum_20200505_guitar_ampli_mod_1.jpg)
 
+I published this file on [May 7 2020](https://github.com/titola/neuropa/commit/bf5085f374810b84ebe2e2328feb99fbd626cc46). The subsequent night, between 3:00 and 3:30, the idiots
+were a bit edgy. From January 2020, I place two containers full of
+water under my bed to monitor the wavelength of the pulsed radiation
+during the nightly attacks. On May 8 night, for the first time I
+listened to the sound of rain under the bed base.
+
 ## Video recordings
 
 ### Radio interferences
