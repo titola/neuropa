@@ -1531,6 +1531,9 @@ the left side of the right knee:
 
 I have also a more pronounced wound on the left foot.
 
+On May 15 2020: scattered wounds and red dots in the center of the
+soles of my feet. A little wound near the left knee.
+
 ### Teeth vibration
 
 I add this section because my teeth considerably vibrated on May 31 2019

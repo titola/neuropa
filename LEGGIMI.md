@@ -1553,6 +1553,10 @@ mostra il lato sinistro del ginocchio destro:
 
 Ho anche una ferita più pronunciata sulla pianta del piede sinistro.
 
+15 Maggio 2020: ferite sparse e punti rossi (sembrano punture) al
+centro delle piante dei piedi. Una piccola piaga vicino al ginocchio
+sinistro.
+
 ### Vibrazione dei denti
 
 Aggiungo questa sezione perché la mattina del 31 Maggio 2019 verso le
