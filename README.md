@@ -68,7 +68,14 @@ of the Costituzione della Repubblica Italiana.
 
 My head is continually tracked, probably using the technology of the
 deficient missiles. The pulsed radiation and the electric current
-are the basis of the attack.
+are the basis of the attack. If I reflect the radiation with a DVD,
+I just perceive the lowest frequencies of the induced
+[tinnitus](https://en.wikipedia.org/wiki/Tinnitus). If I block the
+DVD, I listen to the original tinnitus again after about 12 seconds,
+the necessary time to compute a new arrangiament of the radiation
+(last misure on July 18th 2020). The tinnitus restoration is gradual,
+therefore the calculation of the radiation paths is incremental
+(it depends on the complexity of the radar).
 
 A pulsed radiation can be transformed in sound by following this path:
 
@@ -166,8 +173,7 @@ The sonogram of a recording of the signal, with center frequency of
 During the recording, the infamous criminals lower the level of the
 voices and increase the noise. Recently, the level of the voices is
 also very low if I don't record, however the intensity of the
-induced [tinnitus](https://en.wikipedia.org/wiki/Tinnitus) is
-unchanged.
+induced tinnitus is unchanged.
 
 A pulse "A" is the sum of 100 sinusoids separated by 1733 Hz, so the
 bandwidth is 173.3 kHz.

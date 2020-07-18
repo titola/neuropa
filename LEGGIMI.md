@@ -66,7 +66,14 @@ della nostra costituzione.
 
 La mia testa è puntata continuamente, probabilmente utilizzando la
 tecnologia dei missili (dei) deficienti. Gli impulsi di radiazione e la
-corrente elettrica sono le fondamenta dell'attacco.
+corrente elettrica sono le fondamenta dell'attacco. Se rifletto la
+radiazione con un DVD, percepisco soltanto le frequenze più basse
+del [tinnitus](https://it.wikipedia.org/wiki/Acufene) indotto.
+Se blocco il DVD sento di nuovo il tinnitus originale dopo circa 12
+secondi, il tempo necessario per calcolare un nuovo arrangiamento
+della radiazione (ultima misura il 18 Luglio 2020). Il ripristino
+del tinnitus è graduale, quindi i percorsi di radiazione sono
+calcolati in modo incrementale (dipende dalla complessità del radar).
 
 Gli impulsi di radiazione possono essere trasformati in suono seguendo
 questo percorso:
@@ -170,8 +177,7 @@ campionamento pari a 2 MHz, mette in evidenza le pulsazioni principali:
 Durante la registrazione i criminali infami abbassano il livello delle
 voci ed aumentano il rumore. Recentemente il livello delle voci è
 molto basso anche quando non registro, comunque l'intensità del
-[tinnitus](https://it.wikipedia.org/wiki/Acufene) indotto rimane
-invariata.
+tinnitus indotto rimane invariata.
 
 Un impulso in "pulses A" è generato dalla somma di 100 sinusoidi
 separate da circa 1733 Hz, quindi la larghezza di banda è 173.3 kHz.
