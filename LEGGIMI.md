@@ -27,6 +27,7 @@ della nostra costituzione.
 - [Introduzione](#introduzione)
 - [Segnale diretto verso la testa](#segnale-diretto-verso-la-testa)
     - [Armoniche di 230.4 MHz e comunicazione mobile 5G](#armoniche-di-230.4-mhz-e-comunicazione-mobile-5g)
+    - [Impulsi sparsi modulano il segnale con frequenza centrale 230.4 MHz](#impulsi-sparsi-modulano-il-segnale-con-frequenza-centrale-230.4-mhz)
     - [Campionamento della radiazione ed aliasing](#campionamento-della-radiazione-ed-aliasing)
     - [Simulazione del tinnitus](#simulazione-del-tinnitus)
     - [Impulsi ripetuti nel segnale modulante](#impulsi-ripetuti-nel-segnale-modulante)
@@ -335,6 +336,12 @@ un segnale telefonico di quinta generazione.
 Questo è un sistema di sorveglianza illegale utilizzato non solo per
 spiare ma anche per torturare, condizionare psicologicamente ed
 uccidere le persone con l'aiuto di altri impulsi di radiazione.
+
+### Impulsi sparsi modulano il segnale con frequenza centrale 230.4 MHz
+
+Registrati il 5 Giugno 2018, 14:54.
+
+![](media/230_4mhz_scattered_pulses.jpg)
 
 ### Campionamento della radiazione ed aliasing
 

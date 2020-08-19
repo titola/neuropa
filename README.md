@@ -29,6 +29,7 @@ of the Costituzione della Repubblica Italiana.
 - [Introduction](#introduction)
 - [Signal directed to the head](#signal-directed-to-the-head)
     - [Harmonics of 230.4 MHz and mobile communications 5G](#harmonics-of-230.4-mhz-and-mobile-communications-5g)
+    - [Scattered pulses modulate the signal with central frequency 230.4 MHz](#scattered-pulses-modulate-the-signal-with-central-frequency-230.4-mhz)
     - [Radiation sampling and aliasing](#radiation-sampling-and-aliasing)
     - [Tinnitus simulation](#tinnitus-simulation)
     - [Pulses repeated in the modulating signal](#pulses-repeated-in-the-modulating-signal)
@@ -329,6 +330,12 @@ signal 5G.
 It is an illegal surveillance system not only used to spy, but also to
 torture, psychologically influence and kill persons with the help of
 other pulsed radiations.
+
+### Scattered pulses modulate the signal with central frequency 230.4 MHz
+
+Recorded on June 5 2018, 14:54.
+
+![](media/230_4mhz_scattered_pulses.jpg)
 
 ### Radiation sampling and aliasing
 
