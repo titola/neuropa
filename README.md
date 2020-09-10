@@ -1502,6 +1502,9 @@ Italian governmental measures to curb the infection from Covid-19.
 Perhaps (in Italy) some killer vehicles switch off the engines around
 1:30 a.m. in consequence of special measures.
 
+On July 27 2020: pneumonia (without coronavirus) and fever over 40°C.
+Hospitalization for two weeks since July 31 2020.
+
 ### Body vibration stopped after some nightly explosions
 
 On October 2 2018 night, my body has started to rapidly vibrate with a

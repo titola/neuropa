@@ -1524,6 +1524,9 @@ dal provvedimento governativo per limitare il contagio dal coronavirus.
 Forse alcuni veicoli killer spengono i motori verso 1:30 di notte
 in seguito a provvedimenti eccezionali.
 
+27 Luglio 2020: polmonite (senza coronavirus) e febbre oltre 40°C.
+Ricovero in ospedale per due settimane dal 31 Luglio 2020.
+
 ### Vibrazione del corpo terminata dopo alcune esplosioni notturne
 
 La notte del 2 Ottobre 2018 il mio corpo ha iniziato a vibrare
