@@ -78,6 +78,12 @@ the necessary time to compute a new arrangiament of the radiation
 therefore the calculation of the radiation paths is incremental
 (it depends on the complexity of the radar).
 
+Often I get a "lash" on the nape when some laser pulses are blocked
+by a medal collocated behind the head. The automatic system probably
+enhances the energy level to go beyond the obstacle, then it moves the
+rays causing a shock. However I think this lash is also possible without
+obstacles.
+
 A pulsed radiation can be transformed in sound by following this path:
 
 ```

@@ -76,6 +76,12 @@ della radiazione (ultima misura il 18 Luglio 2020). Il ripristino
 del tinnitus è graduale, quindi i percorsi di radiazione sono
 calcolati in modo incrementale (dipende dalla complessità del radar).
 
+Spesso mi becco una "frustata" sulla nuca quando alcuni impulsi laser
+sono bloccati da una medaglia collocata dietro la testa. Probabilmente
+il sistema automatico aumenta l'energia per poter superare l'ostacolo,
+poi sposta i raggi provocando uno shock. Credo comunque che questa
+frustata sia possibile anche senza ostacoli.
+
 Gli impulsi di radiazione possono essere trasformati in suono seguendo
 questo percorso:
 
