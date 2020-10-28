@@ -155,7 +155,7 @@ and definitively will resolve the problem. If on the contrary it is
 an illegal C4ISRT system (Command, Control, Communications,
 Computers, Intelligence, Surveillance, Reconnaissance and Torture)
 with optional PSYWAR (psychological warfare), I will continue the
-investigation in spite of the general indifference, the omertà,
+investigation in spite of the general [indifference](https://github.com/titola/neuropa/commit/fa8a0203c081404e4e679a8ad2185c6bc3deac0b), the omertà,
 5 or 14 Polyphemuses and the Smart Italy [4].
 
 I have analyzed the complete dynamics of the attack. This document
@@ -1511,6 +1511,24 @@ Perhaps (in Italy) some killer vehicles switch off the engines around
 On July 27 2020: pneumonia (without coronavirus) and fever over 40°C.
 Hospitalization for two weeks since July 31 2020.
 
+I often feel a tickle to the nose. Sometimes I perceive for a few
+seconds a smell that remembers the ozone (end of 2018, beginning of
+2019) or the exhaust (end of 2019, beginning of 2020). My closed room
+is far from sources of this type. What are the side effects of a
+particular laser or other pulsed radiation pushed in the nose or in
+the mouth? Could they cross the digestive or respiratory apparatus?
+Could they alter the sense of smell?
+
+Why is the earwax blue if I plug an ear with a coin during the night?
+There is evidently a substance that reflects blue light. Is it normal?
+I saw a blue light beam a couple of times between 2018 and 2019, with
+diameter of about two or three centimeters. The titanium-sapphire laser
+(Ti:Al2O3) is an example of laser employed at different wavelengths [10]:
+
+- Ti:sapphire (tripled) 235-330 nm (ultraviolet)
+- Ti:sapphire (doubled) 360-460 nm (blue light)
+- Ti:sapphire 670-1130 nm (NIR). For example, H2O-lidar at 935 and 942 nm.
+
 ### Body vibration stopped after some nightly explosions
 
 On October 2 2018 night, my body has started to rapidly vibrate with a
@@ -1798,3 +1816,5 @@ of the body vibrations of the nightly tortures decreases.
 
 [9] J.A. Elder and C.K. Chou. Auditory Response to Pulsed
 Radiofrequency Energy.
+
+[10] Some lasers: [Commercial_laser_lines.svg (wikimedia.org)](https://commons.wikimedia.org/wiki/File:Commercial_laser_lines.svg)

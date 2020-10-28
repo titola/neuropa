@@ -158,7 +158,7 @@ risolverò personalmente e definitivamente il problema. Se invece
 si tratta di un sistema illegale C4ISRT (Command, Control, Communications,
 Computers, Intelligence, Surveillance, Reconnaissance and Torture)
 con PSYWAR (psychological warfare) opzionale, continuerò l'indagine
-nonostante l'indifferenza, l'omertà generale, 5 o 14 Polifemi e la
+nonostante l'[indifferenza](https://github.com/titola/neuropa/commit/fa8a0203c081404e4e679a8ad2185c6bc3deac0b), l'omertà generale, 5 o 14 Polifemi e la
 Smart Italy [4].
 
 Ho analizzato la dinamica completa dell'attacco, mi sono informato ed
@@ -1533,6 +1533,25 @@ in seguito a provvedimenti eccezionali.
 27 Luglio 2020: polmonite (senza coronavirus) e febbre oltre 40°C.
 Ricovero in ospedale per due settimane dal 31 Luglio 2020.
 
+Spesso sento un solletico al naso. A volte percepisco per qualche
+secondo un odore che ricorda l'ozono (fine 2018 e inizio 2019) oppure
+i gas di scarico (fine 2019 e inizio 2020). La mia stanza chiusa è
+lontana da sorgenti di questo tipo. Quali sono gli effetti
+collaterali di un particolare laser o altri impulsi di radiazione
+spinti nel naso o nella bocca? Potrebbero attraversare l'apparato
+digerente o quello respiratorio? Potrebbero alterare l'olfatto?
+
+Perché il cerume è blu se tappo un orecchio con una moneta durante
+la notte? C'è evidentemente una sostanza che riflette luce blu.
+E' normale? Vidi un fascio di luce blu un paio di volte tra il 2018
+e il 2019, con un diametro di circa due o tre centimetri. Il laser
+allo zaffiro (Al2O3) di titanio è un esempio di laser adoperato a
+diverse lunghezze d'onda [10]:
+
+- Ti:sapphire (tripled) 235-330 nm (ultravioletto)
+- Ti:sapphire (doubled) 360-460 nm (luce blu)
+- Ti:sapphire 670-1130 nm (NIR). Per esempio H2O-lidar a 935 e 942 nm.
+
 ### Vibrazione del corpo terminata dopo alcune esplosioni notturne
 
 La notte del 2 Ottobre 2018 il mio corpo ha iniziato a vibrare
@@ -1822,3 +1841,5 @@ notturne diminuisce.
 
 [9] J.A. Elder and C.K. Chou. Auditory Response to Pulsed
 Radiofrequency Energy.
+
+[10] Alcuni laser: [Commercial_laser_lines.svg (wikimedia.org)](https://commons.wikimedia.org/wiki/File:Commercial_laser_lines.svg)
