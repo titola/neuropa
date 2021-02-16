@@ -1511,6 +1511,10 @@ Perhaps (in Italy) some killer vehicles switch off the engines around
 On July 27 2020: pneumonia (without coronavirus) and fever over 40°C.
 Hospitalization for two weeks since July 31 2020.
 
+On February 16 2021, about midnight: aggressive attack with pulses
+absorbed by tongue and palate. The noise in the room seems produced
+by a rotative movement.
+
 I often feel a tickle to the nose. Sometimes I perceive for a few
 seconds a smell that remembers the ozone (end of 2018, beginning of
 2019) or the exhaust (end of 2019, beginning of 2020). My closed room

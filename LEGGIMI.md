@@ -1533,6 +1533,10 @@ in seguito a provvedimenti eccezionali.
 27 Luglio 2020: polmonite (senza coronavirus) e febbre oltre 40°C.
 Ricovero in ospedale per due settimane dal 31 Luglio 2020.
 
+16 Febbraio 2021, poco dopo mezzanotte: attacco aggressivo con impulsi
+assorbiti sulla lingua e sul palato. Il rumore nella stanza sembra
+prodotto da un movimento rotativo.
+
 Spesso sento un solletico al naso. A volte percepisco per qualche
 secondo un odore che ricorda l'ozono (fine 2018 e inizio 2019) oppure
 i gas di scarico (fine 2019 e inizio 2020). La mia stanza chiusa è
