@@ -1537,6 +1537,10 @@ Ricovero in ospedale per due settimane dal 31 Luglio 2020.
 assorbiti sulla lingua e sul palato. Il rumore nella stanza sembra
 prodotto da un movimento rotativo.
 
+23 Febbraio 2021, verso mezzanotte: attacco molto aggressivo con un
+alto livello di energia. Il mio corpo rimane bloccato per più di 30
+secondi ma riesco a controllare il respiro.
+
 Spesso sento un solletico al naso. A volte percepisco per qualche
 secondo un odore che ricorda l'ozono (fine 2018 e inizio 2019) oppure
 i gas di scarico (fine 2019 e inizio 2020). La mia stanza chiusa è

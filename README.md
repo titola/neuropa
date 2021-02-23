@@ -1515,6 +1515,10 @@ On February 16 2021, about midnight: aggressive attack with pulses
 absorbed by tongue and palate. The noise in the room seems produced
 by a rotative movement.
 
+On February 23 2021, about midnight: aggressive attack with high
+energy level. My body is blocked for more than 30 seconds but I manage
+to control the breath.
+
 I often feel a tickle to the nose. Sometimes I perceive for a few
 seconds a smell that remembers the ozone (end of 2018, beginning of
 2019) or the exhaust (end of 2019, beginning of 2020). My closed room
