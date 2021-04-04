@@ -1,6 +1,6 @@
 # Analisi di un attacco con armi ad energia diretta
 
-L'attacco è iniziato il 15 Luglio 2017.
+L'attacco iniziò il 15 Luglio 2017.
 
 La deficienza artificiale e quella naturale coordinano le sequenze e
 la psicologia dei dialoghi, spesso offensivi, e le interferenze alle
