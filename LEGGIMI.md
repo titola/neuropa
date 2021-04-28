@@ -1666,6 +1666,33 @@ Un altro commento (in inglese):
 
 [Hypnopompic hallucinations with oculus style (VR) and vibration of 35 Hz](https://github.com/titola/neuropa/commit/4838e45fbf339940b3f3533a7e079049fab7c88a)
 
+Alcuni scienziati considerano questi sintomi "post" Covid-19 perché
+ignorano la cultura degl'impulsi di radiazione. I commenti seguenti
+sono "pre" Covid-19 (verifica la data):
+
+- [Scommessa ironica del 1 Febbraio 2019](https://github.com/titola/neuropa/commit/d075d04cda5c5fa0d6d5f5e8a9af7eba383120a2):
+    "Hey bookmaker, the next news will be about particular loops in
+    driven hypnopompic states (cycles of about one second or less than
+    two seconds) but there is other."
+
+- [23 Giugno 2019](https://github.com/titola/neuropa/commit/b00a680bcd18de638dd2d87fb30e51602ac951bd):
+  "Meanwhile I'm investigating hypnagogic and hypnopompic
+  hallucinations (there is not a night without these fake dreams) from
+  machine learning with a very bad virtual reality, often a few dark
+  frames for second (also isolated images). I recognize the style, the
+  culture and the intent of the attacker. 98% of the images (75% of
+  the faces) are new for me (however some themes are repeated with
+  little variations).  The short "films" always terminate with a
+  highly emotive scene to force an awakening (sometimes it is the
+  intent but I don't feel emotions; in this case the scene terminates
+  after a few seconds of boring frames). Sometimes there is a loop
+  during the hypnopompic state (i.e. chewing food for about one or two
+  seconds for cycle) and the awakening is delayed. It is necessary to
+  do other experiments before to publish some tricks..."
+
+- [9 Settembre 2019](https://github.com/titola/neuropa/commit/be3c115503c816cf890aa4ab520991c80e35d29f):
+  "I'm interested in the technique to induce hypnopompic hallucinations."
+
 ## Registrazioni audio
 
 ### Oscillazione di 5400 Hz dopo una convulsione indotta
