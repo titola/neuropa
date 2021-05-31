@@ -1589,6 +1589,8 @@ riflettente (DVD e fogli di alluminio) tra la finestra e la tenda.
 
 8 Settembre 2019 ore 4:00: un altro bagliore istantaneo.
 
+3 esplosioni il 31 Maggio 2021 ore 3:15.
+
 Non prendo medicine o droghe e fortunatamente il mio cervello è ancora
 efficiente. Scoprirò chi sono questi ridicoli imbecilli militarizzati
 ed umilierò chi li sta proteggendo.

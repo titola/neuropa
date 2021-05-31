@@ -1566,6 +1566,8 @@ aluminium) between the window and the curtain.
 
 On September 8 2019 at 4:00 a.m., another instantaneous flash.
 
+Three explosions on May 31 2021 at 3:15 a.m.
+
 I don't take medicines or drugs and fortunately my brain is still
 efficient. I will discover who are these ridiculous militarized
 stupids and I will humiliate who protect them.
