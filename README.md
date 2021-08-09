@@ -1035,9 +1035,6 @@ receives a particular amount of current. The tinnitus reappears after
 a few seconds, therefore I have to spin the knob if I want to continue
 the listening of "radio silence".
 
-In the future, I could build a dynamic filter to automatically remove
-the intentional electromagnetic interferences and record the variations.
-
 On June 26 2019, 8:00 a.m.: I have to rotate the knob of about 45 degrees
 to switch on the bulb. The light is unstable and I perceive an intense
 tinnitus mixed with the usual very low voices. The knob position that

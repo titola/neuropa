@@ -1052,10 +1052,6 @@ corrente. Dopo alcuni secondi il tinnitus ricompare, quindi devo
 girare nuovamente il potenziometro se voglio continuare l'ascolto
 di "radio silenzio".
 
-In futuro potrei costruire un filtro dinamico per rimuovere
-automaticamente le interferenze elettromagnetiche intenzionali e
-registrare le variazioni.
-
 26 Giugno 2019, 8 di mattina: devo rotare il potenziometro di circa
 45 gradi per accendere la lampadina. La luce non è stabile e
 percepisco un forte tinnitus oltre alle solite voci notevolmente
