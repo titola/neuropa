@@ -52,7 +52,8 @@ della nostra costituzione.
     - [Misteriosa luce nel buio](#misteriosa-luce-nel-buio)
     - [Ipnosi](#ipnosi)
 - [Registrazioni audio](#registrazioni-audio)
-    - [Oscillazione di 5400 Hz dopo una convulsione indotta](#oscillazione-di-5400-hz-dopo-una-convulsione-indotta)
+    - [Oscillazione di 5333 Hz dopo una convulsione indotta](#oscillazione-di-5333-hz-dopo-una-convulsione-indotta)
+    - [Altre oscillazioni ottenute quando i vermi militari puntano la mia bocca](#altre-oscillazioni-ottenute-quando-i-vermi-militari-puntano-la-mia-bocca)
     - [Intervallo di sesta minore con il tinnitus](#intervallo-di-sesta-minore-con-il-tinnitus)
     - [Oscillazione di 100 Hz modulata in ampiezza](#oscillazione-di-100-hz-modulata-in-ampiezza)
     - [Infrasuoni](#infrasuoni)
@@ -406,11 +407,12 @@ sin(2*pi*700024400*t + 7/8 pi)
 ```
 
 Nella sezione "Registrazioni audio" c'è un collegamento ad un file
-audio contenente un oscillazione di 5400 Hz registrata il 20 Agosto 2018.
-Ho notato che questa frequenza può essere ottenuta tramite aliasing
-degli impulsi "pulses A" quando la frequenza di campionamento è 31.3 kHz.
-La tabella seguente elenca le frequenze ottenibili tramite aliasing degli
-impulsi "pulses A" con frequenze di campionamento 31300 Hz e 78250 Hz:
+audio contenente un oscillazione di 5333.333 Hz (=32000/6) registrata
+il 20 Agosto 2018.
+
+La tabella seguente elenca le frequenze ottenibili tramite aliasing
+degli impulsi "pulses A" con frequenze di campionamento 31300 Hz e
+78250 Hz:
 
 ```
 31300 = 313 * 100
@@ -1545,6 +1547,22 @@ collaterali di un particolare laser o altri impulsi di radiazione
 spinti nel naso o nella bocca? Potrebbero attraversare l'apparato
 digerente o quello respiratorio? Potrebbero alterare l'olfatto?
 
+Io credo che la polmonite sia stata provocata da questo sistema.
+Ho descritto la vibrazione dei denti e le oscillazioni anomale
+prodotte quando soffio nell'aria. C'è una registrazione audio nella
+sezione "Altre oscillazioni ottenute quando i vermi militari puntano
+la mia bocca". Le risonanze fondamentali sono una frazione del numero
+32000:
+
+```
+# 27 Agosto 2021
+2909.090909090909 Hz =     32000 / 11
+3469.879518072289 Hz = 9 * 32000 / 83 = 288000/83
+
+# Oscillazione prodotta dopo una convulsione il 20 Agosto 2018.
+5333.333333333333 Hz =     32000 / 6
+```
+
 Perché il cerume è blu se tappo un orecchio con una moneta durante
 la notte? C'è evidentemente una sostanza che riflette luce blu.
 E' normale? Vidi un fascio di luce blu un paio di volte tra il 2018
@@ -1693,16 +1711,45 @@ sono "pre" Covid-19 (verifica la data):
 
 ## Registrazioni audio
 
-### Oscillazione di 5400 Hz dopo una convulsione indotta
+### Oscillazione di 5333 Hz dopo una convulsione indotta
 
-Ho ascoltato un'oscillazione di 5400 Hz soltanto una volta, la notte
-del 20 Agosto 2018. Respiro profondamente dopo una delle tante
-convulsioni notturne indotte. L'oscillazione inizia insieme al picco
-dell'infrasuono.
+Ho ascoltato un'oscillazione di 5333.333 Hz (32000/6) soltanto una
+volta, la notte del 20 Agosto 2018. Respiro profondamente dopo una
+delle tante convulsioni notturne indotte. L'oscillazione inizia
+insieme al picco dell'infrasuono.
 
-[5400hz_20180820_night.wav (View Raw)](https://raw.githubusercontent.com/titola/neuropa/master/media/5400hz_20180820_night.wav)
+[5333hz_20180820_night.wav (View Raw)](https://raw.githubusercontent.com/titola/neuropa/master/media/5333hz_20180820_night.wav)
 
-[5400hz_20180820_night.wav](https://github.com/titola/neuropa/blob/master/media/5400hz_20180820_night.wav)
+[5333hz_20180820_night.wav](https://github.com/titola/neuropa/blob/master/media/5333hz_20180820_night.wav)
+
+### Altre oscillazioni ottenute quando i vermi militari puntano la mia bocca
+
+Registrato il 27 Agosto 2021.
+
+Lo "strumento invisibile", suonato soffiando nell'aria, ricorda
+fisicamente una specie di foglio vibrante o un risonatore di
+Helmholtz.
+
+Il suono è stato prodotto senza l'aiuto della lingua.
+
+Ovviamente è possibile generare queste oscillazioni anche tramite
+altri dispositivi.
+
+[blowing-across-invisible-resonator-1.wav (View Raw)](https://raw.githubusercontent.com/titola/neuropa/master/media/blowing-across-invisible-resonator-1.wav)
+
+[blowing-across-invisible-resonator-1.wav](https://github.com/titola/neuropa/blob/master/media/blowing-across-invisible-resonator-1.wav)
+
+Le frequenze rilevanti sono:
+
+```
+2909.090909090909 Hz =     32000 / 11
+3469.879518072289 Hz = 9 * 32000 / 83 = 288000/83
+
+# Oscillazione prodotta dopo una convulsione il 20 Agosto 2018.
+5333.333333333333 Hz =     32000 / 6
+```
+
+E' chiaro che il numero 32000 è importante.
 
 ### Intervallo di sesta minore con il tinnitus
 

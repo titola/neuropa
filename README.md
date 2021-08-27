@@ -54,7 +54,8 @@ of the Costituzione della Repubblica Italiana.
     - [Mysterious light in the dark](#mysterious-light-in-the-dark)
     - [Hypnosis](#hypnosis)
 - [Audio recordings](#audio-recordings)
-    - [Oscillation of 5400 Hz after an induced convulsion](#oscillation-of-5400-hz-after-an-induced-convulsion)
+    - [Oscillation of 5333 Hz after an induced convulsion](#oscillation-of-5333-hz-after-an-induced-convulsion)
+    - [Other oscillations obtained when the military worms point my mouth](#other-oscillations-obtained-when-the-military-worms-point-my-mouth)
     - [Interval of minor sixth with the tinnitus](#interval-of-minor-sixth-with-the-tinnitus)
     - [Amplitude modulated oscillation of 100 Hz](#amplitude-modulated-oscillation-of-100-hz)
     - [Infrasounds](#infrasounds)
@@ -397,11 +398,12 @@ sin(2*pi*700024400*t + 7/8 pi)
 ```
 
 In the section "Audio recordings", there is a link to a sound file
-that contains an oscillation of 5400 Hz recorded on August 20, 2018.
-I have noticed that 5400 Hz can be obtained through the aliasing of
-the "pulses A" if the sampling rate is 31.3 kHz. The following table
-lists the frequencies obtainable through the aliasing of the
-"pulses A" with sampling frequencies 31300 Hz and 78250 Hz:
+that contains an oscillation of 5333.333 Hz (=32000/6) recorded on
+August 20, 2018.
+
+The following table lists the frequencies obtainable through the
+aliasing of the "pulses A" with sampling frequencies 31300 Hz and
+78250 Hz:
 
 ```
 31300 = 313 * 100
@@ -1524,6 +1526,21 @@ particular laser or other pulsed radiation pushed in the nose or in
 the mouth? Could they cross the digestive or respiratory apparatus?
 Could they alter the sense of smell?
 
+I think pneumonia was caused by that system. I described the teeth
+vibration and the anomalous oscillations produced when I blow in the
+air. There is an audio recording in the section "Other oscillations
+obtained when the military worms point my mouth". The main resonances
+are a fraction of the number 32000:
+
+```
+# August 27, 2021.
+2909.090909090909 Hz =     32000 / 11
+3469.879518072289 Hz = 9 * 32000 / 83 = 288000/83
+
+# Oscillation produced after a convulsion on August 20, 2018.
+5333.333333333333 Hz =     32000 / 6
+```
+
 Why is the earwax blue if I plug an ear with a coin during the night?
 There is evidently a substance that reflects blue light. Is it normal?
 I saw a blue light beam a couple of times between 2018 and 2019, with
@@ -1533,6 +1550,8 @@ diameter of about two or three centimeters. The titanium-sapphire laser
 - Ti:sapphire (tripled) 235-330 nm (ultraviolet)
 - Ti:sapphire (doubled) 360-460 nm (blue light)
 - Ti:sapphire 670-1130 nm (NIR). For example, H2O-lidar at 935 and 942 nm.
+
+
 
 ### Body vibration stopped after some nightly explosions
 
@@ -1668,16 +1687,45 @@ ignore the culture aobout pulsed radiation. The following comments are
 
 ## Audio recordings
 
-### Oscillation of 5400 Hz after an induced convulsion
+### Oscillation of 5333 Hz after an induced convulsion
 
-I have heard an oscillation of 5400 Hz only one time, the night on
-August 20, 2018. I profoundly breathe after one of the many nightly
-induced convulsions. The oscillation starts with the peak of the
-infrasound.
+I have heard an oscillation of 5333.333 Hz (32000/6) only one time,
+the night on August 20, 2018. I profoundly breathe after one of the
+many nightly induced convulsions. The oscillation starts with the peak
+of the infrasound.
 
-[5400hz_20180820_night.wav (View Raw)](https://raw.githubusercontent.com/titola/neuropa/master/media/5400hz_20180820_night.wav)
+[5333hz_20180820_night.wav (View Raw)](https://raw.githubusercontent.com/titola/neuropa/master/media/5333hz_20180820_night.wav)
 
-[5400hz_20180820_night.wav](https://github.com/titola/neuropa/blob/master/media/5400hz_20180820_night.wav)
+[5333hz_20180820_night.wav](https://github.com/titola/neuropa/blob/master/media/5333hz_20180820_night.wav)
+
+### Other oscillations obtained when the military worms point my mouth
+
+Recorded on August 27, 2021.
+
+The "invisible instrument", played with blowing fluctuations,
+physically remembers a kind of vibrant sheet or a Helmholtz
+resonator.
+
+The sound is produced without the help of the tongue.
+
+Obviously it is possible to get these oscillations also through
+other devices.
+
+[blowing-across-invisible-resonator-1.wav (View Raw)](https://raw.githubusercontent.com/titola/neuropa/master/media/blowing-across-invisible-resonator-1.wav)
+
+[blowing-across-invisible-resonator-1.wav](https://github.com/titola/neuropa/blob/master/media/blowing-across-invisible-resonator-1.wav)
+
+The remarkable frequencies are:
+
+```
+2909.090909090909 Hz =     32000 / 11
+3469.879518072289 Hz = 9 * 32000 / 83 = 288000/83
+
+# Oscillation produced after a convulsion on August 20, 2018.
+5333.333333333333 Hz =     32000 / 6
+```
+
+It is clear that the number 32000 is important.
 
 ### Interval of minor sixth with the tinnitus
 
