@@ -1535,7 +1535,7 @@ are a fraction of the number 32000:
 ```
 # August 27, 2021.
 2909.090909090909 Hz =     32000 / 11
-3469.879518072289 Hz = 9 * 32000 / 83 = 288000/83
+3469.879518072289 Hz = 9 * 32000 / 83 = 288000/83 = 1734.939759 * 2
 
 # Oscillation produced after a convulsion on August 20, 2018.
 5333.333333333333 Hz =     32000 / 6
@@ -1719,7 +1719,7 @@ The remarkable frequencies are:
 
 ```
 2909.090909090909 Hz =     32000 / 11
-3469.879518072289 Hz = 9 * 32000 / 83 = 288000/83
+3469.879518072289 Hz = 9 * 32000 / 83 = 288000/83 = 1734.939759 * 2
 
 # Oscillation produced after a convulsion on August 20, 2018.
 5333.333333333333 Hz =     32000 / 6

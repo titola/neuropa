@@ -1557,7 +1557,7 @@ la mia bocca". Le risonanze fondamentali sono una frazione del numero
 ```
 # 27 Agosto 2021
 2909.090909090909 Hz =     32000 / 11
-3469.879518072289 Hz = 9 * 32000 / 83 = 288000/83
+3469.879518072289 Hz = 9 * 32000 / 83 = 288000/83 = 1734.939759 * 2
 
 # Oscillazione prodotta dopo una convulsione il 20 Agosto 2018.
 5333.333333333333 Hz =     32000 / 6
@@ -1743,7 +1743,7 @@ Le frequenze rilevanti sono:
 
 ```
 2909.090909090909 Hz =     32000 / 11
-3469.879518072289 Hz = 9 * 32000 / 83 = 288000/83
+3469.879518072289 Hz = 9 * 32000 / 83 = 288000/83 = 1734.939759 * 2
 
 # Oscillazione prodotta dopo una convulsione il 20 Agosto 2018.
 5333.333333333333 Hz =     32000 / 6
