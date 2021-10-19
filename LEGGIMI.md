@@ -61,6 +61,7 @@ della nostra costituzione.
     - [Distorsione della corrente elettrica modulata in ampiezza](#distorsione-della-corrente-elettrica-modulata-in-ampiezza)
 - [Registrazioni video](#registrazioni-video)
     - [Interferenze radio](#interferenze-radio)
+    - [Il Fuggitivo](#il-fuggitivo)
 - [Smart links](#smart-links)
 - [Riferimenti](#riferimenti)
 
@@ -1874,6 +1875,16 @@ richiede almeno un ripetitore controllato. Il risultato è smart: una
 stazione radio "in qualche angolo della tua casa".
 
 Questo servizio segreto non è al momento disponibile (2019).
+
+### Il Fuggitivo
+
+Registrazione del 5 Giugno 2018, 08:48.
+
+No comment.
+
+[fugitive.mp4 (View Raw)](https://raw.githubusercontent.com/titola/neuropa/master/media/fugitive.mp4)
+
+[fugitive.mp4](https://github.com/titola/neuropa/blob/master/media/fugitive.mp4)
 
 ## Smart links
 

@@ -63,6 +63,7 @@ of the Costituzione della Repubblica Italiana.
     - [Amplitude modulated distortion of electric current](#amplitude-modulated-distortion-of-electric-current)
 - [Video recordings](#video-recordings)
     - [Radio interferences](#radio-interferences)
+    - [The Fugitive](#the-fugitive)
 - [Smart links](#smart-links)
 - [References](#references)
 
@@ -1851,6 +1852,16 @@ displacement requires at least one controlled repeater. The result
 is smart: a radio station "in some angle of your home".
 
 This secret service is not currently available (2019).
+
+### The Fugitive
+
+Recorded on June 5 2018, 08:48.
+
+No comment.
+
+[fugitive.mp4 (View Raw)](https://raw.githubusercontent.com/titola/neuropa/master/media/fugitive.mp4)
+
+[fugitive.mp4](https://github.com/titola/neuropa/blob/master/media/fugitive.mp4)
 
 ## Smart links
 
