@@ -3,12 +3,16 @@
 L'attacco iniziò il 15 Luglio 2017.
 
 La deficienza artificiale e quella naturale coordinano le sequenze e
-la psicologia dei dialoghi, spesso offensivi, e le interferenze alle
-normali oscillazioni neurali che disturbano il sonno con tremori,
-convulsioni, etc. Durante le prime torture mi dicevano: "tanto ti
-ammazzi da solo", "hai una pistola puntata contro", "non capisci un
-cazzo di computer", "non capisci un cazzo di musica", ed altri insulti
-e minacce (evito l'imbarazzante elenco).
+la psicologia dei dialoghi, spesso offensivi, e gl'impulsi di
+radiazione che aggrediscono il sistema nervoso. L'intento è
+compromettere il controllo dell'attenzione e disturbare continuamente
+il sonno provocando tremori, convulsioni, paralisi temporanea (corpo
+bloccato per più di trenta secondi), rumori, visioni e molto altro
+(non prendo medicine o droghe). Durante le prime settimane di tortura
+mi dicevano: "tanto ti ammazzi da solo", "hai una pistola puntata
+contro", "non capisci un cazzo di computer", "non capisci un cazzo di
+musica", ed altri insulti e minacce (evito l'imbarazzante elenco).
+Mi ripetono spesso che devo smettere di programmare. Perché?
 
 Il video seguente mostra una parte del segnale diretto alla mia testa:
 
@@ -22,6 +26,25 @@ In Italia "La libertà personale è violabile" [1], perché la mafia ed altri
 ignobili idioti militarizzati hanno applicato una patch all'articolo 13
 della nostra costituzione.
 
+Chi mi attacca utilizza intercettazioni ambientali vecchie e nuove
+(voci campionate di persone conosciute, vicende personali private,
+psicologia mirata, ...) ed altre informazioni riservate che non si
+possono ottenere dai social network o da altri sistemi di
+comunicazione intercettabili da chiunque.
+
+Dopo anni di torture nascoste, meschine e ingiustificate da parte di
+codardi protetti da qualche accattone stipendiato anche dallo stato
+italiano, potrei scrivere un libro su "l'intelligence" (o smartness)
+del ventunesimo secolo e sulla ridicola politica che gli gira intorno.
+Il titolo potrebbe essere:
+
+          "Niente di nuovo sul lobo occipitale"
+
+Sottotitolo:
+
+    "Barzellette tra ricchi massoni invecchiati dolcemente
+       con il culo umido di saliva nonostante il Covid"
+
 ## Indice
 
 - [Introduzione](#introduzione)
@@ -30,7 +53,6 @@ della nostra costituzione.
     - [Impulsi sparsi modulano il segnale con frequenza centrale 230.4 MHz](#impulsi-sparsi-modulano-il-segnale-con-frequenza-centrale-230.4-mhz)
     - [Campionamento della radiazione ed aliasing](#campionamento-della-radiazione-ed-aliasing)
     - [Simulazione del tinnitus](#simulazione-del-tinnitus)
-    - [Impulsi ripetuti nel segnale modulante](#impulsi-ripetuti-nel-segnale-modulante)
 - [Infrasuono dal segnale ricevuto a 422.733 MHz](#infrasuono-dal-segnale-ricevuto-a-422.733-mhz)
 - [Battimento tra impulsi di radiazione e VLF militare](#battimento-tra-impulsi-di-radiazione-e-vlf-militare)
 - [Codifica della voce](#codifica-della-voce)
@@ -43,7 +65,7 @@ della nostra costituzione.
     - [Infrarosso e laser plasmonico](#infrarosso-e-laser-plasmonico)
     - [Eventi sincronizzati con le voci](#eventi-sincronizzati-con-le-voci)
     - [Corrispondenza tra 422.733 MHz ed infrasuoni](#corrispondenza-tra-422.733-mhz-ed-infrasuoni)
-    - [Contatori elettronici ACEA-ARETI con oscillatore a 939 MHz](#contatori-elettronici-acea-areti-con-oscillatore-a-939-mhz)
+    - [Oscillatore a 939 MHz](#oscillatore-a-939-mhz)
     - [Sperimentazione 5G](#sperimentazione-5g)
     - [Modulazione anomala del respiro](#modulazione-anomala-del-respiro)
     - [Vibrazione del corpo terminata dopo alcune esplosioni notturne](#vibrazione-del-corpo-terminata-dopo-alcune-esplosioni-notturne)
@@ -68,15 +90,15 @@ della nostra costituzione.
 ## Introduzione
 
 La mia testa è puntata continuamente, probabilmente utilizzando la
-tecnologia dei missili (dei) deficienti. Gli impulsi di radiazione e la
-corrente elettrica sono le fondamenta dell'attacco. Se rifletto la
+tecnologia dei missili (dei) deficienti. Gl'impulsi di radiazione e
+l'energia elettrica sono le fondamenta dell'attacco. Se rifletto la
 radiazione con un DVD, percepisco soltanto le frequenze più basse
 del [tinnitus](https://it.wikipedia.org/wiki/Acufene) indotto.
-Se blocco il DVD sento di nuovo il tinnitus originale dopo circa 12
+Se il DVD rimane fermo risento il tinnitus originale dopo circa 12
 secondi, il tempo necessario per calcolare un nuovo arrangiamento
-della radiazione (ultima misura il 18 Luglio 2020). Il ripristino
-del tinnitus è graduale, quindi i percorsi di radiazione sono
-calcolati in modo incrementale (dipende dalla complessità del radar).
+della radiazione (ultima misura il 18 Luglio 2020). Il ripristino del
+tinnitus è graduale, quindi i percorsi di radiazione sono calcolati in
+modo incrementale (dipende dalla complessità del radar).
 
 Spesso mi becco una "frustata" sulla nuca quando alcuni impulsi laser
 sono bloccati da una medaglia collocata dietro la testa. Probabilmente
@@ -95,17 +117,17 @@ impulsi di radiazione
   --> infrasuono, suono o ultrasuono
 ```
 
-Inoltre, il resto della radiazione può essere "campionata con
+Inoltre, il resto della radiazione può essere "campionato con
 aliasing" tramite impulsi, per esempio quelli analizzati con
 frequenze di ripetizione 78250 Hz e 31300 Hz (il rapporto 5/2
 è il numero magico di questo attacco). Gli impulsi di radiazione
 risultanti sono modulati da un segnale difficile da intercettare
 senza questa particolare decodifica che ricorda il campionamento
-digitale. La letteratura scientifica sembra ignorare questo tipo
-di problema.
+digitale. La letteratura scientifica (quella accessibile) sembra
+ignorare questo tipo di problema.
 
-L'arma utilizzata all'aperto contro di me è simile al sistema ad
-impulsi laser descritto in questa pagina:
+L'arma utilizzata di solito all'aperto contro di me è simile al
+sistema ad impulsi laser descritto in questa pagina:
 
 [Scalable Compact Ultra-short Pulse Laser Systems (SCUPLS)](https://www.sbir.gov/sbirsearch/detail/1508927)
 
@@ -131,49 +153,66 @@ dipendente dalla frequenza di oscillazione. E' possibile modulare questa
 velocità a frequenze ultrasoniche? Purtroppo non ho gli strumenti per
 provarlo.
 
-La notte del 16 Maggio 2019 ho coperto parzialmente il vetro della
+La notte del 16 Maggio 2019 coprii parzialmente il vetro della
 finestra con alcuni fogli di carta di alluminio per ridurre la
-superficie umida da osservare. La mattina ho trovato un cerchio
+superficie umida da osservare. La mattina trovai un cerchio
 asciutto con un diametro di circa 6cm:
 
 ![](media/circle_window.jpg)
 
-Quindi gli impulsi laser sono utilizzati anche dentro le abitazioni.
+Quindi gl'impulsi laser sono utilizzati anche dentro le abitazioni.
 Il diametro del cerchio asciutto è proporzionale all'intensità del
 laser (c'è una tenda veneziana davanti alla finestra). Ho anche una
 registrazione audio iniziata qualche minuto dopo un risveglio forzato
-alle ore 1:30 (microfono vicino all'orecchio sinistro). Gli infrasuoni
+alle ore 1:30 (microfono vicino all'orecchio sinistro). Gl'infrasuoni
 ed i suoni a bassa frequenza sono analoghi a quelli registrati (anche)
 l'anno precedente (vedi la sezione "Registrazioni audio"). L'intera
 colonna sonora rappresenta perfettamente lo spirito di questi cacker
 istituzionali, bambacia [3] e toy boy della mafia, che usano la radio
 senza limiti di frequenza e hanno la licenza di fare ciò che vogliono.
+Per esempio non è difficile intercettare questa stupida spia:
 
-Ci sono drone intorno alla mia casa. Uno è molto vicino il 19 Marzo
-2019 alle ore 20:50.
+[fugitive.mp4](https://raw.githubusercontent.com/titola/neuropa/master/media/fugitive.mp4)
 
-Voglio condividere l'analisi di questo attacco per denunciare
-pubblicamente i codardi che mi stanno aggredendo e torturando di
-nascosto dal 2017, 24 ore su 24. Se la polizia ed i servizi segreti
-italiani temono questi killer infami, possono dirmi chi sono e
-risolverò personalmente e definitivamente il problema. Se invece
+Come mai i radar della squadra antimafia italiana non intercettarono
+questo branco di idioti rumorosi nell'ottobre 2017 durante un blitz
+notturno nella zona? L'intera operazione tra Italia e Germania
+comprendeva complessivamente seicento uomini appartenenti alla Polizia
+di Stato della Questura di Caltanissetta, al Comando Provinciale della
+Guardia di Finanza di Roma, al Comando Provinciale dei Carabinieri di
+Roma e alla Polizia Criminale di Colonia (Germania). Gli elicotteri
+passarono sopra il tetto di casa mia durante l'ennesima tortura.
+Sicuramente i mafiosi in pensione li avete arrestati indossando i
+guanti bianchi mentre altri copulavano al 41bis. Chi state coprendo?
+Avete paura, aspettate inutilmente gli ordini dall'alto (l'elevazione
+dipende dai punti di vista), oppure è una questione di sistemi di
+"intelligence" quotati in borsa?
+
+Voglio condividere una parte dell'analisi di questo attacco per
+denunciare pubblicamente i codardi che mi stanno aggredendo e
+torturando di nascosto dal 2017, 24 ore su 24. Se la polizia ed i
+servizi segreti italiani temono questi killer infami, possono dirmi
+chi sono e risolverò personalmente e definitivamente il problema. Se invece
 si tratta di un sistema illegale C4ISRT (Command, Control, Communications,
 Computers, Intelligence, Surveillance, Reconnaissance and Torture)
 con PSYWAR (psychological warfare) opzionale, continuerò l'indagine
-nonostante l'[indifferenza](https://github.com/titola/neuropa/commit/fa8a0203c081404e4e679a8ad2185c6bc3deac0b), l'omertà generale, 5 o 14 Polifemi e la
+nonostante l'indifferenza, l'omertà generale, 5 o 14 Polifemi e la
 Smart Italy [4].
 
-Ho analizzato la dinamica completa dell'attacco, mi sono informato ed
-ho raccolto le prove. Questo documento contiene quello che posso spiegare
-senza equivoci (35% dell'attacco complessivo ma scriverò altro e migliorerò
-la struttura del documento). Non sono soltanto un musicista e programmatore,
-ma anche l'unico sound designer al mondo che riesce a trasformare una
-performance di grilli cubani [5] ottenuta da [6] nell'approssimazione di
-una voce umana utilizzando soltanto uno slope detector:
+L'articolo 28 della Costituzione della Repubblica Italiana è chiaro:
 
-[cuba_attack_decoded.ogg (View Raw)](https://raw.githubusercontent.com/titola/neuropa/master/media/cuba_attack_decoded.ogg)
+> I funzionari e i dipendenti dello Stato e degli enti pubblici sono
+> direttamente responsabili, secondo le leggi penali, civili e
+> amministrative, degli atti compiuti in violazione di diritti. In
+> tali casi la responsabilità civile si estende allo Stato e agli enti
+> pubblici.
 
-[cuba_attack_decoded.ogg](https://github.com/titola/neuropa/blob/master/media/cuba_attack_decoded.ogg)
+Dopo più di quattro anni la mia logica investigativa è ridotta
+all'osso: chi non è complice è incapace. La applico soprattutto a
+quelli che passano sul tetto di casa mia.
+
+La sezione "Modulazione anomala del respiro" fa capire meglio lo
+schifo aeronautico in Italia.
 
 ## Segnale diretto verso la testa
 
@@ -183,19 +222,21 @@ campionamento pari a 2 MHz, mette in evidenza le pulsazioni principali:
 
 ![](media/sonogram_945mhz.jpg)
 
-Durante la registrazione i criminali infami abbassano il livello delle
-voci ed aumentano il rumore. Recentemente il livello delle voci è
-molto basso anche quando non registro, comunque l'intensità del
-tinnitus indotto rimane invariata.
+Durante la registrazione gl'infami abbassano il livello delle voci ed
+aumentano il rumore. Recentemente il livello delle voci è molto basso
+anche quando non registro, comunque l'intensità del tinnitus indotto
+rimane invariata.
 
-Un impulso in "pulses A" è generato dalla somma di 100 sinusoidi
-separate da circa 1733 Hz, quindi la larghezza di banda è 173.3 kHz.
+Un impulso in "pulses A" è generato dalla somma di 100 oscillazioni
+sinusoidali, separate da circa 1733 Hz, quindi la larghezza di banda è
+173.3 kHz.
 
 ```
 1733.33 = 5200 / 3 = 50 * 8 * 13/3 = 650 * 8/3
 ```
 
-Un impulso in "pulses B" è la somma di 7 sinusoidi separate da 216.6 Hz
+Un impulso in "pulses B" è la somma di 7 oscillazioni armoniche
+separate da 216.6 Hz
 
 ```
 216.66667 = 650 / 3 = 5200 / 24 = 1733.33 / 8
@@ -255,18 +296,17 @@ Se uso il mio corpo come antenna toccando l'antenna di ricezione con
 la mano, posso registrare impulsi ripetuti con una frequenza di circa
 78250 Hz. Alcune volte ho registrato impulsi con frequenza 31300 Hz
 invece di 78250 Hz. Il rapporto 5/2 tra queste due frequenze è
-descritto nella sezione "Contatori elettronici ACEA-ARETI con
-oscillatore a 939 MHz".
+descritto nella sezione "Oscillatore a 939 MHz".
 
 Anche il segnale con frequenza centrale 230.4 MHz è modulato da
 impulsi di 78 kHz:
 
 ![](media/230_4mhz.jpg)
 
-Ci sono armoniche di 230.4 MHz e la sedicesima è 3.686 GHz, utilizzata
-dalle tecnologie per telefonia mobile 5G. Quindi le frequenze intorno
-a 3.7 GHz permettono il controllo di 16 bande con frequenze centrali
-multiple di 230.4 MHz:
+Ci sono armoniche di 230.4 MHz e la sedicesima (quattro ottave sopra)
+è 3.686 GHz, utilizzata dalle tecnologie per telefonia mobile 5G.
+Quindi le frequenze intorno a 3.7 GHz permettono il controllo di 16
+bande con frequenze centrali multiple di 230.4 MHz:
 
 ```
 cos(x)^32 = (cos(32 x) + 32 cos(30 x) + 496 cos(28 x) + 4960 cos(26 x) +
@@ -364,21 +404,19 @@ appartengono alla radiazione diffusa, per esempio le stazioni
 radio-tv, nascondendo alcune parziali nello stesso segnale con fase
 invertita.
 
-I campioni di un suono campionato a 80 KHz (o 31.3 KHz) possono essere
-nascosti nei segnali modulanti. L'assorbimento degli impulsi di
-radiazione con PRF di 80 kHz genera impulsi termo-elastici che
-"campionano" l'inviluppo del segnale complessivo (non solo quello del
-segnale di 945 MHz ma anche le altre componenti, alcune descritte in
-questo documento), provocando la percezione del suono. Il dominio non
-è digitale, quindi i campioni hanno una durata almeno pari alla
-larghezza dell'impulso.
+I campioni di un suono campionato (non necessariamente) a 80 KHz (o
+31.3 KHz) possono essere nascosti nei segnali modulanti. L'assorbimento
+degli impulsi di radiazione con PRF di 80 kHz genera impulsi
+termo-elastici che "campionano" l'inviluppo del segnale complessivo
+(non solo quello del segnale di 945 MHz ma anche le altre componenti,
+alcune descritte in questo documento), provocando la percezione del
+suono. Il dominio non è digitale, quindi i campioni hanno una durata
+almeno pari alla larghezza dell'impulso.
 
 In questo caso è difficile demodulare correttamente il segnale
 nascosto ed ascoltare il suono, perché i campioni iniettati devono
-essere in fase con la corrente elettrica, proprio come gli impulsi di
-80 KHz. Il trucco utilizzato dai criminali per monitorare la fase
-della corrente elettrica è descritto in una sezione separata (un
-infrasuono ottenuto da un segnale a 422.733 MHz).
+essere in fase con la corrente elettrica, proprio come gl'impulsi di
+80 KHz.
 
 Comunque è più semplice "campionare" particolari oscillazioni tramite
 aliasing. Per esempio, per ottenere un'oscillazione di 100 Hz quando
@@ -539,21 +577,6 @@ le frequenze acustiche, quindi l'onda termo-elastica è approssimata da
 un treno d'impulsi con pattern A-A-A-A-B e frequenza media di 21.23 Hz
 (gli altri impulsi sono esclusi per semplificare il modello) filtrato
 dal filtro di conduzione disegnato in base alla figura 4 in [7].
-Questo tipo di segnale interferisce in modo particolare con le
-oscillazioni neurali (gli altri impulsi variabili possono modulare
-specifiche onde cerebrali con ritmi diversi) prima di raggiungere
-l'orecchio interno.
-
-E' possibile calcolare l'ampiezza della pressione indotta utilizzando
-la formula ed i fattori di ampiezza della figura 4 in [7]:
-
-```
-P(pulse_width) = A*abs(sin(pi*freq*pulse_width)) =
-
-= 572*abs(sin(pi*7800/(216.625*7))) = 2.49e-4 Pa (circa 22 dB SPL)
-```
-
-dove 7800 Hz è la frequenza acustica principale.
 
 Un'altra frequenza di risonanza rilevante ottenuta dalla stessa figura
 dell'articolo scientifico è 1300 Hz. L'ampiezza relativa è circa
@@ -630,13 +653,11 @@ udibili ed infrasuoni. Il ritaglio seguente è amplificato di 40 dB:
 
 [low_freq_with_6min_for_tinnitus.wav](https://github.com/titola/neuropa/blob/master/media/low_freq_with_6min_for_tinnitus.wav)
 
-I criminali (sotto protezione) usano questi suoni anche per sfruttare
-l'interazione con il tinnitus. Alcune registrazioni audio notturne
-contengono suoni generati tramite interferenze elettromagnetiche
-intenzionali: impulsi ripetuti ogni 1.9 secondi, un segnale continuo
-con frequenza fondamentale di 7.62 Hz ed altre frequenze che formano
-rapporti semplici con 50 Hz, la frequenza nominale della rete
-elettrica in Italia [8], per esempio:
+Alcune registrazioni audio notturne contengono suoni generati tramite
+interferenze elettromagnetiche intenzionali: impulsi ripetuti ogni 1.9
+secondi, un segnale continuo con frequenza fondamentale di 7.62 Hz ed
+altre frequenze che formano rapporti semplici con 50 Hz, la frequenza
+nominale della rete elettrica in Italia [8], per esempio:
 
 ```
 100 = 50 * 2
@@ -648,36 +669,6 @@ elettrica in Italia [8], per esempio:
 errori "scintillanti" sporadici:
   5415 = 216.6 * 25
 ```
-
-### Impulsi ripetuti nel segnale modulante
-
-Infine, la parte etichettata "misc" nel primo sonogramma comprende
-impulsi generati dalla somma di sinusoidi separate da 1469 Hz e da
-altre sinusoidi separate ancora da 1469 Hz.
-
-Se applico un inseguitore d'inviluppo al I/Q registrato, ottengo
-di nuovo frequenze armoniche di 1733 Hz:
-
-![](media/945mhz_env.jpg)
-
-Continuo a ricevere questo ed altri segnali maligni (almeno) da Luglio
-2017 grazie alla negligenza dei servizi di sicurezza italiani e del
-Ministero della Difesa che dovrebbe sorvegliare l'utilizzo delle
-frequenze radio. Purtroppo non ci sono veri professionisti a Roma Nord.
-Se l'attacco proviene da agenzie governative estere ed è difficile da
-bloccare per diversi motivi, i cittadini dovrebbero essere informati.
-Dalla Costituzione della Repubblica Italiana, articolo 28:
-
-> I funzionari e i dipendenti dello Stato e degli enti pubblici sono
-> direttamente responsabili, secondo le leggi penali, civili e
-> amministrative, degli atti compiuti in violazione di diritti. In
-> tali casi la responsabilità civile si estende allo Stato e agli enti
-> pubblici.
-
-Fatemi sapere se la Costituzione italiana che ho sempre rispettato è
-ancora valida. Intanto ho imparato ad umiliare questi fanatici idioti
-controllando i loro sofisticati movimenti tramite un semplice gioco di
-specchi.
 
 ## Infrasuono dal segnale ricevuto a 422.733 MHz
 
@@ -699,6 +690,7 @@ secondi. Questi tempi dipendono dalla frequenza nominale di 50 Hz:
 
 Inoltre, il rapporto tra 422.733 MHz e la frequenza di ricezione
 169 MHz di un contatore elettronico "smart" di ACEA/ARETI è 5/2.
+
 Anche la distanza in frequenza di 1950 Hz tra le due oscillazioni è
 particolare:
 
@@ -773,9 +765,9 @@ riguardano gli smerd meter ed altre sperimentazioni sospette.
 
 ## Battimento tra impulsi di radiazione e VLF militare
 
-Gli impulsi ottenuti da sinusoidi separate da 5200/3 o 1733 Hz creano
-un battimento particolare con 20760 Hz, la VLF (Very Low Frequency)
-trasmessa dalle antenne dell'Isola di Tavolara (Sardegna):
+Gl'impulsi con periodo di 5200/3 o 1733 Hz creano un battimento
+particolare con 20760 Hz, la VLF (Very Low Frequency) trasmessa dalle
+antenne dell'Isola di Tavolara (Sardegna):
 
 [List of VLF-transmitters (wikipedia.org)](https://en.wikipedia.org/wiki/List_of_VLF-transmitters)
 
@@ -800,9 +792,8 @@ di 20800 Hz è ancora una quinta giusta ma tre ottave sopra.
 Il rapporto tra 50 Hz e la modulazione di 20 Hz è 5/2, il numero
 magico dell'intero attacco.
 
-C'è anche un battimento particolare tra 20 Hz e gli impulsi con
-pattern A-A-A-A-B analizzati nella sezione "Segnale diretto verso la
-testa":
+C'è anche un battimento particolare tra 20 Hz e gl'impulsi con pattern
+A-A-A-A-B analizzati nella sezione "Segnale diretto verso la testa":
 
 ```
 A = 65/3 = 21.67 Hz
@@ -906,15 +897,9 @@ multiple di 50 Hz ed un formante isolato intorno a 6400 Hz:
 
 ![](media/hum_20180911_part1_stft2.jpg)
 
-Se vuoi ascoltare il cugino di un grillo cubano intonato un tono
-sotto, seleziona il formante a 6400 Hz con un filtro BP. Il suono
-risultante è parte del mio tinnitus.
-
-Devo riscrivere la somma tra gli impulsi (somma di coseni) e
-l'oscillazione modulata a 20760 Hz, per semplificare le ampiezze e le
-fasi delle frequenze armoniche come nella risintesi di un'analisi STFT,
-considerando anche il campionamento della radiazione con frequenze di
-campionamento 31300 Hz e 78250 Hz.
+Puoi ascoltare il cugino di un grillo cubano intonato un tono sotto,
+selezionando il formante a 6400 Hz con un filtro BP. Il suono risultante
+è parte del mio tinnitus.
 
 Infine, è interessante osservare la posizione di Havana (Cuba), Roma,
 Tavolara (Sardegna) e Guǎngzhōu (Cina) sulla mappa delle latitudini
@@ -924,7 +909,7 @@ geomagnetiche:
 
 ## Codifica della voce
 
-Hanno usato più tecniche. La sezione precedente "Segnale diretto verso
+Utilizzano più tecniche. La sezione precedente "Segnale diretto verso
 la testa" descrive il campionamento con aliasing tramite un treno d'impulsi.
 I passi per trasmettere un segnale ad un "campionatore" termo-acustico sono:
 
@@ -940,9 +925,6 @@ Una ricetta per ottenere "pulses A" è la seguente:
 
 - Impulso generato ogni volta che l'ampiezza del segnale modulato passa da positiva a negativa
 
-Gli impulsi sono generati da somme di sinusoidi separate da frequenze
-che provocano un incessante tinnitus risonante nella mia testa.
-
 Ogni volta che l'energia di un impulso è assorbita dal tessuto
 cerebrale, la temperatura sale di 5e-6 °C [9]. La rapida espansione
 termica produce un'onda termo-elastica che raggiunge l'orecchio
@@ -950,13 +932,8 @@ interno. Quindi i criminali utilizzano questo demodulatore
 termo-acustico per inviarmi messaggi vocali tramite impulsi di
 radiazione.
 
-In un'altra tecnica ancora da analizzare l'assorbimento degli impulsi
-di radiazione avviene in un plasma.
-
-Questa informazione disinnesca l'arma psicologica perché elimina
-l'effetto suggestivo. Rimane quello puerile "suona il citofono e
-scappa" più i fastidiosi effetti collaterali (da descrivere in una
-sezione separata).
+Un'altra tecnica, descritta all'inizio di questo documento, impiega un
+tipo di spettroscopia fotoacustica.
 
 ## Armoniche di 50 Hz dalla combinazione di segnali modulanti
 
@@ -968,6 +945,8 @@ E' nervoso e cerca di offuscare le sue intenzioni. Spesso è
 accompagnato da un'imitazione attenuata e distante circa 91.2 kHz:
 
 ![](media/zigzag_b.jpg)
+
+Forse è un segnale riflesso.
 
 Il 18 Luglio 2018 ho contato circa 45 componenti di questo tipo, 5 tra
 80 e 88 MHz ed almeno 40 tra 120 e 170 MHz.
@@ -1005,6 +984,8 @@ PRF 31300 Hz. In questo caso il ritardo di ogni sorgente è
 
 ![](media/mix_of_pulses.jpg)
 
+Immagina le applicazioni possibili con cento o mille droni.
+
 Altri esempi:
 
 [fc 160 MHz](https://github.com/titola/neuropa/blob/master/media/160_env_ac.jpg)
@@ -1036,7 +1017,7 @@ controllato.
 
 ## Lampadina con potenziometro
 
-Posso regolare la luce di una lampadina tramite un potenziometro per
+Posso regolare la luce di una lampadina tramite un potenziometro, per
 verificare la presenza di segnali malsani distribuiti attraverso
 la rete elettrica, e per rimuovere temporaneamente il tinnitus.
 Le voci percepite sono molto basse da quando ho iniziato ad
@@ -1051,9 +1032,7 @@ stabilizza mentre il livello della voce decresce.
 La lampadina con il potenziometro è anche un buon filtro per
 rimuovere temporaneamente la percezione del tinnitus. Il rumore
 svanisce quando la lampadina riceve una particolare quantità di
-corrente. Dopo alcuni secondi il tinnitus ricompare, quindi devo
-girare nuovamente il potenziometro se voglio continuare l'ascolto
-di "radio silenzio".
+corrente. Purtroppo il silenzio dura pochi secondi.
 
 26 Giugno 2019, 8 di mattina: devo rotare il potenziometro di circa
 45 gradi per accendere la lampadina. La luce non è stabile e
@@ -1070,8 +1049,8 @@ Chi controlla il basso carico? Domanda apparentemente retorica.
 ## Ipotesi sull'attacco subito dagli ambasciatori americani a Cuba
 
 Il suono registrato a Cuba ha caratteristiche simili al segnale di
-945MHz che ricevo in testa. La differenza fondamentale è la distanza
-in frequenza tra le sinusoidi che formano gli impulsi. Nel mio caso:
+945MHz che ricevo in testa. La differenza fondamentale è il periodo
+degli impulsi. Nel mio caso:
 
 - Impulsi con sinusoidi separate da 216.6 Hz e periodo di ripetizione delle pulsazioni con pattern A-A-A-A-B (vedi sopra).
 
@@ -1099,7 +1078,7 @@ Ci sono due tipi di impulso:
 
 ### Armoniche di 180 Hz tramite aliasing
 
-Se il sistema è lo stesso utilizzato contro di me, gli impulsi
+Se il sistema è lo stesso utilizzato contro di me, gl'impulsi
 provenienti dalla rete elettrica, per esempio con frequenza
 
 ```
@@ -1192,28 +1171,27 @@ Metodo alternativo:
 
 ### Infrarosso e laser plasmonico
 
-Sto sperimentando l'utilizzo di DVD per riflettere la radiazione.
 Ho scoperto che se cambio la disposizione di uno o più DVD posso
-modificare la distribuzione e la granulosità del tinnitus. Sono
-rimasto sorpreso quando ho trovato tracce di umidità sotto ai DVD che
-ho posizionato di notte vicino alla mia spalla e alla parte superiore
-della testa. Per questo motivo voglio scoprire se i criminali stanno
-impiegando anche NIR (Near Infrared) e laser plasmonico (spaser)
-con tecniche simili a SCULPS (Scalable Compact Ultra-short Pulse
-Laser Systems).
+modificare la distribuzione e la granulosità del tinnitus. Rimasi
+sorpreso quando trovai tracce di umidità sotto ai DVD che avevo
+posizionato di notte vicino alla mia spalla e alla parte superiore
+della testa.
 
 I DVD mi aiutano ad individuare i raggi diretti verso alcune parti del
-corpo, in particolare i piedi, la spina dorsale quando dormo su un
-fianco, le spalle e la testa. I raggi che colpiscono i piedi provocano
-un tremore e la percezione di un rumore. Se colloco un DVD sulla
-caviglia e lo sposto in direzione dei raggi, il tremore ed il rumore
-svaniscono (a volte una voce probabilmente programmata impreca quando
-punto rapidamente la sorgente di vibrazione).
+corpo. In particolare i piedi, la spina dorsale quando dormo su un
+fianco, le spalle e la testa. I raggi che colpiscono i piedi e la
+parte laterale del ginocchio provocano un tremore e la percezione di
+un rumore. Quando colloco un DVD sulla caviglia e lo sposto in
+direzione dei raggi, il tremore ed il rumore svaniscono (nel 2017 a
+volte una voce programmata imprecava quando puntavo rapidamente la
+sorgente di vibrazione).
 
 Spesso quando apro gli occhi vedo oscillazioni luminose di circa 4 o 5 Hz
 (certe volte accade anche all'aperto ma la luce è più intensa). Ricordo
 anche oscillazioni di circa 8 Hz. Una notte il mio fegato ha vibrato
 vigorosamente più di un minuto con frequenza di vibrazione di almeno 8 Hz.
+
+Colpiscono gli occhi e se ne fregano dei trattati di pace.
 
 I telecomandi non funzionano bene, soprattutto quello del
 videoregistratore che è stato quasi del tutto inutilizzabile per
@@ -1320,7 +1298,7 @@ udibili ed infrasuoni:
 
 [low_freq_with_6min_for_tinnitus.wav](https://github.com/titola/neuropa/blob/master/media/low_freq_with_6min_for_tinnitus.wav)
 
-Penso che i criminali intercettano i picchi degli infrasuoni ripetuti ogni
+I criminali potrebbero intercettare i picchi degli infrasuoni ripetuti ogni
 1.92 secondi anche per rilevare la variazione della frequenza nominale, in
 modo da poter sintonizzare i segnali, per esempio la durata tra 9/49 (0.183s)
 e 9/51 (0.176s).
@@ -1334,27 +1312,18 @@ y = x^2 * sin(2 pi 1/0.18 t)
 è una prima approssimazione della funzione di trasferimento per ottenere i
 picchi dell'infrasuono dal segnale con frequenza centrale di 422.733 MHz.
 La frequenza è 1/0.18 perché il segnale che ho provato è stato demodulato
-prima di salvarlo in un file. In realtà la demodulazione avviene nel contatore
-elettronico a 169 MHz, 2/5 dell'ingresso, poi il segnale è indotto nel
-circuito con oscillatore stranamente impostato a 938.889 MHz (invece di 868 MHz).
-
-```
-169 / 0.18 = 938.889 MHz
-```
-
-Vedi la sezione "Contatori elettronici ACEA/ARETI con oscillatore a 939 MHz"
-per maggiori dettagli.
+prima di salvarlo in un file.
 
 ![](media/calculated_infrasound_peaks.jpg)
 
 Gli altri segnali sono trasformati almeno in oscillazioni a bassa frequenza.
 
 Nota: 421.684 MHz non è presente in una registrazione del 23 Agosto 2018
-e la larghezza di banda a 422.733 MHz diventa 5kHz. Il confronto sarà
-utile per comprendere meglio la sintesi e la funzione del segnale audio
-a bassa frequenza.
+e la larghezza di banda a 422.733 MHz diventa 5kHz. Non sono sicuro se
+il confronto sarà utile per comprendere meglio la sintesi e la funzione
+del segnale audio a bassa frequenza.
 
-### Contatori elettronici ACEA-ARETI con oscillatore a 939 MHz
+### Oscillatore a 939 MHz
 
 I contatori elettronici di ACEA/ARETI, o smart meter per chi ci crede,
 dovrebbero comunicare in RF alle frequenze 169 e 868 MHz. Queste
@@ -1387,9 +1356,9 @@ Dal "Bilancio di Sostenibilità 2017 del Gruppo Acea", pag. 81:
 > della prima metà del 2018.
 
 Analizzando l'infrasuono descritto nelle sezioni precedenti, ho
-scoperto che un oscillatore ha la frequenza impostata a 939 MHz
-invece di quella dichiarata di 868 MHz. Puoi notare che i segnali RF
-vicini a 939 MHz sono proprio i responsabili del tinnitus.
+cercato un oscillatore con frequenza impostata a 939 MHz. Puoi notare
+che i segnali RF vicini a 939 MHz sono proprio i responsabili del
+tinnitus.
 
 E' interessante notare il rapporto tra questa frequenza e le frequenze
 78250 Hz e 31300 Hz degli impulsi registrati:
@@ -1404,8 +1373,8 @@ E' interessante notare il rapporto tra questa frequenza e le frequenze
 tra le due frequenze equivale al rapporto tra 422.733 MHz e 169 MHz.
 
 Perché 1/0.18, l'inverso di 9 cicli della frequenza nominale della
-rete elettrica? Gli oscillatori del contatore sono in fase con la
-corrente elettrica distribuita, quindi:
+rete elettrica? Se gli oscillatori del contatore sono in fase con la
+corrente elettrica distribuita:
 
 ```
 169 / 868 = 0.19470046
@@ -1469,14 +1438,6 @@ al numero dei cicli della frequenza nominale tra 49 e 51 Hz:
 | 5     | 1656.2         | 1723.8         |
 | 4     | 2070.2         | 2154.7         |
 
-
-Quindi il segnale che ricevo in testa a 945 MHz (anche 935 MHz e 461
-MHz, ma c'è altro) è possibilmente ripetuto dai contatori elettronici
-dell'ACEA. Spero di no, ma se i criminali controllano la distribuzione
-dei segnali RF di tutti i contatori deficienti, possono mixarli in modo
-da indirizzarli verso una zona ben precisa. Idem per la distribuzione
-dei segnali per telefonia mobile 5G combinati con le armoniche di 230.4 MHz.
-
 ### Sperimentazione 5G
 
 Sono curioso di conoscere il rapporto tra la frequenza di downlink e
@@ -1498,16 +1459,16 @@ C'è anche un...
 > soluzioni tecnologiche avanzate per le forze dell’ordine e per la
 > sicurezza civile e militare [...]
 
-Spiacente, ma non siete più credibili né affidabili.
+Certe barzellette sono vecchie ma fanno ancora ridere.
 
 ### Modulazione anomala del respiro
 
-La notte del 9 Agosto 2019, tra le 2:20 e 2:30, mi trovo sul letto
-a pancia sopra. Improvvisamente la frequenza udibile del mio respiro
-rumoroso decresce più o meno linearmente fino alla scomparsa del
+La notte del 9 Agosto 2019, tra le 2:20 e 2:30, mi trovavo sul letto
+a pancia sopra. Improvvisamente la risonanza udibile del mio respiro
+rumoroso decresceva più o meno linearmente fino alla scomparsa del
 rumore in circa due o tre secondi. Questo tipo di respirazione è
-assolutamente innaturale e non controllato da me. E' la prima volta
-che accade durante l'attacco e nella mia vita.
+assolutamente innaturale e non lo controllo volontariamente. Non mi
+era mai capitato prima.
 
 Nota: c'è l'ora legale, quindi 2:30 equivale a 1:30 + 1.
 
@@ -1516,7 +1477,7 @@ l'effetto descritto:
 
 [approximated_anomalous_breath_modulation.wav](https://raw.githubusercontent.com/titola/neuropa/master/media/approximated_anomalous_breath_modulation.wav)
 
-Chiedi al tuo motore di ricerca preferito che cosa è accaduto il
+Chiedi al tuo motore di ricerca preferito che cosa accadde il
 giorno 8 Agosto 2019. Forse è una coincidenza (spero) ma il laser
 montato su certi veicoli è utilizzato come arma ad energia diretta
 (per esempio COIL -- chemical oxygen-iodine laser che opera alla
@@ -1550,7 +1511,7 @@ digerente o quello respiratorio? Potrebbero alterare l'olfatto?
 
 Io credo che la polmonite sia stata provocata da questo sistema.
 Ho descritto la vibrazione dei denti e le oscillazioni anomale
-prodotte quando soffio nell'aria. C'è una registrazione audio nella
+prodotte con un soffio nell'aria. C'è una registrazione audio nella
 sezione "Altre oscillazioni ottenute quando i vermi militari puntano
 la mia bocca". Le risonanze fondamentali sono una frazione del numero
 32000:
@@ -1591,24 +1552,22 @@ una betoniera.
 
 Mezzanotte del 16 Gennaio 2019: nessuna esplosione ma un bagliore
 istantaneo ha illuminato la mia stanza durante un risveglio forzato.
-E' la prima volta che accade, quindi aggiungerò la data di altri
-eventi simili. La tortura è continuata con il riscaldamento del corpo
-per alcune ore (questo invece è un classico) e le solite voci che mi
-provocano ininterrottamente. Le pareti scricchiolano ogni tanto come
-ogni notte. Di solito i risvegli forzati sono più di tre.
+Accadrà altre volte. La tortura è continuata con il riscaldamento del
+corpo per alcune ore (questo invece è un classico) e le solite voci
+che mi provocano ininterrottamente. Le pareti scricchiolano ogni tanto
+come ogni notte. Di solito i risvegli forzati sono più di tre.
 
 La notte del 23 Marzo 2019 ore 1:30: un altro scoppio vicino alla
-finestra della mia stanza (fuori). Il 21 Marzo ho appeso una tenda
-veneziana davanti alla finestra. Il 22 Marzo ho aggiunto materiale
-riflettente (DVD e fogli di alluminio) tra la finestra e la tenda.
+finestra della mia stanza (fuori). Il 21 Marzo appesi una tenda
+veneziana davanti alla finestra. Il 22 Marzo collocai qualche DVD
+e fogli di alluminio tra la finestra e la tenda per riflettere o
+diffondere disordinatamente la radiazione impulsiva.
 
-8 Settembre 2019 ore 4:00: un altro bagliore istantaneo.
+8 Settembre 2019 ore 4:00: un altro bagliore istantaneo. Non
+aggiungerò altri eventi di questo tipo perché diventarono frequenti
+dopo questa data.
 
 3 esplosioni il 31 Maggio 2021 ore 3:15.
-
-Non prendo medicine o droghe e fortunatamente il mio cervello è ancora
-efficiente. Scoprirò chi sono questi ridicoli imbecilli militarizzati
-ed umilierò chi li sta proteggendo.
 
 ### Ferite simmetriche vicino ai ginocchi
 
@@ -1662,24 +1621,16 @@ dal buio alla luce tenue dura meno di due secondi.
 
 Se provo a premere gli occhi con le dita per aumentare la pressione
 del sangue, percepisco una luce con intensità crescente come se avessi
-un sole impresso nella retina. La stanza è buia e l'effetto non cambia
-se bendo gli occhi. Quando sollevo le dita, la luce torna lentamente
-al livello iniziale, con macchie nere sparse casualmente durante la
-transizione. Se ripeto l'esperimento più volte la zona più luminosa
-si allontana dal centro. Quindi questa luce costante alterata da una
-variazione della pressione sanguigna intorno agli occhi permette la
-percezione di un'immagine (non molto interessante quando premo gli
-occhi con le dita).
-
-Non posso ignorare questa luce e la distribuzione della pressione del
-sangue nel contesto dei sogni falsi accennati nel commento di una
-modifica di questo documento (in inglese):
-
-[Investigating hypnagogic and hypnopompic hallucinations](https://github.com/titola/neuropa/commit/b00a680bcd18de638dd2d87fb30e51602ac951bd)
+un sole impresso nella retina. Forse questo è normale. La stanza è
+buia e l'effetto non cambia se bendo gli occhi. Quando sollevo le
+dita, la luce torna lentamente al livello iniziale, con macchie nere
+sparse casualmente durante la transizione. Se ripeto l'esperimento più
+volte, la zona più luminosa si allontana dal centro.
 
 ### Ipnosi
 
-Un altro commento (in inglese):
+Accennai qualcosa in lingua inglese nel commento di una modifica di
+questo documento:
 
 [Hypnopompic hallucinations with oculus style (VR) and vibration of 35 Hz](https://github.com/titola/neuropa/commit/4838e45fbf339940b3f3533a7e079049fab7c88a)
 
@@ -1714,10 +1665,10 @@ sono "pre" Covid-19 (verifica la data):
 
 ### Oscillazione di 5333 Hz dopo una convulsione indotta
 
-Ho ascoltato un'oscillazione di 5333.333 Hz (32000/6) soltanto una
-volta, la notte del 20 Agosto 2018. Respiro profondamente dopo una
-delle tante convulsioni notturne indotte. L'oscillazione inizia
-insieme al picco dell'infrasuono.
+Ascoltai un'oscillazione di 5333.333 Hz (32000/6) soltanto una volta,
+la notte del 20 Agosto 2018. Respiravo profondamente dopo una delle
+tante convulsioni notturne indotte. L'oscillazione inizia insieme al
+picco dell'infrasuono.
 
 [5333hz_20180820_night.wav (View Raw)](https://raw.githubusercontent.com/titola/neuropa/master/media/5333hz_20180820_night.wav)
 
@@ -1729,7 +1680,7 @@ Registrato il 27 Agosto 2021.
 
 Lo "strumento invisibile", suonato soffiando nell'aria, ricorda
 fisicamente una specie di foglio vibrante o un risonatore di
-Helmholtz.
+Helmholtz (per esempio una bottiglia).
 
 Il suono è stato prodotto senza l'aiuto della lingua.
 
@@ -1750,8 +1701,6 @@ Le frequenze rilevanti sono:
 5333.333333333333 Hz =     32000 / 6
 ```
 
-E' chiaro che il numero 32000 è importante.
-
 ### Intervallo di sesta minore con il tinnitus
 
 Un fastidioso intervallo di sesta minore tra il tinnitus indotto
@@ -1767,7 +1716,7 @@ Registrazioni del 10 Agosto 2018.
 
 C'è un ingresso che comunica con cinque stanze. Un'oscillazione con
 frequenza di 100 Hz modulata in ampiezza inizia ogni volta che entro
-nell'ingresso. Il suono termina se entro in una stanza. E' inutile
+nell'ingresso. Il suono termina quando entro in una stanza. E' inutile
 commentare, sono idioti col pedigree.
 
 Ho effettuato più registrazioni posizionando il microfono in ogni
@@ -1795,8 +1744,7 @@ alcune frequenze molto basse da analizzare.
 
 ### Infrasuoni
 
-Il sonogramma seguente mostra la danza sotto 20 Hz che interferisce
-con le oscillazioni neurali (notte del 16 Maggio 2019):
+Il sonogramma seguente mostra la danza sotto 20 Hz (notte del 16 Maggio 2019):
 
 ![](media/infrasound-20190516.jpg)
 
@@ -1806,16 +1754,6 @@ inarrestabile.
 Regione di circa 18 secondi amplificata di 37 dB:
 
 [night_20190516_a.wav](https://github.com/titola/neuropa/blob/master/media/night_20190516_a.wav)
-
-Forse le frequenze intorno a 13 o 14 Hz dipendono dai segnali
-sincronizzati con le voci alle frequenze 173.456 MHz, 173.880 MHz,
-173.956 MHz (il segnale a 460.557 MHz è vicino a 422.733 MHz):
-
-```
-422.733                     ---> 1 / 0.18 = 5.55 Hz
-422.733 / 173.456 = 2.437   ---> 2.437 / 0.18 = 13.54 Hz
-422.733 / 460.557 = 0.918   ---> 0.918 / 0.18 = 5.1 Hz
-```
 
 ### Emissioni con frequenza crescente
 
@@ -1906,13 +1844,13 @@ Smart city for smart people with smart phones (Il secolo dei cretini).
 [2] C. M. Wynn, S. Palmacci, M. L. Clark, and R. R. Kunz.
 Dynamic photoacoustic spectroscopy for trace gas detection.
 
-[3] Non credo che questi sono della CIA perché durante un attacco
-notturno tra la fine del 2017 e l'inizio del 2018 il mio sonno
-è stato interrotto da due voci ad alto volume, una percepita a destra e
-l'altra a sinistra, che cercavano di spaventarmi asserendo più volte
-con tono da action-movie: «Siamo della CIA!». Quindi probabilmente non
-sono della CIA ed il termine bambacia è perfetto per questi patetici
-wannabee che insultano ed aggrediscono vigliaccamente come bimbi-minkia.
+[3] Durante un attacco notturno tra la fine del 2017 e l'inizio del
+2018 il mio sonno è stato interrotto da due voci ad alto volume, una
+percepita a destra e l'altra a sinistra, che cercavano di spaventarmi
+asserendo più volte con tono da action-movie: «Siamo della CIA!».
+Quindi probabilmente non sono della CIA ed il termine bambacia è
+perfetto per questi patetici wannabee che insultano ed aggrediscono
+vigliaccamente come bimbi-minkia.
 
 [4] Smart Italy: [Spyware Exodus: "I dati sul cloud di Amazon" (ilfattoquotidiano.it)](https://www.ilfattoquotidiano.it/in-edicola/articoli/2019/04/02/spyware-exodus-i-dati-sul-cloud-di-amazon/5079967/)
 

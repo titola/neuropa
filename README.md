@@ -149,9 +149,9 @@ they want.
 
 There are drones around my home. One is very near on March 19th 2019 20:50.
 
-I want to share the analysis of this attack to publicly report the
-cowards that are secretly assaulting and torturing me from 2017,
-24 hours/day. If the Italian police and secret services fear these
+I want to share a part of the analysis of this attack to publicly
+report the cowards that are secretly assaulting and torturing me from
+2017, 24 hours/day. If the Italian police and secret services fear these
 infamous killers, they can say to me who they are and I personally
 and definitively will resolve the problem. If on the contrary it is
 an illegal C4ISRT system (Command, Control, Communications,
@@ -159,18 +159,6 @@ Computers, Intelligence, Surveillance, Reconnaissance and Torture)
 with optional PSYWAR (psychological warfare), I will continue the
 investigation in spite of the general [indifference](https://github.com/titola/neuropa/commit/fa8a0203c081404e4e679a8ad2185c6bc3deac0b), the omertà,
 5 or 14 Polyphemuses and the Smart Italy [4].
-
-I have analyzed the complete dynamics of the attack. This document
-contains what I can unequivocally explain (35% of the overall attack
-but I will write other and I will improve the structure of this
-document). I am not just a musician and programmer, but also the only
-sound designer in the world that manages to transform a performance of
-Caribbean crickets [5] obtained from [6] in the approximation of a
-human voice by using just a slope detector:
-
-[cuba_attack_decoded.ogg (View Raw)](https://raw.githubusercontent.com/titola/neuropa/master/media/cuba_attack_decoded.ogg)
-
-[cuba_attack_decoded.ogg](https://github.com/titola/neuropa/blob/master/media/cuba_attack_decoded.ogg)
 
 ## Signal directed to the head
 
