@@ -5,12 +5,16 @@
 I noticed the attack voice-to-skull on July 15th 2017.
 
 The artificial and natural deficiency coordinate the sequences and the
-psychology of the dialogues, often offensive, and the interferences to
-the normal neural oscillations that disturb the sleep with tremors,
-convulsions, etc. They said to me during the first tortures: "tanto ti
-ammazzi da solo", "hai una pistola puntata contro", "non capisci un
-cazzo di computer", "non capisci un cazzo di musica", and other
-insults and threats (I avoid the embarassing list).
+psychology of the dialogues, often offensive, and the pulsed radiation
+that assaults the nervous system. The intent is to compromise the
+attention control and continually disturb the sleep causing tremors,
+convulsions, temporary paralysis (body blocked for more than thirty
+seconds), noises, visions, etc (I don't take medicines or drugs).
+They said to me during the first tortures: "tanto ti ammazzi da solo",
+"hai una pistola puntata contro", "non capisci un cazzo di computer",
+"non capisci un cazzo di musica", and other insults and threats (I
+avoid the embarassing list). They often repeat to me that I have
+to stop programming. Why?
 
 The following video shows a part of the signal directed to my head:
 
@@ -32,7 +36,6 @@ of the Costituzione della Repubblica Italiana.
     - [Scattered pulses modulate the signal with central frequency 230.4 MHz](#scattered-pulses-modulate-the-signal-with-central-frequency-230.4-mhz)
     - [Radiation sampling and aliasing](#radiation-sampling-and-aliasing)
     - [Tinnitus simulation](#tinnitus-simulation)
-    - [Pulses repeated in the modulating signal](#pulses-repeated-in-the-modulating-signal)
 - [Infrasound from the signal received at 422.733 MHz](#infrasound-from-the-signal-received-at-422.733-mhz)
 - [Beat between pulsed radiation and military VLF](#beat-between-pulsed-radiation-and-military-vlf)
 - [Voice encoding](#voice-encoding)
@@ -45,7 +48,7 @@ of the Costituzione della Repubblica Italiana.
     - [Infrared and plasmonic laser](#infrared-and-plasmonic-laser)
     - [Events synchronized with the voices](#events-synchronized-with-the-voices)
     - [Correspondence between 422.733 MHz and infrasounds](#correspondence-between-422.733-mhz-and-infrasounds)
-    - [Electric meters ACEA-ARETI with oscillator at 939 MHz](#electric-meters-acea-areti-with-oscillator-at-939-mhz)
+    - [Oscillator at 939 MHz](#oscillator-at-939-mhz)
     - [About 5G](#about-5g)
     - [Anomalous breath modulation](#anomalous-breath-modulation)
     - [Body vibration stopped after some nightly explosions](#body-vibration-stopped-after-some-nightly-explosions)
@@ -101,8 +104,8 @@ through pulses, for example those analysed with pulse repetition
 frequencies 78250 Hz and 31300 Hz (the ratio 5/2 is the magic
 number of this attack). The result is a pulsed radiation modulated
 by a signal difficult to intercept without this particular decoder
-that remembers the digital sampling. The scientific literature
-seems to ignore this type of problem.
+that remembers the digital sampling. The (accessible) scientific
+literature seems to ignore this type of problem.
 
 The weapon used against me outdoors is similar to the pulse laser
 system described in this page:
@@ -145,9 +148,9 @@ those (also) recorded the previous year (see the section "Audio
 recordings"). The whole soundtrack perfectly represents the soul of
 these institutional cackers, bambacia [3] and toy boys of mafia, that use
 the radio without limits of frequency and have the licence to do what
-they want.
+they want. For example, it is not difficult to intercept this stupid spy:
 
-There are drones around my home. One is very near on March 19th 2019 20:50.
+[fugitive.mp4](https://raw.githubusercontent.com/titola/neuropa/master/media/fugitive.mp4)
 
 I want to share a part of the analysis of this attack to publicly
 report the cowards that are secretly assaulting and torturing me from
@@ -172,14 +175,14 @@ voices and increase the noise. Recently, the level of the voices is
 also very low if I don't record, however the intensity of the
 induced tinnitus is unchanged.
 
-A pulse "A" is the sum of 100 sinusoids separated by 1733 Hz, so the
-bandwidth is 173.3 kHz.
+A pulse "A" is the sum of 100 sinusoidal oscillations separated by
+1733 Hz, so the bandwidth is 173.3 kHz.
 
 ```
 1733.33 = 5200 / 3 = 50 * 8 * 13/3 = 650 * 8/3
 ```
 
-A pulse "B" is the sum of 7 sinusoids separated by 216.6 Hz.
+A pulse "B" is the sum of 7 harmonic oscillations separated by 216.6 Hz.
 
 ```
 216.66667 = 650 / 3 = 5200 / 24 = 1733.33 / 8
@@ -240,17 +243,17 @@ If I use my body as antenna by touching the receiving antenna with the
 hand, I can record the pulses repeated with frequency of about 78250 Hz.
 Sometimes I have recorded pulses with frequency 31300 Hz instead of
 78250 Hz. The ratio 5/2 between these frequencies is described in the
-section "Electric meters ACEA-ARETI with oscillator at 939 MHz".
+section "Oscillator at 939 MHz".
 
 Also the signal with central frequency 230.4 MHz is modulated by
 pulses of 78 kHz:
 
 ![](media/230_4mhz.jpg)
 
-There are harmonics of 230.4 MHz and the sixteenth is 3.686 GHz, used
-by the technologies for mobile communications 5G. Therefore the
-frequencies around 3.7 GHz allow the control of 16 bands with central
-frequencies multiple of 230.4 MHz.
+There are harmonics of 230.4 MHz and the sixteenth (four octaves up)
+is 3.686 GHz, used by the technologies for mobile communications 5G.
+Therefore the frequencies around 3.7 GHz allow the control of 16 bands
+with central frequencies multiple of 230.4 MHz.
 
 ```
 cos(x)^32 = (cos(32 x) + 32 cos(30 x) + 496 cos(28 x) + 4960 cos(26 x) +
@@ -344,20 +347,18 @@ The direct radiation can also exploit some common signals that belong
 to the diffuse radiation, for example the radio-tv stations, concealing
 some partials in the same signal with inverted phase.
 
-The samples of a sound sampled at 80 KHz (or 31.3 KHz) can be hidden
-in the modulating signals. The absorption of the pulsed radiation with
-PRF of 80 KHz generates thermoelastic pulses that "sample" the overall
-signal envelope (not just the signal at 945 MHz but also the other
-components, some described in this document), causing the perception
-of the sound. The domain is not digital, therefore the samples have a
-duration at least equal to the pulse width.
+The samples of a sound (not necessarily) sampled at 80 KHz (or 31.3
+KHz) can be hidden in the modulating signals. The absorption of the
+pulsed radiation with PRF of 80 KHz generates thermoelastic pulses
+that "sample" the overall signal envelope (not just the signal at 945
+MHz but also the other components, some described in this document),
+causing the perception of the sound. The domain is not digital,
+therefore the samples have a duration at least equal to the pulse
+width.
 
 In this case, it is difficult to correctly demodulate the hidden
 signal and listen the sound, because the injected samples have to be
-in phase with the electric current, just as the pulses at 80 KHz. The
-trick used by the thugs to monitor the phases of the electric current
-is described in a separated section (an infrasound obtained from a
-signal at 422.733 MHz).
+in phase with the electric current, just as the pulses at 80 KHz.
 
 However, it is simplest to "sample" particular oscillations through
 aliasing. For example, to get an oscillation of 100 Hz when the pulse
@@ -517,21 +518,7 @@ I have preferred to use a source-filter model instead of synthesizing
 the acoustic frequencies, therefore the thermoelastic wave is approximated
 by a pulse train with pattern A-A-A-A-B and average frequency of 21.23 Hz
 (the other pulses are excluded to simplify the model) filtered by the
-conduction filter based on the figure 4 in [7]. This type of signal
-interferes in particular way with the neural oscillations (the other
-variable pulses can modulate specific brain waves with different rhythms)
-before to reach the inner ear.
-
-It is possible to compute the induced pressure amplitude by using the
-formula and the amplitude factors of the figure 4 in [7]:
-
-```
-P(pulse_width) = A*abs(sin(pi*freq*pulse_width)) =
-
-= 572*abs(sin(pi*7800/(216.625*7))) = 2.49e-4 Pa (about 22 dB SPL)
-```
-
-where 7800 Hz is the main acoustic frequency.
+conduction filter based on the figure 4 in [7].
 
 Another relevant resonance frequency obtained from the same figure of
 the paper is 1300 Hz. The related amplitude is about 4.3 dB under
@@ -606,13 +593,11 @@ infrasounds. The next clip is amplified by 40 dB:
 
 [low_freq_with_6min_for_tinnitus.wav](https://github.com/titola/neuropa/blob/master/media/low_freq_with_6min_for_tinnitus.wav)
 
-The (protected) criminals use these sounds also to exploit the
-interaction with the tinnitus. Some nightly audio recordings contain
-the sounds produced through intentional electromagnetic interferences:
-pulses repeated every 1.9 seconds, a continuous signal with fundamental
-frequency of 7.62 Hz and other frequencies that form simple ratios with
-50 Hz, the nominal frequency of the electrical grid in Italy [8], for
-example:
+Some nightly audio recordings contain the sounds produced through
+intentional electromagnetic interferences: pulses repeated every 1.9
+seconds, a continuous signal with fundamental frequency of 7.62 Hz and
+other frequencies that form simple ratios with 50 Hz, the nominal
+frequency of the electrical grid in Italy [8], for example:
 
 ```
 100 = 50 * 2
@@ -624,36 +609,6 @@ example:
 sporadic "scintillant" errors:
   5415 = 216.6 * 25
 ```
-
-### Pulses repeated in the modulating signal
-
-Finally, the part labeled "misc" in the first sonogram contains pulses
-produced by the sum of sinusoids separated by 1469 Hz and other
-sinusoids also separated by 1469 Hz.
-
-If I apply an envelope follower to the recorded I/Q, the result
-contains again the harmonics of 1733 Hz:
-
-![](media/945mhz_env.jpg)
-
-I continue to receive that and other malicious signals (at least)
-from July 2017 thanks to the negligence of the Italian security forces
-and Ministero della Difesa that should control the use of the radio
-frequencies. Unfortunately, there aren't real professionals in North Rome.
-If the attack is caused by foreign agencies and it is difficult to
-stop for various reasons, the citizens should be informed. From the
-Costituzione della Repubblica Italiana, articolo 28:
-
-> I funzionari e i dipendenti dello Stato e degli enti pubblici sono
-> direttamente responsabili, secondo le leggi penali, civili e
-> amministrative, degli atti compiuti in violazione di diritti. In
-> tali casi la responsabilità civile si estende allo Stato e agli enti
-> pubblici.
-
-Let me know if the Costituzione italiana that I have always respected
-is still valid. Meanwhile, I have learned to humiliate these fanatic
-idiots by controlling their sophisticated movements through a simple
-game of mirrors.
 
 ## Infrasound from the signal received at 422.733 MHz
 
@@ -675,6 +630,7 @@ about 0.18 seconds. These times depend on the nominal frequency of 50 Hz:
 
 Besides, the ratio between 422.733 MHz and the receiving frequency
 169 MHz of a "smart" electric meter of ACEA/ARETI is 5/2.
+
 Also the distance in frequency of 1950 Hz between the two oscillations
 is particular:
 
@@ -749,9 +705,9 @@ experimentations can be found in the section "Other signals to analyse".
 
 ## Beat between pulsed radiation and military VLF
 
-The pulses obtained from sinusoids separated by 5200/3 or 1733 Hz
-create a particular beat with 20760 Hz, the VLF (Very Low Frequency)
-transmitted from the antennas of Tavolara Island (Sardinia, Italy):
+The pulses with period 3/5200 or 1/1733 seconds create a particular
+beat with 20760 Hz, the VLF (Very Low Frequency) transmitted from the
+antennas of Tavolara Island (Sardinia, Italy):
 
 [List of VLF-transmitters (wikipedia.org)](https://en.wikipedia.org/wiki/List_of_VLF-transmitters)
 
@@ -882,15 +838,9 @@ and an isolated formant around 6400 Hz:
 
 ![](media/hum_20180911_part1_stft2.jpg)
 
-If you want to listen to the Roman cousin of a Caribbean cricket,
-select the formant around 6400 Hz with a BP filter. The resultant
-sound is part of my tinnitus.
-
-I have to rewrite the sum between the pulses (sum of cosines) and the
-modulated oscillation at 20760 Hz, to simplify amplitudes and phases
-of the harmonic frequencies as in the resynthesis of a STFT analysis,
-also considering the radiation sampling with sampling frequency of
-31300 Hz and 78250 Hz.
+You can listen to the Roman cousin of a Caribbean cricket, by selecting
+the formant around 6400 Hz with a BP filter. The resultant sound is
+part of my tinnitus.
 
 Finally, it is interesting to notice the location of Havana (Cuba),
 Rome (Italy), Tavolara (Sardinia, Italy) and Guǎngzhōu (China)
@@ -916,22 +866,14 @@ A recipe to get the pulses A is the following:
 
 -   Pulse generated each time the amplitude of the modulated signal goes from positive to negative.
 
-The pulses are generated by the sum of sinusoids separated by the
-frequencies that cause an unceasing resonant tinnitus in my head.
-
 Any time the energy of a RF pulse is absorbed by the cerebral tissue,
 the temperature rises of 5e-6 °C [9]. The rapid thermal expansion produces
 a thermoelastic wave that travels to the inner ear. Therefore the
 criminals use that thermo-acoustic demodulator to send vocal messages
 to me through a pulsed radiation.
 
-In another technique still to analyze, the pulsed radiation is absorbed
-into a plasma.
-
-This information defuses the psychologic weapon because it cancels the
-suggestive effect. The childish effect "play the entryphone and run
-away" and the annoying side effects (to describe in a separate section)
-persist.
+Another technique, described at the beginning of this document, uses a
+type of photoacoustic spectroscopy.
 
 ## Harmonics of 50 Hz from the mix of the amplitude modulations
 
@@ -943,6 +885,8 @@ It is nervous and tries to obscure its intentions. Often, it is
 coupled with an attenuated imitation about 91.2 kHz apart.
 
 ![](media/zigzag_b.jpg)
+
+Perhaps that's a reflection.
 
 On July 18th 2018, I have counted about 45 components of this type,
 5 between 80 and 88 MHz and at least 40 between 120 and 170 MHz.
@@ -978,6 +922,8 @@ with PRF 31300 Hz. In this case, the delay of every source is
 ```
 
 ![](media/mix_of_pulses.jpg)
+
+Imagine the possible applications with a lot of drones.
 
 Other examples:
 
@@ -1022,9 +968,8 @@ light becomes stable while the voice level decreases.
 
 The bulb with knob is also a good filter to temporarily remove the
 perception of the tinnitus. The noise disappears when the bulb
-receives a particular amount of current. The tinnitus reappears after
-a few seconds, therefore I have to spin the knob if I want to continue
-the listening of "radio silence".
+receives a particular amount of current. Unfortunately the silence
+lasts a few seconds.
 
 On June 26 2019, 8:00 a.m.: I have to rotate the knob of about 45 degrees
 to switch on the bulb. The light is unstable and I perceive an intense
@@ -1041,8 +986,7 @@ Who controls the under load? Question apparently rhetoric.
 
 The recording of what some US embassy workers heard in Havana has
 characteristics similar to the signal at 945MHz that I receive in my
-head. The main difference is the distance in frequency between the
-sinusoids that generate the pulses. In my case:
+head. The main difference is the period of the pulses. In my case:
 
 -   Pulses with sinusoids separated by 216.6 Hz and pulse repetition periods with A-A-A-A-B (see above).
 
@@ -1162,23 +1106,17 @@ Alternative method:
 
 ### Infrared and plasmonic laser
 
-I'm experimenting with the use of DVD's to reflect the radiation.
-I have discovered that if I change the arrangement of one or
-more DVD's, I can vary the distribution and the granularity
-of the tinnitus. I was astonished when I found traces of humidity
-under the DVD placed at night near my shoulder and the upper part
-of the head. For this reason, I want to discover if the thugs are
-also using NIR (Near Infrared) and plasmonic laser (spaser) with
-techniques similar to SCULPS (Scalable Compact Ultra-short Pulse
-Laser Systems).
+I discovered that if I change the arrangement of one or more DVD's,
+I can vary the distribution and the granularity of the tinnitus. I was
+astonished when I found traces of humidity under the DVD placed at
+night near my shoulder and the upper part of the head.
 
 The DVD's help me to locate the rays directed to some body parts,
 in particular the feet, the backbone when I sleep on one's side,
-the shoulders and the head. The rays that hit on the feet cause
-a tremor and the perception of a noise. If I place a DVD on the
-ankle and move it in the direction of the rays, the tremor and
-the noise vanish (sometimes a probably programmed voice curses
-when I rapidly point the source of the vibration).
+the shoulders and the head. The rays that hit on the feet and the
+lateral part of the knee cause a tremor and the perception of a
+noise. If I place a DVD on the ankle and move it in the direction of
+the rays, the tremor and the noise vanish.
 
 Often, when I open my eyes I see luminous oscillations of about 4 or
 5 Hz (sometimes it also occurs outdoor but the light is more intense).
@@ -1287,7 +1225,7 @@ and infrasounds:
 
 [low_freq_with_6min_for_tinnitus.wav](https://github.com/titola/neuropa/blob/master/media/low_freq_with_6min_for_tinnitus.wav)
 
-I think the thugs monitor the peaks of the infrasounds repeated every
+The thugs could monitor the peaks of the infrasounds repeated every
 1.92 seconds also to take the variation of the nominal frequency to
 tune the signals, for example the duration between 9/49 (0.183s) and
 9/51 (0.176s).
@@ -1300,28 +1238,18 @@ y = x^2 * sin(2 pi 1/0.18 t)
 
 is a first approximation of the transfer function to get the peaks of the
 infrasound from the signal at 422.733 MHz. The frequency is 1/0.18 because
-the tested signal was demodulated before to save it to a file. In fact,
-the demodulation occurs within the smart electric meter, 2/5 of the input,
-then the signal is induced into the circuit with the oscillator strangely
-set to 938.889 MHz (instead of 868 MHz).
-
-```
-169 / 0.18 = 938.889 MHz
-```
-
-See the section "Electric meters ACEA-ARETI with oscillator at 939 MHz"
-for more details.
+the tested signal was demodulated before to save it to a file.
 
 ![](media/calculated_infrasound_peaks.jpg)
 
 The other signals are transformed at least in low frequency oscillations.
 
 Note: 421.684 MHz is not present in a recording on August 23th 2018,
-and the bandwidth at 422.733 MHz becomes 5kHz. The comparison will be
-useful to understand better the synthesis and the function of the low
-frequency audio signal.
+and the bandwidth at 422.733 MHz becomes 5kHz. I'm not sure if the
+comparison will be useful to understand better the synthesis and the
+function of the low frequency audio signal.
 
-### Electric meters ACEA-ARETI with oscillator at 939 MHz
+### Oscillator at 939 MHz
 
 The smart electric meters of ACEA/ARETI should communicate in RF
 at the frequencies 169 and 868 MHz. These frequencies are multiple of
@@ -1352,10 +1280,10 @@ From "Bilancio di Sostenibilità 2017 del Gruppo Acea", pag. 81:
 > prototipo che sarà oggetto delle prove e dei collaudi nel corso
 > della prima metà del 2018.
 
-By analysing the infrasound described in the prior sections, I have
-discovered that an oscillator has the frequency set at 939 MHz instead
-of the declared 868 MHz. You can notice that the RF signals near 939 MHz
-are really the responsables of the tinnitus.
+By analysing the infrasound described in the prior sections, I searched
+for an oscillator with the frequency set at 939 MHz. You can notice
+that the RF signals near 939 MHz are really the responsables of the
+tinnitus.
 
 It is interesting to notice the ratio between that frequency and the
 frequencies 78250 Hz and 31300 Hz of the recorded pulses:
@@ -1371,8 +1299,8 @@ ratio 5/2 between the two frequencies is equal to the ratio between
 422.733 MHz and 169 MHz.
 
 Why 1/0.18, the reciprocal of 9 cycles of the nominal frequency of the
-electrical grid? The oscillators of the smart meter are in phase
-with the provided electric current, therefore:
+electrical grid? If the oscillators of the smart meter are in phase
+with the provided electric current:
 
 ```
 169 / 868 = 0.19470046
@@ -1435,14 +1363,6 @@ number of the cycles of the nominal frequency between 49 and 51 Hz:
 | 6      | 1380.2         | 1436.5         |
 | 5      | 1656.2         | 1723.8         |
 | 4      | 2070.2         | 2154.7         |
-
-
-Therefore the signal directed to my head at 945 MHz (also 935 MHz and
-461 MHz, but there is other) is possibly repeated by the ACEA's smart
-meters. I hope no, but if the thugs control the distribution of the
-RF signals of all the deficient meters, they can mix and direct them to
-a specific zone. Ditto for the distribution of signals for mobile
-communications 5G combined with the harmonics of 230.4 MHz.
 
 ### About 5G
 
@@ -1557,25 +1477,21 @@ The sound that I hear during the body vibrations remembers the sound
 of a concrete mixer.
 
 On January 16 2019 at midnight: no explosions but an instantaneous
-flash has lighted up my room during a forced awakening. It is the
-first time that it occurs, therefore I will add the date of other
-similar events. Then the torture is continued with the body heating
-for some hours (it is instead a classic) and the customary voices
-that provoke me nonstop. Sometimes the walls creak as every night.
-Generally the forced awakenings are more than three.
+flash has lighted up my room during a forced awakening. There are
+other similar events after that date. Then the torture is continued
+with the body heating for some hours (it is instead a classic) and the
+customary voices that provoke me nonstop. Sometimes the walls creak as
+every night.  Generally the forced awakenings are more than three.
 
 On March 23 2019 night 1:30: another burst near the window of my room
 (outdoors). On 21 March, I have hung a a Venetian curtain in front of
 the window. On 22 March, I have added reflecting materials (DVD and
 aluminium) between the window and the curtain.
 
-On September 8 2019 at 4:00 a.m., another instantaneous flash.
+On September 8 2019 at 4:00 a.m., another instantaneous flash (this
+type of event is frequent after that date).
 
 Three explosions on May 31 2021 at 3:15 a.m.
-
-I don't take medicines or drugs and fortunately my brain is still
-efficient. I will discover who are these ridiculous militarized
-stupids and I will humiliate who protect them.
 
 ### Symmetric wounds near the knees
 
@@ -1627,23 +1543,15 @@ seconds.
 
 If I try to press my eyes with the fingers to enhance the blood
 pressure, I perceive a light with growing intensity as a sun engraved
-on the retina. The room is dark and the effect doesn't change blindfold.
-When I raise the fingers, the light slowly comes back to the starting
-level, with black spots randomly scattered during the transition. If I
-repeat the experiment more times, the more bright zone departs from
-the center. Therefore, this constant light altered by a variation of
-the blood pressure around the eyes allows the perception of an image
-(not very interesting when I press the eyes with the fingers).
-
-I cannot ignore this light and the distribution of the blood pressure
-in the context of the fake dreams, sketched out in the comment of a
-change of this document:
-
-[Investigating hypnagogic and hypnopompic hallucinations](https://github.com/titola/neuropa/commit/b00a680bcd18de638dd2d87fb30e51602ac951bd)
+on the retina. Maybe it is normal. The room is dark and the effect
+doesn't change blindfold. When I raise the fingers, the light slowly
+comes back to the starting level, with black spots randomly scattered
+during the transition. If I repeat the experiment more times, the more
+bright zone departs from the center.
 
 ### Hypnosis
 
-Another comment:
+I sketched out something in the comment of a change of this document:
 
 [Hypnopompic hallucinations with oculus style (VR) and vibration of 35 Hz](https://github.com/titola/neuropa/commit/4838e45fbf339940b3f3533a7e079049fab7c88a)
 
@@ -1693,7 +1601,7 @@ Recorded on August 27, 2021.
 
 The "invisible instrument", played with blowing fluctuations,
 physically remembers a kind of vibrant sheet or a Helmholtz
-resonator.
+resonator (i.e. a bottle).
 
 The sound is produced without the help of the tongue.
 
@@ -1713,8 +1621,6 @@ The remarkable frequencies are:
 # Oscillation produced after a convulsion on August 20, 2018.
 5333.333333333333 Hz =     32000 / 6
 ```
-
-It is clear that the number 32000 is important.
 
 ### Interval of minor sixth with the tinnitus
 
@@ -1759,8 +1665,7 @@ to analyse.
 
 ### Infrasounds
 
-The following sonogram shows the dance below 20 Hz that interferes
-with the neural oscillations (May 16 2019 night):
+The following sonogram shows the dance below 20 Hz (May 16 2019 night):
 
 ![](media/infrasound-20190516.jpg)
 
@@ -1770,16 +1675,6 @@ unstoppable clock.
 Region of about 18 seconds amplified by 37 dB:
 
 [night_20190516_a.wav](https://github.com/titola/neuropa/blob/master/media/night_20190516_a.wav)
-
-Maybe the frequencies around 13 or 14 Hz depend on the signals
-synchronized with the voices at frequencies 173.456 MHz, 173.880 MHz,
-173.956 MHz (the signal at 460.557 MHz is near 422.733 MHz):
-
-```
-422.733                     ---> 1 / 0.18 = 5.55 Hz
-422.733 / 173.456 = 2.437   ---> 2.437 / 0.18 = 13.54 Hz
-422.733 / 460.557 = 0.918   ---> 0.918 / 0.18 = 5.1 Hz
-```
 
 ### Rising frequency emissions
 
@@ -1871,14 +1766,13 @@ Smart city for smart people with smart phones (Il secolo dei cretini).
 [2] C. M. Wynn, S. Palmacci, M. L. Clark, and R. R. Kunz.
 Dynamic photoacoustic spectroscopy for trace gas detection.
 
-[3] I don't think they are CIA, because during a nightly attack
-between the end of 2017 and the beginning of 2018, my sleep was
-interrupted by two voices at high volume, one perceived on the
-right and the other on the left, that tried to scare me by asserting
-more times with an action-movie tone: «Siamo della CIA!» (We are CIA!).
-Therefore, probably, they are not CIA and the term "bambacia" is
-perfect for these pathetic wannabees that insult and assault as
-cowardly bimbi-minkia.
+[3] During a nightly attack between the end of 2017 and the beginning
+of 2018, my sleep was interrupted by two voices at high volume, one
+perceived on the right and the other on the left, that tried to scare
+me by asserting more times with an action-movie tone: «Siamo della
+CIA!» (We are CIA!).  Therefore, probably, they are not CIA and the
+term "bambacia" is perfect for these pathetic wannabees that insult
+and assault as cowardly bimbi-minkia.
 
 [4] Smart Italy: [Spyware Exodus: "I dati sul cloud di Amazon" (ilfattoquotidiano.it)](https://www.ilfattoquotidiano.it/in-edicola/articoli/2019/04/02/spyware-exodus-i-dati-sul-cloud-di-amazon/5079967/)
 

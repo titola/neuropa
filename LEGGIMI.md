@@ -765,7 +765,7 @@ riguardano gli smerd meter ed altre sperimentazioni sospette.
 
 ## Battimento tra impulsi di radiazione e VLF militare
 
-Gl'impulsi con periodo di 5200/3 o 1733 Hz creano un battimento
+Gl'impulsi con periodo di 3/5200 o 1/1733 secondi creano un battimento
 particolare con 20760 Hz, la VLF (Very Low Frequency) trasmessa dalle
 antenne dell'Isola di Tavolara (Sardegna):
 
