@@ -1627,6 +1627,14 @@ dita, la luce torna lentamente al livello iniziale, con macchie nere
 sparse casualmente durante la transizione. Se ripeto l'esperimento più
 volte, la zona più luminosa si allontana dal centro.
 
+28 Ottobre 2021, 6 di mattina: l'intensità di questo tipo di luce
+(io credo in retina) aumenta notevolmente. La stanza è buia (nessuna
+riflessione o diffusione visibile da me). Non è un evento isolato ma
+ricordavo la data e l'ora con un errore massimo di cinque minuti. La
+quantizzazione precisa 6:00 è utile per indagare la programmazione
+di questo sistema illegale C4ISRT (aerei, droni e moduli nelle
+vicinanze).
+
 ### Ipnosi
 
 Accennai qualcosa in lingua inglese nel commento di una modifica di

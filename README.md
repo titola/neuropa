@@ -1549,6 +1549,13 @@ comes back to the starting level, with black spots randomly scattered
 during the transition. If I repeat the experiment more times, the more
 bright zone departs from the center.
 
+On October 28 2021, 6:00 a.m.: the intensity of this type of light
+(I think in retina) rises remarkably. The room is dark (no reflection
+or diffusion visible by me). It is not an isolated event, but I
+remembered date and time with a maximum error of five minutes. The
+precise quantization 6:00 is useful to investigate the scheduling of
+that illegal C4ISRT system (aircrafts, drones and modules around).
+
 ### Hypnosis
 
 I sketched out something in the comment of a change of this document:
