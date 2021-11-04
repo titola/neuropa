@@ -1218,7 +1218,11 @@ Le altre frequenze sono vicine a 172.8 MHz, l'intervallo di quinta giusta
 di 115.2 MHz (la metà della distanza tra 115.2 MHz e 230.4 MHz):
 
 ```
-115.2 * 3/2 = 230.4 * 3/4 = 172.8 MHz
+28.8 *  5 = 144 MHz: terza maggiore, 2 ottave sopra (assegnata ai radioamatori)
+28.8 *  6 = 172.8 MHz: quinta giusta, 2 ottave sopra (sincronizzato con le voci)
+28.8 *  8 = 230.4 MHz: 3 ottave sopra (livello alto per giochi vari)
+28.8 * 16 = 460.8 MHz: 4 ottave sopra (segnale a 460.557 MHz sincronizzato con le voci)
+28.8 * 32 = 921.6 MHz: 5 ottave sopra (vicino alla banda di frequenze 929.6-970 MHz)
 
 Intervallo di quarta giusta, 5 ottave sopra:
 
@@ -1227,6 +1231,19 @@ Intervallo di quarta giusta, 5 ottave sopra:
 173.880 * 64/3 = 3.709 GHz
 173.956 * 64/3 = 3.711 GHz
 ```
+
+Nel 2017 e 2018, il sonogramma del segnale con frequenze vicine a 28.8 MHz
+era una specie di VU meter per le voci.
+
+Verso ottobre o novembre 2017, mentre osservavo il sonogramma del
+segnale radio alla ricerca di informazioni utili per interpretare
+l'attacco in corso, gl'idioti mi spararono un forte rumore che
+percepivo dietro la testa. Il monitor del computer mostrava un segnale
+rumoroso filtrato da un filtro a pettine (più o meno una decina di
+canali di frequenza evidenziati dal rumore tra 172 MHz e 176 MHz) e
+sincronizzato con il rumore in testa. Poi mi fecero sentire uno
+stupido remix con le voci campionate di alcuni amici miei che mi
+insultavano.
 
 La curva a forma di uncino ricorda le linee d'induzione PLHR
 (Power Line Harmonic Radiation) descritte nell'articolo scientifico

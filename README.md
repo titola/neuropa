@@ -1148,7 +1148,11 @@ The other frequencies are near 172.8 MHz, the interval of perfect fifth
 of 115.2 MHz (the half of the distance between 115.2 MHz and 230.4 MHz):
 
 ```
-115.2 * 3/2 = 230.4 * 3/4 = 172.8 MHz
+28.8 *  5 = 144 MHz: major third, 2 octave up (assigned to amateur radio operators)
+28.8 *  6 = 172.8 MHz: perfect fifth, 2 octaves up (synchronized with the voices)
+28.8 *  8 = 230.4 MHz: 3 octaves up (high level for various games)
+28.8 * 16 = 460.8 MHz: 4 octaves up (signal at 460.557 MHz synchronized with the voices)
+28.8 * 32 = 921.6 MHz: 5 octaves up (near the frequency band 929.6-970 MHz)
 
 Interval of perfect fourth, 5 octaves up:
 
@@ -1157,6 +1161,18 @@ Interval of perfect fourth, 5 octaves up:
 173.880 * 64/3 = 3.709 GHz
 173.956 * 64/3 = 3.711 GHz
 ```
+
+On 2017 and 2018, the sonogram of the signal with frequencies around
+28.8 MHz was a kind of VU meter for the voices.
+
+Around October or November 2017, while I observed the sonogram of the
+radio signal to search for informations useful to interpret the attack
+in progress, the idiots sent a strong noise that I perceived behind my
+head. Meanwhile the computer monitor displayed a comb filtered noise
+(about ten frequency channels evidenced by the noise between 172 and
+176 MHz), synchronized with the noise in my head. Then they played a
+stupid remix with the sampled voices of a few friends of mine that
+insulted me.
 
 The hook shaped curve remembers the PLHR (Power Line Harmonic Radiation)
 induction lines described in the paper "On the nonlinear triggering of
