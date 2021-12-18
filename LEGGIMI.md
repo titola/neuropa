@@ -1599,6 +1599,8 @@ Ho anche una ferita più pronunciata sulla pianta del piede sinistro.
 centro delle piante dei piedi. Una piccola piaga vicino al ginocchio
 sinistro.
 
+Una pomata emolliente a base di glicerina è un rimedio temporaneo.
+
 ### Vibrazione dei denti
 
 Aggiungo questa sezione perché la mattina del 31 Maggio 2019 verso le
