@@ -1769,6 +1769,12 @@ alcune frequenze molto basse da analizzare.
 
 [Un anno dopo (23 Giugno 2019)](https://github.com/titola/neuropa/blob/master/media/100hz_again.wav)
 
+Notte del 17 Gennaio 2022: attacco aggressivo terminato con una lunga
+dissolvenza dopo le cinque (non conosco l'ora precisa). Poi ascoltai
+l'oscillazione di 100 Hz con una modulazione che si sincronizzava sul
+battito cardiaco accelerato, facilmente rilevabile vicino alla tempia
+sinistra.
+
 ### Infrasuoni
 
 Il sonogramma seguente mostra la danza sotto 20 Hz (notte del 16 Maggio 2019):

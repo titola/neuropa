@@ -1688,6 +1688,11 @@ to analyse.
 
 [One year after (June 23 2019)](https://github.com/titola/neuropa/blob/master/media/100hz_again.wav)
 
+On January 17 2022 night: aggressive attack ended with a long fade out
+after 5 a.m. (I don't know the precise time). Then I listened to the
+oscillation of 100 Hz modulated in synchrony with the accelerated
+heartbeat, easily measurable near the left temple.
+
 ### Infrasounds
 
 The following sonogram shows the dance below 20 Hz (May 16 2019 night):
