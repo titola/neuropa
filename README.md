@@ -161,7 +161,9 @@ an illegal C4ISRT system (Command, Control, Communications,
 Computers, Intelligence, Surveillance, Reconnaissance and Torture)
 with optional PSYWAR (psychological warfare), I will continue the
 investigation in spite of the general [indifference](https://github.com/titola/neuropa/commit/fa8a0203c081404e4e679a8ad2185c6bc3deac0b), the omertà,
-5 or 14 Polyphemuses and the Smart Italy [4].
+5 or 14 Polyphemuses and the Smart Italy [4]. Since 2020 that system
+is stil more hidden thanks to the virus Covid-19. Each unexplained
+sympthom is labeled post-covid syndrome or "Long COVID".
 
 ## Signal directed to the head
 

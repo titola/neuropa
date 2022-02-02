@@ -197,7 +197,9 @@ si tratta di un sistema illegale C4ISRT (Command, Control, Communications,
 Computers, Intelligence, Surveillance, Reconnaissance and Torture)
 con PSYWAR (psychological warfare) opzionale, continuerò l'indagine
 nonostante l'indifferenza, l'omertà generale, 5 o 14 Polifemi e la
-Smart Italy [4].
+Smart Italy [4]. Dal 2020 questo sistema è ancora più nascosto grazie
+al virus Covid-19. Ogni sintomo poco chiaro viene etichettato come
+sindrome post-covid o "Long COVID".
 
 L'articolo 28 della Costituzione della Repubblica Italiana è chiaro:
 
