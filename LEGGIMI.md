@@ -986,6 +986,12 @@ PRF 31300 Hz. In questo caso il ritardo di ogni sorgente è
 
 ![](media/mix_of_pulses.jpg)
 
+Per esempio l'arrangiamento su un cerchio (assorbimento circolare)
+forma una specie di motore che produce suoni ed ultrasuoni.
+I battimenti e le interferenze tra due o più pattern circolari
+permettono la composizione di infrasuoni, suoni e ultrasuoni
+complessi.
+
 Immagina le applicazioni possibili con cento o mille droni.
 
 Altri esempi:

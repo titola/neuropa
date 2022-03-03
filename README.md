@@ -925,6 +925,12 @@ with PRF 31300 Hz. In this case, the delay of every source is
 
 ![](media/mix_of_pulses.jpg)
 
+For example, the arrangement on a circle (circular absorption)
+shapes a kind of motor that produces sounds and ultrasounds.
+The beats and the interferences between two or more circular
+patterns allow the composition of complex infrasounds, sounds
+and ultrasounds.
+
 Imagine the possible applications with a lot of drones.
 
 Other examples:
