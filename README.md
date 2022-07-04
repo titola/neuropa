@@ -53,6 +53,7 @@ of the Costituzione della Repubblica Italiana.
     - [Anomalous breath modulation](#anomalous-breath-modulation)
     - [Body vibration stopped after some nightly explosions](#body-vibration-stopped-after-some-nightly-explosions)
     - [Symmetric wounds near the knees](#symmetric-wounds-near-the-knees)
+    - [Shooting pain between the right knee and the side](#shooting-pain-between-the-right-knee-and-the-side)
     - [Teeth vibration](#teeth-vibration)
     - [Mysterious light in the dark](#mysterious-light-in-the-dark)
     - [Hypnosis](#hypnosis)
@@ -1530,6 +1531,17 @@ On May 15 2020: scattered wounds and red dots in the center of the
 soles of my feet. A little wound near the left knee.
 
 An emollient ointment based on glycerine is a temporary remedy.
+
+### Shooting pain between the right knee and the side
+
+On June 3 2022, in the afternoon: the first of a series of aggressive
+attacks on the right leg between the knee and the side. The pulses
+cause a shooting pain and a feeling of faint. Fortunately, the pain
+is mitigated "in some angle of my home", and I can completely remove
+it by inserting CD and metallic objects in the right pockets of the
+trousers.
+
+The part of the leg hit by the pulses is depilated.
 
 ### Teeth vibration
 

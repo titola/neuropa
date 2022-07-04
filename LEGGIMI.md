@@ -70,6 +70,7 @@ Sottotitolo:
     - [Modulazione anomala del respiro](#modulazione-anomala-del-respiro)
     - [Vibrazione del corpo terminata dopo alcune esplosioni notturne](#vibrazione-del-corpo-terminata-dopo-alcune-esplosioni-notturne)
     - [Ferite simmetriche vicino ai ginocchi](#ferite-simmetriche-vicino-ai-ginocchi)
+    - [Dolore lancinante tra il ginocchio e il fianco destro](#dolore-lancinante-tra-il-ginocchio-e-il-fianco-destro)
     - [Vibrazione dei denti](#vibrazione-dei-denti)
     - [Misteriosa luce nel buio](#misteriosa-luce-nel-buio)
     - [Ipnosi](#ipnosi)
@@ -1608,6 +1609,17 @@ centro delle piante dei piedi. Una piccola piaga vicino al ginocchio
 sinistro.
 
 Una pomata emolliente a base di glicerina è un rimedio temporaneo.
+
+### Dolore lancinante tra il ginocchio e il fianco destro
+
+Pomeriggio del 3 giugno 2022: il primo di una serie di attacchi
+aggressivi alla gamba destra tra il ginocchio e il fianco.
+Gli impulsi provocano un dolore lancinante e un senso di svenimento.
+Per fortuna il dolore è attenuato in "qualche angolo della mia casa",
+e posso rimuoverlo completamente inserendo CD e oggetti metallici
+nelle tasche destre dei pantaloni.
+
+La parte della gamba colpita dagli impulsi è depilata.
 
 ### Vibrazione dei denti
 
