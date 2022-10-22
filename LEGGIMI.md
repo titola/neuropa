@@ -1621,6 +1621,11 @@ nelle tasche destre dei pantaloni.
 
 La parte della gamba colpita dagli impulsi è depilata.
 
+22 Ottobre 2022: questa foto mostra strani pattern circolari sopra
+un CD inserito nella tasca destra (quello sopra agli altri CD).
+
+![](media/right_pocket_top_cd_with_circular_patterns.png)
+
 ### Vibrazione dei denti
 
 Aggiungo questa sezione perché la mattina del 31 Maggio 2019 verso le

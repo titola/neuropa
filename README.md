@@ -1543,6 +1543,11 @@ trousers.
 
 The part of the leg hit by the pulses is depilated.
 
+On October 22 2022: this photo shows strange circular patterns on a CD
+inserted in the right pocket (the one over the other CDs).
+
+![](media/right_pocket_top_cd_with_circular_patterns.png)
+
 ### Teeth vibration
 
 I add this section because my teeth considerably vibrated on May 31 2019
