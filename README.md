@@ -1548,6 +1548,11 @@ inserted in the right pocket (the one over the other CDs).
 
 ![](media/right_pocket_top_cd_with_circular_patterns.png)
 
+The following photo shows a CD "erased" through ablation. That CD was
+on the top of stack instead of the CD with circular patterns.
+
+![](media/right_pocket_top_cd_post_ablation.png)
+
 ### Teeth vibration
 
 I add this section because my teeth considerably vibrated on May 31 2019

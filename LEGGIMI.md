@@ -1626,6 +1626,12 @@ un CD inserito nella tasca destra (quello sopra agli altri CD).
 
 ![](media/right_pocket_top_cd_with_circular_patterns.png)
 
+La foto seguente mostra un CD "cancellato" tramite ablazione.
+Questo CD si trovava in alto al posto di quello con i pattern
+circolari.
+
+![](media/right_pocket_top_cd_post_ablation.png)
+
 ### Vibrazione dei denti
 
 Aggiungo questa sezione perché la mattina del 31 Maggio 2019 verso le
