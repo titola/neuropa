@@ -1721,6 +1721,10 @@ after 5 a.m. (I don't know the precise time). Then I listened to the
 oscillation of 100 Hz modulated in synchrony with the accelerated
 heartbeat, easily measurable near the left temple.
 
+The amplitude modulated oscillation of 100 Hz depends on my location
+(it is udible if I am in "some angle of my home") and it is recordable
+every day.
+
 ### Infrasounds
 
 The following sonogram shows the dance below 20 Hz (May 16 2019 night):

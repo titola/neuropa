@@ -1806,6 +1806,10 @@ l'oscillazione di 100 Hz con una modulazione che si sincronizzava sul
 battito cardiaco accelerato, facilmente rilevabile vicino alla tempia
 sinistra.
 
+L'oscillazione di 100 Hz modulata in ampiezza dipende dalla mia
+posizione (è udibile se mi trovo in "qualche angolo della mia casa")
+ed è registrabile tutti i giorni.
+
 ### Infrasuoni
 
 Il sonogramma seguente mostra la danza sotto 20 Hz (notte del 16 Maggio 2019):
