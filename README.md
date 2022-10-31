@@ -32,29 +32,29 @@ of the Costituzione della Repubblica Italiana.
 
 - [Introduction](#introduction)
 - [Signal directed to the head](#signal-directed-to-the-head)
-    - [Harmonics of 230.4 MHz and mobile communications 5G](#harmonics-of-230.4-mhz-and-mobile-communications-5g)
-    - [Scattered pulses modulate the signal with central frequency 230.4 MHz](#scattered-pulses-modulate-the-signal-with-central-frequency-230.4-mhz)
+    - [Harmonics of 230.4 MHz and mobile communications 5G](#harmonics-of-2304-mhz-and-mobile-communications-5g)
+    - [Scattered pulses modulate the signal with central frequency 230.4 MHz](#scattered-pulses-modulate-the-signal-with-central-frequency-2304-mhz)
     - [Radiation sampling and aliasing](#radiation-sampling-and-aliasing)
     - [Tinnitus simulation](#tinnitus-simulation)
-- [Infrasound from the signal received at 422.733 MHz](#infrasound-from-the-signal-received-at-422.733-mhz)
+- [Infrasound from the signal received at 422.733 MHz](#infrasound-from-the-signal-received-at-422733-mhz)
 - [Beat between pulsed radiation and military VLF](#beat-between-pulsed-radiation-and-military-vlf)
 - [Voice encoding](#voice-encoding)
 - [Harmonics of 50 Hz from the mix of the amplitude modulations](#harmonics-of-50-hz-from-the-mix-of-the-amplitude-modulations)
+- [Anomalous breath modulation](#anomalous-breath-modulation)
+- [Body vibration stopped after some nightly explosions](#body-vibration-stopped-after-some-nightly-explosions)
+- [Symmetric wounds near the knees](#symmetric-wounds-near-the-knees)
+- [Shooting pain between the right knee and the side](#shooting-pain-between-the-right-knee-and-the-side)
+- [Teeth vibration](#teeth-vibration)
 - [Bulb with knob](#bulb-with-knob)
 - [Hypothesis about the US embassy attack in Cuba](#hypothesis-about-the-us-embassy-attack-in-cuba)
     - [Harmonics of 180 Hz through aliasing](#harmonics-of-180-hz-through-aliasing)
     - [Methods to get the voices from the audio recording](#methods-to-get-the-voices-from-the-audio-recording)
 - [Other signals to analyse](#other-signals-to-analyse)
-    - [Infrared and plasmonic laser](#infrared-and-plasmonic-laser)
+    - [Pulsed radiation](#pulsed-radiation)
     - [Events synchronized with the voices](#events-synchronized-with-the-voices)
-    - [Correspondence between 422.733 MHz and infrasounds](#correspondence-between-422.733-mhz-and-infrasounds)
+    - [Correspondence between 422.733 MHz and infrasounds](#correspondence-between-422733-mhz-and-infrasounds)
     - [Oscillator at 939 MHz](#oscillator-at-939-mhz)
     - [About 5G](#about-5g)
-    - [Anomalous breath modulation](#anomalous-breath-modulation)
-    - [Body vibration stopped after some nightly explosions](#body-vibration-stopped-after-some-nightly-explosions)
-    - [Symmetric wounds near the knees](#symmetric-wounds-near-the-knees)
-    - [Shooting pain between the right knee and the side](#shooting-pain-between-the-right-knee-and-the-side)
-    - [Teeth vibration](#teeth-vibration)
     - [Mysterious light in the dark](#mysterious-light-in-the-dark)
     - [Hypnosis](#hypnosis)
 - [Audio recordings](#audio-recordings)
@@ -962,6 +962,169 @@ into the circuits that pass through a rectifier and an amplifier,
 particularly the radio modules of the smart electric meters, dirty
 the electric current in a particular and possibly controlled way.
 
+## Anomalous breath modulation
+
+On August 9 2019 night, between 2:20 and 2:30 a.m., I am supine in bed.
+Unexpectedly the audible frequency of my noisy breath decreases, more or
+less linearly, till the disappearance of the noise in about two or three
+seconds. This type of breath is absolutely unnatural and not under my
+control. It is the first time that it occurs during the attack and in
+my life.
+
+Note: there is the summer time in Italy, therefore 2:30 is 1:30 + 1.
+
+The following sound file contains a filtered noise that approximates
+the described effect:
+
+[approximated_anomalous_breath_modulation.wav](https://raw.githubusercontent.com/titola/neuropa/master/media/approximated_anomalous_breath_modulation.wav)
+
+Ask to your favourite search engine what happened on August 8 2019.
+Maybe it is a coincidence (I hope) but the laser placed on such
+vehicles is used as directed-energy weapon (i.e. COIL -- chemical
+oxygen-iodine laser, an infrared chemical laser with operation
+wavelength of 1315 nm).
+
+Same film script on March 13 2020 night, between 1:35 and 1:40 a.m.
+more or less the time of August 9 without summer time.
+Probably there is a link with the military management, forced by the
+Italian governmental measures to curb the infection from Covid-19.
+Perhaps (in Italy) some killer vehicles switch off the engines around
+1:30 a.m. in consequence of special measures.
+
+On July 27 2020: pneumonia (without coronavirus) and fever over 40°C.
+Hospitalization for two weeks since July 31 2020.
+
+On February 16 2021, about midnight: aggressive attack with pulses
+absorbed by tongue and palate. The noise in the room seems produced
+by a rotative movement.
+
+On February 23 2021, about midnight: aggressive attack with high
+energy level. My body is blocked for more than 30 seconds but I manage
+to control the breath.
+
+I often feel a tickle to the nose. Sometimes I perceive for a few
+seconds a smell that remembers the ozone (end of 2018, beginning of
+2019) or the exhaust (end of 2019, beginning of 2020). My closed room
+is far from sources of this type. What are the side effects of a
+particular laser or other pulsed radiation pushed in the nose or in
+the mouth? Could they cross the digestive or respiratory apparatus?
+Could they alter the sense of smell?
+
+I think pneumonia was caused by that system. I described the teeth
+vibration and the anomalous oscillations produced when I blow in the
+air. There is an audio recording in the section "Other oscillations
+obtained when the military worms point my mouth". The main resonances
+are a fraction of the number 32000:
+
+```
+# August 27, 2021.
+2909.090909090909 Hz =     32000 / 11
+3469.879518072289 Hz = 9 * 32000 / 83 = 288000/83 = 1734.939759 * 2
+
+# Oscillation produced after a convulsion on August 20, 2018.
+5333.333333333333 Hz =     32000 / 6
+```
+
+Why is the earwax blue if I plug an ear with a coin during the night?
+There is evidently a substance that reflects blue light. Is it normal?
+I saw a blue light beam a couple of times between 2018 and 2019, with
+diameter of about two or three centimeters. The titanium-sapphire laser
+(Ti:Al2O3) is an example of laser employed at different wavelengths [10]:
+
+- Ti:sapphire (tripled) 235-330 nm (ultraviolet)
+- Ti:sapphire (doubled) 360-460 nm (blue light)
+- Ti:sapphire 670-1130 nm (NIR). For example, H2O-lidar at 935 and 942 nm.
+
+## Body vibration stopped after some nightly explosions
+
+On October 2 2018 night, my body has started to rapidly vibrate with a
+growing intensity. After a hasty sequence of at least three explosions
+(I haven't checked on the time), the vibration intensity is attenuated
+about 70%.
+
+On January 12 2019 at 4:15 a.m., another similar but less strong
+explosion has marked the end of a slight body vibration, started after
+one of the many forced awakenings.
+
+The sound that I hear during the body vibrations remembers the sound
+of a concrete mixer.
+
+On January 16 2019 at midnight: no explosions but an instantaneous
+flash has lighted up my room during a forced awakening. There are
+other similar events after that date. Then the torture is continued
+with the body heating for some hours (it is instead a classic) and the
+customary voices that provoke me nonstop. Sometimes the walls creak as
+every night.  Generally the forced awakenings are more than three.
+
+On March 23 2019 night 1:30: another burst near the window of my room
+(outdoors). On 21 March, I have hung a a Venetian curtain in front of
+the window. On 22 March, I have added reflecting materials (DVD and
+aluminium) between the window and the curtain.
+
+On September 8 2019 at 4:00 a.m., another instantaneous flash (this
+type of event is frequent after that date).
+
+Three explosions on May 31 2021 at 3:15 a.m.
+
+## Symmetric wounds near the knees
+
+I have two similar permanent wounds near the knees. This photo shows
+the left side of the right knee:
+
+![](media/right_knee.jpg)
+
+I have also a more pronounced wound on the left foot.
+
+On May 15 2020: scattered wounds and red dots in the center of the
+soles of my feet. A little wound near the left knee.
+
+An emollient ointment based on glycerine is a temporary remedy.
+
+## Shooting pain between the right knee and the side
+
+On June 3 2022, in the afternoon: the first of a series of aggressive
+attacks on the right leg between the knee and the side. The pulses
+cause a shooting pain and a feeling of faint. Fortunately, the pain
+is mitigated "in some angle of my home", and I can completely remove
+it by inserting CD and metallic objects in the right pockets of the
+trousers.
+
+The part of the leg hit by the pulses is depilated.
+
+On October 22 2022: this photo shows strange circular patterns on a CD
+inserted in the right pocket (the one over the other CDs).
+
+![](media/right_pocket_top_cd_with_circular_patterns.png)
+
+The following photo shows a CD "erased" through ablation. That CD was
+on the top of stack instead of the CD with circular patterns.
+
+![](media/right_pocket_top_cd_post_ablation.png)
+
+## Teeth vibration
+
+I add this section because my teeth considerably vibrated on May 31 2019
+around 6:00 AM.
+
+The following table shows the approximations of six natural frequencies
+of four kinds of tooth, calculated by using a mechanical model described
+in the paper "Calculation of Natural Frequencies of Teeth Supported with
+the Periodontal Ligament" by Yukio KOJIMA and Hisao FUKUI.
+
+| tooth                 | f1   | f2   | f3   | f4   | f5   | f6   |
+|-----------------------|------|------|------|------|------|------|
+| upper central incisor | 1330 | 1440 | 1610 | 1670 | 5010 | 5410 |
+| upper first premolar  | 1610 | 1900 | 1950 | 3050 | 5810 | 6440 |
+| upper first molar     | 1610 | 1840 | 2230 | 4010 | 5590 | 6480 |
+| lower first molar     | 1780 | 1910 | 2100 | 2940 | 4370 | 6380 |
+
+The frequencies 1610 Hz, 1670 Hz and 1780 Hz are near 1733 Hz analysed
+in the section "Signal directed to the head" (also 5010 Hz and 5410 Hz
+are near 5200 Hz). The frequency 1300 Hz is considerable in the figure 4
+of "Numerical Analysis of the Microwave Auditory Effect", and it
+corresponds to the interval of perfect fifth, two octaves up, of 216.67 Hz
+analysed in the same section.
+
 ## Bulb with knob
 
 I can adjust the light bulb through a knob to check the presence of
@@ -1113,7 +1276,7 @@ Alternative method:
 
 ## Other signals to analyse
 
-### Infrared and plasmonic laser
+### Pulsed radiation
 
 I discovered that if I change the arrangement of one or more DVD's,
 I can vary the distribution and the granularity of the tinnitus. I was
@@ -1411,171 +1574,6 @@ There is also...
 > sicurezza civile e militare [...]
 
 I'm sorry, but you are no more credible nor reliable.
-
-### Anomalous breath modulation
-
-On August 9 2019 night, between 2:20 and 2:30 a.m., I am supine in bed.
-Unexpectedly the audible frequency of my noisy breath decreases, more or
-less linearly, till the disappearance of the noise in about two or three
-seconds. This type of breath is absolutely unnatural and not under my
-control. It is the first time that it occurs during the attack and in
-my life.
-
-Note: there is the summer time in Italy, therefore 2:30 is 1:30 + 1.
-
-The following sound file contains a filtered noise that approximates
-the described effect:
-
-[approximated_anomalous_breath_modulation.wav](https://raw.githubusercontent.com/titola/neuropa/master/media/approximated_anomalous_breath_modulation.wav)
-
-Ask to your favourite search engine what happened on August 8 2019.
-Maybe it is a coincidence (I hope) but the laser placed on such
-vehicles is used as directed-energy weapon (i.e. COIL -- chemical
-oxygen-iodine laser, an infrared chemical laser with operation
-wavelength of 1315 nm).
-
-Same film script on March 13 2020 night, between 1:35 and 1:40 a.m.
-more or less the time of August 9 without summer time.
-Probably there is a link with the military management, forced by the
-Italian governmental measures to curb the infection from Covid-19.
-Perhaps (in Italy) some killer vehicles switch off the engines around
-1:30 a.m. in consequence of special measures.
-
-On July 27 2020: pneumonia (without coronavirus) and fever over 40°C.
-Hospitalization for two weeks since July 31 2020.
-
-On February 16 2021, about midnight: aggressive attack with pulses
-absorbed by tongue and palate. The noise in the room seems produced
-by a rotative movement.
-
-On February 23 2021, about midnight: aggressive attack with high
-energy level. My body is blocked for more than 30 seconds but I manage
-to control the breath.
-
-I often feel a tickle to the nose. Sometimes I perceive for a few
-seconds a smell that remembers the ozone (end of 2018, beginning of
-2019) or the exhaust (end of 2019, beginning of 2020). My closed room
-is far from sources of this type. What are the side effects of a
-particular laser or other pulsed radiation pushed in the nose or in
-the mouth? Could they cross the digestive or respiratory apparatus?
-Could they alter the sense of smell?
-
-I think pneumonia was caused by that system. I described the teeth
-vibration and the anomalous oscillations produced when I blow in the
-air. There is an audio recording in the section "Other oscillations
-obtained when the military worms point my mouth". The main resonances
-are a fraction of the number 32000:
-
-```
-# August 27, 2021.
-2909.090909090909 Hz =     32000 / 11
-3469.879518072289 Hz = 9 * 32000 / 83 = 288000/83 = 1734.939759 * 2
-
-# Oscillation produced after a convulsion on August 20, 2018.
-5333.333333333333 Hz =     32000 / 6
-```
-
-Why is the earwax blue if I plug an ear with a coin during the night?
-There is evidently a substance that reflects blue light. Is it normal?
-I saw a blue light beam a couple of times between 2018 and 2019, with
-diameter of about two or three centimeters. The titanium-sapphire laser
-(Ti:Al2O3) is an example of laser employed at different wavelengths [10]:
-
-- Ti:sapphire (tripled) 235-330 nm (ultraviolet)
-- Ti:sapphire (doubled) 360-460 nm (blue light)
-- Ti:sapphire 670-1130 nm (NIR). For example, H2O-lidar at 935 and 942 nm.
-
-
-
-### Body vibration stopped after some nightly explosions
-
-On October 2 2018 night, my body has started to rapidly vibrate with a
-growing intensity. After a hasty sequence of at least three explosions
-(I haven't checked on the time), the vibration intensity is attenuated
-about 70%.
-
-On January 12 2019 at 4:15 a.m., another similar but less strong
-explosion has marked the end of a slight body vibration, started after
-one of the many forced awakenings.
-
-The sound that I hear during the body vibrations remembers the sound
-of a concrete mixer.
-
-On January 16 2019 at midnight: no explosions but an instantaneous
-flash has lighted up my room during a forced awakening. There are
-other similar events after that date. Then the torture is continued
-with the body heating for some hours (it is instead a classic) and the
-customary voices that provoke me nonstop. Sometimes the walls creak as
-every night.  Generally the forced awakenings are more than three.
-
-On March 23 2019 night 1:30: another burst near the window of my room
-(outdoors). On 21 March, I have hung a a Venetian curtain in front of
-the window. On 22 March, I have added reflecting materials (DVD and
-aluminium) between the window and the curtain.
-
-On September 8 2019 at 4:00 a.m., another instantaneous flash (this
-type of event is frequent after that date).
-
-Three explosions on May 31 2021 at 3:15 a.m.
-
-### Symmetric wounds near the knees
-
-I have two similar permanent wounds near the knees. This photo shows
-the left side of the right knee:
-
-![](media/right_knee.jpg)
-
-I have also a more pronounced wound on the left foot.
-
-On May 15 2020: scattered wounds and red dots in the center of the
-soles of my feet. A little wound near the left knee.
-
-An emollient ointment based on glycerine is a temporary remedy.
-
-### Shooting pain between the right knee and the side
-
-On June 3 2022, in the afternoon: the first of a series of aggressive
-attacks on the right leg between the knee and the side. The pulses
-cause a shooting pain and a feeling of faint. Fortunately, the pain
-is mitigated "in some angle of my home", and I can completely remove
-it by inserting CD and metallic objects in the right pockets of the
-trousers.
-
-The part of the leg hit by the pulses is depilated.
-
-On October 22 2022: this photo shows strange circular patterns on a CD
-inserted in the right pocket (the one over the other CDs).
-
-![](media/right_pocket_top_cd_with_circular_patterns.png)
-
-The following photo shows a CD "erased" through ablation. That CD was
-on the top of stack instead of the CD with circular patterns.
-
-![](media/right_pocket_top_cd_post_ablation.png)
-
-### Teeth vibration
-
-I add this section because my teeth considerably vibrated on May 31 2019
-around 6:00 AM.
-
-The following table shows the approximations of six natural frequencies
-of four kinds of tooth, calculated by using a mechanical model described
-in the paper "Calculation of Natural Frequencies of Teeth Supported with
-the Periodontal Ligament" by Yukio KOJIMA and Hisao FUKUI.
-
-| tooth                 | f1   | f2   | f3   | f4   | f5   | f6   |
-|-----------------------|------|------|------|------|------|------|
-| upper central incisor | 1330 | 1440 | 1610 | 1670 | 5010 | 5410 |
-| upper first premolar  | 1610 | 1900 | 1950 | 3050 | 5810 | 6440 |
-| upper first molar     | 1610 | 1840 | 2230 | 4010 | 5590 | 6480 |
-| lower first molar     | 1780 | 1910 | 2100 | 2940 | 4370 | 6380 |
-
-The frequencies 1610 Hz, 1670 Hz and 1780 Hz are near 1733 Hz analysed
-in the section "Signal directed to the head" (also 5010 Hz and 5410 Hz
-are near 5200 Hz). The frequency 1300 Hz is considerable in the figure 4
-of "Numerical Analysis of the Microwave Auditory Effect", and it
-corresponds to the interval of perfect fifth, two octaves up, of 216.67 Hz
-analysed in the same section.
 
 ### Mysterious light in the dark
 

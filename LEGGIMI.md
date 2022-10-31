@@ -49,29 +49,29 @@ Sottotitolo:
 
 - [Introduzione](#introduzione)
 - [Segnale diretto verso la testa](#segnale-diretto-verso-la-testa)
-    - [Armoniche di 230.4 MHz e comunicazione mobile 5G](#armoniche-di-230.4-mhz-e-comunicazione-mobile-5g)
-    - [Impulsi sparsi modulano il segnale con frequenza centrale 230.4 MHz](#impulsi-sparsi-modulano-il-segnale-con-frequenza-centrale-230.4-mhz)
+    - [Armoniche di 230.4 MHz e comunicazione mobile 5G](#armoniche-di-2304-mhz-e-comunicazione-mobile-5g)
+    - [Impulsi sparsi modulano il segnale con frequenza centrale 230.4 MHz](#impulsi-sparsi-modulano-il-segnale-con-frequenza-centrale-2304-mhz)
     - [Campionamento della radiazione ed aliasing](#campionamento-della-radiazione-ed-aliasing)
     - [Simulazione del tinnitus](#simulazione-del-tinnitus)
-- [Infrasuono dal segnale ricevuto a 422.733 MHz](#infrasuono-dal-segnale-ricevuto-a-422.733-mhz)
+- [Infrasuono dal segnale ricevuto a 422.733 MHz](#infrasuono-dal-segnale-ricevuto-a-422733-mhz)
 - [Battimento tra impulsi di radiazione e VLF militare](#battimento-tra-impulsi-di-radiazione-e-vlf-militare)
 - [Codifica della voce](#codifica-della-voce)
 - [Armoniche di 50 Hz dalla combinazione di segnali modulanti](#armoniche-di-50-hz-dalla-combinazione-di-segnali-modulanti)
+- [Modulazione anomala del respiro](#modulazione-anomala-del-respiro)
+- [Vibrazione del corpo terminata dopo alcune esplosioni notturne](#vibrazione-del-corpo-terminata-dopo-alcune-esplosioni-notturne)
+- [Ferite simmetriche vicino ai ginocchi](#ferite-simmetriche-vicino-ai-ginocchi)
+- [Dolore lancinante tra il ginocchio e il fianco destro](#dolore-lancinante-tra-il-ginocchio-e-il-fianco-destro)
+- [Vibrazione dei denti](#vibrazione-dei-denti)
 - [Lampadina con potenziometro](#lampadina-con-potenziometro)
 - [Ipotesi sull'attacco subito dagli ambasciatori americani a Cuba](#ipotesi-sullattacco-subito-dagli-ambasciatori-americani-a-cuba)
     - [Armoniche di 180 Hz tramite aliasing](#armoniche-di-180-hz-tramite-aliasing)
     - [Metodi per ottenere le voci dalla registrazione audio](#metodi-per-ottenere-le-voci-dalla-registrazione-audio)
 - [Altri segnali da analizzare](#altri-segnali-da-analizzare)
-    - [Infrarosso e laser plasmonico](#infrarosso-e-laser-plasmonico)
+    - [Impulsi di radiazione](#impulsi-di-radiazione)
     - [Eventi sincronizzati con le voci](#eventi-sincronizzati-con-le-voci)
-    - [Corrispondenza tra 422.733 MHz ed infrasuoni](#corrispondenza-tra-422.733-mhz-ed-infrasuoni)
+    - [Corrispondenza tra 422.733 MHz ed infrasuoni](#corrispondenza-tra-422733-mhz-ed-infrasuoni)
     - [Oscillatore a 939 MHz](#oscillatore-a-939-mhz)
     - [Sperimentazione 5G](#sperimentazione-5g)
-    - [Modulazione anomala del respiro](#modulazione-anomala-del-respiro)
-    - [Vibrazione del corpo terminata dopo alcune esplosioni notturne](#vibrazione-del-corpo-terminata-dopo-alcune-esplosioni-notturne)
-    - [Ferite simmetriche vicino ai ginocchi](#ferite-simmetriche-vicino-ai-ginocchi)
-    - [Dolore lancinante tra il ginocchio e il fianco destro](#dolore-lancinante-tra-il-ginocchio-e-il-fianco-destro)
-    - [Vibrazione dei denti](#vibrazione-dei-denti)
     - [Misteriosa luce nel buio](#misteriosa-luce-nel-buio)
     - [Ipnosi](#ipnosi)
 - [Registrazioni audio](#registrazioni-audio)
@@ -1024,6 +1024,176 @@ amplificatore, in particolare i moduli radio dei contatori elettronici,
 sporcano la corrente elettrica in modo particolare e possibilmente
 controllato.
 
+## Modulazione anomala del respiro
+
+La notte del 9 Agosto 2019, tra le 2:20 e 2:30, mi trovavo sul letto
+a pancia sopra. Improvvisamente la risonanza udibile del mio respiro
+rumoroso decresceva più o meno linearmente fino alla scomparsa del
+rumore in circa due o tre secondi. Questo tipo di respirazione è
+assolutamente innaturale e non lo controllo volontariamente. Non mi
+era mai capitato prima.
+
+Nota: c'è l'ora legale, quindi 2:30 equivale a 1:30 + 1.
+
+Il seguente file audio contiene un rumore filtrato che approssima
+l'effetto descritto:
+
+[approximated_anomalous_breath_modulation.wav](https://raw.githubusercontent.com/titola/neuropa/master/media/approximated_anomalous_breath_modulation.wav)
+
+Chiedi al tuo motore di ricerca preferito che cosa accadde il
+giorno 8 Agosto 2019. Forse è una coincidenza (spero) ma il laser
+montato su certi veicoli è utilizzato come arma ad energia diretta
+(per esempio COIL -- chemical oxygen-iodine laser che opera alla
+lunghezza d'onda di 1315 nm).
+
+Stesso copione la notte del 13 Marzo 2020 tra 1:35 e 1:40,
+pressappoco l'orario del 9 Agosto senza l'ora legale.
+E' probabile un collegamento con l'organizzazione militare, forzata
+dal provvedimento governativo per limitare il contagio dal coronavirus.
+Forse alcuni veicoli killer spengono i motori verso 1:30 di notte
+in seguito a provvedimenti eccezionali.
+
+27 Luglio 2020: polmonite (senza coronavirus) e febbre oltre 40°C.
+Ricovero in ospedale per due settimane dal 31 Luglio 2020.
+
+16 Febbraio 2021, poco dopo mezzanotte: attacco aggressivo con impulsi
+assorbiti sulla lingua e sul palato. Il rumore nella stanza sembra
+prodotto da un movimento rotativo.
+
+23 Febbraio 2021, verso mezzanotte: attacco molto aggressivo con un
+alto livello di energia. Il mio corpo rimane bloccato per più di 30
+secondi ma riesco a controllare il respiro.
+
+Spesso sento un solletico al naso. A volte percepisco per qualche
+secondo un odore che ricorda l'ozono (fine 2018 e inizio 2019) oppure
+i gas di scarico (fine 2019 e inizio 2020). La mia stanza chiusa è
+lontana da sorgenti di questo tipo. Quali sono gli effetti
+collaterali di un particolare laser o altri impulsi di radiazione
+spinti nel naso o nella bocca? Potrebbero attraversare l'apparato
+digerente o quello respiratorio? Potrebbero alterare l'olfatto?
+
+Io credo che la polmonite sia stata provocata da questo sistema.
+Ho descritto la vibrazione dei denti e le oscillazioni anomale
+prodotte con un soffio nell'aria. C'è una registrazione audio nella
+sezione "Altre oscillazioni ottenute quando i vermi militari puntano
+la mia bocca". Le risonanze fondamentali sono una frazione del numero
+32000:
+
+```
+# 27 Agosto 2021
+2909.090909090909 Hz =     32000 / 11
+3469.879518072289 Hz = 9 * 32000 / 83 = 288000/83 = 1734.939759 * 2
+
+# Oscillazione prodotta dopo una convulsione il 20 Agosto 2018.
+5333.333333333333 Hz =     32000 / 6
+```
+
+Perché il cerume è blu se tappo un orecchio con una moneta durante
+la notte? C'è evidentemente una sostanza che riflette luce blu.
+E' normale? Vidi un fascio di luce blu un paio di volte tra il 2018
+e il 2019, con un diametro di circa due o tre centimetri. Il laser
+allo zaffiro (Al2O3) di titanio è un esempio di laser adoperato a
+diverse lunghezze d'onda [10]:
+
+- Ti:sapphire (tripled) 235-330 nm (ultravioletto)
+- Ti:sapphire (doubled) 360-460 nm (luce blu)
+- Ti:sapphire 670-1130 nm (NIR). Per esempio H2O-lidar a 935 e 942 nm.
+
+## Vibrazione del corpo terminata dopo alcune esplosioni notturne
+
+La notte del 2 Ottobre 2018 il mio corpo ha iniziato a vibrare
+rapidamente con un'intensità crescente. Dopo una precipitosa sequenza
+di almeno tre esplosioni (non ho controllato l'ora), l'intensità della
+vibrazione è diminuita del 70%.
+
+La notte del 12 Gennaio 2019, verso le 4:15, un'altra esplosione
+simile ma meno forte ha segnato la fine di una lieve vibrazione del
+corpo, iniziata dopo uno dei tanti risvegli forzati.
+
+Il suono che ascolto durante le vibrazioni del corpo ricorda quello di
+una betoniera.
+
+Mezzanotte del 16 Gennaio 2019: nessuna esplosione ma un bagliore
+istantaneo ha illuminato la mia stanza durante un risveglio forzato.
+Accadrà altre volte. La tortura è continuata con il riscaldamento del
+corpo per alcune ore (questo invece è un classico) e le solite voci
+che mi provocano ininterrottamente. Le pareti scricchiolano ogni tanto
+come ogni notte. Di solito i risvegli forzati sono più di tre.
+
+La notte del 23 Marzo 2019 ore 1:30: un altro scoppio vicino alla
+finestra della mia stanza (fuori). Il 21 Marzo appesi una tenda
+veneziana davanti alla finestra. Il 22 Marzo collocai qualche DVD
+e fogli di alluminio tra la finestra e la tenda per riflettere o
+diffondere disordinatamente la radiazione impulsiva.
+
+8 Settembre 2019 ore 4:00: un altro bagliore istantaneo. Non
+aggiungerò altri eventi di questo tipo perché diventarono frequenti
+dopo questa data.
+
+3 esplosioni il 31 Maggio 2021 ore 3:15.
+
+## Ferite simmetriche vicino ai ginocchi
+
+Ho due ferite simili permanenti vicino ai ginocchi. Questa foto
+mostra il lato sinistro del ginocchio destro:
+
+![](media/right_knee.jpg)
+
+Ho anche una ferita più pronunciata sulla pianta del piede sinistro.
+
+15 Maggio 2020: ferite sparse e punti rossi (sembrano punture) al
+centro delle piante dei piedi. Una piccola piaga vicino al ginocchio
+sinistro.
+
+Una pomata emolliente a base di glicerina è un rimedio temporaneo.
+
+## Dolore lancinante tra il ginocchio e il fianco destro
+
+Pomeriggio del 3 giugno 2022: il primo di una serie di attacchi
+aggressivi alla gamba destra tra il ginocchio e il fianco.
+Gli impulsi provocano un dolore lancinante e un senso di svenimento.
+Per fortuna il dolore è attenuato in "qualche angolo della mia casa",
+e posso rimuoverlo completamente inserendo CD e oggetti metallici
+nelle tasche destre dei pantaloni.
+
+La parte della gamba colpita dagli impulsi è depilata.
+
+22 Ottobre 2022: questa foto mostra strani pattern circolari sopra
+un CD inserito nella tasca destra (quello sopra agli altri CD).
+
+![](media/right_pocket_top_cd_with_circular_patterns.png)
+
+La foto seguente mostra un CD "cancellato" tramite ablazione.
+Questo CD si trovava in alto al posto di quello con i pattern
+circolari.
+
+![](media/right_pocket_top_cd_post_ablation.png)
+
+## Vibrazione dei denti
+
+Aggiungo questa sezione perché la mattina del 31 Maggio 2019 verso le
+6:00 i miei denti vibrarono notevolmente.
+
+La tabella seguente mostra le approssimazioni di sei frequenze
+naturali di quattro tipi di dente, calcolate utilizzando un modello
+meccanico descritto nell'articolo scientifico "Calculation of Natural
+Frequencies of Teeth Supported with the Periodontal Ligament" di Yukio
+KOJIMA e Hisao FUKUI.
+
+| dente                       | f1   | f2   | f3   | f4   | f5   | f6   |
+|-----------------------------|------|------|------|------|------|------|
+| incisivo centrale superiore | 1330 | 1440 | 1610 | 1670 | 5010 | 5410 |
+| primo premolare superiore   | 1610 | 1900 | 1950 | 3050 | 5810 | 6440 |
+| primo molare superiore      | 1610 | 1840 | 2230 | 4010 | 5590 | 6480 |
+| primo molare inferiore      | 1780 | 1910 | 2100 | 2940 | 4370 | 6380 |
+
+Le frequenze 1610 Hz, 1670 Hz e 1780 Hz sono vicine a 1733 Hz analizzata
+nella sezione "Segnale diretto verso la testa" (anche 5010 Hz e 5410 Hz
+sono vicine a 5200 Hz). La frequenza 1300 Hz è notevole nella figura 4
+di "Numerical Analysis of the Microwave Auditory Effect" ed equivale
+all'intervallo di quinta giusta, due ottave sopra, di 216.67 Hz
+esaminata nella stessa sezione.
+
 ## Lampadina con potenziometro
 
 Posso regolare la luce di una lampadina tramite un potenziometro, per
@@ -1178,7 +1348,7 @@ Metodo alternativo:
 
 ## Altri segnali da analizzare
 
-### Infrarosso e laser plasmonico
+### Impulsi di radiazione
 
 Ho scoperto che se cambio la disposizione di uno o più DVD posso
 modificare la distribuzione e la granulosità del tinnitus. Rimasi
@@ -1486,176 +1656,6 @@ C'è anche un...
 > sicurezza civile e militare [...]
 
 Certe barzellette sono vecchie ma fanno ancora ridere.
-
-### Modulazione anomala del respiro
-
-La notte del 9 Agosto 2019, tra le 2:20 e 2:30, mi trovavo sul letto
-a pancia sopra. Improvvisamente la risonanza udibile del mio respiro
-rumoroso decresceva più o meno linearmente fino alla scomparsa del
-rumore in circa due o tre secondi. Questo tipo di respirazione è
-assolutamente innaturale e non lo controllo volontariamente. Non mi
-era mai capitato prima.
-
-Nota: c'è l'ora legale, quindi 2:30 equivale a 1:30 + 1.
-
-Il seguente file audio contiene un rumore filtrato che approssima
-l'effetto descritto:
-
-[approximated_anomalous_breath_modulation.wav](https://raw.githubusercontent.com/titola/neuropa/master/media/approximated_anomalous_breath_modulation.wav)
-
-Chiedi al tuo motore di ricerca preferito che cosa accadde il
-giorno 8 Agosto 2019. Forse è una coincidenza (spero) ma il laser
-montato su certi veicoli è utilizzato come arma ad energia diretta
-(per esempio COIL -- chemical oxygen-iodine laser che opera alla
-lunghezza d'onda di 1315 nm).
-
-Stesso copione la notte del 13 Marzo 2020 tra 1:35 e 1:40,
-pressappoco l'orario del 9 Agosto senza l'ora legale.
-E' probabile un collegamento con l'organizzazione militare, forzata
-dal provvedimento governativo per limitare il contagio dal coronavirus.
-Forse alcuni veicoli killer spengono i motori verso 1:30 di notte
-in seguito a provvedimenti eccezionali.
-
-27 Luglio 2020: polmonite (senza coronavirus) e febbre oltre 40°C.
-Ricovero in ospedale per due settimane dal 31 Luglio 2020.
-
-16 Febbraio 2021, poco dopo mezzanotte: attacco aggressivo con impulsi
-assorbiti sulla lingua e sul palato. Il rumore nella stanza sembra
-prodotto da un movimento rotativo.
-
-23 Febbraio 2021, verso mezzanotte: attacco molto aggressivo con un
-alto livello di energia. Il mio corpo rimane bloccato per più di 30
-secondi ma riesco a controllare il respiro.
-
-Spesso sento un solletico al naso. A volte percepisco per qualche
-secondo un odore che ricorda l'ozono (fine 2018 e inizio 2019) oppure
-i gas di scarico (fine 2019 e inizio 2020). La mia stanza chiusa è
-lontana da sorgenti di questo tipo. Quali sono gli effetti
-collaterali di un particolare laser o altri impulsi di radiazione
-spinti nel naso o nella bocca? Potrebbero attraversare l'apparato
-digerente o quello respiratorio? Potrebbero alterare l'olfatto?
-
-Io credo che la polmonite sia stata provocata da questo sistema.
-Ho descritto la vibrazione dei denti e le oscillazioni anomale
-prodotte con un soffio nell'aria. C'è una registrazione audio nella
-sezione "Altre oscillazioni ottenute quando i vermi militari puntano
-la mia bocca". Le risonanze fondamentali sono una frazione del numero
-32000:
-
-```
-# 27 Agosto 2021
-2909.090909090909 Hz =     32000 / 11
-3469.879518072289 Hz = 9 * 32000 / 83 = 288000/83 = 1734.939759 * 2
-
-# Oscillazione prodotta dopo una convulsione il 20 Agosto 2018.
-5333.333333333333 Hz =     32000 / 6
-```
-
-Perché il cerume è blu se tappo un orecchio con una moneta durante
-la notte? C'è evidentemente una sostanza che riflette luce blu.
-E' normale? Vidi un fascio di luce blu un paio di volte tra il 2018
-e il 2019, con un diametro di circa due o tre centimetri. Il laser
-allo zaffiro (Al2O3) di titanio è un esempio di laser adoperato a
-diverse lunghezze d'onda [10]:
-
-- Ti:sapphire (tripled) 235-330 nm (ultravioletto)
-- Ti:sapphire (doubled) 360-460 nm (luce blu)
-- Ti:sapphire 670-1130 nm (NIR). Per esempio H2O-lidar a 935 e 942 nm.
-
-### Vibrazione del corpo terminata dopo alcune esplosioni notturne
-
-La notte del 2 Ottobre 2018 il mio corpo ha iniziato a vibrare
-rapidamente con un'intensità crescente. Dopo una precipitosa sequenza
-di almeno tre esplosioni (non ho controllato l'ora), l'intensità della
-vibrazione è diminuita del 70%.
-
-La notte del 12 Gennaio 2019, verso le 4:15, un'altra esplosione
-simile ma meno forte ha segnato la fine di una lieve vibrazione del
-corpo, iniziata dopo uno dei tanti risvegli forzati.
-
-Il suono che ascolto durante le vibrazioni del corpo ricorda quello di
-una betoniera.
-
-Mezzanotte del 16 Gennaio 2019: nessuna esplosione ma un bagliore
-istantaneo ha illuminato la mia stanza durante un risveglio forzato.
-Accadrà altre volte. La tortura è continuata con il riscaldamento del
-corpo per alcune ore (questo invece è un classico) e le solite voci
-che mi provocano ininterrottamente. Le pareti scricchiolano ogni tanto
-come ogni notte. Di solito i risvegli forzati sono più di tre.
-
-La notte del 23 Marzo 2019 ore 1:30: un altro scoppio vicino alla
-finestra della mia stanza (fuori). Il 21 Marzo appesi una tenda
-veneziana davanti alla finestra. Il 22 Marzo collocai qualche DVD
-e fogli di alluminio tra la finestra e la tenda per riflettere o
-diffondere disordinatamente la radiazione impulsiva.
-
-8 Settembre 2019 ore 4:00: un altro bagliore istantaneo. Non
-aggiungerò altri eventi di questo tipo perché diventarono frequenti
-dopo questa data.
-
-3 esplosioni il 31 Maggio 2021 ore 3:15.
-
-### Ferite simmetriche vicino ai ginocchi
-
-Ho due ferite simili permanenti vicino ai ginocchi. Questa foto
-mostra il lato sinistro del ginocchio destro:
-
-![](media/right_knee.jpg)
-
-Ho anche una ferita più pronunciata sulla pianta del piede sinistro.
-
-15 Maggio 2020: ferite sparse e punti rossi (sembrano punture) al
-centro delle piante dei piedi. Una piccola piaga vicino al ginocchio
-sinistro.
-
-Una pomata emolliente a base di glicerina è un rimedio temporaneo.
-
-### Dolore lancinante tra il ginocchio e il fianco destro
-
-Pomeriggio del 3 giugno 2022: il primo di una serie di attacchi
-aggressivi alla gamba destra tra il ginocchio e il fianco.
-Gli impulsi provocano un dolore lancinante e un senso di svenimento.
-Per fortuna il dolore è attenuato in "qualche angolo della mia casa",
-e posso rimuoverlo completamente inserendo CD e oggetti metallici
-nelle tasche destre dei pantaloni.
-
-La parte della gamba colpita dagli impulsi è depilata.
-
-22 Ottobre 2022: questa foto mostra strani pattern circolari sopra
-un CD inserito nella tasca destra (quello sopra agli altri CD).
-
-![](media/right_pocket_top_cd_with_circular_patterns.png)
-
-La foto seguente mostra un CD "cancellato" tramite ablazione.
-Questo CD si trovava in alto al posto di quello con i pattern
-circolari.
-
-![](media/right_pocket_top_cd_post_ablation.png)
-
-### Vibrazione dei denti
-
-Aggiungo questa sezione perché la mattina del 31 Maggio 2019 verso le
-6:00 i miei denti vibrarono notevolmente.
-
-La tabella seguente mostra le approssimazioni di sei frequenze
-naturali di quattro tipi di dente, calcolate utilizzando un modello
-meccanico descritto nell'articolo scientifico "Calculation of Natural
-Frequencies of Teeth Supported with the Periodontal Ligament" di Yukio
-KOJIMA e Hisao FUKUI.
-
-| dente                       | f1   | f2   | f3   | f4   | f5   | f6   |
-|-----------------------------|------|------|------|------|------|------|
-| incisivo centrale superiore | 1330 | 1440 | 1610 | 1670 | 5010 | 5410 |
-| primo premolare superiore   | 1610 | 1900 | 1950 | 3050 | 5810 | 6440 |
-| primo molare superiore      | 1610 | 1840 | 2230 | 4010 | 5590 | 6480 |
-| primo molare inferiore      | 1780 | 1910 | 2100 | 2940 | 4370 | 6380 |
-
-Le frequenze 1610 Hz, 1670 Hz e 1780 Hz sono vicine a 1733 Hz analizzata
-nella sezione "Segnale diretto verso la testa" (anche 5010 Hz e 5410 Hz
-sono vicine a 5200 Hz). La frequenza 1300 Hz è notevole nella figura 4
-di "Numerical Analysis of the Microwave Auditory Effect" ed equivale
-all'intervallo di quinta giusta, due ottave sopra, di 216.67 Hz
-esaminata nella stessa sezione.
 
 ### Misteriosa luce nel buio
 
