@@ -12,7 +12,13 @@ bloccato per più di trenta secondi), rumori, visioni e molto altro
 mi dicevano: "tanto ti ammazzi da solo", "hai una pistola puntata
 contro", "non capisci un cazzo di computer", "non capisci un cazzo di
 musica", ed altri insulti e minacce (evito l'imbarazzante elenco).
-Mi ripetono spesso che devo smettere di programmare. Perché?
+Mi ripetono spesso che devo smettere di programmare (il loro slogan
+preferito è "La cultura sbagliata"). Perché?
+
+"La cultura sbagliata" è quella di una mandria di militari codardi e
+corrotti, proprio come le mamme della politica che li proteggono.
+L'utilizzo illecito di finanziamenti pubblici per queste attività
+militari nascoste è molto probabile.
 
 Il video seguente mostra una parte del segnale diretto alla mia testa:
 

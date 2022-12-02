@@ -14,7 +14,8 @@ They said to me during the first tortures: "tanto ti ammazzi da solo",
 "hai una pistola puntata contro", "non capisci un cazzo di computer",
 "non capisci un cazzo di musica", and other insults and threats (I
 avoid the embarassing list). They often repeat to me that I have
-to stop programming. Why?
+to stop programming (their preferred slogan is "La cultura sbagliata").
+Why?
 
 The following video shows a part of the signal directed to my head:
 
