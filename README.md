@@ -47,6 +47,7 @@ of the Costituzione della Repubblica Italiana.
 - [Shooting pain between the right knee and the side](#shooting-pain-between-the-right-knee-and-the-side)
 - [Teeth vibration](#teeth-vibration)
 - [Bulb with knob](#bulb-with-knob)
+- [Psychology of voices](#psychology-of-voices)
 - [Hypothesis about the US embassy attack in Cuba](#hypothesis-about-the-us-embassy-attack-in-cuba)
     - [Harmonics of 180 Hz through aliasing](#harmonics-of-180-hz-through-aliasing)
     - [Methods to get the voices from the audio recording](#methods-to-get-the-voices-from-the-audio-recording)
@@ -1154,6 +1155,17 @@ Suddenly the modulation svanishes. I try to switch on the bulb but it is
 necessary to rotate the knob of about 90 degrees! The light is stable.
 Now the point to reduce the tinnitus is between 45 and 90 degrees.
 Who controls the under load? Question apparently rhetoric.
+
+## Psychology of voices
+
+The following table describes some voices used for the psychological attack.
+
+| Voice type                                               | Description                                                                     |
+|----------------------------------------------------------|---------------------------------------------------------------------------------|
+| slow (i.e. 1 word every 6 seconds)                       | attract the attention, waste more time                                          |
+| aggressive, accompanied by irritating sonic oscillations | attract the attention, get on victim's nerves, increase temperature, waste time |
+| child                                                    | attract the attention, change the mood, waste time                              |
+| calm, persuasive, reassuring                             | attract the attention, attempt at conditioning, waste time                      |
 
 ## Hypothesis about the US embassy attack in Cuba
 

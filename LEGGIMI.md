@@ -69,6 +69,7 @@ Sottotitolo:
 - [Dolore lancinante tra il ginocchio e il fianco destro](#dolore-lancinante-tra-il-ginocchio-e-il-fianco-destro)
 - [Vibrazione dei denti](#vibrazione-dei-denti)
 - [Lampadina con potenziometro](#lampadina-con-potenziometro)
+- [Psicologia delle voci](#psicologia-delle-voci)
 - [Ipotesi sull'attacco subito dagli ambasciatori americani a Cuba](#ipotesi-sullattacco-subito-dagli-ambasciatori-americani-a-cuba)
     - [Armoniche di 180 Hz tramite aliasing](#armoniche-di-180-hz-tramite-aliasing)
     - [Metodi per ottenere le voci dalla registrazione audio](#metodi-per-ottenere-le-voci-dalla-registrazione-audio)
@@ -1230,6 +1231,17 @@ Ad un tratto la modulazione scompare. Provo a riaccendere la luce ma è
 necessario rotare il potenziometro di quasi 90 gradi! La luce è stabile.
 Ora il punto di riduzione del tinnitus si trova tra 45 e 90 gradi.
 Chi controlla il basso carico? Domanda apparentemente retorica.
+
+## Psicologia delle voci
+
+La tabella seguente descrive alcune voci utilizzate per l'attacco psicologico.
+
+| Tipo di voce                                              | Descrizione                                                                                |
+|-----------------------------------------------------------|--------------------------------------------------------------------------------------------|
+| lenta (per esempio 1 parola ogni 6 secondi)               | cattura l'attenzione, fa perdere più tempo                                                 |
+| aggressiva, accompagnata da oscillazioni sonore irritanti | cattura l'attenzione, innervosisce, aumenta la temperatura della vittima, perdita di tempo |
+| bambina (o bambino)                                       | cattura l'attenzione, modifica lo stato d'animo, perdita di tempo                          |
+| calma, convincente, tranquillizzante                      | cattura l'attenzione, tenta un condizionamento, perdita di tempo                           |
 
 ## Ipotesi sull'attacco subito dagli ambasciatori americani a Cuba
 
