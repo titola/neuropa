@@ -1071,6 +1071,39 @@ prodotto da un movimento rotativo.
 alto livello di energia. Il mio corpo rimane bloccato per più di 30
 secondi ma riesco a controllare il respiro.
 
+10 Dicembre 2022, mattina presto dopo un risveglio forzato: il mio
+respiro è modulato con lo stesso pattern ritmico del rumore nel file
+audio di esempio:
+
+[breath-pattern.wav](https://raw.githubusercontent.com/titola/neuropa/master/media/breath-pattern.wav)
+
+Il ritmo è proprio quello della semplice melodia che accompagnava
+lo stato ipnotico (vedi la sezione "Ipnosi") poco prima del risveglio.
+Forse il suono del respiro, invertito di fase, è usato per offuscare
+(tramite mascheratura) un altro suono o una voce:
+
+```
+segnale1 ---> rumore1
+segnale2 ---> melodia - rumore1 = rumore2
+segnale3 ---> rumore1 + rumore2 = rumore1 + melodia - rumore1 = melodia
+```
+
+Per esempio il mix dei rumori nei file audio
+
+[breath-pattern.wav](https://raw.githubusercontent.com/titola/neuropa/master/media/breath-pattern.wav)
+
+[breath-pattern-plus-melody.wav](https://raw.githubusercontent.com/titola/neuropa/master/media/breath-pattern-plus-melody.wav)
+
+è il suono della melodia nascosta (circa -44dB).
+
+```
+sox -m breath-pattern.wav breath-pattern-plus-melody.wav melody.wav norm -3
+```
+
+Qualche tecnica di mascheratura potrebbe essere applicata anche
+ai segnali sincronizzati con le voci (vedi la sezione "Eventi
+sincronizzati con le voci").
+
 Spesso sento un solletico al naso. A volte percepisco per qualche
 secondo un odore che ricorda l'ozono (fine 2018 e inizio 2019) oppure
 i gas di scarico (fine 2019 e inizio 2020). La mia stanza chiusa è

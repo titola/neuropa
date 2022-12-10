@@ -1004,6 +1004,39 @@ On February 23 2021, about midnight: aggressive attack with high
 energy level. My body is blocked for more than 30 seconds but I manage
 to control the breath.
 
+On December 10 2022, early in the morning after a forced awakening:
+the breath is modulated with the same rhythmic pattern of the noise in
+the example sound file:
+
+[breath-pattern.wav](https://raw.githubusercontent.com/titola/neuropa/master/media/breath-pattern.wav)
+
+That's exactly the rhythm of the simple melody that accompanied the
+hypnotic state (see the section "Hypnosis") before the awakening.
+Perhaps the sound of breath, phase inverted, is used to obscure
+(through masking) another sound or voice:
+
+```
+signal1 ---> noise1
+signal2 ---> melody - noise1 = noise2
+signal3 ---> noise1 + noise2 = noise1 + melody - noise1 = melody
+```
+
+For example, the mix of the noises in
+
+[breath-pattern.wav](https://raw.githubusercontent.com/titola/neuropa/master/media/breath-pattern.wav)
+
+[breath-pattern-plus-melody.wav](https://raw.githubusercontent.com/titola/neuropa/master/media/breath-pattern-plus-melody.wav)
+
+is the sound of the hidden melody (about -44dB).
+
+```
+sox -m breath-pattern.wav breath-pattern-plus-melody.wav melody.wav norm -3
+```
+
+Some signal masking technique could also be applied to the signals
+synchronized with the voices (see the section "Events synchronized
+with the voices").
+
 I often feel a tickle to the nose. Sometimes I perceive for a few
 seconds a smell that remembers the ozone (end of 2018, beginning of
 2019) or the exhaust (end of 2019, beginning of 2020). My closed room
