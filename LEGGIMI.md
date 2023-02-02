@@ -1,6 +1,6 @@
 # Analisi di un attacco con armi ad energia diretta
 
-L'attacco iniziò il 15 Luglio 2017.
+L'attacco aggressivo iniziò il 15 Luglio 2017.
 
 La deficienza artificiale e quella naturale coordinano le sequenze e
 la psicologia dei dialoghi, spesso offensivi, e gl'impulsi di
@@ -27,6 +27,16 @@ Il video seguente mostra una parte del segnale diretto alla mia testa:
 [head_945mhz.mp4 (View Raw)](https://raw.githubusercontent.com/titola/neuropa/master/media/head_945mhz.mp4)
 
 [head_945mhz.mp4](https://github.com/titola/neuropa/blob/master/media/head_945mhz.mp4)
+
+Questi CD proteggevano la mia gamba destra (vedi la sezione
+[Dolore lancinante tra il ginocchio e il fianco destro](#dolore-lancinante-tra-il-ginocchio-e-il-fianco-destro)):
+
+![](media/right_pocket_top_cd_with_circular_patterns.png)
+
+![](media/right_pocket_top_cd_post_ablation.png)
+
+La sezione [Modulazione anomala del respiro](#modulazione-anomala-del-respiro)
+fa capire meglio lo schifo aeronautico.
 
 In Italia "La libertà personale è violabile" [1], perché la mafia ed altri
 ignobili idioti militarizzati hanno applicato una patch all'articolo 13
@@ -174,11 +184,11 @@ laser (c'è una tenda veneziana davanti alla finestra). Ho anche una
 registrazione audio iniziata qualche minuto dopo un risveglio forzato
 alle ore 1:30 (microfono vicino all'orecchio sinistro). Gl'infrasuoni
 ed i suoni a bassa frequenza sono analoghi a quelli registrati (anche)
-l'anno precedente (vedi la sezione "Registrazioni audio"). L'intera
-colonna sonora rappresenta perfettamente lo spirito di questi cacker
-istituzionali, bambacia [3] e toy boy della mafia, che usano la radio
-senza limiti di frequenza e hanno la licenza di fare ciò che vogliono.
-Per esempio non è difficile intercettare questa stupida spia:
+l'anno precedente (vedi la sezione [Registrazioni audio](#registrazioni-audio)).
+L'intera colonna sonora rappresenta perfettamente lo spirito di questi
+cacker istituzionali, bambacia [3] e toy boy della mafia, che usano la
+radio senza limiti di frequenza e hanno la licenza di fare ciò che
+vogliono. Per esempio non è difficile intercettare questa stupida spia:
 
 [fugitive.mp4](https://raw.githubusercontent.com/titola/neuropa/master/media/fugitive.mp4)
 
@@ -220,9 +230,6 @@ L'articolo 28 della Costituzione della Repubblica Italiana è chiaro:
 Dopo più di quattro anni la mia logica investigativa è ridotta
 all'osso: chi non è complice è incapace. La applico soprattutto a
 quelli che passano sul tetto di casa mia.
-
-La sezione "Modulazione anomala del respiro" fa capire meglio lo
-schifo aeronautico in Italia.
 
 ## Segnale diretto verso la testa
 
@@ -306,7 +313,7 @@ Se uso il mio corpo come antenna toccando l'antenna di ricezione con
 la mano, posso registrare impulsi ripetuti con una frequenza di circa
 78250 Hz. Alcune volte ho registrato impulsi con frequenza 31300 Hz
 invece di 78250 Hz. Il rapporto 5/2 tra queste due frequenze è
-descritto nella sezione "Oscillatore a 939 MHz".
+descritto nella sezione [Oscillatore a 939 MHz](#oscillatore-a-939-mhz).
 
 Anche il segnale con frequenza centrale 230.4 MHz è modulato da
 impulsi di 78 kHz:
@@ -455,9 +462,9 @@ oppure:
 sin(2*pi*700024400*t + 7/8 pi)
 ```
 
-Nella sezione "Registrazioni audio" c'è un collegamento ad un file
-audio contenente un oscillazione di 5333.333 Hz (=32000/6) registrata
-il 20 Agosto 2018.
+Nella sezione [Registrazioni audio](#registrazioni-audio) c'è un
+collegamento ad un file audio contenente un oscillazione di
+5333.333 Hz (=32000/6) registrata il 20 Agosto 2018.
 
 La tabella seguente elenca le frequenze ottenibili tramite aliasing
 degli impulsi "pulses A" con frequenze di campionamento 31300 Hz e
@@ -576,7 +583,7 @@ degli impulsi "pulses A" con frequenze di campionamento 31300 Hz e
 
 Ho simulato il tinnitus prodotto dagli impulsi del segnale ricevuto a
 945 MHz in base al demodulatore termo-acustico descritto nella sezione
-"Codifica della voce":
+[Codifica della voce](#codifica-della-voce):
 
 [tinnitus_pulses.wav (View Raw)](https://raw.githubusercontent.com/titola/neuropa/master/media/tinnitus_pulses.wav)
 
@@ -770,8 +777,9 @@ la frequenza nominale: 216.6 = 50 * 13/3
 
 ![](media/422_733_env_ac.jpg)
 
-Nella sezione "Altri segnali da analizzare" ci sono informazioni che
-riguardano gli smerd meter ed altre sperimentazioni sospette.
+Nella sezione [Altri segnali da analizzare](#altri-segnali-da-analizzare)
+ci sono informazioni che riguardano gli smerd meter ed altre
+sperimentazioni sospette.
 
 ## Battimento tra impulsi di radiazione e VLF militare
 
@@ -803,7 +811,7 @@ Il rapporto tra 50 Hz e la modulazione di 20 Hz è 5/2, il numero
 magico dell'intero attacco.
 
 C'è anche un battimento particolare tra 20 Hz e gl'impulsi con pattern
-A-A-A-A-B analizzati nella sezione "Segnale diretto verso la testa":
+A-A-A-A-B analizzati nella sezione [Segnale diretto verso la testa](#segnale-diretto-verso-la-testa):
 
 ```
 A = 65/3 = 21.67 Hz
@@ -919,8 +927,8 @@ geomagnetiche:
 
 ## Codifica della voce
 
-Utilizzano più tecniche. La sezione precedente "Segnale diretto verso
-la testa" descrive il campionamento con aliasing tramite un treno d'impulsi.
+Utilizzano più tecniche. La sezione precedente [Segnale diretto verso la testa](#segnale-diretto-verso-la-testa)
+descrive il campionamento con aliasing tramite un treno d'impulsi.
 I passi per trasmettere un segnale ad un "campionatore" termo-acustico sono:
 
 - STFT (Short Time Fourier Transform) per dividere il segnale in sinusoidi modulate.
@@ -1078,9 +1086,9 @@ audio di esempio:
 [breath-pattern.wav](https://raw.githubusercontent.com/titola/neuropa/master/media/breath-pattern.wav)
 
 Il ritmo è proprio quello della semplice melodia che accompagnava
-lo stato ipnotico (vedi la sezione "Ipnosi") poco prima del risveglio.
-Forse il suono del respiro, invertito di fase, è usato per offuscare
-(tramite mascheratura) un altro suono o una voce:
+lo stato ipnotico (vedi la sezione [Ipnosi](#ipnosi)) poco prima del
+risveglio. Forse il suono del respiro, invertito di fase, è usato per
+offuscare (tramite mascheratura) un altro suono o una voce:
 
 ```
 segnale1 ---> rumore1
@@ -1101,8 +1109,8 @@ sox -m breath-pattern.wav breath-pattern-plus-melody.wav melody.wav norm -3
 ```
 
 Qualche tecnica di mascheratura potrebbe essere applicata anche
-ai segnali sincronizzati con le voci (vedi la sezione "Eventi
-sincronizzati con le voci").
+ai segnali sincronizzati con le voci (vedi la sezione
+[Eventi sincronizzati con le voci](#eventi-sincronizzati-con-le-voci)).
 
 Spesso sento un solletico al naso. A volte percepisco per qualche
 secondo un odore che ricorda l'ozono (fine 2018 e inizio 2019) oppure
@@ -1115,9 +1123,8 @@ digerente o quello respiratorio? Potrebbero alterare l'olfatto?
 Io credo che la polmonite sia stata provocata da questo sistema.
 Ho descritto la vibrazione dei denti e le oscillazioni anomale
 prodotte con un soffio nell'aria. C'è una registrazione audio nella
-sezione "Altre oscillazioni ottenute quando i vermi militari puntano
-la mia bocca". Le risonanze fondamentali sono una frazione del numero
-32000:
+sezione [Altre oscillazioni ottenute quando i vermi militari puntano la mia bocca](#altre-oscillazioni-ottenute-quando-i-vermi-militari-puntano-la-mia-bocca).
+Le risonanze fondamentali sono una frazione del numero 32000:
 
 ```
 # 27 Agosto 2021
@@ -1201,13 +1208,13 @@ La parte della gamba colpita dagli impulsi è depilata.
 22 Ottobre 2022: questa foto mostra strani pattern circolari sopra
 un CD inserito nella tasca destra (quello sopra agli altri CD).
 
-![](media/right_pocket_top_cd_with_circular_patterns.png)
+[right_pocket_top_cd_with_circular_patterns.png](https://github.com/titola/neuropa/blob/master/media/right_pocket_top_cd_with_circular_patterns.png)
 
 La foto seguente mostra un CD "cancellato" tramite ablazione.
 Questo CD si trovava in alto al posto di quello con i pattern
 circolari.
 
-![](media/right_pocket_top_cd_post_ablation.png)
+[right_pocket_top_cd_post_ablation.png](https://github.com/titola/neuropa/blob/master/media/media/right_pocket_top_cd_post_ablation.png)
 
 ## Vibrazione dei denti
 
@@ -1228,11 +1235,11 @@ KOJIMA e Hisao FUKUI.
 | primo molare inferiore      | 1780 | 1910 | 2100 | 2940 | 4370 | 6380 |
 
 Le frequenze 1610 Hz, 1670 Hz e 1780 Hz sono vicine a 1733 Hz analizzata
-nella sezione "Segnale diretto verso la testa" (anche 5010 Hz e 5410 Hz
-sono vicine a 5200 Hz). La frequenza 1300 Hz è notevole nella figura 4
-di "Numerical Analysis of the Microwave Auditory Effect" ed equivale
-all'intervallo di quinta giusta, due ottave sopra, di 216.67 Hz
-esaminata nella stessa sezione.
+nella sezione [Segnale diretto verso la testa](#segnale-diretto-verso-la-testa)
+(anche 5010 Hz e 5410 Hz sono vicine a 5200 Hz). La frequenza 1300 Hz è
+notevole nella figura 4 di "Numerical Analysis of the Microwave Auditory
+Effect" ed equivale all'intervallo di quinta giusta, due ottave sopra,
+di 216.67 Hz esaminata nella stessa sezione.
 
 ## Lampadina con potenziometro
 
@@ -1316,11 +1323,11 @@ provenienti dalla rete elettrica, per esempio con frequenza
 ```
 
 "campionano" frequenze armoniche di 180 Hz tramite aliasing (vedi la
-sezione precedente "Segnale diretto verso la testa" per comprendere il
-campionamento della radiazione). Per esempio, l'aliasing di 157
-sinusoidi separate ogni 1800=5400/3 Hz (invece di 1733=5200/3)
-partendo da 943.695e6 MHz, produce tutti i multipli di 180 Hz da 180
-a 28080. In generale:
+sezione precedente [Segnale diretto verso la testa](#segnale-diretto-verso-la-testa)
+per comprendere il campionamento della radiazione). Per esempio,
+l'aliasing di 157 sinusoidi separate ogni 1800=5400/3 Hz (invece di
+1733=5200/3) partendo da 943.695e6 MHz, produce tutti i multipli di
+180 Hz da 180 a 28080. In generale:
 
 ```
 157 sinusoidi separate ogni 180 * N, con N intero positivo.
@@ -1981,11 +1988,9 @@ What Americans heard in Cuba attacks. AP News, October 2017.
 [7] N. M. Yitzhak, R. Ruppin, R. Hareuveny. Numerical Analysis of the
 Microwave Auditory Effect.
 
-[8] Coincidenze: un contatore trifase rotto l'anno scorso durante
-l'inizio dell'attacco ed un contatore dei servizi inutilizzabile
-qualche mese fa perché erano stati tirati i fili. Inoltre, se spengo
-il contatore dei servizi, l'intensità delle vibrazioni delle torture
-notturne diminuisce.
+[8] Coincidenze: un contatore trifase rotto durante l'inizio
+dell'attacco (2017) ed un contatore dei servizi inutilizzabile nel
+2018 perché erano stati tirati i fili.
 
 [9] J.A. Elder and C.K. Chou. Auditory Response to Pulsed
 Radiofrequency Energy.

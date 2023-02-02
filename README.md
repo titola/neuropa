@@ -2,7 +2,7 @@
 
 # Analysis of an attack with directed energy weapons (DEW)
 
-I noticed the attack voice-to-skull on July 15th 2017.
+The aggressive attack began on July 15th 2017.
 
 The artificial and natural deficiency coordinate the sequences and the
 psychology of the dialogues, often offensive, and the pulsed radiation
@@ -24,6 +24,15 @@ The following video shows a part of the signal directed to my head:
 [head_945mhz.mp4 (View Raw)](https://raw.githubusercontent.com/titola/neuropa/master/media/head_945mhz.mp4)
 
 [head_945mhz.mp4](https://github.com/titola/neuropa/blob/master/media/head_945mhz.mp4)
+
+These CDs protected my right leg (see the section [Shooting pain between the right knee and the side](#shooting-pain-between-the-right-knee-and-the-side)):
+
+![](media/right_pocket_top_cd_with_circular_patterns.png)
+
+![](media/right_pocket_top_cd_post_ablation.png)
+
+The section [Anomalous breath modulation](#anomalous-breath-modulation)
+explains better the aeronautical washout.
 
 In Italy "The personal freedom is violable" [1], because mafia and
 other ignoble militarized idiots have applied a patch to the article 13
@@ -147,11 +156,12 @@ dry circle is proportional to the laser intensity (there is a Venetian
 curtain in front of the window). I have also an audio recording
 started some minutes after a forced awakening at 1:30 (microphone near
 the left ear). The infrasounds and low frequency sounds are similar to
-those (also) recorded the previous year (see the section "Audio
-recordings"). The whole soundtrack perfectly represents the soul of
-these institutional cackers, bambacia [3] and toy boys of mafia, that use
-the radio without limits of frequency and have the licence to do what
-they want. For example, it is not difficult to intercept this stupid spy:
+those (also) recorded the previous year (see the section
+[Audio recordings](#audio-recordings)). The whole soundtrack perfectly
+represents the soul of these institutional cackers, bambacia [3] and
+toy boys of mafia, that use the radio without limits of frequency and
+have the licence to do what they want. For example, it is not difficult
+to intercept this stupid spy:
 
 [fugitive.mp4](https://raw.githubusercontent.com/titola/neuropa/master/media/fugitive.mp4)
 
@@ -248,7 +258,7 @@ If I use my body as antenna by touching the receiving antenna with the
 hand, I can record the pulses repeated with frequency of about 78250 Hz.
 Sometimes I have recorded pulses with frequency 31300 Hz instead of
 78250 Hz. The ratio 5/2 between these frequencies is described in the
-section "Oscillator at 939 MHz".
+section [Oscillator at 939 MHz](#oscillator-at-939-mhz).
 
 Also the signal with central frequency 230.4 MHz is modulated by
 pulses of 78 kHz:
@@ -392,9 +402,9 @@ or:
 sin(2*pi*700024400*t + 7/8 pi)
 ```
 
-In the section "Audio recordings", there is a link to a sound file
-that contains an oscillation of 5333.333 Hz (=32000/6) recorded on
-August 20, 2018.
+In the section [Audio recordings](#audio-recordings), there is a link
+to a sound file that contains an oscillation of 5333.333 Hz (=32000/6)
+recorded on August 20, 2018.
 
 The following table lists the frequencies obtainable through the
 aliasing of the "pulses A" with sampling frequencies 31300 Hz and
@@ -513,7 +523,7 @@ aliasing of the "pulses A" with sampling frequencies 31300 Hz and
 
 I have simulated the tinnitus produced by the pulses of the signal
 received at 945 MHz by approximating the termo-acoustic demodulator
-described in the section "Voice encoding":
+described in the section [Voice encoding](#voice-encoding):
 
 [tinnitus_pulses.wav (View Raw)](https://raw.githubusercontent.com/titola/neuropa/master/media/tinnitus_pulses.wav)
 
@@ -706,7 +716,7 @@ nominal frequency: 216.6 = 50 * 13/3
 ![](media/422_733_env_ac.jpg)
 
 Additional information regarding smerd meters and other suspected
-experimentations can be found in the section "Other signals to analyse".
+experimentations can be found in the section [Other signals to analyse](#other-signals-to-analyse).
 
 ## Beat between pulsed radiation and military VLF
 
@@ -738,7 +748,7 @@ The ratio between 50 Hz and the modulation of 20 Hz is 5/2, the magic
 number of the whole attack.
 
 There is also a particular beat between 20 Hz and the pulses with
-pattern A-A-A-A-B analysed in the section "Signal directed to the head":
+pattern A-A-A-A-B analysed in the section [Signal directed to the head](#signal-directed-to-the-head):
 
 ```
 A = 65/3 = 21.67 Hz
@@ -855,8 +865,9 @@ on the map of the geomagnetic latitudes:
 
 ## Voice encoding
 
-The criminals use more techniques. The prior section "Signal directed
-to the head" describes the sampling with aliasing through a pulse train.
+The criminals use more techniques. The prior section
+[Signal directed to the head](#signal-directed-to-the-head)
+describes the sampling with aliasing through a pulse train.
 The steps to transmit a signal to a termo-acoustic "sampler" are:
 
 - STFT (Short Time Fourier Transform) to divide the signal into modulated sinusoids.
@@ -1011,9 +1022,9 @@ the example sound file:
 [breath-pattern.wav](https://raw.githubusercontent.com/titola/neuropa/master/media/breath-pattern.wav)
 
 That's exactly the rhythm of the simple melody that accompanied the
-hypnotic state (see the section "Hypnosis") before the awakening.
-Perhaps the sound of breath, phase inverted, is used to obscure
-(through masking) another sound or voice:
+hypnotic state (see the section [Hypnosis](#hypnosis)) before the
+awakening. Perhaps the sound of breath, phase inverted, is used to
+obscure (through masking) another sound or voice:
 
 ```
 signal1 ---> noise1
@@ -1034,8 +1045,7 @@ sox -m breath-pattern.wav breath-pattern-plus-melody.wav melody.wav norm -3
 ```
 
 Some signal masking technique could also be applied to the signals
-synchronized with the voices (see the section "Events synchronized
-with the voices").
+synchronized with the voices (see the section [Events synchronized with the voices](#events-synchronized-with-the-voices)).
 
 I often feel a tickle to the nose. Sometimes I perceive for a few
 seconds a smell that remembers the ozone (end of 2018, beginning of
@@ -1047,9 +1057,8 @@ Could they alter the sense of smell?
 
 I think pneumonia was caused by that system. I described the teeth
 vibration and the anomalous oscillations produced when I blow in the
-air. There is an audio recording in the section "Other oscillations
-obtained when the military worms point my mouth". The main resonances
-are a fraction of the number 32000:
+air. There is an audio recording in the section [Other oscillations obtained when the military worms point my mouth](#other-oscillations-obtained-when-the-military-worms-point-my-mouth).
+The main resonances are a fraction of the number 32000:
 
 ```
 # August 27, 2021.
@@ -1129,12 +1138,12 @@ The part of the leg hit by the pulses is depilated.
 On October 22 2022: this photo shows strange circular patterns on a CD
 inserted in the right pocket (the one over the other CDs).
 
-![](media/right_pocket_top_cd_with_circular_patterns.png)
+[right_pocket_top_cd_with_circular_patterns.png](https://github.com/titola/neuropa/blob/master/media/right_pocket_top_cd_with_circular_patterns.png)
 
 The following photo shows a CD "erased" through ablation. That CD was
 on the top of stack instead of the CD with circular patterns.
 
-![](media/right_pocket_top_cd_post_ablation.png)
+[right_pocket_top_cd_post_ablation.png](https://github.com/titola/neuropa/blob/master/media/media/right_pocket_top_cd_post_ablation.png)
 
 ## Teeth vibration
 
@@ -1154,11 +1163,11 @@ the Periodontal Ligament" by Yukio KOJIMA and Hisao FUKUI.
 | lower first molar     | 1780 | 1910 | 2100 | 2940 | 4370 | 6380 |
 
 The frequencies 1610 Hz, 1670 Hz and 1780 Hz are near 1733 Hz analysed
-in the section "Signal directed to the head" (also 5010 Hz and 5410 Hz
-are near 5200 Hz). The frequency 1300 Hz is considerable in the figure 4
-of "Numerical Analysis of the Microwave Auditory Effect", and it
-corresponds to the interval of perfect fifth, two octaves up, of 216.67 Hz
-analysed in the same section.
+in the section [Signal directed to the head](#signal-directed-to-the-head)
+(also 5010 Hz and 5410 Hz are near 5200 Hz). The frequency 1300 Hz is
+considerable in the figure 4 of "Numerical Analysis of the Microwave
+Auditory Effect", and it corresponds to the interval of perfect fifth,
+two octaves up, of 216.67 Hz analysed in the same section.
 
 ## Bulb with knob
 
@@ -1239,11 +1248,11 @@ electrical grid, for example with frequency
 ```
 
 "sample" the harmonic frequencies of 180 Hz through aliasing (see
-the previous section "Signal directed to the head" to understand
-the radiation sampling). For example, the aliasing of 157 sinusoids
-separated by 1800=5400/3 Hz (instead of 1733=5200/3) starting from
-943.695e6 MHz, results all the frequencies multiple of 180 Hz from
-180 to 28080. In the general case:
+the previous section [Signal directed to the head](#signal-directed-to-the-head)
+to understand the radiation sampling). For example, the aliasing
+of 157 sinusoids separated by 1800=5400/3 Hz (instead of 1733=5200/3)
+starting from 943.695e6 MHz, results all the frequencies multiple
+of 180 Hz from 180 to 28080. In the general case:
 
 ```
 157 sinusoids separated by 180 * N, with N positive integer.
@@ -1892,10 +1901,8 @@ What Americans heard in Cuba attacks. AP News, October 2017.
 [7] N. M. Yitzhak, R. Ruppin, R. Hareuveny. Numerical Analysis of the
 Microwave Auditory Effect.
 
-[8] Coincidences: a three phase meter broken the last year during the
-first attack and another electric meter unusable a few months ago
-(pulled wires). Besides, if I switch off an electric meter, the intensity
-of the body vibrations of the nightly tortures decreases.
+[8] Coincidences: a three phase meter broken during the first attack (2017)
+and another electric meter unusable on 2018 (pulled wires).
 
 [9] J.A. Elder and C.K. Chou. Auditory Response to Pulsed
 Radiofrequency Energy.
