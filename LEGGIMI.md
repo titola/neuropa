@@ -28,6 +28,11 @@ Il video seguente mostra una parte del segnale diretto alla mia testa:
 
 [head_945mhz.mp4](https://github.com/titola/neuropa/blob/master/media/head_945mhz.mp4)
 
+Questa figura mostra i passaggi per ottenere l'infrasuono registrato in
+[low_freq_with_6min_for_tinnitus.wav](https://github.com/titola/neuropa/blob/master/media/low_freq_with_6min_for_tinnitus.wav) dal segnale ricevuto a 422.733 MHz (l'analisi numerica è nella sezione [Infrasuono dal segnale ricevuto a 422.733 MHz](#infrasuono-dal-segnale-ricevuto-a-422733-mhz)):
+
+![](media/infrasound.jpg)
+
 Questi CD proteggevano la mia gamba destra (vedi la sezione
 [Dolore lancinante tra il ginocchio e il fianco destro](#dolore-lancinante-tra-il-ginocchio-e-il-fianco-destro)):
 
@@ -689,9 +694,8 @@ errori "scintillanti" sporadici:
 
 ## Infrasuono dal segnale ricevuto a 422.733 MHz
 
-![](media/infrasound.jpg)
-
-La figura mostra i passaggi per ottenere l'infrasuono registrato in
+La figura in [infrasound.jpg](https://github.com/titola/neuropa/blob/master/media/infrasound.jpg)
+mostra i passaggi per ottenere l'infrasuono registrato in
 [low_freq_with_6min_for_tinnitus.wav](https://github.com/titola/neuropa/blob/master/media/low_freq_with_6min_for_tinnitus.wav).
 
 Di solito il segnale è ripetuto ogni 1.92 secondi e dura circa 0.18

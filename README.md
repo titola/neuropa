@@ -25,6 +25,11 @@ The following video shows a part of the signal directed to my head:
 
 [head_945mhz.mp4](https://github.com/titola/neuropa/blob/master/media/head_945mhz.mp4)
 
+This figure shows the steps to get the infrasound recorded in
+[low_freq_with_6min_for_tinnitus.wav](https://github.com/titola/neuropa/blob/master/media/low_freq_with_6min_for_tinnitus.wav) from the signal received at 422.733 MHz (the numerical analysis is in the section [Infrasound from the signal received at 422.733 MHz](#infrasound-from-the-signal-received-at-422733-mhz)):
+
+![](media/infrasound.jpg)
+
 These CDs protected my right leg (see the section [Shooting pain between the right knee and the side](#shooting-pain-between-the-right-knee-and-the-side)):
 
 ![](media/right_pocket_top_cd_with_circular_patterns.png)
@@ -627,9 +632,8 @@ sporadic "scintillant" errors:
 
 ## Infrasound from the signal received at 422.733 MHz
 
-![](media/infrasound.jpg)
-
-The figure shows the steps to get the infrasound recorded in
+The figure in [infrasound.jpg](https://github.com/titola/neuropa/blob/master/media/infrasound.jpg)
+shows the steps to get the infrasound recorded in
 [low_freq_with_6min_for_tinnitus.wav](https://github.com/titola/neuropa/blob/master/media/low_freq_with_6min_for_tinnitus.wav).
 
 Generally, the signal is repeated every 1.92 seconds and the duration is
