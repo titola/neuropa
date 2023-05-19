@@ -176,6 +176,12 @@ dipendente dalla frequenza di oscillazione. E' possibile modulare questa
 velocità a frequenze ultrasoniche? Purtroppo non ho gli strumenti per
 provarlo.
 
+Nota: due o più ultrasuoni intorno alla testa, vicino all'orecchio,
+sono udibili grazie allo stesso fenomeno acustico (heterodyning)
+sfruttato da un altoparlante superdirezionale ad ultrasuoni. Questo
+spiega anche l'effetto audio binaurale 3D, per esempio tramite i
+filtri con funzioni di trasferimento ottenute da un database HRTF.
+
 La notte del 16 Maggio 2019 coprii parzialmente il vetro della
 finestra con alcuni fogli di carta di alluminio per ridurre la
 superficie umida da osservare. La mattina trovai un cerchio
@@ -1119,10 +1125,10 @@ ai segnali sincronizzati con le voci (vedi la sezione
 Spesso sento un solletico al naso. A volte percepisco per qualche
 secondo un odore che ricorda l'ozono (fine 2018 e inizio 2019) oppure
 i gas di scarico (fine 2019 e inizio 2020). La mia stanza chiusa è
-lontana da sorgenti di questo tipo. Quali sono gli effetti
-collaterali di un particolare laser o altri impulsi di radiazione
-spinti nel naso o nella bocca? Potrebbero attraversare l'apparato
-digerente o quello respiratorio? Potrebbero alterare l'olfatto?
+lontana da sorgenti di questo tipo. Quali sono gli effetti collaterali
+provocati da particolari suoni ed ultrasuoni spinti nel naso o nella
+bocca? Potrebbero attraversare l'apparato digerente o quello
+respiratorio? Potrebbero alterare l'olfatto?
 
 Io credo che la polmonite sia stata provocata da questo sistema.
 Ho descritto la vibrazione dei denti e le oscillazioni anomale

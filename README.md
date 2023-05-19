@@ -150,6 +150,12 @@ tremolo or AM modulation dependent on the oscillation frequency.
 Is it possible to modulate this speed at ultrasonic frequencies?
 Unfortunately I don't have the tools to test it.
 
+Note: two or more ultrasounds around the head, near the ear, are audible
+thanks to the same acoustical phenomenon (heterodyning) exploited by an
+ultrasonic superdirectional loudspeaker. This also explains the 3D binaural
+audio effect, for example through the filter transfer functions obtained
+from a HRTF database.
+
 On May 16 2019 night, I have partially covered the window with
 aluminum foil to reduce the moist surface to monitor. I found a dry
 circle in the morning with a diameter of about 6cm:
@@ -1054,10 +1060,10 @@ synchronized with the voices (see the section [Events synchronized with the voic
 I often feel a tickle to the nose. Sometimes I perceive for a few
 seconds a smell that remembers the ozone (end of 2018, beginning of
 2019) or the exhaust (end of 2019, beginning of 2020). My closed room
-is far from sources of this type. What are the side effects of a
-particular laser or other pulsed radiation pushed in the nose or in
-the mouth? Could they cross the digestive or respiratory apparatus?
-Could they alter the sense of smell?
+is far from sources of this type. What are the side effects caused by
+particular sounds and ultrasounds pushed in the nose or in the mouth?
+Could they cross the digestive or respiratory apparatus? Could they
+alter the sense of smell?
 
 I think pneumonia was caused by that system. I described the teeth
 vibration and the anomalous oscillations produced when I blow in the
