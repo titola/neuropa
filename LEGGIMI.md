@@ -70,7 +70,7 @@ Sottotitolo:
 
 - [Introduzione](#introduzione)
 - [Segnale diretto verso la testa](#segnale-diretto-verso-la-testa)
-    - [Armoniche di 230.4 MHz e comunicazione mobile 5G](#armoniche-di-2304-mhz-e-comunicazione-mobile-5g)
+    - [Armoniche di 230.4 MHz e comunicazione mobile](#armoniche-di-2304-mhz-e-comunicazione-mobile)
     - [Impulsi sparsi modulano il segnale con frequenza centrale 230.4 MHz](#impulsi-sparsi-modulano-il-segnale-con-frequenza-centrale-2304-mhz)
     - [Campionamento della radiazione ed aliasing](#campionamento-della-radiazione-ed-aliasing)
     - [Simulazione del tinnitus](#simulazione-del-tinnitus)
@@ -93,7 +93,7 @@ Sottotitolo:
     - [Eventi sincronizzati con le voci](#eventi-sincronizzati-con-le-voci)
     - [Corrispondenza tra 422.733 MHz ed infrasuoni](#corrispondenza-tra-422733-mhz-ed-infrasuoni)
     - [Oscillatore a 939 MHz](#oscillatore-a-939-mhz)
-    - [Sperimentazione 5G](#sperimentazione-5g)
+    - [Telefonia mobile](#telefonia-mobile)
     - [Misteriosa luce nel buio](#misteriosa-luce-nel-buio)
     - [Ipnosi](#ipnosi)
 - [Registrazioni audio](#registrazioni-audio)
@@ -318,7 +318,7 @@ modulazione dei picchi ricordano i tremori che percepisco ogni tanto.
 
 ![](media/fake_gsm_sampler_49hz50hz51hz.jpg)
 
-### Armoniche di 230.4 MHz e comunicazione mobile 5G
+### Armoniche di 230.4 MHz e comunicazione mobile
 
 Se uso il mio corpo come antenna toccando l'antenna di ricezione con
 la mano, posso registrare impulsi ripetuti con una frequenza di circa
@@ -407,7 +407,7 @@ telefonico ad una frequenza più alta "in ogni angolo della tua casa!".
 
 Da un altro punto di vista, questo radar può individuare una persona "in
 ogni angolo della tua casa!" con uno straordinario effetto collaterale:
-un segnale telefonico di quinta generazione.
+un segnale telefonico.
 
 Questo è un sistema di sorveglianza illegale utilizzato non solo per
 spiare ma anche per torturare, condizionare psicologicamente ed
@@ -1702,17 +1702,7 @@ al numero dei cicli della frequenza nominale tra 49 e 51 Hz:
 | 5     | 1656.2         | 1723.8         |
 | 4     | 2070.2         | 2154.7         |
 
-### Sperimentazione 5G
-
-Sono curioso di conoscere il rapporto tra la frequenza di downlink e
-quella di uplink utilizzato nei test di Vodafone Italia e Huawei.
-E' anche interessante conoscere i dettagli sui problemi di sicurezza
-della tecnologia Huawei, improvvisamente ripudiata da diversi paesi
-ma utilizzata in Italia anche da ACEA:
-
-[Rinnovata l’intesa tecnologica fra Acea e Huawei (acea.it)](https://www.gruppo.acea.it/it/gruppo/comunicato?idComunicato=/2018/11/rinnovata-l-intesa-tecnologica-fra-acea-e-huawei&resource=/content/aceacorporate/it/home/media-eventi/news-comunicati-stampa.html&title=Rinnovata%20l%27intesa%20tecnologica%20%20fra%20Acea%20e%20Huawei)
-
-C'è anche un...
+### Telefonia mobile
 
 > Progetto di videosorveglianza aerea basato sull’utilizzo di droni,
 > realizzato in collaborazione con Intellitronika, Politecnico di Milano,

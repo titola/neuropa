@@ -47,7 +47,7 @@ of the Costituzione della Repubblica Italiana.
 
 - [Introduction](#introduction)
 - [Signal directed to the head](#signal-directed-to-the-head)
-    - [Harmonics of 230.4 MHz and mobile communications 5G](#harmonics-of-2304-mhz-and-mobile-communications-5g)
+    - [Harmonics of 230.4 MHz and mobile communications](#harmonics-of-2304-mhz-and-mobile-communications)
     - [Scattered pulses modulate the signal with central frequency 230.4 MHz](#scattered-pulses-modulate-the-signal-with-central-frequency-2304-mhz)
     - [Radiation sampling and aliasing](#radiation-sampling-and-aliasing)
     - [Tinnitus simulation](#tinnitus-simulation)
@@ -70,7 +70,7 @@ of the Costituzione della Repubblica Italiana.
     - [Events synchronized with the voices](#events-synchronized-with-the-voices)
     - [Correspondence between 422.733 MHz and infrasounds](#correspondence-between-422733-mhz-and-infrasounds)
     - [Oscillator at 939 MHz](#oscillator-at-939-mhz)
-    - [About 5G](#about-5g)
+    - [About mobile communications](#about-mobile-communications)
     - [Mysterious light in the dark](#mysterious-light-in-the-dark)
     - [Hypnosis](#hypnosis)
 - [Audio recordings](#audio-recordings)
@@ -263,7 +263,7 @@ that I sometimes perceive.
 
 ![](media/fake_gsm_sampler_49hz50hz51hz.jpg)
 
-### Harmonics of 230.4 MHz and mobile communications 5G
+### Harmonics of 230.4 MHz and mobile communications
 
 If I use my body as antenna by touching the receiving antenna with the
 hand, I can record the pulses repeated with frequency of about 78250 Hz.
@@ -350,7 +350,7 @@ signal at highest frequency "in every angle of your home!".
 
 From another point of view, this radar can track a person "in every
 angle of your home!" with a extraordinary side effect: a telephone
-signal 5G.
+signal.
 
 It is an illegal surveillance system not only used to spy, but also to
 torture, psychologically influence and kill persons with the help of
@@ -1617,17 +1617,7 @@ number of the cycles of the nominal frequency between 49 and 51 Hz:
 | 5      | 1656.2         | 1723.8         |
 | 4      | 2070.2         | 2154.7         |
 
-### About 5G
-
-I'm curious to know the ratio between the downlink frequency and
-the uplink frequency used in Vodafone Italia and Huawei tests.
-It is also interesting to know the details about the security risks
-of the Huawei technology, suddenly repudiated by several countries
-but used in Italy also by ACEA:
-
-[Rinnovata l’intesa tecnologica fra Acea e Huawei (acea.it)](https://www.gruppo.acea.it/it/gruppo/comunicato?idComunicato=/2018/11/rinnovata-l-intesa-tecnologica-fra-acea-e-huawei&resource=/content/aceacorporate/it/home/media-eventi/news-comunicati-stampa.html&title=Rinnovata%20l%27intesa%20tecnologica%20%20fra%20Acea%20e%20Huawei)
-
-There is also...
+### About mobile communications
 
 > Progetto di videosorveglianza aerea basato sull’utilizzo di droni,
 > realizzato in collaborazione con Intellitronika, Politecnico di Milano,
