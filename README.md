@@ -1025,9 +1025,10 @@ On February 23 2021, about midnight: aggressive attack with high
 energy level. My body is blocked for more than 30 seconds but I manage
 to control the breath.
 
-On December 10 2022, early in the morning after a forced awakening:
-the breath is modulated with the same rhythmic pattern of the noise in
-the example sound file:
+On December 10 2022, early in the morning after a forced awakening
+(idem on June 10 2024, around 4:30 a.m. with summer time): the breath
+is modulated with the same rhythmic pattern of the noise in the
+example sound file:
 
 [breath-pattern.wav](https://raw.githubusercontent.com/titola/neuropa/master/media/breath-pattern.wav)
 

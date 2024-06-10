@@ -1089,9 +1089,9 @@ prodotto da un movimento rotativo.
 alto livello di energia. Il mio corpo rimane bloccato per più di 30
 secondi ma riesco a controllare il respiro.
 
-10 Dicembre 2022, mattina presto dopo un risveglio forzato: il mio
-respiro è modulato con lo stesso pattern ritmico del rumore nel file
-audio di esempio:
+10 Dicembre 2022, mattina presto dopo un risveglio forzato (idem il 10
+Giugno 2024 verso le 4:30 di mattina): il mio respiro è modulato con
+lo stesso pattern ritmico del rumore nel file audio di esempio:
 
 [breath-pattern.wav](https://raw.githubusercontent.com/titola/neuropa/master/media/breath-pattern.wav)
 
