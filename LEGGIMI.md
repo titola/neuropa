@@ -1097,7 +1097,14 @@ lo stesso pattern ritmico del rumore nel file audio di esempio:
 
 Il ritmo è proprio quello della semplice melodia che accompagnava
 lo stato ipnotico (vedi la sezione [Ipnosi](#ipnosi)) poco prima del
-risveglio. Forse il suono del respiro, invertito di fase, è usato per
+risveglio.
+
+12 Agosto 2024, verso le cinque di mattina: in un "film" sotto ipnosi
+una ragazza canta (senza cambiare l'altezza delle note) seguendo gli
+stessi accenti ritmici con un BPM analogo. Questo pattern è una
+griglia ritmica per questo tipo di ipnosi.
+
+Forse il suono del respiro, invertito di fase, è usato per
 offuscare (tramite mascheratura) un altro suono o una voce:
 
 ```

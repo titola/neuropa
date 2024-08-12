@@ -1034,8 +1034,15 @@ example sound file:
 
 That's exactly the rhythm of the simple melody that accompanied the
 hypnotic state (see the section [Hypnosis](#hypnosis)) before the
-awakening. Perhaps the sound of breath, phase inverted, is used to
-obscure (through masking) another sound or voice:
+awakening.
+
+On August 12 2024, around 5:00 a.m. with summer time): during a "film"
+under hypnosis, a girl sings (without changing pitch) following the same
+rhythmic accents with a similar BPM. This pattern is a rhythmic grid for
+this type of hypnosis.
+
+Perhaps the sound of breath, phase inverted, is used to obscure
+(through masking) another sound or voice:
 
 ```
 signal1 ---> noise1
