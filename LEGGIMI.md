@@ -107,7 +107,6 @@ Sottotitolo:
 - [Registrazioni video](#registrazioni-video)
     - [Interferenze radio](#interferenze-radio)
     - [Il Fuggitivo](#il-fuggitivo)
-- [Smart links](#smart-links)
 - [Riferimenti](#riferimenti)
 
 ## Introduzione
@@ -1956,18 +1955,6 @@ No comment.
 [fugitive.mp4 (View Raw)](https://raw.githubusercontent.com/titola/neuropa/master/media/fugitive.mp4)
 
 [fugitive.mp4](https://github.com/titola/neuropa/blob/master/media/fugitive.mp4)
-
-## Smart links
-
-Smart city for smart people with smart phones (Il secolo dei cretini).
-
-[Vodafone Found Hidden Backdoors in Huawei Equipment (bloomberg.com)](https://www.bloomberg.com/news/articles/2019-04-30/vodafone-found-hidden-backdoors-in-huawei-equipment)
-
-[Siemens smart meters with critical vulnerability (us-cert.gov)](https://ics-cert.us-cert.gov/advisories/ICSA-17-278-02)
-
-[Exodus: Nuovo Spyware per Android Made in Italy (securitywithoutborders.org)](https://securitywithoutborders.org/blog/2019/03/29/exodus-ita.html)
-
-[Laser-Based Audio Injection Attacks on Voice-Controllable Systems](https://lightcommands.com)
 
 ## Riferimenti
 
