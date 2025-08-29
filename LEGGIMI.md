@@ -96,6 +96,7 @@ Sottotitolo:
     - [Telefonia mobile](#telefonia-mobile)
     - [Misteriosa luce nel buio](#misteriosa-luce-nel-buio)
     - [Ipnosi](#ipnosi)
+    - [Neurite vestibolare](#neurite-vestibolare)
 - [Registrazioni audio](#registrazioni-audio)
     - [Oscillazione di 5333 Hz dopo una convulsione indotta](#oscillazione-di-5333-hz-dopo-una-convulsione-indotta)
     - [Altre oscillazioni ottenute quando i vermi militari puntano la mia bocca](#altre-oscillazioni-ottenute-quando-i-vermi-militari-puntano-la-mia-bocca)
@@ -1782,6 +1783,8 @@ sono "pre" Covid-19 (verifica la data):
 
 - [9 Settembre 2019](https://github.com/titola/neuropa/commit/be3c115503c816cf890aa4ab520991c80e35d29f):
   "I'm interested in the technique to induce hypnopompic hallucinations."
+
+### Neurite vestibolare
 
 ## Registrazioni audio
 

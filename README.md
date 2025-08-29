@@ -73,6 +73,7 @@ of the Costituzione della Repubblica Italiana.
     - [About mobile communications](#about-mobile-communications)
     - [Mysterious light in the dark](#mysterious-light-in-the-dark)
     - [Hypnosis](#hypnosis)
+    - [Neurite vestibolare](#neurite-vestibolare)
 - [Audio recordings](#audio-recordings)
     - [Oscillation of 5333 Hz after an induced convulsion](#oscillation-of-5333-hz-after-an-induced-convulsion)
     - [Other oscillations obtained when the military worms point my mouth](#other-oscillations-obtained-when-the-military-worms-point-my-mouth)
@@ -1696,6 +1697,8 @@ ignore the culture aobout pulsed radiation. The following comments are
 
 - [September 9 2019](https://github.com/titola/neuropa/commit/be3c115503c816cf890aa4ab520991c80e35d29f):
   "I'm interested in the technique to induce hypnopompic hallucinations."
+
+### Neurite vestibolare
 
 ## Audio recordings
 
