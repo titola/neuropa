@@ -62,9 +62,7 @@ of the Costituzione della Repubblica Italiana.
 - [Teeth vibration](#teeth-vibration)
 - [Bulb with knob](#bulb-with-knob)
 - [Psychology of voices](#psychology-of-voices)
-- [Hypothesis about the US embassy attack in Cuba](#hypothesis-about-the-us-embassy-attack-in-cuba)
-    - [Harmonics of 180 Hz through aliasing](#harmonics-of-180-hz-through-aliasing)
-    - [Methods to get the voices from the audio recording](#methods-to-get-the-voices-from-the-audio-recording)
+- [US embassy attack in Cuba](#us-embassy-attack-in-cuba)
 - [Other signals to analyse](#other-signals-to-analyse)
     - [Pulsed radiation](#pulsed-radiation)
     - [Events synchronized with the voices](#events-synchronized-with-the-voices)
@@ -867,12 +865,6 @@ You can listen to the Roman cousin of a Caribbean cricket, by selecting
 the formant around 6400 Hz with a BP filter. The resultant sound is
 part of my tinnitus.
 
-Finally, it is interesting to notice the location of Havana (Cuba),
-Rome (Italy), Tavolara (Sardinia, Italy) and Guǎngzhōu (China)
-on the map of the geomagnetic latitudes:
-
-[Geomagnetic (350km Apex) Latitudes (nwra.com)](https://spawx.nwra.com/spawx/maps/maplats.html)
-
 ## Voice encoding
 
 The criminals use more techniques. The prior section
@@ -1227,125 +1219,12 @@ The following table describes some voices used for the psychological attack.
 | child                                                    | attract the attention, change the mood, waste time                              |
 | calm, persuasive, reassuring                             | attract the attention, attempt at conditioning, waste time                      |
 
-## Hypothesis about the US embassy attack in Cuba
-
-The recording of what some US embassy workers heard in Havana has
-characteristics similar to the signal at 945MHz that I receive in my
-head. The main difference is the period of the pulses. In my case:
-
--   Pulses with sinusoids separated by 216.6 Hz and pulse repetition periods with A-A-A-A-B (see above).
-
--   Pulses with sinusoids separated by 1733 Hz and variable pulse repetition period.
-
-In the Cuban case, the sinusoids are always separated by 180 Hz but
-the 21 Hz clock is the same.
+## US embassy attack in Cuba
 
 The amplitudes of the following sonogram are in dB to highlight the
 part filtered by the recorder or by the editor:
 
 ![](media/cuba_clock.jpg)
-
-Instead, the next sonogram shows the clock in my head (linear amplitude)
-under 1733 Hz, demodulated, under-sampled and recorded to a sound file:
-
-![](media/945mhz_clock.jpg)
-
-There are two types of pulse:
-
--   Pulses with sinusoids separated by 180 Hz, bandwidth of 3960 Hz and pulse frequency of 21 Hz.
-
--   Pulses with sinusoids separated by 180 Hz and variable pulse repetition period.
-
-### Harmonics of 180 Hz through aliasing
-
-If the system is the same used against me, the pulses from the
-electrical grid, for example with frequency
-
-```
-56340 = 313 * 180
-```
-
-"sample" the harmonic frequencies of 180 Hz through aliasing (see
-the previous section [Signal directed to the head](#signal-directed-to-the-head)
-to understand the radiation sampling). For example, the aliasing
-of 157 sinusoids separated by 1800=5400/3 Hz (instead of 1733=5200/3)
-starting from 943.695e6 MHz, results all the frequencies multiple
-of 180 Hz from 180 to 28080. In the general case:
-
-```
-157 sinusoids separated by 180 * N, with N positive integer.
-157 = (56340/180 + 1)/2
-```
-
-In this case the magic ratio should be 3/2 instead of 5/2
-(or 3 if the inferior frequency is 18780 Hz):
-
-```
-# 60 Hz is the nominal frequency of the electrical grid in Cuba.
-18780 = 313 * 60
-37560 = 313 * 120
-56340 = 313 * 60 * 3 = 313 * 120 * 3/2
-```
-
-The overall attack should be based on the ratio 3/2 (or 3).
-For example, if the radio module receives at 169 MHz, the signal that
-generates the infrasound is about 253.5 MHz (or 507 MHz if the ratio
-is 3).
-
-Note: with the prime number 433, the pulse frequency 77940 Hz is
-near 78250 Hz:
-
-```
-433 * 60 = 25980
-433 * 120 = 51960
-433 * 60 * 3 = 433 * 120 * 3/2 = 77940
-```
-
-During an electromagnetic phenomenon, a flow of spins obtained from
-these pulses could have generated the sound.
-
-### Methods to get the voices from the audio recording
-
--   FIR filter to select the content between 6 and 9 kHz.
-
--   Pitch 1 octave up (optional).
-
-    ```
-    # example
-    rubberband -f2 in.wav out.wav
-    ```
-
--   Slope detector.
-
-    ```
-    pseudo-code: env_follower(diff(input))
-    ```
-
--   BP filter to select the content between 100Hz and 3.5kHz.
-
-[cuba_attack_decoded.ogg (View Raw)](https://raw.githubusercontent.com/titola/neuropa/master/media/cuba_attack_decoded.ogg)
-
-[cuba_attack_decoded.ogg](https://github.com/titola/neuropa/blob/master/media/cuba_attack_decoded.ogg)
-
-Alternative method:
-
--   FIR filter to select the content between 6 and 9 kHz.
-
--   Convolution of a set of impulses with a FIR BP, fmin=100Hz and fmax=3kHz.
-
-    ```
-    # pseudo-code to generate the set of impulses
-
-    d[n] = in[n] - in[n-1]
-    if d[n] < 0 and d[n-1] >= 0
-        then out[n] = in[n-1]
-        else out[n] = 0
-    endif
-    ```
-
-[cuba_attack_decoded_alt.ogg (View Raw)](https://raw.githubusercontent.com/titola/neuropa/master/media/cuba_attack_decoded_alt.ogg)
-
-[cuba_attack_decoded_alt.ogg](https://github.com/titola/neuropa/blob/master/media/cuba_attack_decoded_alt.ogg)
 
 ## Other signals to analyse
 
